@@ -1,0 +1,30 @@
+## Metals
+ 
+### Mundane Metals
+ 
+| **Metal**         | **Value / lb** | **Notes**                                                                                                                                                                                                                                                                                                                          |
+| ----------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ardene            | 1 sc           | A common metal in Hell. Brownish-green in color, it is known as an "earth metal" due to its crustiness, and is most often used in a 99:1 ratio with Lirion in order to create a more durable alloy. Used as a low value coin material in Hell.                                                                                     |
+| Brass (Standard)  | 60 cc          | Composition: 70% copper, 30% zinc                                                                                                                                                                                                                                                                                                  |
+| Bronze (Standard) | 1 sc           | Composition: 85% copper, 15% tin                                                                                                                                                                                                                                                                                                   |
+| Incendium         | 100 gc         | A rare metal in Burning Hell with an orange-beige color, it is able to withstand extreme heat and has a very high melting point. Luckily, with the use of magic in conjunction with the high heats of Burning Hell's volcanos, the Worldforges managed to tame it in order to easily modify it. Used as a high value coin in Hell. |
+| Iron              | 10 cc          |                                                                                                                                                                                                                                                                                                                                    |
+| Lirion            | 1 gc           | An uncommon metal in Hell. Muddy teal in color, it is mostly found in Frozen Hell and the area near it, and coined to be the common commodity for things of medium value Hell.                                                                                                                                                     |
+| Platinum          | 35 gc          |                                                                                                                                                                                                                                                                                                                                    |
+| Ruthenium         | 10 gc          |                                                                                                                                                                                                                                                                                                                                    |
+| Tin               | 2 sc           |                                                                                                                                                                                                                                                                                                                                    |
+| Varium            | 1 gc           |                                                                                                                                                                                                                                                                                                                                    |
+| Zinc              | 20 cc          |                                                                                                                                                                                                                                                                                                                                    |
+### Special Metals
+ 
+| **Metal**          | **Value / lb** | **Notes**                                                                                    |
+| ------------------ | -------------- | -------------------------------------------------------------------------------------------- |
+| Brass (Alchemical) | 9 gc           | Composition: 63% copper, 27% zinc, 8% gold, 2% rumditine                                     |
+| Lead               | 5 gc           | This metal weakens, and in the right amounts even nullifies, augury magic and magical sense. |
+| Rumditine          | 250 gc         | A very magic-resistant metal, so rare that its exact properties aren't well-known.           |
+- - -
+## Toxin Materials
+ 
+| **Toxin**   | **Value / pint** | **Notes**                                                                                                                                                |
+| ----------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dahrial Air | 3 sc             | Necrotic toxin. Air present in Dahrial. Breathing the death mist consistently deals 1d4 necrotic damage every 10 minutes. Density is about 0.05 lb/pint. |

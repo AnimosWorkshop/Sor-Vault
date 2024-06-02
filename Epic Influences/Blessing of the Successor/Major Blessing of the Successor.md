@@ -1,0 +1,3 @@
+Base Requirement: 7th-level character, [Minor Blessing of the Successor](Minor%20Blessing%20of%20the%20Successor.md)
+ 
+You have become not only an envoy of a god - but a candidate to replace the god in the next verse, succeeding the divine line and power. Even before truly becoming a god, to ensure you can perform your task and fulfill your role, your ability scores increase by 2 and your Willpower score increases by an additional 2. The blessing also causes your aging and magical decay to halt, making you immortal by that regard, and grants you resistance 1 to all damage and a +2 bonus to saving throws. In addition, your caster level in all magic types increases by 3, and your caster level in your god's magic type increases by an additional 2.

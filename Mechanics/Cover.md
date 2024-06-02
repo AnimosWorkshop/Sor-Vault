@@ -1,0 +1,5 @@
+When a creature attacks with a ranged attack, sometimes the path from the origin to the target is not perfectly clear, and there may be many obstacles in the way, such as: walls, blockades, vehicles and even other creatures. For this reason, even a well-executed attack might miss its original target.
+ 
+The amount of cover a target has (which, boils down to the game master's interpretation) makes a "secondary armor", as there is something which can block the attack. This is represented by an effective +2 (in case of half-cover), +5 (in the case of three-quarters-cover) or a +infinity (effectively, in the case of full cover) to the target's AC against the attack. If the attacking creature rolls on an attack a result between the target's original AC and their new one, the same attack roll is used against the _cover_ instead, whether it hits or misses it.
+ 
+For example, if Dexter the rogue (with AC 17) stands behind Emma the cleric (with AC 15), which grants him +2 to his AC, a 17 or 18 on their enemies' ranged attack against Dexter will hit Emma instead, as she stands in the way of a successful, if not as successful as they'd hoped, attack.

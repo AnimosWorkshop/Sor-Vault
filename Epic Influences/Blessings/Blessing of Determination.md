@@ -1,0 +1,1 @@
+Where there's a will, there's a way, and those who seek shall find - those are the principles who guide activist gods and the people who worship them. And, some gods feel inclined to reward their followers to take such attitude to heart. Once per day, upon rolling a natural 1 on an ability check, attack roll or saving throw, you may reroll and use the new result.
