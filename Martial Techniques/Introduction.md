@@ -21,4 +21,4 @@ You may not use multiple techniques at the same time if both involve making an a
 - - -
 ## Crafting Manuscripts
  
-The crafting of manuscripts is detailed in the [Crafting](Artist) tab. It should be noted that one must know a technique in order to write a manuscript detailing it.
+The crafting of manuscripts is detailed in the [Crafting](Artist) section. It should be noted that one must know a technique in order to write a manuscript detailing it.

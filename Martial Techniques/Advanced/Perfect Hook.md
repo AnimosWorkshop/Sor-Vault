@@ -1,7 +1,0 @@
-_Advanced, Fighter, Weapon_
- 
-- Performance Time: 1 reaction to an activated Guard
-- Success DC: Athletics (Strength) or Sleight of Hand (Dexterity), DC 18
-- Required Weapon: Two light weapons, one in each hand, or according to the Dual Wield technique if you have it, or one weapon and a shield if you have the Shield Bash dirty tactic
- 
-When your Guard is activated from the On Guard feature, if the attack made against you is a melee weapon attack, you attempt to disarm the wielder entirely instead of blocking the attack. If you succeed on the technique, the attacker must make a Fortitude save against the skill you chose, dropping the weapon 5' away on a failure. On a success, the attack's damage is reduced by half, before the guard's damage reduction.
