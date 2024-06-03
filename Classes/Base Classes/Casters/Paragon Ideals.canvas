@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"600ba6fc5db0d1ab","type":"text","text":"## <center>Disruption</center>\n\n* Secrecy (Kadaran)\n* Loyalty (Alsidia)\n* Growth (Gharil)","x":-200,"y":-280,"width":280,"height":170,"color":"4"},
+		{"id":"0e6978c05b977298","type":"text","text":"## <center>Disruption</center>\n\n* Protection (Fahren)\n* Freedom (Gweldyn)\n* Change (Tezix)","x":-840,"y":-280,"width":280,"height":170,"color":"6"},
+		{"id":"464ae399613e9169","type":"text","text":"## <center>Guidance</center>\n\n* Fate (Vorona)\n* Curiosity (Venandi)\n* Creativity (Grelleyal)","x":-520,"y":-280,"width":280,"height":170,"color":"6"},
+		{"id":"4edb6036d91b192e","type":"text","text":"# <center>Arcana</center>","x":-660,"y":-460,"width":240,"height":60,"color":"6"},
+		{"id":"05594b0a09606e57","type":"text","text":"# <center>Auramancy</center>","x":-20,"y":-460,"width":240,"height":60,"color":"4"},
+		{"id":"2cc48fc569b30e1c","type":"text","text":"## <center>Guidance</center>\n\n* Trade (Yezikol)\n* Equality (Ragauda)\n* Health (Saenka)","x":120,"y":-280,"width":280,"height":170,"color":"4"},
+		{"id":"a6ca6dc7da9a320e","type":"text","text":"## <center>Disruption</center>\n\n* Leadership (Hastur)\n* Knowledge (Aria)\n* Justice (Armogon)","x":440,"y":-280,"width":280,"height":170,"color":"1"},
+		{"id":"dda1ee327b006115","type":"text","text":"## <center>Guidance</center>\n\n* Peace (Laurien)\n* Coping (Delyres)\n* Cooperation (Nidora)","x":760,"y":-280,"width":280,"height":170,"color":"1"},
+		{"id":"052504284991b4b3","type":"text","text":"# <center>Histolecty</center>","x":620,"y":-460,"width":240,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"19f5e31b5e6b0fdd","fromNode":"4edb6036d91b192e","fromSide":"bottom","toNode":"0e6978c05b977298","toSide":"top"},
+		{"id":"31bef8456f61972c","fromNode":"4edb6036d91b192e","fromSide":"bottom","toNode":"464ae399613e9169","toSide":"top"},
+		{"id":"57c7de1842a8c4bc","fromNode":"05594b0a09606e57","fromSide":"bottom","toNode":"600ba6fc5db0d1ab","toSide":"top"},
+		{"id":"e55f32aa35a9fe44","fromNode":"05594b0a09606e57","fromSide":"bottom","toNode":"2cc48fc569b30e1c","toSide":"top"},
+		{"id":"fdd40e22ff1ec276","fromNode":"052504284991b4b3","fromSide":"bottom","toNode":"a6ca6dc7da9a320e","toSide":"top"},
+		{"id":"c2fa8baf88b88591","fromNode":"052504284991b4b3","fromSide":"bottom","toNode":"dda1ee327b006115","toSide":"top"}
+	]
+}

@@ -55,6 +55,7 @@ Note: You can't have two turns during the same round of combat, even if you lowe
  
 Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The Dash, Disengage and Hide actions become quick actions for you.  
 When you take the Dash action as a quick action, you may move up to half your speed instead of your full move speed, and when you take the Hide action as a quick action, you have a -2 penalty to your roll.  
+
 In addition, you may use the Dodge reaction as a response to being attacked by an enemy you can see. If you succeed, your AC is increased by your Dexterity modifier divided by 3 against the attack.
  
 ### Martial Techniques
