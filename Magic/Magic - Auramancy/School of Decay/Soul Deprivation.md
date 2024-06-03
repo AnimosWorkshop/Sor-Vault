@@ -3,7 +3,7 @@
 - Casting Time: 10 minutes
 - Range: 30' sphere
 - Duration: Instantaneous
-- Material Components: Any amount of non-beast, non-construct, non-undead corpses with a Willpower score sum of up to 250.  
+- Material Components: Any amount of non-beast, non-elemental, non-undead corpses with a Willpower score sum of up to 250.  
 
 You serve as a beacon for the corpses in range around you, forcing the soul out of their body to turn the body completely hollow, unable to be resurrected as an undead. If the Willpower score sum was at least 200, you may also remove a curse from a creature within range of 2nd-level or lower, with a duration of less than 1 year.
  

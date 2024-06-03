@@ -1,4 +1,4 @@
-#Race 
+#Race #Temuthen
 - - -
 _As a culture, halflings developed a nonchalant attitude, trusting the world to fix itself for them, and so many become adventurers, yet not all seek gold and glory - and many live humble lives in small villages, seizing the day with relaxation._
  

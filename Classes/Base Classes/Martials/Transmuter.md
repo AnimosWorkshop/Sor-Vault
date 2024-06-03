@@ -1,20 +1,19 @@
-#Martial
+#Class #Martial
 - - -
 ## Feature Table
  
-|   |   |
-|---|---|
-|**Transmuter Level**|**Features**|
-|1st|Alchemechanical Infusion, Makeshift Alchemy|
-|2nd|Alchemical Affinity, Far Thrower, Martial Techniques, Ability Score Increase|
-|3rd|Opus Creation Specialty|
-|4th|Momental Attack, Martial Techniques, Ability Score Increase|
-|5th|Advanced Infusion|
-|6th|Vitality Transference, Martial Techniques, Ability Score Increase|
-|7th|Deeper Alchemical Affinity, Upgraded Opus Specialty|
-|8th|Martial Techniques, Ability Score Increase|
-|9th||
-|10th|Martial Techniques, Ability Score Increase|
+| **Transmuter Level** | **Features**                                                                 |
+| -------------------- | ---------------------------------------------------------------------------- |
+| 1st                  | Alchemechanical Infusion, Makeshift Alchemy                                  |
+| 2nd                  | Alchemical Affinity, Far Thrower, Martial Techniques, Ability Score Increase |
+| 3rd                  | Opus Creation Specialty                                                      |
+| 4th                  | Momental Attack, Martial Techniques, Ability Score Increase                  |
+| 5th                  | Advanced Infusion                                                            |
+| 6th                  | Vitality Transference, Martial Techniques, Ability Score Increase            |
+| 7th                  | Deeper Alchemical Affinity, Upgraded Opus Specialty                          |
+| 8th                  | Martial Techniques, Ability Score Increase                                   |
+| 9th                  |                                                                              |
+| 10th                 | Martial Techniques, Ability Score Increase                                   |
    
 
 # Prerequisites
@@ -71,16 +70,15 @@ Also starting at 2nd level, whenever you attack with a thrown weapon, you may us
  
 ## Martial Techniques
  
-At 2nd level, you learn the usage of martial techniques, as detailed in the [Martial Techniques](Sign%20of%20Remembrance/Epic%20Influences/Introduction.md) section. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
+At 2nd level, you learn the  use of [[Sign-of-Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
  
-|   |   |   |
-|---|---|---|
-|**Transmuter Level**|**Basic Techniques**|**Advanced Techniques**|
-|2nd|1|-|
-|4th|2|-|
-|6th|3|-|
-|8th|3|1|
-|10th|3|2|
+| **Transmuter Level** | **Basic Techniques** | **Advanced Techniques** |
+| -------------------- | -------------------- | ----------------------- |
+| 2nd                  | 1                    | -                       |
+| 4th                  | 2                    | -                       |
+| 6th                  | 3                    | -                       |
+| 8th                  | 3                    | 1                       |
+| 10th                 | 3                    | 2                       |
  
 ## Ability Score Increase
  

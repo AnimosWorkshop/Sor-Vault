@@ -1,4 +1,4 @@
-#Martial 
+#Class #Martial 
 - - -
 ## Feature Table
  
@@ -54,9 +54,8 @@ Remember: Damaging a caster while a spell is being cast provokes a Resilience ch
  
 ### Martial Techniques
  
-At 2nd level, you learn the usage of martial techniques, as detailed in the [Martial Techniques](Sign%20of%20Remembrance/Epic%20Influences/Introduction.md) section. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
+At 2nd level, you learn the  use of [[Sign-of-Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
  
-
 | **Nullifier Level** | **Basic Techniques** | **Advanced Techniques** |
 | ------------------- | -------------------- | ----------------------- |
 | 2nd                 | 1                    | -                       |

@@ -7,11 +7,11 @@ Uncommon
 - Material Components: [Soul stone](Runecarver) put inside a poppet vessel  
 
 You use the primal force of magic to imbue life from an enchanted soul stone into the poppet. The poppet, small in size and consisting usually of organic material, absorbs the soul stone's energy to house the soul in it to become a construct.  
-The construct has the personality of the soul in the soul stone, getting its mental stats, memories and class levels. The base body, however, depends on the poppet provided. A few examples for poppet vessels:
+The elemental has the personality of the soul in the soul stone, getting its mental stats, memories and class levels. The base body, however, depends on the poppet provided. A few examples for poppet vessels:
  
 ### Clay Poppet
 
-_Small Construct_  
+_Small Elemental_  
 Str 12 / Dex 10 / Con 13  
 **Base Health:** 12  
 **Base AC:** 11 (bludgeoning weakness)  
@@ -20,7 +20,7 @@ Str 12 / Dex 10 / Con 13
  
 ### Flesh Poppet
 
-_Small Construct_  
+_Small Elemental_  
 Str 10 / Dex 13 / Con 12  
 **Base Health:** 12  
 **Base AC:** 10 (slashing weakness)  
@@ -29,7 +29,7 @@ Str 10 / Dex 13 / Con 12
  
 ### Plant Poppet
 
-_Small Construct_  
+_Small Elemental_  
 Str 13 / Dex 12 / Con 10  
 **Base Health:** 12  
 **Base AC:** 10 (slashing weakness)  

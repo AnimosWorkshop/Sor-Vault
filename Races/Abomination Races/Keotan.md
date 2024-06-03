@@ -1,3 +1,5 @@
+#Race #Abomination
+- - -
 **Ability Score Increase:** Your Strength and Constitution scores increase by 1, and your Wisdom and Charisma scores decrease by 1.  
 **Age:** Keotans become more stable than before, aging about 1.5 times slower than their standard race does.  
 **Size:** Medium.  

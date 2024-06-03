@@ -1,12 +1,10 @@
 The multiverse has many types of creatures, from the giants of Temuthan to the undead of Dahrial. This page will discuss the different creature types.
  
-- Abyssals -
 - Beasts -
 - Dragons - Creatures native in Temuthan, regal and majestic, and the most powerful of Temuthan's mortal creatures. They are long-living winged sentient creatures, although magic is tougher for them to grasp.
-    
     - Metallics - These dragons have tougher, almost metal-like scales, which causes them to have sort of a natural heavy armor.
     - Chromatics - These dragons have a softer hide than metallics, causing them to have sort of a natural medium armor. They possess shapeshifting abilities which improve with their age and experience.
-- Elementals -
+- Elementals - Creatures primarily 
 - Fey - Sentient creatures native to Preida of small to medium size. They are more connected to nature than humanoids are, which results in a myriad of adaptations of a specific races to the environment.
 - Helians - 
 - Humanoids - Named after the human race of Temuthan. Most of the small to medium sized sentient creatures native to Temuthan enter this category.
@@ -14,6 +12,7 @@ The multiverse has many types of creatures, from the giants of Temuthan to the u
     - Demons - Hellenise native to Frozen Hell. Their body is suited to life there due to their biological cold resistance.
     - Devils - Hellenise native to Burning Hell. Their body is suited to life there due to their biological fire resistance.
     - Fiends - Hellenise native to the Great Chasm. Due to the safety of this region, their body did not develop any kind of special resistance.
+- Limbani - 
 - Undead - Sentient creatures not native to any specific world, who were resurrected due to a turn in fate and strong willpower. Most undead have a natural resistance to poisonous or necrotic toxins, and have a relatively higher survivability contrasted by their seemingly weaker bodies.
     - Ghosts - Incorporeal undead, appearing in a translucent state similar to how they did in life. Though they are much physically weaker, their innate magic is superior to that of other undead. For that reason, they are also the most short-lived.
     - Oozes - Amalgamations and aberrations of their previous selves, oozes are created when an unresting soul lingers in a place imbued with magic. They are almost not sentient anymore and can almost be considered soulless, due to their declining intelligence over a very long time.

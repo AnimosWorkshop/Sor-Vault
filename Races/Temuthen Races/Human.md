@@ -1,4 +1,4 @@
-#Race 
+#Race #Temuthen
 - - -
 _There is not much to say about humans - they are usually a part of any population, and adapt to the local cultures of most of the mixed settlements. They are usually loyal to authority while trying to break free as much as they can, and just, well - be humans, as humans usually are._  
 _Humans don’t have subraces as much as they have people with different learning capabilities - and the separation of the two allows that both flavorfully, as well as mechanically._

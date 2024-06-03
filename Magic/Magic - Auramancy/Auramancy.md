@@ -1,6 +1,6 @@
 ## Theory
  
-The origins of auramancy are as old as the first creature, as an aura engulfing and swirling inside its body was, itself, sufficient to create the thing we call "life". This aura causes a creature to feel physical sensations, act upon instincts, and do whatever the body needs to be more than an object - but a living creature. All creatures, from the lowliest insect to the mightiest god possess such aura, even the persistent undead and the sturdy constructs.
+The origins of auramancy are as old as the first creature, as an aura engulfing and swirling inside its body was, itself, sufficient to create the thing we call "life". This aura causes a creature to feel physical sensations, act upon instincts, and do whatever the body needs to be more than an object - but a living creature. All creatures, from the lowliest insect to the mightiest god possess such aura, even [[Unlife|undead]].
    
 - - -
 ## Measurement

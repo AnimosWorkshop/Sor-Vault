@@ -74,7 +74,7 @@ How much time is required to cast the spell.
 - If the caster of the spell is dealt damage while casting it, they must make a Resilience save for concentration on the spell as if they were concentrating on it. On a fail, the spellcasting resources are spent but the spell does not take effect.
 - Spells with a casting time of "channel" require two actions to be used: one to start the channel, and another one to finish the channel, casting the spell. Between the two actions, the caster must maintain concentration, similar to casting spells over multiple turns (for example, with casting time of 1 minute).
 
-Note that the two actions don't have to be on consecutive turns: they can be in the same turn (with the use of [Adrenaline Surge](Sign%20of%20Remembrance/Classes/Base%20Classes/Martials/Fighter.md)) or up to a whole minute after the first casting action.  
+Note that the two actions don't have to be on consecutive turns: they can be in the same turn (with the use of [[Fighter#Adrenaline Surge|adrenaline surge]]) or up to a whole minute after the first casting action.  
 The duration of a spell with channel casting starts only from when the channeling is finished.
 
 - If a spell requires a casting time of above 1 round (for example, 1 minute), it is required to spend an action and a quick action each turn for the spell's casting time in order to cast the spell.

@@ -36,7 +36,7 @@ _Attack Roll = d20 + ability modifier + proficiency bonus_
 - Proficiency bonus - if the creature is proficient with the weapon (in the case of weapon attacks) or with the [[Reading a Spell Entry|magic type]] (in the case of spell attacks), the creature's [proficiency bonus](Proficiency and Downtime) is added to the attack roll.
 
 The DC of an attack roll is the [Armor Class (AC)](Armor.md) of the defending creature. On a success, the attack hits, and the attacking creature proceeds to roll a damage roll.  
-Attacks can also critically hit or critically miss. The default range of a critical hit is a natural 20 on the attack roll, meaning the result on the d20 is a 20. Similarly, the default range for a critical miss is a natural 1. Properties which augment that range increase the amount of numbers which result in their respective critical, such as the Lethal and Fragile properties.  
+Attacks can also critically hit or critically miss. The default range of a critical hit is a natural 20 on the attack roll, meaning the result on the d20 is a 20. Similarly, the default range for a critical miss is a natural 1. Traits which augment that range increase the amount of numbers which result in their respective critical, such as the Lethal and Fragile traits.  
 Critical hits result in doubling all damage, while critical misses result in either breakage (in the case of weapons) or exhaustion (in the case of spells).
  
 ### Damage Rolls

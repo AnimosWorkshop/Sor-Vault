@@ -1,4 +1,5 @@
-#Race 
+#Race #Temuthen
+Uncommon
 - - -
 >Note: Dragons are a lot stronger than traditional player characters. This page serves as a consistent guideline to how to create dragons, but the use of them in parties is generally discouraged because of their imbalance - they start way stronger than other races, but are not able to level up when they hit their age cap.
  

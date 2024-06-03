@@ -6,7 +6,7 @@ _Artifact_
  
 This special rapier was crafted by Tezix, the Shifter, for whomever might be his future archmissionary in the end of the next verse, right before the Sealing occurred. It was later claimed, in the year 1274 of the Second Verse, by Ashe - lead to the Sealed Island in Temuthan to finally be able to talk closely with his god.
  
-As a rapier, Flutter deals 1d8 piercing damage and has the Finesse property.
+As a [[Weapons#Martial Melee Weapons|rapier]], Flutter deals 1d8 piercing damage and has the Finesse property.
  
 _Potency_  
 While being held by the attuned, Gale provides a +3 bonus to attack rolls with it.

@@ -1,4 +1,4 @@
-#Race
+#Race #Temuthen
 - - -
 _Dwarves are a materialistic race, who are taught discipline from young age. While many, such as halflings, might deny the method, it nonetheless works, and dwarven society as a whole is filled with many artisans and craftsmen. As their heritage suggests, they stay close to the ground, and most attempt to harness nature around them in a non-casting manner to the best of their abilities. For this reason, mages within the dwarves are rare, but not nonexistent, which makes for a different conception of magic's role in everyday lives._
  

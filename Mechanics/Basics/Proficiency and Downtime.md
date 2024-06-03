@@ -60,17 +60,17 @@ Proficiencies can be trained on any character in a free-form manner, meaning tha
 Training is usually done over a period of downtime, in which the adventurers rest and prepare for the next adventure or journey. It can also be done actively - for example, in a mission where the adventurers build a boat or a ship, they might get 1 skill proficiency rank (for 1 PP) in the Athletics skill.
  
 To address notes from the table:  
-* Saving throws outside of race and class features can only be trained if you have one of the attributes contributing to that saving throw as at least 15. If a class feature would give you saving thow proficiency with an attribute you are already proficient with, replace your downtime-trained one for another attribute you have at least 15 of, or replace the proficiency point entirely if you have no available attributes.
+* Saving throws outside of race and class features can only be trained if you have one of the attributes contributing to that saving throw as at least 15. If a class feature would give you a saving throw proficiency with an attribute you are already proficient with, replace your downtime-trained one for another attribute you have at least 15 of, or replace the proficiency point entirely if you have no available attributes.
  
 You may retrain features gained from training, investing as much time as it would take to normally train in them. As you do so, forfeit as many features you want equivalent to the feature you want to get, as long as those features are not gained as race or class features.
  
 ### Downtime Points
  
-You may also trade proficiency points gained while adventuring for Downtime Points (abbreviated as DP). Those points are used in order to learn [spells](Learning%20Spells.md) and [martial techniques](Sign%20of%20Remembrance/Epic%20Influences/Introduction.md), craft items and earn income. Each DP is worth about 2 weeks of training, which means 1 PP = 4 DP.
+You may also trade proficiency points gained while adventuring for Downtime Points (abbreviated as DP). Those points are used in order to learn [spells](Learning%20Spells.md) and [martial techniques](Sign%20of%20Remembrance/Epic%20Influences/Introduction.md), craft items and earn income. Each DP is worth about 2 weeks of training, which means that $1 PP = 4 DP$.
  
 #### Crafting
-Crafting does not require any checks whatsoever, and is considered a normal downtime activity. Whenever you'd like to craft an item, as long as you possess the right tool proficiency to do so (specified in the Crafting tab), pay the cost of the item and subtract the following amount from the cost (in silver coins) for each DP used, as long as at least 1 DP was used:  
-_Money Saved_ = 2 * _Proficiency Bonus_ * (_Proficiency Bonus_ + _Intelligence Modifier)_
- 
+Crafting does not require any checks whatsoever, and is considered a normal downtime activity. Whenever you'd like to craft an item, as long as you possess the right tool proficiency to do so, pay the cost of the item and subtract the following amount from the cost (in silver coins) for each DP used, as long as at least 1 DP was used: 
+_Money Saved_ = 2 * _Proficiency Bonus_ * (_Proficiency Bonus_ + _Crafting Modifier)_
+The crafting attribute may be either Intelligence or the [[Sign-of-Remembrance/Mechanics/Basics/Tools|specific]] attribute mentioned for the tool.
 #### Earn Income
 You may also invest DPs in order to work and earn income. Choose a skill, preferably your most trained one. Over a DP, you earn income equal to your proficiency modifier * the bonus in your chosen skill (according to GM discretion, and whether it would make sense to earn income with that skill).

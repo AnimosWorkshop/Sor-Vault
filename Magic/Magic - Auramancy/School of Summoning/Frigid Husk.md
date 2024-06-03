@@ -21,4 +21,4 @@ _(According to the body's size, up to) Medium Elemental_
 **Speed:** According to the racial base speed of the used corpse  
 **Damage Resistances:** Cold, Necrotic  
 **Actions:** _Strike_, melee natural weapon attack, +3 + mana expended to hit instead of the normal attack roll modifier. Deals 1d8 bludgeoning damage.  
-**Passives:** _Chilling Retaliation_, the ice elemental makes living bodies around it more brittle. Any non-construct, non-undead within 5' of the husk (including themselves) takes 1 cold damage whenever they are dealt slashing, piercing or bludgeoning damage.
+**Passives:** _Chilling Retaliation_, the ice elemental makes living bodies around it more brittle. Any non-elemental, non-undead within 5' of the husk (including themselves) takes 1 cold damage whenever this creature takes slashing, piercing or bludgeoning damage.

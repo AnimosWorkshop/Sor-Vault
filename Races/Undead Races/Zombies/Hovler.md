@@ -1,4 +1,4 @@
-#Race 
+#Race #Undead
 - - -
 **Ability Scores:** Your Charisma score decreases by 1, and your Dexterity score increases by 1.  
 **Age:** Decay around 50 years after their undeath.  

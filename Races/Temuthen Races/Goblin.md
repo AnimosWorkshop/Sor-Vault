@@ -1,4 +1,4 @@
-#Race 
+#Race #Temuthen
 - - -
 _Goblins are known for their unique curiosity at any cost. They are quick learners, using their their knack for learning to travel and gather more and more knowledge. There are many famous goblin inventors and researchers, but that doesn't suck fun out of their lives: contrary, many goblins' lives are full of thrill and action, and some goblins even got famous for joining the army as ruthless tacticians._
  

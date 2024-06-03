@@ -1,4 +1,4 @@
-#Race 
+#Race #Temuthen
 - - -
 _Vidents are considered to be folks of knowledge, able to assess situations with impeccable wisdom. Planar myths surround them, some linking them to the ancient Vorona who was born of the same race, calling them 'seeing ones'. Many settlements welcome vidents, hoping that their knowledge will improve their well-being, and so they are spread far and wide all across Temuthan._
  

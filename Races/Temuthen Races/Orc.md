@@ -1,4 +1,4 @@
-#Race 
+#Race #Temuthen
 - - -
 _Orcs are tribal, usually living in traveling clans without clinging too much to the same place. Although their size might be a bit intimidating at first, as they are taller and heavier than most humans, they are communal and respect others. Though the overall influence of orc culture on the mixed culture might be small as a whole, few individuals still rise every once in awhile and make a name for themselves. Within their tribes, they value utmost honor and honesty, even if the individual wills to leave the clan in a future date to wander alone, or perhaps start a tribe of their own._
  

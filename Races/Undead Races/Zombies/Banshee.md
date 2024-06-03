@@ -1,4 +1,4 @@
-#Race 
+#Race #Undead
 - - -
 **Ability Score Increase:** Your Wisdom score decreases by 1, and your Strength score increases by 1.  
 **Age:** Decay around 70 years after their undeath.  

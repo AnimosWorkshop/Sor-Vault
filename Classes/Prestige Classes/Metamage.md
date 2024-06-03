@@ -1,4 +1,4 @@
-#Caster
+#Class #Caster
 ### Feature Table
  
 | **Metamage Level** | **Features**                                   |

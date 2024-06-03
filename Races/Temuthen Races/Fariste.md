@@ -1,4 +1,4 @@
-#Race 
+#Race #Temuthen
 - - -
 _Faristes stand tall and proud of their legacy and consider themselves to be bulwarks of wisdom, attempting to prove it as they use their competitive nature to compete in the social ladder of any society. Although most faristes wouldn’t surround themselves with other fariste, fearing that the competitive aura might generate only toxicity, they tend to be kindly with other races and surround themselves with friends and rivals._
  

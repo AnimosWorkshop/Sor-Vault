@@ -1,3 +1,5 @@
+#Race #Hellenise 
+- - -
 **Ability Score Increase:** Your Intelligence score increases by 2.  
 **Age:** Mature at early teens, live about 65 years.  
 **Size:** Small.  
@@ -7,13 +9,14 @@
 **Diabolic Resistance:** You are resistant to fire damage.  
 **Stinger:** You can make a special unarmed strike using your tail, which deals 1d4 piercing damage instead of the normal 1d3 bludgeoning damage. Once per day, you may choose to attempt to poison the target you hit, in which case they must make a Constitution saving throw against your basic character level DC, or become weakened for 1 minute.  
 **Languages:** You can speak, read, and write Hellenise and Impish.
- 
-## Trickster Imp
+- - -
+## Subraces 
+### Trickster Imp
  
 **Ability Score Improvement:** Your Charisma score increases by 1.  
 **Devil's Tongue:** You are proficient with Deception and with Performance.
  
-## Advocate Imp
+### Advocate Imp
  
 **Ability Score Improvement:** Your Willpower score increases by 1.  
 **Persuader:** You are novice with Persuasion.  

@@ -1,20 +1,19 @@
-#Martial 
+#Class #Martial 
 - - -
 ## Feature Table
  
-|   |   |
-|---|---|
-|**Fighter Level**|**Features**|
-|1st|Parrying Strike|
-|2nd|Adrenaline Surge, Martial Techniques, Ability Score Increase|
-|3rd|Arms Specialty, Weapon Adaptability|
-|4th|Dirty Tactics, Martial Techniques, Ability Score Increase|
-|5th|Extra Attack|
-|6th|On Guard, Martial Techniques, Ability Score Increase|
-|7th|Arms Adept, Adrenaline Surge|
-|8th|Martial Techniques, Ability Score Increase|
-|9th|Momentum|
-|10th|Specialty Mastery, Martial Techniques, Ability Score Increase|
+| **Fighter Level** | **Features**                                                  |
+| ----------------- | ------------------------------------------------------------- |
+| 1st               | Parrying Strike                                               |
+| 2nd               | Adrenaline Surge, Martial Techniques, Ability Score Increase  |
+| 3rd               | Arms Specialty, Weapon Adaptability                           |
+| 4th               | Dirty Tactics, Martial Techniques, Ability Score Increase     |
+| 5th               | Extra Attack                                                  |
+| 6th               | On Guard, Martial Techniques, Ability Score Increase          |
+| 7th               | Arms Adept, Adrenaline Surge                                  |
+| 8th               | Martial Techniques, Ability Score Increase                    |
+| 9th               | Momentum                                                      |
+| 10th              | Specialty Mastery, Martial Techniques, Ability Score Increase |
    
 
 - - -
@@ -64,7 +63,7 @@ You may use this feature once, and regain the ability to do so after you finish 
  
 ### Martial Techniques
  
-At 2nd level, you learn the usage of martial techniques, as detailed in the [Martial Techniques](Sign%20of%20Remembrance/Epic%20Influences/Introduction.md) section. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
+At 2nd level, you learn the  use of [[Sign-of-Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
  
 | **Fighter Level** | **Basic Techniques** | **Advanced Techniques** |
 | ----------------- | -------------------- | ----------------------- |

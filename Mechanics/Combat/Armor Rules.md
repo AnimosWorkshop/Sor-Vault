@@ -43,4 +43,4 @@ Repairing a weapon requires an artisan with tools according to the type of weapo
 - Breakage 0 - None. The armor is perfectly fine.
 - Breakage 1 - 10% of the original price of the armor. The armor shows a minor decrease in performance.
 - Breakage 2 - 20% of the original price of the armor. The armor shows a major decrease in performance.
-- Breakage 3 - The armor cannot be repaired. The armor is broken, and cannot be used effectively, meaning that your proficiency with it does not apply. The armor also does not have any of the properties it normally does, including upgrades.
+- Breakage 3 - The armor cannot be repaired. The armor is broken, and cannot be used effectively, meaning that your proficiency with it does not apply. The armor also does not have any of the properties and traits it normally does, including upgrades.
