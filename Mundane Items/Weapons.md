@@ -35,7 +35,7 @@ For information about the different traits, see [[Weapon Rules#Weapon Traits|Wea
 | ------------- | -------- | ---------- | ------------------- | --------------------------- | ------------------------------------------------------------- |
 | Bastard Sword | 35 sc    | 3 lb       | Medium              | 1d8 slashing                | Pommel, Versatile (1d10 slashing)                             |
 | Battleaxe     | 40 sc    | 5 lb       | Heavy               | 1d10 slashing               | Versatile (1d12 slashing)                                     |
-| Chain Whip    | 10 sc    | 7 lb       | Medium              | 1d8 bludgeoning             | Tool (Athletics), Windup                                      |
+| Chain Whip    | 15 sc    | 7 lb       | Medium              | 1d8 bludgeoning             | Tool (Athletics), Tool (Intimidation), Windup                 |
 | Estoc         | 40 sc    | 4 lb       | Medium              | 1d6 piercing                | Finesse, Lethal 1, Pommel, Versatile (+1 to attack rolls)     |
 | Glaive        | 30 sc    | 6 lb       | Heavy               | 1d10 slashing               | Finesse, Pommel, Two-handed                                   |
 | Greatsword    | 60 sc    | 6 lb       | Heavy               | 2d6 slashing                | Two-handed                                                    |
@@ -48,7 +48,7 @@ For information about the different traits, see [[Weapon Rules#Weapon Traits|Wea
 | Shortsword    | 15 sc    | 2 lb       | Light               | 1d6 piercing                | Finesse, Pommel                                               |
 | Spear         | 10 sc    | 3 lb       | Medium              | 1d8 piercing                | Reach, Thrown (20'/60'), Fragile 1, Versatile (1d10 piercing) |
 | War Pickaxe   | 20 sc    | 2.5 lb     | Medium              | 1d8 bludgeoning or piercing | Versatile (1d10 bludgeoning or piercing)                      |
-| Whip          | 10 sc    | 4 lb       | Medium              | 1d6 slashing                | Finesse, Reach, Tool (Intimidation), Windup                   |
+| Whip          | 10 sc    | 4 lb       | Medium              | 1d6 slashing                | Finesse, Reach, Tool (Athletics), Windup                      |
 ### Martial Ranged Weapons
 | **Weapon**         | **Cost** | **Weight** | **Weight Category** | **Damage**            | **Traits**                                                                                               |
 | ------------------ | -------- | ---------- | ------------------- | --------------------- | -------------------------------------------------------------------------------------------------------- |

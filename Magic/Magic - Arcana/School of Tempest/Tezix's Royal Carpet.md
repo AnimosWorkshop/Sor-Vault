@@ -1,5 +1,4 @@
 #3rd-Level #Arcana #Tempest #Boon
-Uncommon
  
 - Casting Time: Quick action
 - Range: Touch

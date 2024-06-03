@@ -8,7 +8,7 @@
 | Bedroll           | 6 sc     | 5 lb       |                                                                                                                                                                                                                  |
 | Common Clothes    | 2 sc     | 3 lb       | Wearing these counts as wearing no armor, and therefore does not increase AC or changes its calculation over the base AC. Yet, it can receive upgrades as if it was cloth armor. Recommended to have in general. |
 | Waterskin (empty) | 2 sc     | 1 lb       | 4 pint capacity                                                                                                                                                                                                  |
-|                   |          |            |                                                                                                                                                                                                                  |
+
 ### Common Consumables
 | **Item**                      | **Cost** | **Weight**                   | **Notes**                                                                                                                                        |
 | ----------------------------- | -------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |

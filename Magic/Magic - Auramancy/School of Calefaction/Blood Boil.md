@@ -1,4 +1,4 @@
-#1st-Level #Auramancy #Caster #Curse
+#1st-Level #Auramancy #Calefaction #Curse
  
 - Casting Time: Quick action
 - Range: Touch

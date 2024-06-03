@@ -1,5 +1,4 @@
 #3rd-Level #Arcana #Tempest
-Uncommon
  
 - Casting Time: Action
 - Range: 1 mile
