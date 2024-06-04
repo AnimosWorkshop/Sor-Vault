@@ -1,7 +1,7 @@
 #Race #Temuthen
 Uncommon
 - - -
->Note: Dragons are a lot stronger than traditional player characters. This page serves as a consistent guideline to how to create dragons, but the use of them in parties is generally discouraged because of their imbalance - they start way stronger than other races, but are not able to level up when they hit their age cap.
+>Note: Dragons are a lot stronger than traditional player characters. This page serves as a consistent guideline to how to create dragons, but the use of them in parties is generally discouraged because of their imbalance relative to the other players. Despite this, wyrmlings are the closest in power level to regular player characters, and can be used if taken into account.
  
 **Ability Score Increase:** Your Willpower score increases by 2. If your dragonflight stat increases are going to pass 20, you may choose another stat to increase instead.  
 **Age:** Wyrmlings (akin to children-adolescents) until their 80s, then youngs (akin to young adults and adults) until 200s, and adults (akin to middle-age and elderly) until their 400s. Elders can live up to the age of 650, but usually die sooner due to blood wars or direct inheritance.  
@@ -10,9 +10,8 @@ Uncommon
 **Speed:** 30' walking, 30' flying. Your flying speed increases by 15' for each age category above wyrmling.  
 **Vision:** Lightvision, mistvision.  
 **Breath Weapon:** Each dragon has their own breath weapon, which they can use with an action to unleashing an element within them in a cube in front of them, 15' as wyrmlings and 5' more for each age category above it. Each creature within that area must make a Dexterity saving throw in the case of fire, cold and lightning, or a Constitution saving throw in the case of poison and acid. The DC is 8 + your Willpower modifier + your proficiency modifier. The breath weapon deals 3d8 of the dragon's element, and 3d8 more damage for each age category above it, or half as much damage if the creature succeeds on the saving throw. You regain the use of this feature once per short or long rest.  
-**Of the Elements:** You are immune to the damage type of your element.  
-**Biological Blockade:** Dragons cannot go up in class levels beyond what their age category allows them to. Wyrmlings cannot pass 3rd level, youngs cannot pass 6th, and adults 9th.  
-**Persistent Anatomy:** Dragons' hit points don't act like those of other creatures. The dragon's hit die is one associated with their size, increasing as the dragon increases in age. Hit dice from classes are also converted to the one associated with their size instead of with their class. When goes into the next size category, the dragon's maximum hit points increase by 2 (or by 8 from adults to elders), plus 1 for each class hit die (or by 4 from adults to elders).
+**Of the Elements:** You are immune to the damage type of your element.
+**Persistent Anatomy:** Dragons' hit points don't act like those of other creatures. The dragon's hit die is one associated with their size, increasing as the dragon increases in age. Hit dice from classes are also converted to the one associated with their size instead of with their class. When they go into the next size category, the dragon's maximum hit points increase by 2 (or by 8 from adults to elders), plus 1 for each class hit die (or by 4 from adults to elders).
 
 - Wyrmlings: 8 starting hit points, 8 maximum hit points per level, 1d8 class hit die.
 - Youngs: 10 starting hit points, 10 maximum hit points per level, 1d10 class hit die.
@@ -24,7 +23,7 @@ Uncommon
 - - -
 ## Draconic Archetypes
  
-_Each 'dragonflight', or draconic subrace, have a general biological similarity determined by a metallic or chromatic archetype. Each archetype has five dragonflights in it, though their biological similarity doesn't imply any social similarity at all._
+_Each 'dragonflight', or draconic subrace, have a general biological similarity determined by a metallic or chromatic archetype. Each archetype has five dragonflights in it, though their biological similarity doesn't imply a social similarity at all._
  
 ### Chromatic
  
