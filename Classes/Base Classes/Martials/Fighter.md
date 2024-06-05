@@ -30,12 +30,12 @@ In order to advance as a fighter, you must meet the following prerequisites:
 - - -
 ## Class Properties
  
-## Hit Points
+### Hit Points
  
 - Hit Dice: 1d10 per fighter level
 - Hit Points per Level: 10 + your Constitution modifier + your Willpower modifier per fighter level
  
-## Proficiencies
+### Proficiencies
  
 - Weapons: 2 martial weapons of your choice
 - Armor: Next tier of armor
@@ -43,7 +43,7 @@ In order to advance as a fighter, you must meet the following prerequisites:
 - Saving Throws: None
 - Skills: None
  
-## Equipment
+### Equipment
  
 - 2 martial weapons of your choice
    

@@ -67,10 +67,10 @@ You may retrain features gained from training, investing as much time as it woul
 ### Downtime Points
  
 You may also trade proficiency points gained while adventuring for Downtime Points (abbreviated as DP). Those points are used in order to learn [spells](Learning%20Spells.md) and [martial techniques](Sign%20of%20Remembrance/Epic%20Influences/Introduction.md), craft items and earn income. Each DP is worth about 2 weeks of training, which means that $1 PP = 4 DP$.
- 
-#### Crafting
-Crafting does not require any checks whatsoever, and is considered a normal downtime activity. Whenever you'd like to craft an item, as long as you possess the right tool proficiency to do so, pay the cost of the item and subtract the following amount from the cost (in silver coins) for each DP used, as long as at least 1 DP was used: 
-_Money Saved_ = 2 * _Proficiency Bonus_ * (_Proficiency Bonus_ + _Crafting Modifier)_
-The crafting attribute may be either Intelligence or the [[Sign-of-Remembrance/Mechanics/Basics/Tools|specific]] attribute mentioned for the tool.
+
 #### Earn Income
-You may also invest DPs in order to work and earn income. Choose a skill, preferably your most trained one. Over a DP, you earn income equal to your proficiency modifier * the bonus in your chosen skill (according to GM discretion, and whether it would make sense to earn income with that skill).
+You may also invest DPs in order to work and earn income. Choose a skill, preferably your most trained one. Over a DP, you earn income equal to:
+*Income = Proficiency Bonus * Chosen Skill Bonus* (according to GM discretion, and whether it would make sense to earn income with that skill).
+You may also use this in order to craft items if you have a tool proficiency. Whenever you'd like to craft an item, as long as you possess the right tool proficiency to do so, pay the cost of the item and subtract the following amount from the cost (in silver coins) for each DP used, as long as at least 1 DP was used: 
+*Savings = Proficiency Bonus * Crafting Bonus*
+The crafting bonus may be either Intelligence or the [[Sign-of-Remembrance/Mechanics/Basics/Tools|specific]] attribute mentioned for the tool.

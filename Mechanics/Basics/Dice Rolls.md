@@ -35,7 +35,7 @@ _Attack Roll = d20 + ability modifier + proficiency bonus_
 - Ability modifier - each attack roll uses one of the seven [attributes](Ability%20Scores.md), and the corresponding attribute's modifier is added to the attack roll. Weapons use Strength, though weapons with the Finesse trait can use Dexterity instead, and spell attacks use their corresponding attribute (more information in the magic section).
 - Proficiency bonus - if the creature is proficient with the weapon (in the case of weapon attacks) or with the [[Reading a Spell Entry|magic type]] (in the case of spell attacks), the creature's [proficiency bonus](Proficiency and Downtime) is added to the attack roll.
 
-The DC of an attack roll is the [Armor Class (AC)](Armor.md) of the defending creature. On a success, the attack hits, and the attacking creature proceeds to roll a damage roll.  
+The DC of an attack roll is the [[Armor Rules|Armor Class (AC)]] of the defending creature. On a success, the attack hits, and the attacking creature proceeds to roll a damage roll.  
 Attacks can also critically hit or critically miss. The default range of a critical hit is a natural 20 on the attack roll, meaning the result on the d20 is a 20. Similarly, the default range for a critical miss is a natural 1. Traits which augment that range increase the amount of numbers which result in their respective critical, such as the Lethal and Fragile traits.  
 Critical hits result in doubling all damage, while critical misses result in either breakage (in the case of weapons) or exhaustion (in the case of spells).
  
@@ -44,7 +44,7 @@ Critical hits result in doubling all damage, while critical misses result in eit
 Damage rolls, as the name implies, determine how much damage is dealt to the defending creature or hit object. For weapon attacks, the formula to calculate damage is as follows:  
 _Damage Roll = weapon's damage die + ability modifier_
 
-- Weapon damage dice - can be found in the [weapons](Weapons.md) page, though different enchantments, magic items and class features might modify the weapon's damage dice.
+- Weapon damage dice - can be found in the [weapons](Weapons.md) page. Note that different upgrades, magic items and class features might modify the weapon's damage dice.
 - Ability modifier - as with the attack roll.
 
 For spells and other special cases, the damage dice are noted in the relevant feature's description, though it is important to remember that the spellcasting ability modifier (for example, Intelligence for Arcana) is added to the damage roll of spell attacks, just as Strength would be added to weapon damage rolls. Any item bonuses to a creature's spellcasting modifier are also added to spell damage rolls.  
@@ -56,7 +56,6 @@ Saving throws are used as defensive rolls against different effects, from dodgin
 _Saving Throw = d20 + ability modifier + proficiency bonus_
 
 - Ability modifier - according to the type of saving throw required, you add one of the following attribute bonuses:
-    
     - Resilience - highest among Strength or Constitution
     - Initiative - highest among Dexterity or Wisdom
     - Wits - highest among Intelligence or Charisma
