@@ -8,7 +8,7 @@ Magic can cause light or dark energy to appear. Magical light and dark cancel ea
 Note that flames can be either hotflames (emitting light) or coldflames (emitting dark), and there are torches corresponding to both.
 ### Lightvision
  
-Most creatures possess lightvision - one that is affected by light, allows the bearer to see in light, but not see in darkness. The vision type is affected like so by different vision conditions:
+Races which originate from: h possess lightvision - one that is affected by light, allows the bearer to see in light, but not see in darkness. The vision type is affected like so by different vision conditions:
 
 - Lightness - no hindrances to Perception (Wisdom) checks.
 - Nullness - Perception (Wisdom) checks are made with a -2 penalty. Color is duller than usual.
@@ -17,7 +17,7 @@ Most creatures possess lightvision - one that is affected by light, allows the b
 - Fog - Perception (Wisdom) checks and attack rolls are made with disadvantage as sight is almost non-effective.
 ### Darkvision
  
-Many creatures which nowadays live in deep dark places, or are nocturnal, possess darkvision - one that is affected by the lack of light, allows the bearer to see in darkness, but not see in light. The vision type is affected like so by different vision conditions:
+Some creatures possess darkvision - one that is affected by the lack of light, allows the bearer to see in darkness, but not see in light. The vision type is affected like so by different vision conditions:
 
 - Lightness - Perception (Wisdom) checks and attack rolls are made with disadvantage as sight is almost non-effective.
 - Nullness - Perception (Wisdom) checks are made with a -2 penalty. Color is duller than usual.

@@ -18,7 +18,7 @@
 
 ## Prerequisites
  
-In order to advance as a bard, you must meet the following prerequisites:
+In order to advance as a mentalist, you must meet the following prerequisites:
 
 - **Charisma 13.** Being able to influence others and to truly touch others, at least some amount of true charisma is required from the performer.
 - **Proficient with Persuasion or Deception.** Whether be it twisting the truth or making it up completely, mentalists are aware that in order to convince people, appealing to one's heart tends to buy their attention.

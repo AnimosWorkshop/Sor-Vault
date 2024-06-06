@@ -8,7 +8,7 @@ You use up aura from nearby and transmute it into a familiar that spawns in a po
  
 You may use an action to warp the familiar to a point that you can see within range within range from wherever it currently is.
  
-You may use a quick action in order to see and hear through your familiar's eyes. While sensing through them, your own body is both blinded and deafened, until you use another quick action to go back to your senses instead of your familiar's.
+You may use a quick action in order to see and hear through your familiar's eyes. While sensing through them, your own body is both [[Injuries#Blinded|blinded]] and deafened, until you use another quick action to go back to your senses instead of your familiar's.
  
 The familiar's turn comes after yours, allowing you to command it with your thoughts, and you can use your action to cast a spell from the familiar's range instead of yours, given that they succeed on a reaction check if you are within 1 mile of it. Whenever you cast a spell this way, both of you lose 1d4 hit points per spell level. You may also attempt to command the familiar to use a reaction by making a reaction check for both you and for your familiar.
  

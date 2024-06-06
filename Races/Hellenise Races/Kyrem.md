@@ -18,7 +18,7 @@ _Demon kyrems, as the name suggests, are descendants of the kyrems who decided t
 **Ability Score Increase:** Your Strength score increases by 2.  
 **Vision:** Darkvision.  
 **Demonic Resistance:** You are resistant to cold damage. In addition, your natural armor AC is 10, and its armor weakness is Slashing and Fire.  
-**Large Weapons Training:** You are proficient with a weapon with the two-handed property. In addition, while you use a two-handed or a versatile weapon, your AC increases by 1.  
+**Large Weapons Training:** You are proficient with a weapon with the [[Weapon Rules#Two-Handed|two-handed]] trait. In addition, while you use a two-handed or a versatile weapon, you have a +1 bonus to your AC.
 
 ### Devil Kyrem
    
@@ -35,6 +35,6 @@ _Devil kyrems are the descendants of ancient kyrems who settled down in Burning 
 _Fiend kyrems are the descendants of ancient kyrems who settled down in the Great Chasm. They are passionate and remarkable in whatever they decide to do, especially in arts. With the memory of Laurien, the Peacekeeper, whether as a positive or a negative thing, their societies are mostly well-organized and lean towards peace more than other kyrem subraces._  
    
 **Ability Score Increase:** Your Willpower score increases by 1, and another ability score increases by 1.  
-**Vision:** Lightvision.  
+**Vision:** Nullvision.  
 **Artisan:** You are proficient with a tool of your choice.  
-**Cleansing:** You are proficient with Constitution saving throws. In addition, once per long rest, you may use your action to end a curse of a level up to third of your total level (minimum of 1st-level, rounded up).
+**Cleansing:** You are proficient with Resilience saving throws. In addition, once per long rest, you may use your action to end a curse of a level up to third of your total level (minimum of 1st-level, rounded up).

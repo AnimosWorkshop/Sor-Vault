@@ -103,7 +103,7 @@ As long as you consciously wield this weapon, you cannot be disarmed from it aga
  
 ### Sure Sight Helmet
 
-The helmet can switch between two modes: one according to your vision type (whether be it: lightvision, nullvision or darkvision), and one vision type lighter or darker than the one you have. While you put on the helmet, you may switch between these two modes using a quick action.
+The helmet can switch between two modes: one according to your [[Vision|vision type]] (whether be it: lightvision, nullvision or darkvision), and one vision type lighter or darker than the one you have. While you put on the helmet, you may switch between these two modes using a quick action.
  
 ## Momental Attack
  

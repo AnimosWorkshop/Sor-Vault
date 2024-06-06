@@ -112,7 +112,7 @@ At 8th level, your mastery over your school of magic affects your body more than
 The arcane web bends around you, causing objects coming fast towards you to temporarily deform. Whenever you are attacked, reduce the weapon or spell's damage by 2 for the rest of the turn, before damage is rolled. You may use a reaction to increase that effect to 3 against the attack. This effect stacks.
  
 #### Augury
-Your deduction hightens, allowing you to logically predict the immediate future of many things around you, but also making you visibly distracted by everything. You may choose to use Intelligence instead of any other attribute for Initiative saves, meaning your Initiative saves are unaffected by conditions such as [encumbered](Conditions.md). In addition, you add half your Intelligence modifier to Willpower saving throws.
+Your deduction heightens, allowing you to logically predict the immediate future of many things around you, but also making you visibly distracted by everything. You may choose to use Intelligence instead of any other attribute for Initiative saves, meaning your Initiative saves are unaffected by conditions such as [[Conditions#Encumbered|encumbered]]. In addition, you add half your Intelligence modifier to Willpower saving throws.
  
 #### Calefaction
 Your body alternates between exuding great heat to great cold. You become resistant to fire, cold and radiant damage, and your fire, cold and radiant damage rolls are made with a +2 bonus.

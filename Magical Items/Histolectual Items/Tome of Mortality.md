@@ -16,4 +16,4 @@ _"All things must die,_
 _everything passes away;_  
 _To death, no one can lie,_  
 _And none can keep it at bay."_  
-After the poem is recited, all creatures within 30' must succeed on a Wits saving throw. Any creature who fails the save loses resistance 1 to necrotic damage, and becomes vulnerable to necrotic damage if they didn't have resistance to it beforehand, in addition to having the [decaying](Conditions.md) condition. These effects last for 10 minutes.
+After the poem is recited, all creatures within 30' must succeed on a Wits saving throw. Any creature who fails the save loses resistance 1 to necrotic damage, and becomes vulnerable to necrotic damage if they didn't have resistance to it beforehand, in addition to having the [[Conditions#Decaying|decaying]] condition. These effects last for 10 minutes.
