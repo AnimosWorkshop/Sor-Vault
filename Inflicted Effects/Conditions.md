@@ -30,7 +30,7 @@ While tired, a creature has a -2 penalty to all rolls which aren't flat checks, 
 A creature usually isn't tired to this extent on regular circumstances, unless it didn't receive a night's sleep, hasn't drunk or eaten for a day or was magically put in this condition.
 #### Toppled
 While toppled, a creature's movement speed is zero, and both the creature and the one who toppled them are prone in the same position. An effect which forces the toppling creature away from the toppled creature ends this condition.  
-While toppled, the creature may use an action to attempt a saving throw (usually a Strength save unless stated otherwise) to end this condition, using the original DC for the topple.  
+While toppled, the creature may use an action to attempt a saving throw (usually a Resilience save unless stated otherwise) to end this condition, using the original DC for the topple.  
 When this condition ends, the toppled creature becomes prone instead.
 #### Unconscious
 An unconscious creature is unable to move and use any actions, quick actions and reactions. Attacks against the creature have advantage, they are unaware of their surroundings, and they don't add ability modifiers (such as Dexterity) to their AC calculation.
