@@ -92,7 +92,7 @@ Quick actions are things a creature can do which take up little time. Their vers
     - Highest attribute
     - Lowest attribute
 - Demoralize - you taunt and scare a creature to the point of doubt. A creature within 30' that can hear you and understands a language you speak makes a Wits saving throw against your basic Intimidation (Charisma) DC or Intimidation (Strength). On a failed save, the first attack or Wits saving throw they make in their next turn is made with a penalty equal to third of your Intimidation modifier. A creature can't be demoralized twice at the same time.
-- Inspire - you inspire courage and unity within an ally. A creature within 30' that can hear you and understands a language you talk in gets a bonus to their first attack during their next turn equal to third of your Performance (Charisma) modifier. A creature can't be inspired twice at the same time.
+- Inspire - you inspire courage and unity within an ally. A creature within 30' that can hear you and understands a language you talk in gets a bonus to their first attack during their next turn equal to third of your Persuasion (Charisma) or Performance (Charisma) modifier. A creature can't be inspired twice at the same time.
 - Minor interaction - the creature interacts with different objects within its reach. Examples:
     - Pick up a small object (GM's decision for what counts as a small or easy to pick up item)
     - Draw or stow an item without the Heavy property
@@ -103,4 +103,4 @@ Reactions are taken as responses to moves committed by other creatures. Each rea
  
 - Attack of Opportunity - when a creature willingly moves away from you out of reach (but doesn't teleport away), you may attempt a single weapon attack against them right before they move out. Each creature may use only one attack of opportunity against each other creature during a turn, meaning that a creature leaving and entering another creature's range multiple times during the same turn is safe from multiple attacks of opportunity.
 	On a critical hit, the creature stops, and may not use their normal movement to move during that turn anymore.
->Note: This applies to a single turn, not a single round.
+><u>Note:</u> This applies to a single turn, not a single round.

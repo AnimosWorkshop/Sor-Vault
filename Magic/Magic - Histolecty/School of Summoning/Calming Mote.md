@@ -5,7 +5,7 @@
 - Duration: 10 minutes  
 
 You summon two calming elemental motes, which appear as a tiny bright cloud, about the size of a palm. Each can be moved and attached to a creature in the same space as itself as a part of casting the spell or using a quick action, which causes it to follow that creature. Both motes can be controlled using the same quick action.  
-While attached to a creature, they are under the [pacified](Conditions.md) 1 condition. A mote can only be attached to a creature which has no other calming motes attached to them.
+While attached to a creature, they are under the [[Conditions#Pacified|pacified]] 1 condition. A mote can only be attached to a creature which has no other calming motes attached to them.
  
 The motes' stats are as follows. When it drops to 0 hit points or the spell ends, the mote vanishes.
  

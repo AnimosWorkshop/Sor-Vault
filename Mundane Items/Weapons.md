@@ -53,7 +53,7 @@ For information about the different traits, see [[Weapon Rules#Weapon Traits|Wea
 | **Weapon**         | **Cost** | **Weight** | **Weight Category** | **Damage**            | **Traits**                                                                                               |
 | ------------------ | -------- | ---------- | ------------------- | --------------------- | -------------------------------------------------------------------------------------------------------- |
 | Crossbow           | 25 sc    | 6 lb       | Medium              | 1d8 piercing          | Ammunition (80'/320'): Bolts, Two-Handed while shooting, Recourse (1d4 bludgeoning)                      |
-| Hand Crossbow      | 30 sc    | 2 lb       | Light               | 1d6 piercing          | Ammunition (40'/160'): Bolts                                                                             |
+| Hand Crossbow      | 30 sc    | 2 lb       | Light               | 1d6 piercing          | Ammunition (40'/160'): Bolts, Two-Handed while reloading (unless the other hand holds a light item)      |
 | Longbow            | 20 sc    | 2 lb       | Heavy               | 1d8 piercing          | Ammunition (100'/400'): Arrows, Propulsive, Two-Handed while shooting                                    |
 | Sling              | 2 sc     | 0.5 lb     | Medium              | Depends on ammunition | Ammunition (60'/240'): Bullets (1d8 bludgeoning).  <br>Ammunition (45'/180'): Pellets (1d6 bludgeoning). |
 | Stationed Crossbow | 1 gc     | 18 lb      | Heavy               | 2d8 piercing          | Ammunition (range 80'/320'): Bolts, Stationary (bolted to or stationed on the ground), Two-handed        |

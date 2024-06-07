@@ -49,7 +49,7 @@ In order to advance as a rogue, you must meet the following prerequisites:
 Tricksters are able to shift their tempo as combat goes on, in order to match their reflexes to other creatures and strike at the right time. Whenever you hit a creature with an attack, you may increase or decrease your combat initiative by up to half your Dexterity modifier. When attacking a surprised creature or a creature with the same initiative as you, you add 1d4 to the attack roll.  
 At 4th level, this bonus to your attack roll is increased to 1d6, and you may increase or decrease your initiative by up to half your Dexterity modifier +1 instead.
  
-Note: You can't have two turns during the same round of combat, even if you lower your initiative.
+><u>Note:</u> You can't have two turns during the same round of combat, even if you lower your initiative.
  
 ### Cunning Action
  

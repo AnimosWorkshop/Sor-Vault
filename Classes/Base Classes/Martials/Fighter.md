@@ -129,7 +129,7 @@ At 6th level, you learn how to use your weapon effectively not only as a means f
 The amount of times you can guard equals to the number of attacks expended.  
 In addition, you become proficient with Resilience and Willpower saving throws.
  
-Note: The damage roll you make includes your ability modifier (Strength or Dexterity usually, depending on the weapon) and any other modifiers to damage you would have for that weapon's attacks.
+><u>Note:</u> The damage roll you make includes your ability modifier (Strength or Dexterity usually, depending on the weapon) and any other modifiers to damage you would have for that weapon's attacks.
  
 ### Arms Adept
  

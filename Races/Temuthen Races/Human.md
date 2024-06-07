@@ -8,7 +8,7 @@ _Humans don’t have subraces as much as they have people with different learnin
 **Creature Type:** Temuthen.  
 **Speed:** 30' walking.  
 **Vision:** Lightvision.  
-**Skilled:** You are proficient with one skill or tool of your choice.  
+**Skilled:** You are proficient one skill or a tool of your choice.
 **Languages:** You can speak, read, and write Temuthen.
 - - -
 ## Subraces

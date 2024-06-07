@@ -4,7 +4,6 @@ Characters have a proficiency bonus determined by level. Monsters also have this
  
 ## Proficiency Bonus by Level
  
-
 | **Level** | **Proficiency Bonus** |
 | --------- | --------------------- |
 | 0th       | +1                    |
@@ -18,7 +17,6 @@ Characters have a proficiency bonus determined by level. Monsters also have this
 | 8th       | +4                    |
 | 9th       | +4                    |
 | 10th      | +5                    |
-
 ### Proficiency Ranks
  
 | **Rank**   | **Benefits**                                                 |
