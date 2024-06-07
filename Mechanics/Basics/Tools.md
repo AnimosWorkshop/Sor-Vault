@@ -4,7 +4,7 @@ If you would need to roll a knowledge check for that tool, or want to earn incom
 Tools may have a specific attribute associated with them for the purposes of earning income, which can (but not must) be used instead of Intelligence:
 - **Strength:** Smith, Woodworker
 - **Dexterity:** Artist, Clothier
-- **Constitution:** Alchemist
+- **Wisdom:** Alchemist
 - **Casting Modifier** (if the character is a caster): Runecarver
  
 #### Alchemist
