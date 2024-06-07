@@ -1,5 +1,4 @@
 #2nd-Level #Histolecty #Tempest #Boon
-Uncommon
  
 - Casting Time: Action
 - Range: Self

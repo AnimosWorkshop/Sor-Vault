@@ -14,7 +14,7 @@ Learning spell scrolls are commonly used to teach spellcasters, both new and old
 |5th|180|
  
 For spell scrolls of spells over 5th level, the price is calculated as such:  
-_Cost per Magic Type of the Spell_ _(sc)_ = 10 * (_Spell Level + 1_) 2
+_Cost per Magic Type of the Spell_ _(sc)_ = 10 * (_Spell Level + 1_)
  
 ## Invoking Spell Scrolls
  
