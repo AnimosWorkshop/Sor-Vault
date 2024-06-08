@@ -87,7 +87,7 @@ You may only use this feature once per round. You may use this feature twice per
  
 ### All Out
  
-Starting at 4th level, you manage to let your power flow through each attack given that your weapon allows it, increasing each attack's magnitude. When you attack with light, finesse and ammunition weapons, you may add both your Dexterity and Strength modifiers instead of only one of them.
+Starting at 4th level, you manage to let your power flow through each attack given that your weapon allows it, increasing each attack's magnitude. When you attack with light, finesse and ammunition weapons, the attribute modifier you may add to the damage roll is both your Dexterity and Strength modifiers instead of only one of them.
  
 ### Quick Attack
  
