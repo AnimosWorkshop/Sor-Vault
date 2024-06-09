@@ -1,1 +1,0 @@
-Your overwhelming ability to lead others to challenges far beyond their reach successfully has made its echoes even to the ears of the gods, granting you a blessing to commemorate it. You learn the [Symbol](Symbol.md) spell, and may cast it once per day at 2nd-level without expending any resources.

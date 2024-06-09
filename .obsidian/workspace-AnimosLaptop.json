@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "5be5a6ac2154e723",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f09d00f113faf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1daa21c3ae846c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sign-of-Remembrance/Martial Techniques/Keywords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15bcac737ba24c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe348bbece14041d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf0ea9d0aa8f09b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4bae12453de836b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#weapon",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf871fbbd62ada7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e091d7cf78e4dccb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d3b54c1abe61ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4d31464cd2f2ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sign-of-Remembrance/Martial Techniques/Keywords.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97f5ef0e1f44f9b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sign-of-Remembrance/Martial Techniques/Keywords.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25002ff7514ab253",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42022ae4398c556b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sign-of-Remembrance/Martial Techniques/Keywords.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "tags-overview:Tags overview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1daa21c3ae846c07",
+  "lastOpenFiles": [
+    "Sign-of-Remembrance/Martial Techniques/Introduction.md",
+    "Sign-of-Remembrance/Martial Techniques/Keywords.md",
+    "Sign-of-Remembrance/Martial Techniques/Partisan/Fury of the Fallen.md",
+    "Sign-of-Remembrance/Martial Techniques/Nullifier/Hijack.md",
+    "Sign-of-Remembrance/Martial Techniques/Sentinel/Indestructible Pillar.md",
+    "Sign-of-Remembrance/Martial Techniques/Trickster/Least Resistance.md",
+    "Sign-of-Remembrance/Martial Techniques/Fighter/Parry Extension.md",
+    "Sign-of-Remembrance/Martial Techniques/Fighter/Perfect Hook.md",
+    "Sign-of-Remembrance/Martial Techniques/Trickster/Shadow Rush.md",
+    "Sign-of-Remembrance/Martial Techniques/Transmuter/Collateral Damage.md",
+    "Sign-of-Remembrance/Martial Techniques/Trickster/Ambush.md",
+    "Sign-of-Remembrance/Martial Techniques/Trickster/Backstab.md",
+    "Sign-of-Remembrance/Martial Techniques/Trickster/Careful Injection.md",
+    "Sign-of-Remembrance/Martial Techniques/Partisan/Committed Blow.md",
+    "Sign-of-Remembrance/Martial Techniques/Sentinel/Crashing Blow.md",
+    "Sign-of-Remembrance/Martial Techniques/Transmuter/Deadly Shattering.md",
+    "Sign-of-Remembrance/Martial Techniques/Sentinel/Deceitful Trip.md",
+    "Sign-of-Remembrance/Martial Techniques/Fighter/Discouraging Blow.md",
+    "Sign-of-Remembrance/Martial Techniques/Partisan/Dual Shot.md",
+    "Sign-of-Remembrance/Martial Techniques/General/Dual Wield.md",
+    "Sign-of-Remembrance/Martial Techniques/General/Fanning Weapon.md",
+    "Sign-of-Remembrance/Martial Techniques/Trickster/Improvised Treatment.md",
+    "Sign-of-Remembrance/Martial Techniques/Sentinel/Inspiring Blow.md",
+    "Sign-of-Remembrance/Martial Techniques/Sentinel/Iron Grip.md",
+    "Sign-of-Remembrance/Martial Techniques/Nullifier/Martial Disruption.md",
+    "Sign-of-Remembrance/Martial Techniques/General/Momental Draw.md",
+    "Sign of Remembrance/Character Sheet v0.4a.pdf",
+    "Sign of Remembrance/Character Sheet v0.4a 1.docx",
+    "Sign of Remembrance/Character Sheet v0.4a.docx",
+    "Sign of Remembrance/Races/Abomination Races",
+    "Sign of Remembrance/Races/Undead Races/Ghosts",
+    "Sign of Remembrance/Races/Undead Races/Zombies",
+    "Sign of Remembrance/Races/Undead Races",
+    "Sign of Remembrance/Races/Limbani Races",
+    "Sign of Remembrance/Races/Helian Races",
+    "Sign of Remembrance/Races/Hellenise Races/Devils",
+    "Campaign/Untitled.canvas",
+    "Attachments/Pasted image 20240601185115.png",
+    "Attachments/Keywords.md/Exported image 20240601180818-0.png",
+    "Attachments/Temuthan.md/Exported image 20240601180733-0.png",
+    "Attachments/Sreikon.md/Exported image 20240601180645-0.jpeg"
+  ]
+}

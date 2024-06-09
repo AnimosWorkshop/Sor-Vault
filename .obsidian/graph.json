@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "path:Sign-of-Remembrance  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Sign-of-Remembrance/Classes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Sign-of-Remembrance/Races\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Sign-of-Remembrance/Magic\"",
+      "color": {
+        "a": 1,
+        "rgb": 11917422
+      }
+    },
+    {
+      "query": "path:\"Sign-of-Remembrance/Martial Techniques\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084296
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.203125,
+  "repelStrength": 10.5208333333333,
+  "linkStrength": 0.515625,
+  "linkDistance": 275,
+  "scale": 0.15195154943239916,
+  "close": false
+}

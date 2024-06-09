@@ -1,3 +1,0 @@
-Base Requirement: 4th-level character
- 
-Your faith became more than simply worshipping a god - but joining their lines as direct followers with direct communication with them, even if not in the highest of rankings. In the Second Verse, this would come as one would be recruited as either: a bishop, an angel, a missionary or a special archpriest. Your Willpower score increases by 2. Your aging and magical decay also slow down, being able to prolong your life expectancy by about 20%.
