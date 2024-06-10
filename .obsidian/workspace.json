@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7de0512bd093d082",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sign of Remembrance/Character Sheet v0.4b.pdf"
-              }
-            }
-          },
-          {
             "id": "51de89f9d525c3f8",
             "type": "leaf",
             "state": {
@@ -106,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sign of Remembrance/Character Sheet v0.4b.pdf"
+                "file": "Sign of Remembrance/Items/Craftable/Runecarver.md"
               }
             }
           },
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sign of Remembrance/Character Sheet v0.4b.pdf",
+                "file": "Sign of Remembrance/Items/Craftable/Runecarver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sign of Remembrance/Character Sheet v0.4b.pdf",
+                "file": "Sign of Remembrance/Items/Craftable/Runecarver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7de0512bd093d082",
+  "active": "51de89f9d525c3f8",
   "lastOpenFiles": [
+    "Sign of Remembrance/Character Sheet v0.4b.pdf",
     "Sign of Remembrance/Mechanics/Combat/Action Economy.md",
     "Sign of Remembrance/Mechanics/Basics/Attribute Scores.md",
     "Sign of Remembrance/Items/Tools.md",
@@ -185,7 +176,6 @@
     "Sign of Remembrance/Races/Helian Races/Sparkling WIP.md",
     "Sign of Remembrance/Races/Fey Races/Darkseers/Satyr.md",
     "Sign of Remembrance/Items/Craftable/Runecarver.md",
-    "Sign of Remembrance/Martial Techniques/Fighter/Reckless Attack.md",
     "Sign of Remembrance/Mechanics/Basics/Character Creation.canvas",
     "Sign-of-Remembrance/Martial Techniques",
     "Sign-of-Remembrance",
