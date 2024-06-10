@@ -44,7 +44,7 @@ Critical hits result in doubling all damage, while critical misses result in eit
 Damage rolls, as the name implies, determine how much damage is dealt to the defending creature or hit object. For weapon attacks, the formula to calculate damage is as follows:  
 _Damage Roll = weapon's damage die + ability modifier_
 
-- Weapon damage dice - can be found in the [weapons](Weapons.md) page. Note that different upgrades, magic items and class features might modify the weapon's damage dice.
+- Weapon damage dice - can be found in the [weapons](Weaponsmith.md) page. Note that different upgrades, magic items and class features might modify the weapon's damage dice.
 - Ability modifier - as with the attack roll.
 
 For spells and other special cases, the damage dice are noted in the relevant feature's description, though it is important to remember that the spellcasting ability modifier (for example, Intelligence for Arcana) is added to the damage roll of spell attacks, just as Strength would be added to weapon damage rolls. Any item bonuses to a creature's spellcasting modifier are also added to spell damage rolls.  

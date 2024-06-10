@@ -60,7 +60,7 @@ In addition, you may use the Dodge reaction as a response to being attacked by a
  
 ### Martial Techniques
  
-At 2nd level, you learn the use of [[Sign-of-Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
+At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
 
 | **Trickster Level** | **Basic Techniques** |
 | ------------------- | -------------------- |

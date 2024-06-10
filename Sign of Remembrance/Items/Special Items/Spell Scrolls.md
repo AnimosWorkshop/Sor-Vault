@@ -2,7 +2,7 @@ Spell scrolls are special magic items which store a specific spell for a time of
  
 ## Learning Spell Scrolls
  
-Learning spell scrolls are commonly used to teach spellcasters, both new and old, how to cast a certain spell. Anyone can learn a spell, regardless of their ability to cast it in practice, and this knowledge can be used to create spell scrolls of that spell using [[Artist|artist's tools]]. Once a creature attempts to learn a spell from the scroll via [[Proficiency and Downtime#Downtime Points|downtime training]], they must attune to the scroll to complete the process, consuming the scroll in the process. The costs for non-rare spells are as follows:
+Learning spell scrolls are commonly used to teach spellcasters, both new and old, how to cast a certain spell. Anyone can learn a spell, regardless of their ability to cast it in practice, and this knowledge can be used to create spell scrolls of that spell using [[Scrolls and Manuscripts|artist's tools]]. Once a creature attempts to learn a spell from the scroll via [[Proficiency and Downtime#Downtime Points|downtime training]], they must attune to the scroll to complete the process, consuming the scroll in the process. The costs for non-rare spells are as follows:
  
 |   |   |
 |---|---|

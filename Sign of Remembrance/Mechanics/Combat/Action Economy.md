@@ -53,7 +53,7 @@ Actions will usually be most things a creature improvises, from picking up items
  
 - Attack - the creature makes 1 weapon attack against another creature or object. The creature makes an attack roll. If the result is equal to or higher than the defending creature's AC, the attack hits, allowing the attacking creature to make a damage roll.
 	Readied light weapons (such as a sheathed shortsword) can be drawn and used to attack using 1 Attack action.
-	In addition, a weapon attack can be performed nonlethaly. This subject is elaborated on in the [weapons](Weapons.md) page.
+	In addition, a weapon attack can be performed nonlethaly. This subject is elaborated on in the [weapons](Weaponsmith.md) page.
 - Brawl - you may perform one of the following actions, all of which are considered brawl actions:
     - Grapple - You use one hand, and a creature of your size or 1 higher must make a Strength saving throw against your basic Athletics (Strength) DC. On a failed save, they are [[Conditions#Grappled|grappled]] until they break free. Grappling requires you to use an arm to maintain it. That arm can still hold items, but usually cannot use them (such as weapons), except for shields with the Glove trait, which still provide their AC bonus against creatures you do not grapple. The escape DC is the same of your grapple DC.
 		Attempting to grappling a prone creature turns into the Topple action instead.

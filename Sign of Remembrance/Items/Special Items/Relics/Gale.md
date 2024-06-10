@@ -6,7 +6,7 @@ _Artifact_
  
 This legendary scepter from the end of the First Verse was crafted by [Tezix, the Shifter](Tezix,%20the%20Shifter), himself, and was later used as the key to his chamber in his main temple in central Maingrat. The sword was traditionally kept as the archbishop's possession, before the Sealing occurred, though an earthquake that ensued during it caused the temple to become ruins, trapping the sword and its wielder inside. Only in the year 1274 PS, the new archbishop of Tezix - Sanae, claimed Gale to her possession and continued the cycle.
  
-As a [[Spell Foci|scepter]], Gale is also a [[Weapons#Simple Melee Weapons|mace]], dealing 1d8 bludgeoning damage and having the Tool (Sorcery) weapon property.
+As a [[Spell Foci|scepter]], Gale is also a [[Weaponsmith#Simple Melee Weapons|mace]], dealing 1d8 bludgeoning damage and having the Tool (Sorcery) weapon property.
  
 _Potency_  
 Gale grants the attuned a +3 bonus to their arcana modifier.

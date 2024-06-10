@@ -66,7 +66,7 @@ Beginning at 2nd level, staying in your battle trance allows you further focus o
 When you reach 2nd level, and again at 4th and 6th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 ### Martial Techniques
  
-At 2nd level, you learn the  use of [[Sign-of-Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
+At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
 
 | **Partisan Level** | **Basic Techniques** | **Advanced Techniques** |
 | ------------------ | -------------------- | ----------------------- |

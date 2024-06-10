@@ -15,8 +15,7 @@ Alchemists create many substances which may have some kind of influence over a c
   
 ><u>Note:</u> Some bombs and venoms of higher costs are written as 'double', 'triple', etc. of an effect. That is to indicate the base damage for the transmuter class, which can increase the base damage of alchemical items when used as an attack.
 - - -
-## Products
-### Bombs
+## Bombs
 
 | **Product**               | **Cost** | **Weight**                   | **Description**                                                                                                                                                                                                                                                                  |
 | ------------------------- | -------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,8 +26,8 @@ Alchemists create many substances which may have some kind of influence over a c
 | Flash Bomb                | 32 sc    | 1 lb (including the flask)   | Simple Thrown weapon (Flask), deals 1d3 piercing damage. Thrown (20'/60'), Breaks on contact (100%). When the flask breaks, each creature within 10' must make a Resilience saving throw against a DC of 15 or be [[Injuries#Blinded\|blinded]] until the end of your next turn. |
 | Smoke Flask               | 4 sc     | 0.5 lb (including the flask) | Simple Thrown weapon (Flask), deals 1d3 piercing damage. Light, Thrown (20'/60'), Breaks on contact (100%). A 15' cube of smoke emerges, centered where the flask breaks. It counts as half-cover, and disperses after 1 minute.                                                 |
 | Sticky Goo                | 4 sc     | 0.5 lb (including the flask) | Simple Thrown weapon (Flask), deals 1d3 piercing damage. Light, Thrown (20'/60'), Breaks on contact (100%). The target hit has their movement speed halved until the end of their next turn.                                                                                     |
-
-### Harmful Substances
+- - -
+## Harmful Substances
 
 | **Product**             | **Cost** | **Weight**                   | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ----------------------- | -------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,8 +41,8 @@ Alchemists create many substances which may have some kind of influence over a c
 | Crystallizer, Major     | 42 sc    | 0.5 lb (including the flask) | Can be applied to a surface, or to a weapon which deals bludgeoning damage as a quick action. Upon use, the surface quickly crystallizes the air around it to create a rough surface, able to scrape anything coming into contact with it. A weapon being applied the crystallizer deals double d3 additional slashing damage. The crystals dissolve over 1 hour.                                                                                                                                                       |
 | Evaporator              | 80 sc    | 1 lb (including the flask)   | A highly flammable liquid, can be drunk using a quick action. When in contact with a creature's saliva or acid, the liquid evaporates quickly into gas. Exhalation is recommended as soon as possible, lest the user takes 4d10 fire damage. If a torch or another source of fire is put in front of a creature exhaling this gas using an action, a 20' cone of fire will erupt, forcing each creature within that range to make an Initiative saving throw with DC 16, taking 4d10 fire damage, or half on a success. |
 | Quick Husher            | 60 sc    | 0.2 lb per dose              | Venom. The target must make a DC 12 Resilience saving throw against the toxin (poisoned condition) or fall asleep for the next 2 hours. A creature who succeeds on the saving throw takes 1d10 poison damage, and has immunity to the toxin for the next 2 hours. The toxin is consumed when the dart hits a creature. A critical hit on the attack roll increases the DC to 17.                                                                                                                                        |
-
-### Concoctions
+- - -
+## Concoctions
 
 | **Product**                     | **Cost** | **Weight**                   | **Description**                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------- | -------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,17 +53,20 @@ Alchemists create many substances which may have some kind of influence over a c
 | Deterioration Concoction, Major | 56 sc    | 0.5 lb (including the flask) | Ingested or injected toxin, deals triple 2d8 necrotic damage. The creature only takes half damage on a successful Resilience saving throw with DC 15.                                                                                                                                                                                                                                        |
 | Recovery Concoction, Minor      | 24 sc    | 0.5 lb (including the flask) | Must be ingested or injected, recovers 3d10 hit points.                                                                                                                                                                                                                                                                                                                                      |
 | Steadying Concoction            | 4 sc     | 1 lb (including the flask)   | Must be injected, restores a creature with at most 0 hit points back to 0 hit points and makes them stable, as if they succeeded all of their death saves. However, this stabilizing effect also makes the creature not wake up when healed with magic or alchemy, instead needing to wait the 1d4 hours as normal. Succeeding on a DC 15 Resilience save when healed negates this downside. |
-
-### Upgrades
+- - -
+## Upgrades
 
 | **Product**             | **Cost** | **Weight** | **Description**                                                                                                                                                                   |
 | ----------------------- | -------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Null-Emitting Inventory | 75 sc    | -          | _Functionality_  <br>Coating an inventory from the inside with magic-nullifying substances, you manage to hide items contained inside the inventory from Sorcery (Wisdom) checks. |
-
-### Other Items
+- - -
+## Other Items
 | **Product**          | **Cost** | **Weight** | **Description**                                                                                                              |
 | -------------------- | -------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Cold Torch           | 10 cc    | 1 lb       | 30' radius of dark, lasts 1 hour, deals 1 cold damage on a hit.                                                              |
 | Flask                | 8 cc     | 0.4 lb     | Simple Thrown weapon (Flask), Deals 1d3 piercing damage. Light, Thrown (20'/60'), Breaks on contact (100%). 1 pint capacity. |
+| Hot Torch            | 10 cc    | 1 lb       | 30' radius of light, lasts 1 hour, deals 1 fire damage on a hit.                                                             |
 | Snuffing Stick Dark  | 50 cc    | 0.05 lb    | A dark source sufficient for 2.5 hours. Can be shaken to turn on or off. Loses its effect in the end of the time period.     |
 | Snuffing Stick Light | 50 cc    | 0.05 lb    | A light source sufficient for 2.5 hours. Can be shaken to turn on or off. Loses its effect in the end of the time period.    |
+| Vial, Empty          | 8 cc     | 0.1 lb     | 4 ounce capacity                                                                                                             |
 

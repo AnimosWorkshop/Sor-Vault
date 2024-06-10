@@ -63,7 +63,7 @@ You may use this feature once, and regain the ability to do so after you finish 
  
 ### Martial Techniques
  
-At 2nd level, you learn the  use of [[Sign-of-Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
+At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
  
 | **Fighter Level** | **Basic Techniques** | **Advanced Techniques** |
 | ----------------- | -------------------- | ----------------------- |
@@ -84,16 +84,12 @@ When you reach 3rd level, choose a type of weapon to become your specialty weapo
  
 #### Hurler (sling, flask, dart, whip)
 The Lethal property and the damage die for weapons of this specialty increases by 1 for you.
- 
-#### Pugilist (knuckles, unarmed strikes)
+#### Pugilist (knuckles, unarmed strikes, shields)
 Parrying Strike can be used in conjunction with the Deflect reaction as a part of the same reaction if you are using a weapon of this specialty. If you don't have the Deflect reaction, you may instead increase your AC by 1 against the attack in addition to the normal effects of Parrying Strike.
- 
 #### Sharpshooter (blowgun, shortbow, stone bow, crossbow, hand crossbow, longbow)
 You get a +2 bonus to attack rolls with weapons of this specialty.
- 
 #### Skewer (dagger, estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)
 When you critically hit with a weapon of this specialty, it breaks the defender's armor no matter its type.
- 
 #### Sweeper (club, chain whip, greatclub, hammer, mace, quarterstaff, battleaxe, greatsword, halberd, war pickaxe)
 You get a +2 bonus to damage rolls with weapons of this specialty.
 #### Swiftblade (bastard sword, sickle, handaxe, glaive, scimitar)
@@ -154,7 +150,7 @@ At 10th level, you master your arms specialty wholly, allowing you to add twice 
 #### Hurler - Opening
 The next attack against the target until the start of your next turn is made with advantage.
  
-#### Pugilist - Uppercut
+#### Pugilist - Concussion
 If the attack hits, the target must make a Constitution saving throw against 10 + your attack bonus or be stunned until the end of its next turn.
  
 #### Sharpshooter - Headshot

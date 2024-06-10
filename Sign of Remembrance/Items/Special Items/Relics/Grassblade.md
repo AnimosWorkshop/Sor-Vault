@@ -4,7 +4,7 @@ _Artifact_
 - Magic Type: Auramancy
 - Requires Attunement: Potency, Functionality, Property (must be with Willpower 15)
  
-As a [[Weapons#Martial Melee Weapons|shortsword]], Grassblade deals 1d6 piercing damage or 1d6 slashing damage and has the Finesse trait and the Light category.
+As a [[Weaponsmith#Martial Melee Weapons|shortsword]], Grassblade deals 1d6 piercing damage or 1d6 slashing damage and has the Finesse trait and the Light category.
  
 _Potency_  
 While being held by the attuned, Gale provides a +3 bonus to attack rolls with it.

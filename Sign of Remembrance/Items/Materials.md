@@ -25,6 +25,6 @@
 - - -
 ## Toxin Materials
  
-| **Toxin**   | **Value / pint** | **Notes**                                                                                                                                                |
-| ----------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dahrial Air | 3 sc             | Necrotic toxin. Air present in Dahrial. Breathing the death mist consistently deals 1d4 necrotic damage every 10 minutes. Density is about 0.05 lb/pint. |
+| **Toxin**     | **Value / pint** | **Notes**                                                                                                                                                |
+| ------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dahrialan Air | 3 sc             | Necrotic toxin. Air present in Dahrial. Breathing the death mist consistently deals 1d4 necrotic damage every 10 minutes. Density is about 0.05 lb/pint. |
