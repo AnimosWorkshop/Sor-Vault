@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sign of Remembrance/Items/Scrolls and Manuscripts.md",
+                "file": "Sign of Remembrance/Items/Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b6e0a463d5a594f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sign of Remembrance/Items/Spell Scrolls.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sign of Remembrance/Items/Scrolls and Manuscripts.md"
+                "file": "Sign of Remembrance/Items/Spell Scrolls.md"
               }
             }
           },
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sign of Remembrance/Items/Scrolls and Manuscripts.md",
+                "file": "Sign of Remembrance/Items/Spell Scrolls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sign of Remembrance/Items/Scrolls and Manuscripts.md",
+                "file": "Sign of Remembrance/Items/Spell Scrolls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +173,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cf0ea9d0aa8f09b",
+  "active": "1b6e0a463d5a594f",
   "lastOpenFiles": [
+    "Sign of Remembrance/Items/Spell Foci.md",
+    "Sign of Remembrance/Items/Spell Scrolls.md",
+    "Sign of Remembrance/Magic/Magic - General/Learning Spells.md",
+    "Sign of Remembrance/Mechanics/Basics/Proficiency and Downtime.md",
     "Sign of Remembrance/Items/Tools.md",
+    "Sign of Remembrance/Items/Scrolls and Manuscripts.md",
+    "Sign of Remembrance/Martial Techniques/Introduction.md",
     "Sign of Remembrance/Items/Materials.md",
     "Sign of Remembrance/Mechanics/Basics/Currency.md",
     "Sign of Remembrance/Mechanics/Basics/Upgrades.md",
@@ -178,16 +197,10 @@
     "Sign of Remembrance/Items/Craftable/Runecarver.md",
     "Sign of Remembrance/Magical Items/Arcane Items/Witchfire Band.md",
     "Sign of Remembrance/Magical Items/Arcane Items/Blinding Bracer.md",
-    "Sign of Remembrance/Items/Scrolls and Manuscripts.md",
     "Sign of Remembrance/Magical Items/Auramantic Items/Focus Circlet.md",
     "Sign of Remembrance/Magical Items/Auramantic Items/Refreshening Straw.md",
     "Sign of Remembrance/Crafting/Clothier.md",
     "Sign of Remembrance/Items/Craftable/Armorer.md",
-    "Sign of Remembrance/Magical Items/Arcane Items/Bottomless Reservoir.md",
-    "Sign of Remembrance/Magical Items/Auramantic Items/Respirator.md",
-    "Sign of Remembrance/Magical Items/Auramantic Items/Thermalentus Suit.md",
-    "Sign of Remembrance/Crafting/Smith.md",
-    "Sign of Remembrance/Crafting/Woodworker.md",
     "Sign-of-Remembrance/Martial Techniques",
     "Sign-of-Remembrance",
     "Sign of Remembrance/Classes/Base Classes/Casters/Paragon Ideals.canvas",
