@@ -2,13 +2,13 @@
 - - -
 ## Feature Table
  
-| **Nullifier Level** | **Features**                                                      |
-| ------------------- | ----------------------------------------------------------------- |
-| 1st                 | Discerning Mind                                                   |
-| 2nd                 | Preemptive Disruption, Martial Techniques, Ability Score Increase |
-| 3rd                 | Silencing Strike                                                  |
-| 4th                 | Spell Breaker, Martial Techniques, Ability Score Increase         |
-| 5th                 | Reflexive Analysis, Silencing Strike                              |
+| **Nullifier Level** | **Features**                                                  |
+| ------------------- | ------------------------------------------------------------- |
+| 1st                 | Discerning Mind                                               |
+| 2nd                 | Preemptive Disruption, Martial Techniques, Attribute Increase |
+| 3rd                 | Silencing Strike                                              |
+| 4th                 | Spell Breaker, Martial Techniques, Attribute Increase         |
+| 5th                 | Reflexive Analysis, Silencing Strike                          |
 - - -
 ## Prerequisites
  
@@ -61,9 +61,9 @@ At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Int
 | 2nd                 | 1                    | -                       |
 | 4th                 | 1                    | 1                       |
  
-### Ability Score Increase
+### Attribute Increase
  
-When you reach 2nd level, and again at 4th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at 4th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ### Silencing Strike
  

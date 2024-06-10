@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
  
-| **Fighter Level** | **Features**                                                  |
-| ----------------- | ------------------------------------------------------------- |
-| 1st               | Parrying Strike                                               |
-| 2nd               | Adrenaline Surge, Martial Techniques, Ability Score Increase  |
-| 3rd               | Arms Specialty, Weapon Adaptability                           |
-| 4th               | Dirty Tactics, Martial Techniques, Ability Score Increase     |
-| 5th               | Extra Attack                                                  |
-| 6th               | On Guard, Martial Techniques, Ability Score Increase          |
-| 7th               | Arms Adept, Adrenaline Surge                                  |
-| 8th               | Martial Techniques, Ability Score Increase                    |
-| 9th               | Momentum                                                      |
-| 10th              | Specialty Mastery, Martial Techniques, Ability Score Increase |
+| **Fighter Level** | **Features**                                              |
+| ----------------- | --------------------------------------------------------- |
+| 1st               | Parrying Strike                                           |
+| 2nd               | Adrenaline Surge, Martial Techniques, Attribute Increase  |
+| 3rd               | Arms Specialty, Weapon Adaptability                       |
+| 4th               | Dirty Tactics, Martial Techniques, Attribute Increase     |
+| 5th               | Extra Attack                                              |
+| 6th               | On Guard, Martial Techniques, Attribute Increase          |
+| 7th               | Arms Adept, Adrenaline Surge                              |
+| 8th               | Martial Techniques, Attribute Increase                    |
+| 9th               | Momentum                                                  |
+| 10th              | Specialty Mastery, Martial Techniques, Attribute Increase |
    
 
 - - -
@@ -72,11 +72,10 @@ At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Int
 | 6th               | 3                    | -                       |
 | 8th               | 3                    | 1                       |
 | 10th              | 3                    | 2                       |
-   
 
-### Ability Score Increase
+### Attribute Increase
  
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ### Arms Specialty
  

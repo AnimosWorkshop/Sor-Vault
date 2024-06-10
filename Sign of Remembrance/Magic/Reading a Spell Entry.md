@@ -100,4 +100,4 @@ Some spells also inflict exhaustion on the caster (and their coven) of some degr
  
 ### At Higher Levels
 
-View the Upcasting paragraph under the [Alternative Casting](Alternative%20Casting%20Methods) page.
+View the Upcasting paragraph under the [Alternative Casting](Alternative%20Casting%20Methods.md) page.

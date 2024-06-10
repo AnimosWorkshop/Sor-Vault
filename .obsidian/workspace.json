@@ -11,23 +11,9 @@
             "id": "7de0512bd093d082",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Sign of Remembrance/Items/Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b6e0a463d5a594f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sign of Remembrance/Items/Spell Scrolls.md",
-                "mode": "source",
-                "source": false
+                "file": "Sign of Remembrance/Character Sheet v0.4b.pdf"
               }
             }
           },
@@ -43,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sign of Remembrance/Items/Spell Scrolls.md"
+                "file": "Sign of Remembrance/Character Sheet v0.4b.pdf"
               }
             }
           },
@@ -131,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sign of Remembrance/Items/Spell Scrolls.md",
+                "file": "Sign of Remembrance/Character Sheet v0.4b.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sign of Remembrance/Items/Spell Scrolls.md",
+                "file": "Sign of Remembrance/Character Sheet v0.4b.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,34 +158,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b6e0a463d5a594f",
+  "active": "7de0512bd093d082",
   "lastOpenFiles": [
-    "Sign of Remembrance/Items/Spell Foci.md",
-    "Sign of Remembrance/Items/Spell Scrolls.md",
-    "Sign of Remembrance/Magic/Magic - General/Learning Spells.md",
-    "Sign of Remembrance/Mechanics/Basics/Proficiency and Downtime.md",
+    "Sign of Remembrance/Mechanics/Combat/Action Economy.md",
+    "Sign of Remembrance/Mechanics/Basics/Attribute Scores.md",
     "Sign of Remembrance/Items/Tools.md",
-    "Sign of Remembrance/Items/Scrolls and Manuscripts.md",
-    "Sign of Remembrance/Martial Techniques/Introduction.md",
-    "Sign of Remembrance/Items/Materials.md",
-    "Sign of Remembrance/Mechanics/Basics/Currency.md",
-    "Sign of Remembrance/Mechanics/Basics/Upgrades.md",
-    "Sign of Remembrance/Items/Craftable/Provisioner.md",
-    "Sign of Remembrance/Mundane Items/Adventuring Gear.md",
-    "Sign of Remembrance/Items/Craftable/Alchemist.md",
-    "Sign of Remembrance/Items/Special Items/Jarring Recorder.md",
-    "Sign of Remembrance/Items/Special Items/Nega-Empathy Gloves.md",
-    "Sign of Remembrance/Items/Special Items/Tome of Mortality.md",
-    "Sign of Remembrance/Items/Special Items/Spirit Archer's Ring.md",
-    "Sign of Remembrance/Items/Special Items/Death Dealer's Amulet.md",
-    "Sign of Remembrance/Items/Craftable/Weaponsmith.md",
+    "Sign of Remembrance/Races/Abomination Races/Arachrein WIP.md",
+    "Sign of Remembrance/Magic/Compound Spells/School of Displacement/Globe of Invulnerability.md",
+    "Sign of Remembrance/Classes/Base Classes/Martials/Fighter.md",
+    "Sign of Remembrance/Epic Influences/Blessings/Blessing of the Successor/Major Blessing of the Successor.md",
+    "Sign of Remembrance/Classes/Prestige Classes/Partisan.md",
+    "Sign of Remembrance/Classes/Base Classes/Martials/Sentinel.md",
+    "Sign of Remembrance/Classes/Base Classes/Martials/Trickster.md",
+    "Sign of Remembrance/Races/Temuthen Races/Vident.md",
+    "Sign of Remembrance/Classes/Base Classes/Casters/Wizard.md",
+    "Sign of Remembrance/Mechanics/Basics/Vision.md",
+    "Sign of Remembrance/Races/Abomination Races/Wendigo WIP.md",
+    "Sign of Remembrance/Races/Limbani Races/Volean WIP.md",
+    "Sign of Remembrance/Classes/Base Classes/Martials/Transmuter.md",
+    "Sign of Remembrance/Magic/Compound Spells/School of Alteration/Titanize.md",
+    "Sign of Remembrance/Races/Fey Races/Lightseers/Tengu.md",
+    "Campaign/Gods/Temuthen Gods.md",
+    "Sign of Remembrance/Epic Influences/Blessings/Blessing of the Successor/Superior Blessing of the Successor.md",
+    "Sign of Remembrance/Martial Techniques/General/Sprinting Momentum.md",
+    "Sign of Remembrance/Martial Techniques/General/Spellslinger's Momentum.md",
+    "Sign of Remembrance/Races/Helian Races/Sparkling WIP.md",
+    "Sign of Remembrance/Races/Fey Races/Darkseers/Satyr.md",
     "Sign of Remembrance/Items/Craftable/Runecarver.md",
-    "Sign of Remembrance/Magical Items/Arcane Items/Witchfire Band.md",
-    "Sign of Remembrance/Magical Items/Arcane Items/Blinding Bracer.md",
-    "Sign of Remembrance/Magical Items/Auramantic Items/Focus Circlet.md",
-    "Sign of Remembrance/Magical Items/Auramantic Items/Refreshening Straw.md",
-    "Sign of Remembrance/Crafting/Clothier.md",
-    "Sign of Remembrance/Items/Craftable/Armorer.md",
+    "Sign of Remembrance/Martial Techniques/Fighter/Reckless Attack.md",
+    "Sign of Remembrance/Mechanics/Basics/Character Creation.canvas",
     "Sign-of-Remembrance/Martial Techniques",
     "Sign-of-Remembrance",
     "Sign of Remembrance/Classes/Base Classes/Casters/Paragon Ideals.canvas",
@@ -210,9 +196,8 @@
     "Sign of Remembrance/Races/Fey Races/Lightseers",
     "Sign of Remembrance/Races/Hellenise Races/Demons",
     "Sign of Remembrance/Races/Hellenise Races/Devils",
-    "Sign of Remembrance/Mechanics/Basics/Character Creation.canvas",
-    "Sign of Remembrance/Magic/Magic - Histolecty/School of Decay",
-    "Sign of Remembrance/Magic/Magic - Histolecty/School of Summoning",
+    "Sign of Remembrance/Magic/Histolecty/School of Decay",
+    "Sign of Remembrance/Magic/Histolecty/School of Summoning",
     "Sign of Remembrance/Attachments/Sreikon.md/Exported image 20240601180645-0.jpeg",
     "Sign of Remembrance/Attachments/Temuthan.md/Exported image 20240601180733-0.png",
     "Sign of Remembrance/Attachments/Keywords.md/Exported image 20240601180818-0.png",

@@ -1,6 +1,6 @@
 #Race #Limbani
 - - -
-**Ability Score Increase:** Your Intelligence score increases by 2.  
+**Racial Attribute Bonus:** Your Intelligence score increases by 2.  
 **Age:**  
 **Size:** Medium.  
 **Creature Type:** Abyssal.  

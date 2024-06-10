@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
 
-| **Druid Level** | **Features**                                   |
-| --------------- | ---------------------------------------------- |
-| 1st             | Auramancer, Aura Sense                         |
-| 2nd             | Instinct Sense, Ability Score Increase         |
-| 3rd             | Natural Specialty                              |
-| 4th             | Ex Terra, Ability Score Increase               |
-| 5th             | Natural Specialty Focus                        |
-| 6th             | Instinctive Ward, Ability Score Increase       |
-| 7th             | Instinct Sense                                 |
-| 8th             | Instinct Harmonization, Ability Score Increase |
-| 9th             |                                                |
-| 10th            | Sanguimancy, Ability Score Increase            |
+| **Druid Level** | **Features**                               |
+| --------------- | ------------------------------------------ |
+| 1st             | Auramancer, Aura Sense                     |
+| 2nd             | Instinct Sense, Attribute Increase         |
+| 3rd             | Natural Specialty                          |
+| 4th             | Ex Terra, Attribute Increase               |
+| 5th             | Natural Specialty Focus                    |
+| 6th             | Instinctive Ward, Attribute Increase       |
+| 7th             | Instinct Sense                             |
+| 8th             | Instinct Harmonization, Attribute Increase |
+| 9th             |                                            |
+| 10th            | Sanguimancy, Attribute Increase            |
 - - -
 ## Prerequisites
  
@@ -67,9 +67,9 @@ Starting at 2nd level, your ability to read aura is improved to the point where 
 
 The checked creature does not know they are being inspected, as you don't need to ask these questions to know when checking. Thus the check is made against their basic Deception (Charisma) DC.
  
-### Ability Score Increase
+### Attribute Increase
  
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
  
 ### Natural Specialty
  

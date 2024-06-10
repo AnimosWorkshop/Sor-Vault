@@ -6,9 +6,8 @@ Upcasting is the act of casting a spell at a level higher than its base one. Whe
  
 Compound casting is used for compound spells, which have more than one magic types. The spellcasting ability for compound spells is the highest of the magic types used, and during the casting both spell costs are expended in the same time. All requirements for both magic types must also be fulfilled.  
 
->The following example is outdated:
-For example, in order to cast True Shot at 3rd level, one must both use a 3rd-level resonance, be able to use a 3rd-level theurgy spell and succeed on the repliance check. The caster's repliance will then decrease by 6.  
-It should be noted that spell currencies used must be equal, and determine the spell level in which the spell is cast.
+><u>Example:</u> In order to cast Nullify Intentions at 1st level, one must both use a 1st-level resonance and 2 mana.  
+>It should be noted that spell currencies used must be equal, and determine the spell level in which the spell is cast.
  
  - - -
 ## Coven Casting
@@ -25,4 +24,4 @@ Upcasting can also be done by coven casting. In order to do that, each caster mu
  
 ### Coven Compound Casting
  
-Coven casting can also be used to cast a compound spell, in which casters of different magic types can use a compound spell together to cast it.
+Coven casting can also be used to cast a compound spell, in which casters of the same or different magic types can use a compound spell together to cast it.

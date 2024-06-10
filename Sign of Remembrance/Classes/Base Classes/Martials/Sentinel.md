@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
  
-| **Sentinel Level** | **Features**                                                    |
-| ------------------ | --------------------------------------------------------------- |
-| 1st                | Harmony within Everything, Inner Focus                          |
-| 2nd                | Deflecting Instinct, Martial Techniques, Ability Score Increase |
-| 3rd                | Focus Strikes                                                   |
-| 4th                | Enhanced Focus, Martial Techniques, Ability Score Increase      |
-| 5th                | Deflection Expertise                                            |
-| 6th                | Stance, Martial Techniques, Ability Score Increase              |
-| 7th                | Watchful Combatant                                              |
-| 8th                | Focused Respite, Martial Techniques, Ability Score Increase     |
-| 9th                |                                                                 |
-| 10th               | Martial Techniques, Ability Score Increase                      |
+| **Sentinel Level** | **Features**                                                |
+| ------------------ | ----------------------------------------------------------- |
+| 1st                | Harmony within Everything, Inner Focus                      |
+| 2nd                | Deflecting Instinct, Martial Techniques, Attribute Increase |
+| 3rd                | Focus Strikes                                               |
+| 4th                | Enhanced Focus, Martial Techniques, Attribute Increase      |
+| 5th                | Deflection Expertise                                        |
+| 6th                | Stance, Martial Techniques, Attribute Increase              |
+| 7th                | Watchful Combatant                                          |
+| 8th                | Focused Respite, Martial Techniques, Attribute Increase     |
+| 9th                |                                                             |
+| 10th               | Martial Techniques, Attribute Increase                      |
  - - -
 ## Prerequisites
  
@@ -80,9 +80,9 @@ At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Int
 | 8th                    | 3                    | 1                       |
 | 10th                   | 3                    | 2                       |
  
-### Ability Score Increase
+### Attribute Increase
  
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ### Focus Strikes
  

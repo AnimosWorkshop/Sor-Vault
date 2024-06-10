@@ -14,8 +14,8 @@ _Humans don’t have subraces as much as they have people with different learnin
 ## Subraces
 ### Gifted Human
  
-**Ability Score Increase:** Two different ability score of your choice increases by 2.  
-**Specialist:** Depending on the ability score you choose to increase, you gain one of the attributes' benefit (of your choice). In addition, you are proficient with the saving throw of the attribute you choose:
+**Racial Attribute Bonus:** Two different attribute scores of your choice increases by 2. 
+**Specialist:** Depending on the attributes you choose to increase, you gain one of those attributes' benefit (of your choice). In addition, you are proficient with the saving throw of the attribute you choose:
 
 - Strength - Whenever you critically hit, add double your proficiency modifier to the damage dealt of the same type as the one you deal. If the attack deals multiple damage types, use the one that dealt the most damage.
 - Dexterity - Your walking speed increases to 35', and opportunity attacks are made with disadvantage against you.
@@ -27,5 +27,5 @@ _Humans don’t have subraces as much as they have people with different learnin
  
 ### Learner Human
  
-**Ability Score Increase:** Each of your ability scores increase by 1, and one ability score of your choice increases by an additional 1.  
+**Racial Attribute Bonus:** Each of your attribute scores increase by 1, and one attribute score of your choice increases by an additional 1.  
 **Adept Arts:** You are adept instead of proficient in the skill you chose for your Skilled racial feature.

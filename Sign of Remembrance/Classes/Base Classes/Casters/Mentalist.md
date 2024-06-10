@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
 
-| **Mentalist Level** | **Features**                                    |
-| ------------------- | ----------------------------------------------- |
-| 1st                 | Histolect, Mental Sense                         |
-| 2nd                 | Mental Specialty, Ability Score Increase        |
-| 3rd                 | Silver Tongue                                   |
-| 4th                 | Enhanced Bond Specialty, Ability Score Increase |
-| 5th                 | Psychic Tug                                     |
-| 6th                 | Danger Sense, Ability Score Increase            |
-| 7th                 | Communal Bond, Enhanced Bond                    |
-| 8th                 | Performative Casting, Ability Score Increase    |
-| 9th                 |                                                 |
-| 10th                | Ability Score Increase                          |
+| **Mentalist Level** | **Features**                                |
+| ------------------- | ------------------------------------------- |
+| 1st                 | Histolect, Mental Sense                     |
+| 2nd                 | Mental Specialty, Attribute Increase        |
+| 3rd                 | Silver Tongue                               |
+| 4th                 | Enhanced Bond Specialty, Attribute Increase |
+| 5th                 | Psychic Tug                                 |
+| 6th                 | Danger Sense, Attribute Increase            |
+| 7th                 | Communal Bond, Enhanced Bond                |
+| 8th                 | Performative Casting, Attribute Increase    |
+| 9th                 |                                             |
+| 10th                | Attribute Increase                          |
    - - -
 
 ## Prerequisites
@@ -66,9 +66,9 @@ Your bonds enhance your influence over other creatures. While bound to a creatur
 #### Investigative
 Your mind becomes more aware of the creatures you are bound to. While bound to a creature, you have a +2 bonus to Insight (Wisdom) and Perception (Wisdom) checks against them, and you may use the Assess quick action on those creatures to learn an additional fact about them.
  
-### Ability Score Increase
+### Attribute Increase
  
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ### Silver Tongue
  

@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
  
-| **Transmuter Level** | **Features**                                                                 |
-| -------------------- | ---------------------------------------------------------------------------- |
-| 1st                  | Alchemechanical Infusion, Makeshift Alchemy                                  |
-| 2nd                  | Alchemical Affinity, Far Thrower, Martial Techniques, Ability Score Increase |
-| 3rd                  | Opus Creation Specialty                                                      |
-| 4th                  | Momental Attack, Martial Techniques, Ability Score Increase                  |
-| 5th                  | Advanced Infusion                                                            |
-| 6th                  | Vitality Transference, Martial Techniques, Ability Score Increase            |
-| 7th                  | Deeper Alchemical Affinity, Upgraded Opus Specialty                          |
-| 8th                  | Martial Techniques, Ability Score Increase                                   |
-| 9th                  |                                                                              |
-| 10th                 | Martial Techniques, Ability Score Increase                                   |
+| **Transmuter Level** | **Features**                                                             |
+| -------------------- | ------------------------------------------------------------------------ |
+| 1st                  | Alchemechanical Infusion, Makeshift Alchemy                              |
+| 2nd                  | Alchemical Affinity, Far Thrower, Martial Techniques, Attribute Increase |
+| 3rd                  | Opus Creation Specialty                                                  |
+| 4th                  | Momental Attack, Martial Techniques, Attribute Increase                  |
+| 5th                  | Advanced Infusion                                                        |
+| 6th                  | Vitality Transference, Martial Techniques, Attribute Increase            |
+| 7th                  | Deeper Alchemical Affinity, Upgraded Opus Specialty                      |
+| 8th                  | Martial Techniques, Attribute Increase                                   |
+| 9th                  |                                                                          |
+| 10th                 | Martial Techniques, Attribute Increase                                   |
    
 
 # Prerequisites
@@ -80,9 +80,9 @@ At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Int
 | 8th                  | 3                    | 1                       |
 | 10th                 | 3                    | 2                       |
  
-## Ability Score Increase
+## Attribute Increase
  
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ## Opus Creation Specialty
  

@@ -1,6 +1,6 @@
 #Race #Undead
 - - -
-**Ability Scores:** Your Charisma score decreases by 1, and your Dexterity score increases by 1.  
+**Racial Attribute Bonus:** Your Charisma score decreases by 1, and your Dexterity score increases by 1.  
 **Age:** Decay around 50 years after their undeath.  
 **Size:** As you were in life.  
 **Creature Type:** Undead.  

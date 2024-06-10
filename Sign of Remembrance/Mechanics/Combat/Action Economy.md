@@ -83,7 +83,7 @@ Actions will usually be most things a creature improvises, from picking up items
  
 Quick actions are things a creature can do which take up little time. Their versatility is lower than that of regular actions, as time is a constraint in this case. Quick actions may also be used if you take your action to use them. Examples for quick actions are:
  
-- Attack - if the creature used its action to use the Major Interaction action or the Attack action using a weapon without the Heavy property, it may use this quick action to make an attack using a different light weapon held in a different hand. The ability modifier for the weapon isn't added to the damage roll.
+- Attack - if the creature used its action to use the Major Interaction action or the Attack action using a weapon without the Heavy property, it may use this quick action to make an attack using a different light weapon held in a different hand. The attribute modifier for the weapon isn't added to the damage roll.
 - Assess - Make a Nature (Intelligence), a Nature (Wisdom) or an Insight (Wisdom) check. Depending on your roll, understand some facts about a creature. You understand one fact if you pass DC 10, two facts for DC 15, or three for DC 20, and so on. You can learn the following facts:
     - Creature type and race
     - Current health points percentage (out of its maximum)

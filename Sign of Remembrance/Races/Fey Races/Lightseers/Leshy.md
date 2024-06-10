@@ -1,6 +1,6 @@
 #Race #Fey
 - - -
-**Ability Score Increase:** Your Constitution score increases by 2.  
+**Racial Attribute Bonus:** Your Constitution score increases by 2.  
 **Age:** Mature at late 50s, live about 270 years.  
 **Size:** Medium.  
 **Creature Type:** Fey.  
@@ -15,11 +15,11 @@
 ## Subraces
 ### Lore Leshy
  
-**Ability Score Increase:** Your Intelligence score increases by 1.  
+**Racial Attribute Bonus:** Your Intelligence score increases by 1.  
 **Tales of Yore:** You are proficient with two skills of your choice.  
 **Far Seeker:** You can speak, read and write one language of your choice.
  
 ### War Leshy
  
-**Ability Score Increase:** Your Strength and Dexterity scores increase by 1.  
+**Racial Attribute Bonus:** Your Strength and Dexterity scores increase by 1.  
 **Traverser:** Your base walking speed is 30' instead of 25'.

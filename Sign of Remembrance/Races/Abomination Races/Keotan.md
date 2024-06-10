@@ -1,6 +1,6 @@
 #Race #Abomination
 - - -
-**Ability Score Increase:** Your Strength and Constitution scores increase by 1, and your Wisdom and Charisma scores decrease by 1.  
+**Racial Attribute Bonus:** Your Strength and Constitution scores increase by 1, and your Wisdom and Charisma scores decrease by 1.  
 **Age:** Keotans become more stable than before, aging about 1.5 times slower than their standard race does.  
 **Size:** Medium.  
 **Appearance:** Created by a destructive force, magic tore apart their physical form while hardening the remaining body parts. They look similar to both air and earth elementals, but their bodies have a tarnished silvery texture to them, especially in the head and neck and on their limbs. Though only their fists and their calves and feet remain, their hands and legs are held in place by holding it through the arcane web by a tether, allowing them to move them further than they normally would as their standard race. Even when they open their mouth to speak, their voice is raspy, making clear the changes they've been through.  

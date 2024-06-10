@@ -1,6 +1,6 @@
 #Race #Limbani
 - - -
-**Ability Score Increase:** Your Strength modifier increases by 2 and your Constitution modifier increases by 1.  
+**Racial Attribute Bonus:** Your Strength modifier increases by 2 and your Constitution modifier increases by 1.  
 **Age:**  
 **Size:** Medium.  
 **Creature Type:**  

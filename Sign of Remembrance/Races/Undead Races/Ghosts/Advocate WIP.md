@@ -1,6 +1,6 @@
 #Race #Undead
 - - -
-**Ability Score Increase:**  
+**Racial Attribute Increase:**  
 **Age:**  
 **Size:** Medium.  
 **Creature Type:**  

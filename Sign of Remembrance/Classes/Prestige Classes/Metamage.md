@@ -1,13 +1,13 @@
 #Class #Caster
 ### Feature Table
  
-| **Metamage Level** | **Features**                                   |
-| ------------------ | ---------------------------------------------- |
-| 1st                | Mage, Reckless Casting                         |
-| 2nd                | Sorcerous Annihilation, Ability Score Increase |
-| 3rd                | Sorcerous Overload                             |
-| 4th                | Magical Tolerance, Ability Score Increase      |
-| 5th                | Dynamicist                                     |
+| **Metamage Level** | **Features**                               |
+| ------------------ | ------------------------------------------ |
+| 1st                | Mage, Reckless Casting                     |
+| 2nd                | Sorcerous Annihilation, Attribute Increase |
+| 3rd                | Sorcerous Overload                         |
+| 4th                | Magical Tolerance, Attribute Increase      |
+| 5th                | Dynamicist                                 |
    
 - - -
 ## Prerequisites
@@ -59,9 +59,9 @@ You may use this feature a number of times equal to your proficiency modifier. T
  
 At 2nd level, you learn the principle of nullification by applying magic negative to one that affects you. While you are affected by a curse lasting 24 hours or less, you may use your action and spend a spellcasting (for example: resonance, influence, mana, etc.) of the same level as that curse in order to end that curse, and gain temporary hit points equal to five times the curse's level. If that curse was of the same type you had used, you gain temporary hit points equal to ten times the curse's level instead.
  
-### Ability Score Increase
+### Attribute Increase
  
-When you reach 2nd level, and again at 4th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at 4th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ### Sorcerous Overload
  

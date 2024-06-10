@@ -2,7 +2,7 @@
 - - -
 _Orcs are tribal, usually living in traveling clans without clinging too much to the same place. Although their size might be a bit intimidating at first, as they are taller and heavier than most humans, they are communal and respect others. Though the overall influence of orc culture on the mixed culture might be small as a whole, few individuals still rise every once in awhile and make a name for themselves. Within their tribes, they value utmost honor and honesty, even if the individual wills to leave the clan in a future date to wander alone, or perhaps start a tribe of their own._
  
-**Ability Score Increase:** Your Strength score increases by 2 and your Constitution score increases by 1.  
+**Racial Attribute Bonus:** Your Strength score increases by 2 and your Constitution score increases by 1.  
 **Age:** Mature at mid teens, live about 100 years.  
 **Size:** Medium.  
 **Creature Type:** Temuthen.  
@@ -24,6 +24,6 @@ _Berserker orcs are regarded by many as “barbaric” and “uncivilized”, bu
  
 _Nomad orcs get their name from the traveling that is associated with them. As they are able to go from cold to hot areas and vice versa without any problem acclimatizing, their culture revolves around the endless wonder of the world, collecting memories along the path and sharing it with others, who might one day aspire to attempt their own journey too._
  
-**Ability Score Increase:** Your Wisdom score increases by 1.  
+**Racial Attribute Bonus:** Your Wisdom score increases by 1.  
 **Acclimatize:** You are naturally adapted to both hot climates and cold climates.  
 **Find the Trail:** You know from experience how to locate trails and scarce places of foraging. You are novice with Nature.

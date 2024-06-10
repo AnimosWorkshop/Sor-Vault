@@ -1,6 +1,6 @@
 #Race #Hellenise 
 - - -
-**Ability Score Increase:** Your Intelligence score increases by 2.  
+**Racial Attribute Bonus:** Your Intelligence score increases by 2.  
 **Age:** Mature at early teens, live about 65 years.  
 **Size:** Small.  
 **Creature Type:** Hellenise.  
@@ -13,11 +13,11 @@
 ## Subraces 
 ### Trickster Imp
  
-**Ability Score Improvement:** Your Charisma score increases by 1.  
+**Racial Attribute Bonus:** Your Charisma score increases by 1.  
 **Devil's Tongue:** You are proficient with Deception and with Performance.
  
 ### Advocate Imp
  
-**Ability Score Improvement:** Your Willpower score increases by 1.  
+**Racial Attribute Bonus:** Your Willpower score increases by 1.  
 **Persuader:** You are novice with Persuasion.  
 **To Hell and Back:** Once per long rest, as a quick action, you may teleport up to 30' if you have a clear line of sight to that point. In the same round, you can use your reaction to go back to where you teleported from if you still have a line of sight to that point, but doing so prevents you from taking more reactions during that round as a lethargy takes over your body. This feature counts as a 2nd-level, arcana, displacement for the purpose of magic detection.

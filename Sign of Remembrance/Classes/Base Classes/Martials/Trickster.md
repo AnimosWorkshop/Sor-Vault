@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
  
-| **Trickster Level** | **Features**                                                        |
-| ------------------- | ------------------------------------------------------------------- |
-| 1st                 | Shifting Tempo                                                      |
-| 2nd                 | Cunning Action, Martial Techniques, Ability Score Increase          |
-| 3rd                 | Fast Hands, Uncanny Prediction                                      |
-| 4th                 | All Out, Shifting Tempo, Martial Techniques, Ability Score Increase |
-| 5th                 | Quick Attack, Uncanny Prediction                                    |
-| 6th                 | Alacrity, Martial Techniques, Ability Score Increase                |
-| 7th                 | Guerilla                                                            |
-| 8th                 | Skillful Technique, Martial Techniques, Ability Score Increase      |
-| 9th                 | Versatile Rotation                                                  |
-| 10th                | Perfected Technique, Martial Techniques, Ability Score Increase     |
+| **Trickster Level** | **Features**                                                    |
+| ------------------- | --------------------------------------------------------------- |
+| 1st                 | Shifting Tempo                                                  |
+| 2nd                 | Cunning Action, Martial Techniques, Attribute Increase          |
+| 3rd                 | Fast Hands, Uncanny Prediction                                  |
+| 4th                 | All Out, Shifting Tempo, Martial Techniques, Attribute Increase |
+| 5th                 | Quick Attack, Uncanny Prediction                                |
+| 6th                 | Alacrity, Martial Techniques, Attribute Increase                |
+| 7th                 | Guerilla                                                        |
+| 8th                 | Skillful Technique, Martial Techniques, Attribute Increase      |
+| 9th                 | Versatile Rotation                                              |
+| 10th                | Perfected Technique, Martial Techniques, Attribute Increase     |
    - - -
 ## Prerequisites
  
@@ -70,9 +70,9 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | 8th                 | 3                    |
 | 10th                | 3                    |
 
-### Ability Score Increase
+### Attribute Increase
  
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ### Fast Hands
  

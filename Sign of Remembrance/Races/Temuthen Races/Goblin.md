@@ -2,7 +2,7 @@
 - - -
 _Goblins are known for their unique curiosity at any cost. They are quick learners, using their their knack for learning to travel and gather more and more knowledge. There are many famous goblin inventors and researchers, but that doesn't suck fun out of their lives: contrary, many goblins' lives are full of thrill and action, and some goblins even got famous for joining the army as ruthless tacticians._
  
-**Ability Score Increase:** Your Intelligence score increases by 2.  
+**Racial Attribute Bonus:** Your Intelligence score increases by 2.  
 **Age:** Mature at early teens, live about 70 years.  
 **Size:** Small.  
 **Creature Type:** Temuthen.  
@@ -17,12 +17,12 @@ _Goblins are known for their unique curiosity at any cost. They are quick learne
  
 _Deft goblins are curious subrace, misunderstood by some and idolized by many. They don’t have a stern society, and most instead use their natural skills along with quick and gentle movements to craft many goods, such as leather or clothes. They are always active, seeking action by connecting to other races, and so they can be seen in almost every city._
  
-**Ability Score Increase:** Your Dexterity score increases by 2.  
+**Racial Attribute Bonus:** Your Dexterity score increases by 2.  
 **Practical Knowledge:** You are proficient with Sleight of Hand.
  
 ### Rough Goblin
  
 _Rough goblins have a greyish-black skin, and are a bit bigger than the deft goblins. They are practical in mind and will, and by and large, they tend to live in or near dwarven villages, often taken as apprentices in dwarven smithies and later in life become smiths themselves. As such, the rough goblin culture adopted dwarven principles such as discipline and artisanship to their core culture._
  
-**Ability Score Increase:** Your Strength score increases by 1 and your Constitution score increases by 1.  
+**Racial Attribute Bonus:** Your Strength score increases by 1 and your Constitution score increases by 1.  
 **Metallurgy:** You are proficient as a Smith. In addition, whenever you make a crafting check with Intelligence to recall knowledge about tools you are proficient with.

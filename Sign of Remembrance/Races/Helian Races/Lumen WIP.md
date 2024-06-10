@@ -1,6 +1,6 @@
 #Race #Helian
 - - -
-**Ability Score Increase:**  
+**Racial Attribute Bonus:**  
 **Age:**  
 **Size:** Medium.  
 **Creature Type:** Helian.  

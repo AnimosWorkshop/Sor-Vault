@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
 
-| **Paragon Level** | **Features**                                                    |
-| ----------------- | --------------------------------------------------------------- |
-| 1st               | Ideal Conduit, Divine Sense                                     |
-| 2nd               | Recovery Meditation, Call of Protection, Ability Score Increase |
-| 3rd               | Intervention Specialty                                          |
-| 4th               | Invoke Karma, Ability Score Increase                            |
-| 5th               | Major Intervention                                              |
-| 6th               | Intervening Beacon, Ability Score Increase                      |
-| 7th               | Conduit's Intervention                                          |
-| 8th               | Conduit of the Realm, Invoke Karma, Ability Score Increase      |
-| 9th               |                                                                 |
-| 10th              | Saving Grace, Ability Score Increase                            |
+| **Paragon Level** | **Features**                                                |
+| ----------------- | ----------------------------------------------------------- |
+| 1st               | Ideal Conduit, Divine Sense                                 |
+| 2nd               | Recovery Meditation, Call of Protection, Attribute Increase |
+| 3rd               | Intervention Specialty                                      |
+| 4th               | Invoke Karma, Attribute Increase                            |
+| 5th               | Major Intervention                                          |
+| 6th               | Intervening Beacon, Attribute Increase                      |
+| 7th               | Conduit's Intervention                                      |
+| 8th               | Conduit of the Realm, Invoke Karma, Attribute Increase      |
+| 9th               |                                                             |
+| 10th              | Saving Grace, Attribute Increase                            |
 - - -
 ## Prerequisites
  
@@ -66,9 +66,9 @@ Starting at 2nd level, you have learned to regain some of your magical energy th
 At 2nd level, you learn how to invoke a special prayer. When you or a creature within 30' of you gets critically hit, you may use your reaction to concentrate your will and absorb a part of the hit. The attacking creature rolls damage as if the attack was not a critical hit, and the damage splits evenly between the attacked creature and you. If armor breakage occurs, it applies only to the attacked creature.  
 You may use this feature an amount of times equal to your Willpower modifier, and regain expended uses in the end of a long rest.
  
-### Ability Score Increase
+### Attribute Increase
  
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ### Intervention Specialty
  

@@ -1,6 +1,6 @@
 #Race #Fey 
 - - -
-**Ability Score Increase:** Your Intelligence score increases by 2 and your Wisdom score increases by 1.  
+**Racial Attribute Bonus:** Your Intelligence score increases by 2 and your Wisdom score increases by 1.  
 **Age:** Mature at early teens, live about 80 years.  
 **Size:** Small.  
 **Creature Type:** Fey.  

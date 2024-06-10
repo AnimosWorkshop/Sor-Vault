@@ -1,6 +1,6 @@
 #Race #Hellenise
 - - -
-**Ability Score Increase:** Your Constitution score increases by 2.  
+**Racial Attribute Bonus:** Your Constitution score increases by 2.  
 **Age:** Mature at early teens, live about 90 years.  
 **Size:** Medium.  
 **Creature Type:** Hellenise.  
@@ -14,11 +14,11 @@
 ## Subraces
 ### Fargo Gargoyle
  
-**Ability Score Increase:** Your Dexterity score increases by 1.  
+**Racial Attribute Bonus:** Your Dexterity score increases by 1.  
 **Mobile Wings:** A fargone gargoyle's wings are flexible and mobile, allowing for a 25' flying speed, which allows them to go on long journeys.  
 **Travelers:** Fargone gargoyles are known to venture far and learn about the world around them. You are proficient with Nature.
  
 ### Keeper Gargoyle
  
-**Ability Score Increase:** Your Intelligence score increases by 1 and your Wisdom score increases by 1.  
+**Racial Attribute Bonus:** Your Intelligence score increases by 1 and your Wisdom score increases by 1.  
 **Stiff Wings:** A keeper gargoyle's wings are stiff, not allowing flight, but additional bodily protection. Your AC increases by 1.

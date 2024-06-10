@@ -2,15 +2,15 @@
 - - -
 ## Feature Table
 
-| **Partisan Level** | **Features**                                                     |
-| ------------------ | ---------------------------------------------------------------- |
-| 1st                | Battle Trance                                                    |
-| 2nd                | Spree, Martial Techniques, Ability Score Increase                |
-| 3rd                | Rejuvenating Flow                                                |
-| 4th                | Determined and Eager, Martial Techniques, Ability Score Increase |
-| 5th                | Retaliation                                                      |
-| 6th                | Martial Techniques, Ability Score Increase                       |
-| 7th                | Ever-Determined Spirit                                           |
+| **Partisan Level** | **Features**                                                 |
+| ------------------ | ------------------------------------------------------------ |
+| 1st                | Battle Trance                                                |
+| 2nd                | Spree, Martial Techniques, Attribute Increase                |
+| 3rd                | Rejuvenating Flow                                            |
+| 4th                | Determined and Eager, Martial Techniques, Attribute Increase |
+| 5th                | Retaliation                                                  |
+| 6th                | Martial Techniques, Attribute Increase                       |
+| 7th                | Ever-Determined Spirit                                       |
 - - -
 ## Prerequisites
  
@@ -61,9 +61,9 @@ Beginning at 2nd level, staying in your battle trance allows you further focus o
 - Raising the brawl action DC by 4 for your target as a quick action (-2, doesn't stack)
 - Raising the number rolled on a weapon attack roll by 2 after rolling, potentially making the attack hit or critically hit (-3, doesn't stack. Nullifies spree gain for the attack.)
 - Replenish 1 use of Battle Trance (-3)    
-### Ability Score Increase
+### Attribute Increase
  
-When you reach 2nd level, and again at 4th and 6th level, you can increase one ability score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 2nd level, and again at 4th and 6th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
 ### Martial Techniques
  
 At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.

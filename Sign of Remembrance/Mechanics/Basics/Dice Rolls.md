@@ -23,16 +23,16 @@ And so on.
 - - -
 ## Types of Dice Rolls
  
-All dice rolls can be categorized into five main categories, being: the attack roll, the damage roll, the saving throw, the ability check and the flat check.  
+All dice rolls can be categorized into five main categories, being: the attack roll, the damage roll, the saving throw, the attribute check and the flat check.  
 The common property almost all rolls have is their need to meet a certain minimum in order to succeed. Such minimum is often called a Difficulty Class, or DC for short. A "basic DC" is the standard formula for calculating the DC for an action against another creature. The basic DC is usually defined with a skill in mind, and is equal to 10 + the creature's bonus for that skill.  
 For example - a basic Athletics (Strength) DC will be equal to 10 + the target's Strength modifier + the Target's proficiency bonus with the Athletics skill.
  
 ### Attack Rolls
  
 Attack rolls are used by creatures to attempt to attack another creature. For the most part, they don't determine how strong an attack hits, since that is determined by damage rolls. Instead, attack rolls determine whether the attack hits in the first place. The roll is made up like so:  
-_Attack Roll = d20 + ability modifier + proficiency bonus_
+_Attack Roll = d20 + attribute modifier + proficiency bonus_
 
-- Ability modifier - each attack roll uses one of the seven [attributes](Ability%20Scores.md), and the corresponding attribute's modifier is added to the attack roll. Weapons use Strength, though weapons with the Finesse trait can use Dexterity instead, and spell attacks use their corresponding attribute (more information in the magic section).
+- Attribute modifier - each attack roll uses one of the seven [attributes](Attribute%20Scores.md), and the corresponding attribute's modifier is added to the attack roll. Weapons use Strength, though weapons with the Finesse trait can use Dexterity instead, and spell attacks use their corresponding attribute (more information in the magic section).
 - Proficiency bonus - if the creature is proficient with the weapon (in the case of weapon attacks) or with the [[Reading a Spell Entry|magic type]] (in the case of spell attacks), the creature's [proficiency bonus](Proficiency and Downtime) is added to the attack roll.
 
 The DC of an attack roll is the [[Armor Rules|Armor Class (AC)]] of the defending creature. On a success, the attack hits, and the attacking creature proceeds to roll a damage roll.  
@@ -42,34 +42,34 @@ Critical hits result in doubling all damage, while critical misses result in eit
 ### Damage Rolls
  
 Damage rolls, as the name implies, determine how much damage is dealt to the defending creature or hit object. For weapon attacks, the formula to calculate damage is as follows:  
-_Damage Roll = weapon's damage die + ability modifier_
+_Damage Roll = weapon's damage die + attribute modifier_
 
 - Weapon damage dice - can be found in the [weapons](Weaponsmith.md) page. Note that different upgrades, magic items and class features might modify the weapon's damage dice.
-- Ability modifier - as with the attack roll.
+- Attribute modifier - as with the attack roll.
 
-For spells and other special cases, the damage dice are noted in the relevant feature's description, though it is important to remember that the spellcasting ability modifier (for example, Intelligence for Arcana) is added to the damage roll of spell attacks, just as Strength would be added to weapon damage rolls. Any item bonuses to a creature's spellcasting modifier are also added to spell damage rolls.  
+For spells and other special cases, the damage dice are noted in the relevant feature's description, though it is important to remember that the spellcasting attribute modifier (for example, Intelligence for Arcana) is added to the damage roll of spell attacks, just as Strength would be added to weapon damage rolls. Any item bonuses to a creature's spellcasting modifier are also added to spell damage rolls.  
 Damage is dealt according to the rules listed in the [Damage and Death](Damage%20and%20Death.md) page.
  
 ### Saving Throws
  
 Saving throws are used as defensive rolls against different effects, from dodging traps to resisting mental spell effects, and everything in between. Calculating a saving throw is as follows:  
-_Saving Throw = d20 + ability modifier + proficiency bonus_
+_Saving Throw = d20 + attribute modifier + proficiency bonus_
 
-- Ability modifier - according to the type of saving throw required, you add one of the following attribute bonuses:
+- Attribute modifier - according to the type of saving throw required, you add one of the following attribute bonuses:
     - Resilience - highest among Strength or Constitution
     - Initiative - highest among Dexterity or Wisdom
     - Wits - highest among Intelligence or Charisma
     - Willpower - Willpower
-    - Flat saving throws - no ability modifier
+    - Flat saving throws - no attribute modifier
 - Proficiency bonus - all creatures add their proficiency bonus to saving throws. However, if they are proficient in a particular save (such as from downtime training or class features), they add twice their proficiency bonus instead. For example, the [leshy](Leshy.md) race gets a racial feature which grants them proficiency with Resilience saving throws.
  
 ### Ability Checks
  
 Ability checks are used both in combat and out of combat to determine the success of actions not covered by any of the previous rolls. They usually involve the use of skill and tool proficiencies, such as climbing a tree using an Athletics (Strength) check, discerning a creature's motive using an Insight (Wisdom) check, etc. Calculating ability checks is done using the following formula:  
-_Ability Checks = d20 + ability modifier + proficiency bonus_
+_Ability Checks = d20 + attribute modifier + proficiency bonus_
 
-- Ability modifier - ability checks correspond to a certain ability modifier, according to the roll.
-- Proficiency bonus - if the check is not a normal ability check (for example, a Dexterity check), a skill or tool is noted in the requirement for the check, with the corresponding ability modifier in parentheses. For example, an Insight (Wisdom) check would use the Insight skill with the Wisdom ability. In this case, the creature's proficiency bonus is added according to their [proficiency level](Proficiency and Downtime) in that specific skill.
+- Attribute modifier - ability checks correspond to a certain attribute modifier, according to the roll.
+- Proficiency bonus - if the check is not a normal ability check (for example, a Dexterity check), a skill or tool is noted in the requirement for the check, with the corresponding attribute modifier in parentheses. For example, an Insight (Wisdom) check would use the Insight skill with the Wisdom attribute. In this case, the creature's proficiency bonus is added according to their [proficiency level](Proficiency and Downtime) in that specific skill.
 
 The DC for an ability check is either noted in whatever required the check (for example, an opposing saving throw), or determined by the game master. In the case of a tie in opposing checks, the "attacker" wins - for example, Deception is usually thought of as more offensive than Insight, and Perception more offensive than Stealth.
  
