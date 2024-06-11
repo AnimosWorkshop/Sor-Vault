@@ -1,5 +1,5 @@
 #1st-Level #Arcana #Alteration #Boon
-Rare (Source - [[Blessing of Curiosity]])
+Rare (Source - [[Minor Blessing of Curiosity|Blessing of Curiosity]])
  
 - Casting Time: Action or 3 reactions to you or a creature you can perceive within range being damaged
 - Range: 10'
