@@ -1,0 +1,6 @@
+{
+  "entry-point@@color-scheme-selector": "color-scheme-ukiyo",
+  "entry-point@@separate-color-scheme": false,
+  "entry-point@@dark-mode-color-scheme-selector": "dm-color-scheme-ukiyo",
+  "entry-point@@floating-sides": false
+}

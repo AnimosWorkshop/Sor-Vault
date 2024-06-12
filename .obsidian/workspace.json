@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7de0512bd093d082",
+            "id": "84b228617bf516dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Information/Overview.md",
+                "file": "Campaign/Sessions/Session 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e570e9e628002184",
+            "id": "66b5c890b03ceb47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Information/Gods/3rd Verse Temuthen Gods.md",
+                "file": "Campaign/Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,14 +68,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "bf871fbbd62ada7e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -108,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Information/Overview.md"
+                "file": "Campaign/Sessions/Session 2.md"
               }
             }
           },
@@ -118,8 +110,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Information/Overview.md",
-                "collapseAll": false,
+                "file": "Campaign/Sessions/Session 2.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Information/Overview.md",
+                "file": "Campaign/Sessions/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,35 +152,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7de0512bd093d082",
+  "active": "84b228617bf516dc",
   "lastOpenFiles": [
-    "World Information/Temuthan.png",
+    "Campaign/Non-Player Characters/Bronze Welfare Service.md",
+    "Campaign/Sessions/Session 2.md",
+    "Campaign/Sessions/Session 1.md",
+    "Campaign/Player Characters/Hafne.md",
+    "Sign of Remembrance/Classes/Base Classes/Casters/Paragon Ideals.canvas",
+    "World Information/Gods/3rd Verse Temuþen Gods.md",
+    "World Information/Temuþan.png",
+    "Temuthen/Grammatical Gender.md",
+    "Temuthen/Pronouns and Vocative Case.md",
+    "Temuthen/Actions.md",
+    "Sign of Remembrance/Magic/Arcana/School of Augury/Alarm.md",
+    "Sign of Remembrance/Classes/Base Classes/Casters/Wizard.md",
+    "Sign of Remembrance/Classes/Base Classes/Casters/Paragon.md",
+    "Sign of Remembrance/Classes/Base Classes/Casters/Mentalist.md",
+    "Sign of Remembrance/Magic/Auramancy/School of Decay/Exhaustion Bolt.md",
+    "Campaign/Player Characters/Fivia.md",
     "World Information/Overview.md",
-    "World Information/Gods/3rd Verse Temuthen Gods.md",
     "World Information/Gods/3rd Verse Sylvan Gods.md",
     "World Information/Gods/Gods List.md",
     "Campaign/Player Characters/Þaj.md",
-    "Campaign/Player Characters/Fivia.md",
     "Campaign/Non-Player Characters/The Loose Cog.md",
-    "Campaign/Non-Player Characters/Bronze Welfare Service.md",
-    "Campaign/Sessions/Session 2.md",
     "World Information",
     "Campaign/Stat Blocks/Dragons.md",
     "Campaign/Stat Blocks/Casters.md",
-    "Temuthen/Grammatical Gender.md",
     "Campaign/Regional Information/Bronze Archipelago/Begehra.md",
-    "Temuthen/Pronouns and Vocative Case.md",
     "Temuthen/Adverbs.md",
     "Temuthen/Counting.md",
     "Temuthen/Suffixes.md",
-    "Temuthen/Questions.md",
-    "Temuthen/Adjectives.md",
-    "Temuthen/Actions.md",
-    "Sign of Remembrance/Magic/Arcana/School of Tempest/Tezix's Whispering Breeze.md",
-    "Sign of Remembrance/Magic/Arcana/School of Tempest/Shocking Grasp.md",
-    "Sign of Remembrance/Magic/Arcana/School of Tempest/Warding Wind.md",
-    "Sign of Remembrance/Magic/Arcana/School of Tempest/Witch Bolt.md",
-    "Sign of Remembrance/Magic/Arcana/School of Tempest/Tezix's Royal Carpet.md",
     "Sign of Remembrance/Magic/Arcana/School of Tempest",
     "Sign of Remembrance/Magic/Arcana/School of Puppeteering",
     "Sign of Remembrance/Magic/Arcana/School of Displacement",
@@ -198,7 +191,6 @@
     "Sign of Remembrance/Magic/Arcana",
     "Sign of Remembrance/Magic/Histolecty/School of Tempest",
     "Sign of Remembrance/Magic/Histolecty/School of Summoning",
-    "Sign of Remembrance/Classes/Base Classes/Casters/Paragon Ideals.canvas",
     "Sign of Remembrance/Mechanics/Basics/Character Creation.canvas",
     "Sign of Remembrance/Attachments/Sreikon.md/Exported image 20240601180645-0.jpeg",
     "Sign of Remembrance/Attachments/Temuthan.md/Exported image 20240601180733-0.png",

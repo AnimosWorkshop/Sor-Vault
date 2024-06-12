@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "baseFontSize": 19,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "cssTheme": "Ukiyo",
+  "textFontFamily": "Sabon Next LT",
+  "monospaceFontFamily": "Sabon Next LT",
+  "interfaceFontFamily": "Sabon Next LT"
 }
