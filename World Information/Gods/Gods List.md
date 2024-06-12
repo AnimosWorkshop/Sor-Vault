@@ -1,20 +1,20 @@
 - - -
-## Areno, Architect of Temuthan
+## Areno, Architect of Temuþan
 
 ### Ragauda - Goddess of Equality
 
-- Ratoki - Goddess of Equality; The Harmonizer
+- [[Temuþen Gods#Ratoki|Ratoki]] - Goddess of Equality; The Harmonizer
 - Ardain - God of Balance
 - -
 ### Tezix - God of Change
 
 - Sanae - Goddess of Change
 - -
-- Ashe - God of Charity
+- [[Temuþen Gods#Ashe Faranor|Ashe]] - God of Charity
 ### Gharil - God of Confidence
 
 - -
-- Alicia - The Puppeteer
+- [[Temuþen Gods#Alicia Royd|Alicia]] - The Puppeteer
 - -
 - - -
 ## Exala, Architect of Preida
@@ -26,13 +26,13 @@
 ### Gweldyn - God of Freedom
 
 - -
-- Nyala - Goddess of Fervor
+- [[Temuþen Gods#Niala|Niala]] - Goddess of Fervor
 - -
 ### Saenka - Goddess of Health
 
 - -
 - -
-- Sipya - Voice of Life
+- [[Sylvan Gods#Sipya, the Martyr's Dagger|Sipya]] - Voice of Life
 - - -
 ## Ifrit, Architect of Hell
 
@@ -45,7 +45,7 @@
 
 - -
 - -
-- Lyrica - Goddess of Information
+- [[Temuþen Gods#Lirika|Lirika]] - Goddess of Information
 ### Armogon - God of Judgement
 
 - -
@@ -60,7 +60,7 @@
 
 ### Nidora - Goddess of Collectivity
 
-- Vilidin - Goddess of Society
+- [[Temuþen Gods#Vilidin|Vilidin]] - Goddess of Society
 - -
 - -
 ### Alsidia - Goddess of Balance
@@ -75,11 +75,11 @@
 
 - Datson - God of Autonomy
 - Seiran - Goddess of Assassination
-- Meralyn - God of Manipulation
+- [[Temuþen Gods#Meralien (Meralyn) Martor|Meralien]] - God of Manipulation
 
 ### Hastur - God of Authority
 
-- Thea - Goddess of the Servant Leader
+- [[Temuþen Gods#Þea of Maþak|Þea]] - Goddess of the Servant Leader
 - Valeo - Goddess of the Visionary Leader
 - -
 
