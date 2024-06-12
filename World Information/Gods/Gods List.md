@@ -8,7 +8,7 @@
 - -
 ### Tezix - God of Change
 
-- Sanae - Goddess of Change
+- [[Sylvan Gods#Sanae|Sanae]] - Goddess of Change
 - -
 - [[Temuþen Gods#Ashe Faranor|Ashe]] - God of Charity
 ### Gharil - God of Confidence
@@ -44,7 +44,7 @@
 ### Aria - Goddess of Knowledge
 
 - -
-- -
+- [[Sylvan Gods#Kitas|Kitas]] - God of Rhetoric
 - [[Temuþen Gods#Lirika|Lirika]] - Goddess of Information
 ### Armogon - God of Judgement
 

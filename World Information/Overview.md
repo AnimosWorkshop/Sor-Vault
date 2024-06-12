@@ -5,7 +5,7 @@ The campaign starts at 2nd level, and will probably last at least until the leve
 As if the world hasn’t suffered enough in the Second Cataclysm, five of the dragonlands decided to take advantage of the crisis to wage war against the weakened realm. The world has been divided between two main factions:
 
 - The Dragonlands (Gandecrala) – ruled by the chrome dragons and the: gold, brass, blue, black and white dragonflights.
-- The Free World (Carniules) – lead by Koperavseu which managed to preserve its structure due to its society from before the cataclysm, with the other countries being: Urevneþ as a new country inhabited by the previously-called Puppeteers, Futeakel, Arborealis and the Bronze Archipelago.
+- The Free World (Carniules) – lead by Avsekoper which managed to preserve its structure due to its society from before the cataclysm, with the other countries being: Urevneþ as a new country inhabited by the previously-called Puppeteers, Akelfutes, Arborealis and the Bronze Archipelago.
 
 As the world was divided in twain, large population shifts on both sides ensued, leading to a major humanitarian crisis all over the world. While skepticism from the rest of the worlds grows, a plane at war must somehow take care of the many who have lost their home, and potentially their family as well.
 

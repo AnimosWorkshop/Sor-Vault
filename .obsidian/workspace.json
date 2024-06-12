@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84b228617bf516dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Information/3rd Verse Countries/Koperavseu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "41950a9e87c556d8",
             "type": "leaf",
             "state": {
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d87203fcb60d39e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Information/Gods/3rd Verse/Sylvan Gods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d55af8d9362d78cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Sessions/Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,13 +48,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fute",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "8cc41603964af956",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -179,11 +150,16 @@
   },
   "active": "41950a9e87c556d8",
   "lastOpenFiles": [
-    "World Information/Gods/3rd Verse/Sylvan Gods.md",
-    "World Information/Gods/Gods List.md",
-    "World Information/3rd Verse Countries/Koperavseu.md",
-    "Campaign/Sessions/Session 1.md",
+    "Temuthen/Word Order.md",
+    "Temuthen/Actions.md",
+    "Temuthen/Suffixes.md",
+    "World Information/Overview.md",
     "World Information/Gods/3rd Verse/Temuþen Gods.md",
+    "World Information/3rd Verse Countries/Avsekoper.md",
+    "Campaign/Sessions/Session 2.md",
+    "World Information/Gods/Gods List.md",
+    "World Information/Gods/3rd Verse/Sylvan Gods.md",
+    "Campaign/Sessions/Session 1.md",
     "Campaign/Non-Player Characters/The Loose Cog.md",
     "World Information/Temuþan.png",
     "Campaign/Non-Player Characters/Bronze Welfare Service.md",
@@ -192,13 +168,10 @@
     "World Information/Temuthan.png",
     "World Information/Gods/3rd Verse",
     "World Information/3rd Verse Countries",
-    "World Information/Overview.md",
-    "Campaign/Sessions/Session 2.md",
     "Campaign/Player Characters/Hafne.md",
     "Sign of Remembrance/Classes/Base Classes/Casters/Paragon Ideals.canvas",
     "Temuthen/Grammatical Gender.md",
     "Temuthen/Pronouns and Vocative Case.md",
-    "Temuthen/Actions.md",
     "Sign of Remembrance/Magic/Arcana/School of Augury/Alarm.md",
     "Sign of Remembrance/Classes/Base Classes/Casters/Wizard.md",
     "Sign of Remembrance/Classes/Base Classes/Casters/Paragon.md",
@@ -209,7 +182,6 @@
     "World Information",
     "Campaign/Stat Blocks/Dragons.md",
     "Campaign/Stat Blocks/Casters.md",
-    "Campaign/Regional Information/Bronze Archipelago/Begehra.md",
     "Sign of Remembrance/Magic/Arcana/School of Tempest",
     "Sign of Remembrance/Magic/Arcana/School of Puppeteering",
     "Sign of Remembrance/Magic/Arcana/School of Displacement",
