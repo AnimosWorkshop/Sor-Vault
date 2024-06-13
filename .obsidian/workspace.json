@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d0209ecabd333c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temuthen/Actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Sessions/Session 2.md"
+                "file": "Temuthen/Actions.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Sessions/Session 2.md",
+                "file": "Temuthen/Actions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Sessions/Session 2.md",
+                "file": "Temuthen/Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,22 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41950a9e87c556d8",
+  "active": "0d0209ecabd333c0",
   "lastOpenFiles": [
-    "Campaign/Regional Information/Bronze Archipelago/Begehra.md",
+    "Temuthen/Grammatical Gender.md",
+    "Temuthen/Actions.md",
     "Campaign/Sessions/Session 2.md",
+    "Campaign/Sessions/Session 1.md",
+    "Temuthen/Word Order.md",
+    "Attempt.md",
+    "Temuthen/Adjectives.md",
+    "World Information/Temuþan.png",
+    "World Information/Gods/3rd Verse/Temuþen Gods.md",
+    "Campaign/Regional Information/Bronze Archipelago/Begehra.md",
     "Campaign/Regional Information/Avsekoper",
     "Campaign/Regional Information/Avsekoper.md",
-    "World Information/Temuþan.png",
-    "Temuthen/Word Order.md",
     "World Information/Gods/Gods List.md",
-    "Temuthen/Actions.md",
     "Temuthen/Suffixes.md",
     "World Information/Overview.md",
-    "World Information/Gods/3rd Verse/Temuþen Gods.md",
     "World Information/3rd Verse Countries/Avsekoper.md",
     "World Information/Gods/3rd Verse/Sylvan Gods.md",
-    "Campaign/Sessions/Session 1.md",
     "Campaign/Non-Player Characters/The Loose Cog.md",
     "Campaign/Non-Player Characters/Bronze Welfare Service.md",
     "Sign of Remembrance/Magic/Auramancy/School of Summoning/Meralien's Woodland Mantle.md",
@@ -173,15 +190,12 @@
     "World Information/3rd Verse Countries",
     "Campaign/Player Characters/Hafne.md",
     "Sign of Remembrance/Classes/Base Classes/Casters/Paragon Ideals.canvas",
-    "Temuthen/Grammatical Gender.md",
     "Temuthen/Pronouns and Vocative Case.md",
     "Sign of Remembrance/Magic/Arcana/School of Augury/Alarm.md",
     "Sign of Remembrance/Classes/Base Classes/Casters/Wizard.md",
     "Sign of Remembrance/Classes/Base Classes/Casters/Paragon.md",
     "Sign of Remembrance/Classes/Base Classes/Casters/Mentalist.md",
     "Sign of Remembrance/Magic/Auramancy/School of Decay/Exhaustion Bolt.md",
-    "Campaign/Player Characters/Fivia.md",
-    "Campaign/Player Characters/Þaj.md",
     "World Information",
     "Sign of Remembrance/Magic/Arcana/School of Tempest",
     "Sign of Remembrance/Magic/Arcana/School of Puppeteering",
