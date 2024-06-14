@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d0209ecabd333c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temuthen/Actions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temuthen/Actions.md"
+                "file": "Campaign/Sessions/Session 2.md"
               }
             }
           },
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temuthen/Actions.md",
+                "file": "Campaign/Sessions/Session 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temuthen/Actions.md",
+                "file": "Campaign/Sessions/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,10 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d0209ecabd333c0",
+  "active": "41950a9e87c556d8",
   "lastOpenFiles": [
-    "Temuthen/Grammatical Gender.md",
     "Temuthen/Actions.md",
+    "Temuthen/Grammatical Gender.md",
     "Campaign/Sessions/Session 2.md",
     "Campaign/Sessions/Session 1.md",
     "Temuthen/Word Order.md",
