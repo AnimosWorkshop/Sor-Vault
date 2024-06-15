@@ -53,7 +53,7 @@ At 4th level, this bonus to your attack roll is increased to 1d6, and you may in
  
 ### Cunning Action
  
-Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The Dash, Disengage and Hide actions become quick actions for you.  
+Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The [[Action Economy#^f8a635|Dash]], [[Action Economy#^9a6755|Disengage]] and [[Action Economy#^284a7e|Hide]] actions become quick actions for you.  
 When you take the Dash action as a quick action, you may move up to half your speed instead of your full move speed, and when you take the Hide action as a quick action, you have a -2 penalty to your roll.  
 
 In addition, you may use the Dodge reaction as a response to being attacked by an enemy you can see. If you succeed, your AC is increased by your Dexterity modifier divided by 3 against the attack.
@@ -62,13 +62,13 @@ In addition, you may use the Dodge reaction as a response to being attacked by a
  
 At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
 
-| **Trickster Level** | **Basic Techniques** |
-| ------------------- | -------------------- |
-| 2nd                 | 1                    |
-| 4th                 | 2                    |
-| 6th                 | 3                    |
-| 8th                 | 3                    |
-| 10th                | 3                    |
+| **Trickster Level** | **Basic Techniques** | **Advanced Techniques** |
+| ------------------- | -------------------- | ----------------------- |
+| 2nd                 | 1                    | -                       |
+| 4th                 | 2                    | -                       |
+| 6th                 | 3                    | -                       |
+| 8th                 | 3                    | 1                       |
+| 10th                | 3                    | 2                       |
 
 ### Attribute Increase
  
@@ -76,7 +76,7 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
  
 ### Fast Hands
  
-Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. The Major Interaction, Disorient and Medicate actions become quick actions for you, and you gain a climbing speed equal to your walking speed.  
+Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. The Major Interaction, [[Action Economy#^1e684d|Disorient]] and [[Action Economy#^79c113|Medicate]] actions become quick actions for you, and you gain a climbing speed equal to your walking speed.  
 When using the Disorient action as a quick action, the target gets a +2 bonus their saving throw, and using the Medicate action as a quick action gives you a -2 penalty to your roll.  
 You also gain 1 proficiency level in either the Sleight of Hand or Medicine.
  
@@ -91,7 +91,7 @@ Starting at 4th level, you manage to let your power flow through each attack giv
  
 ### Quick Attack
  
-Starting at 5th level, the Attack action becomes a quick action for you. Using a quick action to perform the Attack action does not allow you to use the Extra Attack fighter feature on it. In addition, your damage rolls with light, finesse and ammunition weapons increase by 1.
+Starting at 5th level, the [[Action Economy#^43d1b5|Attack]] action becomes a quick action for you. Using a quick action to perform the Attack action does not allow you to use the [[Fighter#Extra Attack|Extra Attack]] fighter feature on it. In addition, your damage rolls with light, finesse and ammunition weapons increase by 1.
  
 ### Alacrity
  
@@ -100,12 +100,14 @@ You are proficient with Initiative and Wits saving throws.
  
 ### Guerilla
  
-At 7th level, you learn how to manage to get your attacks through even at tough situations. When you are supposed to attack with disadvantage, such as from being prone or shooting a ranged weapon from only 5' of your target, you may cancel 1 disadvantage to attack with a -2 penalty. This may be used only once per attack.  
-In addition, whenever you attack a creature using a weapon without disadvantage, you may add 1d6 piercing damage to your damage roll. This damage die scales from the weapon's potency upgrade, so a +1 weapon would increase this piercing damage to 1d8, and so on. This may be used only once per creature per round.
+At 7th level, you learn how to manage to get your attacks through even at tough situations. When you are supposed to attack with disadvantage, such as from being [[Conditions#Prone|prone]] or using a ranged weapon when only 5' away from your target, you may cancel 1 disadvantage to attack with a -2 penalty. This may be used only once per attack.  
+
+In addition, whenever you attack a creature using a weapon without disadvantage, you may add 1d6 piercing damage to your damage roll. This damage die scales from the weapon's potency upgrade, so a +1 weapon would increase this piercing damage to 1d8, and so on. This may be used only once against each creature per round.
  
 ### Skillful Technique
  
-At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. You gain four skillful techniques: Disorient, Hide, Major Interaction, and Medicate. Whenever you successfully use one of your skillful techniques as a quick action, you increase your movement speed by 5' and your next damage roll until the end of your next turn by 1, and whenever you successfully use it as an action, including martial techniques which extend it to an action, you increase your speed by 10' and increase your next damage roll until the end of your next turn by 2.
+At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. You gain four skillful techniques: Disorient, Hide, Major Interaction, and Medicate. 
+Whenever you successfully use one of your skillful techniques as a quick action, you increase your movement speed by 5' and your next damage roll until the end of your next turn by 1, and whenever you successfully use it as an action, including martial techniques which extend it to an action, you increase your speed by 10' and increase your next damage roll until the end of your next turn by 2.
  
 ### Versatile Rotation
  

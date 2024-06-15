@@ -9,6 +9,7 @@ Actions initially come in their adverb form, ending with an 'ū'. From it, verbs
 ## List of Actions
 
 * acū - to have
+* adfū - to turn
 * afū - to feel (emotion)
 * akelū - to focus / to center
 * arenū - to follow / to worship
@@ -19,6 +20,7 @@ Actions initially come in their adverb form, ending with an 'ū'. From it, verbs
 * belkū - to separate
 * bevlū - to fail (at something)
 * blū - to prepare
+* bolū - to lower
 * britū - to prove
 * carnū - to free
 * cecnū - to teach
@@ -114,6 +116,7 @@ Actions initially come in their adverb form, ending with an 'ū'. From it, verbs
 * licū - to burn
 * lirikū - to promise
 * likarū - to recall
+* lobū - to raise
 * lublazū - to survive
 * lunū - to lie (down)
 * meralū - to have mercy

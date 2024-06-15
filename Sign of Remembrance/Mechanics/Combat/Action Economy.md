@@ -53,7 +53,7 @@ Actions will usually be most things a creature improvises, from picking up items
  
 - Attack - the creature makes 1 weapon attack against another creature or object. The creature makes an attack roll. If the result is equal to or higher than the defending creature's AC, the attack hits, allowing the attacking creature to make a damage roll.
 	Readied light weapons (such as a sheathed shortsword) can be drawn and used to attack using 1 Attack action.
-	In addition, a weapon attack can be performed nonlethaly. This subject is elaborated on in the [weapons](Weaponsmith.md) page.
+	In addition, a weapon attack can be performed nonlethaly. This subject is elaborated on in the [weapons](Weaponsmith.md) page. ^43d1b5
 - Brawl - you may perform one of the following actions, all of which are considered brawl actions:
     - Grapple - You use one hand, and a creature of your size or 1 higher must make a Strength saving throw against your basic Athletics (Strength) DC. On a failed save, they are [[Conditions#Grappled|grappled]] until they break free. Grappling requires you to use an arm to maintain it. That arm can still hold items, but usually cannot use them (such as weapons), except for shields with the Glove trait, which still provide their AC bonus against creatures you do not grapple. The escape DC is the same of your grapple DC.
 		Attempting to grappling a prone creature turns into the Topple action instead.
@@ -61,10 +61,10 @@ Actions will usually be most things a creature improvises, from picking up items
     - Topple - An unmounted creature within 5' of you must make a Resilience saving throw against your basic Athletics (Strength) DC. The DC is increased by 2 if you are of their size category or larger than them. On a failed save, they become [[Conditions#Toppled|toppled]]. The escape DC is the same of your topple DC.
     - Restrain - A creature grappled or toppled by you must make a Resilience saving throw against your basic Athletics (Strength) DC. On a failed save, they are also [[Conditions#Restrained|restrained]]. The conditions to ending the restraining are the same as to ending the grappling or toppling.
 - Bluff - you confuse an enemy trying to attack you in order to soften a blow. The next time a creature within 30' attacks you, they must make a Wits saving throw against your basic Deception (Charisma) DC. On a failure, the damage they deal with their attack is reduced by your Deception (Charisma) modifier. The Bluff action must be the last thing you do on your turn to work.
-- Dash - the creature can move additional distance equal to its base movement speeds.
-- Disengage - the creature may escape another creature's reach without provoking attacks of opportunity for the rest of the turn.
-- Disorient - you attempt to throw a creature off-balance using your immediate surroundings, such as kicking dirt into your opponent's eyes, knocking a nearby branch towards their face, etc. The target creature within 5' must make an Initiative saving throw against your basic Sleight of Hand (Dexterity) DC or against your basic Deception (Charisma) DC. On a fail, they are [[Conditions#Pacified|pacified]] 1 until the end of their next turn, or pacified 2 if you have a free hand.
-- Hide - the creature makes a Stealth (Dexterity) roll. They are hidden from all creatures whose basic Perception (Wisdom) DC is lower than the roll.
+- Dash - the creature can move additional distance equal to its base movement speeds. ^f8a635
+- Disengage - the creature may escape another creature's reach without provoking attacks of opportunity for the rest of the turn. ^9a6755
+- Disorient - you attempt to throw a creature off-balance using your immediate surroundings, such as kicking dirt into your opponent's eyes, knocking a nearby branch towards their face, etc. The target creature within 5' must make an Initiative saving throw against your basic Sleight of Hand (Dexterity) DC or against your basic Deception (Charisma) DC. On a fail, they are [[Conditions#Pacified|pacified]] 1 until the end of their next turn, or pacified 2 if you have a free hand. ^1e684d
+- Hide - the creature makes a Stealth (Dexterity) roll. They are hidden from all creatures whose basic Perception (Wisdom) DC is lower than the roll. ^284a7e
 - Major Interaction - the creature interacts with different objects in the world within its reach. For example:
     - Pick up a large object (GM's decision for what counts as a large or difficult to pick up item) or many small objects
     - Draw or stow two objects if neither are heavy
@@ -76,7 +76,7 @@ Actions will usually be most things a creature improvises, from picking up items
     - Perception (Wisdom) - see objects and creatures, etc. Each hidden creature with basic Stealth (Dexterity) DC lower than your roll is not hidden from you.
     - Investigation (Intelligence) - understand the form of an item or its purpose, find clues, etc.
     - Sorcery (Wisdom) - sense the quality of magic affecting the area around you. Taking base caster classes ([paragon](Paragon.md), [druid](Druid.md), [mentalist](Mentalist.md), [wizard](Wizard.md)) grants features which extend what is possible to sense using this action.
-- Medicate - the creature attempts to aid a fallen creature in order to pull them away from death's door. Roll either a Medicine (Intelligence) or a Medicine (Wisdom) check, according to the GM's decision. On DC 10, the fallen creature makes their next Death check with advantage. On DC 20, the fallen creature gets a death success instead.
+- Medicate - the creature attempts to aid a fallen creature in order to pull them away from death's door. Roll either a Medicine (Intelligence) or a Medicine (Wisdom) check, according to the GM's decision. On DC 10, the fallen creature makes their next Death check with advantage. On DC 20, the fallen creature gets a death success instead. ^79c113
 - Wake Up - any unconscious creatures above 0 hit points within 15' wake up, unless what put them under that condition specifies otherwise.
  - - -
 ## Quick Action
