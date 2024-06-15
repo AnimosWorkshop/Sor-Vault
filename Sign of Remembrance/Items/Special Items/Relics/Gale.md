@@ -4,7 +4,7 @@ _Artifact_
 - Magic Type: Arcana
 - Requires Attunement: Potency, Functionality, Property (must be with Willpower 15)
  
-This legendary scepter from the end of the First Verse was crafted by [Tezix, the Shifter](Tezix,%20the%20Shifter), himself, and was later used as the key to his chamber in his main temple in central Maingrat. The sword was traditionally kept as the archbishop's possession, before the Sealing occurred, though an earthquake that ensued during it caused the temple to become ruins, trapping the sword and its wielder inside. Only in the year 1274 PS, the new archbishop of Tezix - Sanae, claimed Gale to her possession and continued the cycle.
+_This legendary scepter from the end of the First Verse was crafted by Tezix, the Shifter himself, and was later used as the key to his chamber in his main temple in the center of the Bronze Archipelago. It was traditionally kept in the possession of his most trusted follower, before the Sealing occurred, though an earthquake that ensued during it caused the temple to become ruins, trapping the scepter and its wielder inside._
  
 As a [[Spell Foci|scepter]], Gale is also a [[Weaponsmith#Simple Melee Weapons|mace]], dealing 1d8 bludgeoning damage and having the Tool (Sorcery) weapon property.
  

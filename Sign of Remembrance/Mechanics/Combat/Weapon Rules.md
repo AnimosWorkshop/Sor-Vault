@@ -58,7 +58,7 @@ A property given to ranged weapons to indicate that they can also be used in mel
 Note that some weapons need to be loaded while using this property in order to attack, for example - the sling.
 #### Thrown
 
-If a weapon has the thrown property, you can throw the weapon to make a ranged attack using your Strength modifier. If the weapon also has the Finesse property, you may throw it using your Dexterity modifier, so if you throw a dagger, you can use either your Strength or your Dexterity. Thrown weapons which aren't melee weapons cannot be used to attack in melee range.
+If a weapon has the thrown property, you can throw the weapon to make a ranged attack using your Strength modifier. If the weapon also has the Finesse property, you may throw it using your Dexterity modifier, so if you throw a dagger, you can use either your Strength or your Dexterity. Thrown weapons which aren't melee weapons cannot be used effectively to attack in melee range.
 #### Tool
 
 The weapon can also be used as a tool, enhancing your abilities in a particular skill. The skill will be noted in parentheses next to this keyword, and you have a +1 bonus to that skill's checks and DCs as long as you hold it. This bonus does not stack if you hold multiple Tool objects.
