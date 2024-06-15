@@ -45,7 +45,6 @@ In order to advance as a transmuter, you must meet the following prerequisites:
  
 - Leather Armor
 - 1 simple or martial weapon of your choice
-   
 
 # Class Features
  
