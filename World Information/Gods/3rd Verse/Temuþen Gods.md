@@ -11,14 +11,14 @@ Vilidin came to the Bronze Archipelago from the Black Dragonland after the Great
 
 ### Alicia Royd
 
->Scholar Fariste; Puppeteering Wizard 10th; [[Major Blessing of Curiosity]]
+>[[Fariste#Scholar Fariste|Scholar Fariste]]; Puppeteering [[Wizard]] 10th; [[Major Blessing of Curiosity]]
 
 ### Meralien (Meralyn) Martor
 ### Þea of Maþak
 
 ### Niala
 
->Berserker Orc; Fighter 3rd, Partisan 7th
+>[[Orc#Berserker Orc|Berserker Orc]]; [[Fighter]] 3rd, [[Partisan]] 7th
 
 Niala was a soldier in the Red Dragonlands, and both her deeds and writings focusing on the importance of the will to life has elevated her in the ranks of the late Gweldyn and led to her ascension.
 

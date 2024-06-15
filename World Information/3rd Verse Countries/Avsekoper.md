@@ -13,5 +13,5 @@ The capital region of Avsekoper, which also houses its capital city. Iarla is in
 
 ### Adfier
 
-A region named after the great plateau it is atop of, watching over Iarla in its northeastern border. Adfier is globally important for several reasons, one of which being the TDA headquarters which reside in a town in the suburbs of the city of Adfier proper. The region of Adfier used to have a large population dedicated to following Aria, the Scholar. According to the disappointment in the Great Dragon War and the koperiun interest of cooperating with [[Urevneþ]], eventually that faith shifted over to [[Helian Gods|Kitas]].
+A region named after the great plateau it is atop of, watching over Iarla in its northeastern border. Adfier is globally important for several reasons, one of which being the TDA headquarters which reside in a town in the suburbs of the city of Adfier proper. The region of Adfier used to have a large population dedicated to following Aria, the Scholar. According to the disappointment in the Great Dragon War and the koperiun interest of cooperating with [[Urevneþ]], eventually that faith shifted over to [[Helian Gods|Kitas]]. ^afab9d
 

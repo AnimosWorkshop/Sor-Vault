@@ -4,7 +4,7 @@
 - Range: Touch
 - Duration: 2 hours
  
-_Despite its name, the spell was created by Meralien's apprentice and best friend, Erlieng, who remained in the temple they built even after Meralien's ascension to lead the people of Copperland in general, and of the Prakt region in particular, to fight against the disasters of the Second Cataclysm. After his death, he was always remembered as a proof - that morals transcend borders, and that even a black dragon can consider Copperland to be his true home._
+_Despite its name, the spell was created by Meralien's apprentice and best friend, Erlieng, who remained in the temple they built even after Meralien's ascension to lead the people of Copperland in general, and of the Prat region in particular, to fight against the disasters of the Second Cataclysm. After his death, he was always remembered as a proof - that morals transcend borders, and that even a black dragon can consider Copperland to be his true home._
  
 You conjure a mantle of golden fiber, granting its wearer special boons. A creature may put on the mantle using a quick action, and wearing it causes a regal ethereal wooden-textured crown to appear floating above the wearer's head.  
 
