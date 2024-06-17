@@ -6,6 +6,7 @@
 * afū - to feel (emotion)
 * akelū - to focus / to center
 * arenū - to follow / to worship
+	* mal areniene - god
 * arterū - to create
 * avsū - to root
 * balū - to want
@@ -22,13 +23,17 @@
 * cilū - to chill
 * ciokū - to demand
 * cirū - to sing
+	* cirier - singing
+	* ciriera - song
+	* cirieþ - music
 * conū - to taste
-* cralū - to rule ovre
+* cralū - to rule over
 * cugrū - to investigate
 * daxrū - to kill
-* mal daxrū - to die
+	* mal daxrū - to die
 * dalkatū - to reject
 * delnū - to greet
+	* deln - hello
 * dihū - to sell
 * ditanū - to make important
 * dorfū - to build
@@ -48,6 +53,7 @@
 * fasū - to subtract
 * fegū - to succeed (someone)
 * fenirū - to glorify
+* feznū - to befriend
 * flexū - to pull / to draw (from something)
 * fivū - to imagine / to wonder
 * forū - to heat
@@ -56,10 +62,10 @@
 * frodrū - to disperse
 * fuklū - to search
 * gargū - to swim
+* gaxesū - to nurse
 * gandū - to strengthen
 * gexū - to order / to command
 * gezrū - to tame
-* feznū - to befriend
 * gharū - to believe
 	* gharieþa - faith
 * gijū - to watch
@@ -93,6 +99,7 @@
 * jratū - to test
 * kanū - to know
 * katū - to thank
+	* katu - thanks
 * kacanū - to climb
 * kenþū - to expect
 * ketū - to write
@@ -135,8 +142,10 @@
 * ornū - to deny (something)
 * petuzū - to flutter
 	* petuzien - butterfly
+* pojrū - to fuck
 * pordū - to chop
-	* pordieng - axe
+	* pordiengo - axe
+* poxvū - to legislate
 * pratū - to cover / to hide (something) 
 * þajū - to ask
 * þelakū - to give
@@ -144,10 +153,12 @@
 * þevū - to find
 * þintū - to judge
 * þonsū - to go / to pass
+	* þosienga - leg
 * þosū - to arrive
 * þratū - to quantivy
 * þuvkū - to fly
 * ratū - to do
+	* ratienga - hand
 * rawtū - to remember
 * rekafū - to exclude
 * renū - to love
@@ -210,6 +221,8 @@
 * xelfū - to discard
 * xofū - to finish
 * zalkū - to slow
+* zalomū - to snow
+	* zalom - snow
 * zavū - to choose
 * zastū - to aid
 * zelþū - to wait

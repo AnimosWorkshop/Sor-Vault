@@ -54,7 +54,7 @@ Actions will usually be most things a creature improvises, from picking up items
 - Attack - the creature makes 1 weapon attack against another creature or object. The creature makes an attack roll. If the result is equal to or higher than the defending creature's AC, the attack hits, allowing the attacking creature to make a damage roll.
 	Readied light weapons (such as a sheathed shortsword) can be drawn and used to attack using 1 Attack action.
 	In addition, a weapon attack can be performed nonlethaly. This subject is elaborated on in the [weapons](Weaponsmith.md) page. ^43d1b5
-- Brawl - you may perform one of the following actions, all of which are considered brawl actions:
+- Brawl - while using the attack action, you may replace the attack with performing one of the following actions, all of which are considered brawl actions: ^b70e3f
     - Grapple - You use one hand, and a creature of your size or 1 higher must make a Strength saving throw against your basic Athletics (Strength) DC. On a failed save, they are [[Conditions#Grappled|grappled]] until they break free. Grappling requires you to use an arm to maintain it. That arm can still hold items, but usually cannot use them (such as weapons), except for shields with the Glove trait, which still provide their AC bonus against creatures you do not grapple. The escape DC is the same of your grapple DC.
 		Attempting to grappling a prone creature turns into the Topple action instead.
     - Shove - A creature within 5' of you must make a Strength saving throw against your basic Athletics (Strength) DC, with a -2 penalty if they are mounted. On a failed save, they are either shoved 5' to a direction of your choice or fall prone.
@@ -83,7 +83,7 @@ Actions will usually be most things a creature improvises, from picking up items
  
 Quick actions are things a creature can do which take up little time. Their versatility is lower than that of regular actions, as time is a constraint in this case. Quick actions may also be used if you take your action to use them. Examples for quick actions are:
  
-- Attack - if the creature used its action to use the Major Interaction action or the Attack action using a weapon without the Heavy property, it may use this quick action to make an attack using a different light weapon held in a different hand. The attribute modifier for the weapon isn't added to the damage roll.
+- Attack - if the creature used its action to use the Major Interaction action or the Attack action using a weapon without the Heavy property, it may use this quick action to make an attack using a different light weapon held in a different hand. The attribute modifier for the weapon isn't added to the damage roll. ^941070
 - Assess - Make a Nature (Intelligence), a Nature (Wisdom) or an Insight (Wisdom) check. Depending on your roll, understand some facts about a creature. You understand one fact if you pass DC 10, two facts for DC 15, or three for DC 20, and so on. You can learn the following facts:
     - Creature type and race
     - Current health points percentage (out of its maximum)

@@ -4,7 +4,7 @@
 
 ### Starting Gear
 
-><u>Note:</u> The total cost of the following items is 14 sc and their total weight is 13 lb.
+><u>Note:</u> The total cost of the following items is 12 sc and their total weight is 13 lb.
 
 | **Item**          | **Cost** | **Weight** | **Notes**                                                                                                                                                                                                        |
 | ----------------- | -------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,11 +16,11 @@
 
 | **Item**          | **Cost** | **Weight** | **Notes**                                                                                                                                                                 |
 | ----------------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ball Bearings     | 8 cc     | 0.1 lb     | 100 units, about 0.1'' in diameter                                                                                                                                        |
+| Ball Bearings     | 10 cc    | 0.1 lb     | 100 units, about 0.1'' in diameter                                                                                                                                        |
 | Climbing Rope, 5' | 16 cc    | 1 lb       |                                                                                                                                                                           |
 | Rations, 1 day    | 25 cc    | 2 lb       |                                                                                                                                                                           |
-| Transport         | 150 cc   |            | Per day, by renting a horse carriage and a rider. 40' base movement speed, resulting in 4 miles per hour, or 32 miles per day                                             |
-| Fast Transport    | 3 sc     |            | Per day, by renting a horse carriage and an auramancer rider casting Expedite on their horse. 60' base movement speed, resulting in 6 miles per hour, or 48 miles per day |
+| Transport         | 70 cc    |            | Per day, by renting a horse carriage and a rider. 40' base movement speed, resulting in 4 miles per hour, or 32 miles per day                                             |
+| Fast Transport    | 140 cc   |            | Per day, by renting a horse carriage and an auramancer rider casting Expedite on their horse. 60' base movement speed, resulting in 6 miles per hour, or 48 miles per day |
 ### Mid-Range Equipment
 
 | **Product**          | **Cost** | **Weight** | **Notes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
