@@ -1,4 +1,4 @@
-#Basic #Sentinel #Movement
+#Basic #General #Movement
  
 - Performance Time: Attack action
 - Success DC: Performance (Charisma), DC 15
