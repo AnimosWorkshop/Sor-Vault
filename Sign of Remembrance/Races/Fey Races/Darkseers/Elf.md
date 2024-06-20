@@ -3,7 +3,7 @@
 _Elves are long-living and lead simple and humble lives, taking their time to study things they truly care about thoroughly. Their timeless nature in the eyes of many earned them a reputation of sages and gurus, although not all elves commit to this idea; some rather live their lives as adventurers, to have the constant risk and adrenaline keep them on-edge._
  
 **Racial Attribute Bonus:** Your Wisdom score increases by 2.  
-**Age:** Mature at late 60s, live about 300 years.  
+**Age:** Mature at late 40s, live about 200 years.  
 **Size:** Medium.  
 **Creature Type:** Fey.  
 **Speed:** 30' walking.  

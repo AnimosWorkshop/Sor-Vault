@@ -29,6 +29,9 @@
 * conū - to taste
 * cralū - to rule over
 * cugrū - to investigate
+* cucū - to silence
+	* cuciul - silent
+* cuciulū - to whisper
 * daxrū - to kill
 	* mal daxrū - to die
 * dalkatū - to reject
@@ -222,7 +225,7 @@
 * xofū - to finish
 * zalkū - to slow
 * zalomū - to snow
-	* zalom - snow
+	* zalome - snow
 * zavū - to choose
 * zastū - to aid
 * zelþū - to wait

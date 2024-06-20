@@ -65,7 +65,7 @@ Actions will usually be most things a creature improvises, from picking up items
 - Disengage - the creature may escape another creature's reach without provoking attacks of opportunity for the rest of the turn. ^9a6755
 - Disorient - you attempt to throw a creature off-balance using your immediate surroundings, such as kicking dirt into your opponent's eyes, knocking a nearby branch towards their face, etc. The target creature within 5' must make an Initiative saving throw against your basic Sleight of Hand (Dexterity) DC or against your basic Deception (Charisma) DC. On a fail, they are [[Conditions#Pacified|pacified]] 1 until the end of their next turn, or pacified 2 if you have a free hand. ^1e684d
 - Hide - the creature makes a Stealth (Dexterity) roll. They are hidden from all creatures whose basic Perception (Wisdom) DC is lower than the roll. ^284a7e
-- Major Interaction - the creature interacts with different objects in the world within its reach. For example:
+- Major Interaction - the creature interacts with different objects in the world within its reach. For example: ^30b3a9
     - Pick up a large object (GM's decision for what counts as a large or difficult to pick up item) or many small objects
     - Draw or stow two objects if neither are heavy
     - Switch between different items it holds if neither are heavy
@@ -93,7 +93,7 @@ Quick actions are things a creature can do which take up little time. Their vers
     - Lowest attribute
 - Demoralize - you taunt and scare a creature to the point of doubt. A creature within 30' that can hear you and understands a language you speak makes a Wits saving throw against your basic Intimidation (Charisma) DC or Intimidation (Strength). On a failed save, the first attack or Wits saving throw they make in their next turn is made with a penalty equal to third of your Intimidation modifier. A creature can't be demoralized twice at the same time.
 - Inspire - you inspire courage and unity within an ally. A creature within 30' that can hear you and understands a language you talk in gets a bonus to their first attack during their next turn equal to third of your Persuasion (Charisma) or Performance (Charisma) modifier. A creature can't be inspired twice at the same time.
-- Minor interaction - the creature interacts with different objects within its reach. Examples:
+- Minor interaction - the creature interacts with different objects within its reach. Examples: ^359f07
     - Pick up a small object (GM's decision for what counts as a small or easy to pick up item)
     - Draw or stow an item without the Heavy property
  - - -

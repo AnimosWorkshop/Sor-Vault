@@ -9,7 +9,7 @@ _As a culture, halflings developed a nonchalant attitude, trusting the world to 
 **Speed:** 25' walking.  
 **Vision:** Lightvision.  
 **Lucky:** When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. This feature may be used a number of times equal to your proficiency modifier per long rest.  
-**Brave:** You are resistant to being frightened.  
+**Brave:** Whenever an effect would cause you to make a save against Intimidation DC, you have advantage on the saving throw.  
 **Halfling Nimbleness:** You can move through the space of any creature that is of a size larger than yours.  
 **Languages:** You can speak, read, and write Temuthen.
 - - -
@@ -30,4 +30,4 @@ _Strongheart halflings tend to live in clans, feeling a great amount of camarade
  
 **Racial Attribute Bonus:** Your Constitution score increases by 1 and your Willpower score increases by 1.  
 **Climber:** You have a climbing speed of 25' as long as you are not [[Conditions#Encumbered|encumbered]]. In addition, you are novice with Athletics.  
-**Powerful Build:** You may use the Major Interaction action in order to draw a one handed light or medium weapon and make a weapon attack with it, as if it was a light weapon.
+**Heavy Alacrity:** You may use the Major Interaction action in order to draw a light or medium item and make a weapon attack with it for a weapon or cast a spell for a spell focus, similarly to the rules about light items.

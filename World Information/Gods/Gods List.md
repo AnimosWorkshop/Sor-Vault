@@ -49,7 +49,7 @@
 ### Armogon - God of Judgement
 
 - -
-- Jektel - The Nullifier
+- [[Limbani Gods#Jektel|Jektel]] - The Nullifier
 - -
 - - -
 ## Lucidan, Architect of Heliax
@@ -73,19 +73,19 @@
 
 ### Kadaran - God of Anonymity
 
-- Datson - God of Autonomy
+- [[Limbani Gods|Datson]] - God of Autonomy
 - Seiran - Goddess of Assassination
 - [[Temuþen Gods#Meralien (Meralyn) Martor|Meralien]] - God of Manipulation
 
 ### Hastur - God of Authority
 
 - [[Temuþen Gods#Þea of Maþak|Þea]] - Goddess of the Servant Leader
-- Valeo - Goddess of the Visionary Leader
+- [[Limbani Gods#Valeo|Valeo]] - Goddess of the Visionary Leader
 - -
 
 ### Grelleyal - God of Creativity
 
-- Meromia
+- [[Limbani Gods#Meromia|Meromia]] - Goddess of Innovation
 - -
 - -
 - - -
@@ -99,7 +99,7 @@
 ### Laurien - Goddess of Patience
 
 - Veila - Goddess of Support; The Directress (Directress of undead)
-- Ollial - God of Recruitment; The Reaper (Collector of undead)
+- [[Limbani Gods#Ollial|Ollial]] - The Recruiter
 - Murca - Goddess of Introspection; The Nurturer (Caretaker of undead)
 ### Delyres - God of Coping
 
