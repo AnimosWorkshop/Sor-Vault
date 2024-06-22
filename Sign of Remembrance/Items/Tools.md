@@ -2,12 +2,11 @@
 
 | **Professional Tool** | **Cost** | **Weight** |
 | --------------------- | -------- | ---------- |
-| Alchemist             | 60 sc    | 8 lb       |
-| Artist                | 30 sc    | 4 lb       |
-| Clothier              | 30 sc    | 7 lb       |
-| Runecarver            | 60 sc    | 3 lb       |
-| Smith                 | 40 sc    | 5 lb       |
-| Woodworker            | 20 sc    | 3 lb       |
+| Alchemist             | 20 sc    | 4 lb       |
+| Armorer               | 20 sc    | 4 lb       |
+| Runecarver            | 15 sc    | 3 lb       |
+| Provisioner           | 10 sc    | 2 lb       |
+| Weaponsmith           | 20 sc    | 4 lb       |
 ### Musical Instruments
 
 | **Musical Instrument** | **Cost** | **Weight** |
