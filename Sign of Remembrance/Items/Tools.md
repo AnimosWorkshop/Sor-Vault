@@ -11,10 +11,10 @@
 
 | **Musical Instrument** | **Cost** | **Weight** |
 | ---------------------- | -------- | ---------- |
-| Flute                  | 15 sc    | 1.5 lb     |
-| Lute                   | 35 sc    | 2 lb       |
-| Lyre                   | 30 sc    | 3 lb       |
-| Recorder               | 10 sc    | 1 lb       |
-| Tambourine             | 10 sc    | 1 lb       |
-| Trumpet                | 20 sc    | 1.5 lb     |
-| Viola                  | 40 sc    | 1.3 lb     |
+| Flute                  | 10 sc    | 1.5 lb     |
+| Lute                   | 15 sc    | 2 lb       |
+| Lyre                   | 20 sc    | 3 lb       |
+| Recorder               | 3 sc     | 1 lb       |
+| Tambourine             | 5 sc     | 1 lb       |
+| Trumpet                | 10 sc    | 1.5 lb     |
+| Viola                  | 20 sc    | 1.3 lb     |
