@@ -67,6 +67,7 @@
 * gargū - to swim
 * gaxesū - to nurse
 * gandū - to strengthen
+* gaznū - to demand
 * gexū - to order / to command
 * gezrū - to tame
 * gharū - to believe

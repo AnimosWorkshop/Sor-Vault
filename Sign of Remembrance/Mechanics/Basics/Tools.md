@@ -2,9 +2,9 @@ If you are proficient with a tool, you can craft with it to your heart's content
 If you would need to roll a knowledge check for that tool, or want to earn income using your tool, use your Intelligence modifier + twice your proficiency modifier as your bonus to the roll. [[Proficiency and Downtime#Earn Income|Earn Income]] may also be used to reduce the cost of items you craft using the tool, according to the amount of money you would earn using that tool.
 
 Tools may have a specific attribute associated with them for the purposes of earning income, which can (but not must) be used instead of Intelligence:
-- **Strength:** Smith, Woodworker
-- **Dexterity:** Artist, Clothier
-- **Wisdom:** Alchemist
+- **Strength:** Weaponsmith
+- **Dexterity:** Armorer
+- **Wisdom:** Alchemist, Provisioner
 - **Casting Modifier** (if the character is a caster): Runecarver
  
 #### Alchemist
