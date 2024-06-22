@@ -98,7 +98,7 @@ You modify a light or medium weapon's form and balance by adding 1 lb to its wei
  
 ### Personalized Fit Weapon
 
-As long as you consciously wield this weapon, you cannot be disarmed from it against your will. As a result, you can control the weapon better, increasing the weapon's lethal property by 1 while you wield it.
+As long as you consciously wield this weapon, you cannot be disarmed from it against your will. As a result, you can also control the weapon better, increasing the weapon's lethal property by 1 while you wield it.
  
 ### Sure Sight Helmet
 
@@ -115,7 +115,8 @@ You may also apply a doubled effect when you defuse a weapon attack using your A
  
 ## Vitality Transference
  
-At 6th level, you unlock the ability to extract some of your own vital essence, and transform it into a drinkable fluid, which, when drunk, "redeems" the life energy as health. Once during a short rest, you may spend 10 minutes and expend any amount of hit dice in order to transfer the vital essence from yourself into a small water vial, which fills with a semi-translucent concoction. Any creature who drinks the concoction from the vial regains hit points equal to the hit dice + your Constitution modifier. If not used by the next 24 hours, the concoction spoils.  
+At 6th level, you unlock the ability to extract some of your own vital essence, and transform it into a drinkable fluid, which, when drunk, "redeems" the life energy as health. Once during a short rest, you may spend 10 minutes and expend any amount of hit dice in order to transfer the vital essence from yourself into a small water vial, which fills with a semi-translucent concoction. You may prepare any amount of vials this way during the rest, so long as each contains at least one hit die.
+Any creature who drinks the concoction from the vial regains hit points equal to twice those hit dice + twice your Constitution modifier. If not used by the next 24 hours, the concoctions spoil.  
 In addition, your body adapts to survive such operations by becoming more resilience - granting you proficiency in Resilience and Wits saving throws.
  
 ## Deeper Alchemical Affinity
