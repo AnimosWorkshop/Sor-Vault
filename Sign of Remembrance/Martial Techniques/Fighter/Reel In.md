@@ -4,4 +4,5 @@
 - Success DC: Athletics (Strength), DC 10
 - Required Weapon: Hook
  
-You use your hook to reel in an opponent and expose them. The creature must succeed on a Resilience saving throw against your basic Athletics (Strength) DC or have the next attack roll made against them until the start of their next turn be made with a +3 bonus.
+You use your hook to reel in an opponent and expose them. Make a weapon attack with your hook as a quick action. As a light weapon, you may choose to use your action to attack according to the dual wielding rules.
+Any attacks you make against the hooked creature until the end of your turn have a +1 bonus to the damage rolls and the Lethal 1 trait.

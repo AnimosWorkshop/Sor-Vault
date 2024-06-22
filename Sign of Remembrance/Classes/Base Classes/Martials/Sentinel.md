@@ -55,8 +55,9 @@ You have trained your mind to enter a state of coordination between body and min
 You may use an action and 1 focus to become Focused, using your [[Reading a Spell Entry|concentration]] slot to allow the world around you to become clearer - you can control your senses more easily, focusing on whatever you'd like, your body is honed and prepared to deal with that which threatens it. While focused:
 
 - You have a +1 bonus for Perception (Wisdom) checks.
-- Your unarmed strikes have their damage die increased by 1.
-- Your natural armor AC also increases by 1, and while not wearing armor (shields do not count as armor for this feature), you may use the Deflect reaction against an incoming attack - increasing your AC by your Strength modifier divided by 3 against it.
+- Your [[Weaponsmith#Commoners' Melee Weapons|unarmed strikes]] have their damage die increased by 1, and you may use all functional limbs in order to perform unarmed strikes and the [[Action Economy#^5d5dd0|shove]] brawl action.
+- Your natural armor AC increases by 1.
+- You gain access to the Deflect reaction against an incoming attack, increasing your AC by your Strength modifier divided by 3 against it.
 - You have a +1 bonus to saving throws.
 
 The focused condition lasts 10 minutes, and your concentration on it cannot end due to taking damage. You may also take a quick action right after the Focus action to make an unarmed strike.
@@ -87,12 +88,12 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
 ### Focus Strikes
  
 Starting at 3rd level, you can use your focus in a concise strike that delivers a shockwave to the attacked  
-creature. At the start of your turn, you may use 1 focus to empower your unarmed weapon attacks for the remainder of the turn, adding 1d8 force to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 8 + your Strength modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.  
+creature. At the start of your turn, you may use 1 focus to empower your unarmed weapon attacks for the remainder of the turn, adding 1d8 force to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.  
 You also gain 1 proficiency level in any skill of your choice.
  
 ### Enhanced Focus
  
-At 4th level, you have managed to enhance your focus further. In addition, while focused, your unarmed strike damage die, the bonus you gain to Perception (Wisdom) checks and your natural armor AC increases by 1.
+At 4th level, you have managed to enhance your focus further. While focused, your unarmed strike damage die, the bonus you gain to Perception (Wisdom) checks and your natural armor AC increases by 1.
  
 ### Deflection Expertise
  

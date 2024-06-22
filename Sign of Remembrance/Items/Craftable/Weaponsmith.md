@@ -16,7 +16,7 @@ For information about the different traits, see [[Weapon Rules#Weapon Traits|Wea
 | Dagger       | 5 sc     | 1 lb       | Light               | 1d4 piercing                | Finesse, Thrown (20'/60'), Tool (Sleight of Hand) |
 | Handaxe      | 4 sc     | 2 lb       | Medium              | 1d6 slashing                | Thrown (20'/60')                                  |
 | Hammer       | 5 sc     | 1.5 lb     | Light               | 1d4 bludgeoning or piercing | Thrown (20'/60')                                  |
-| Hook         | 120 cc   | 1 lb       | Light               | 1d4 bludgeoning             | Tool (Athletics)                                  |
+| Hook         | 120 cc   | 1 lb       | Light               | 1d4 piercing                | Tool (Athletics)                                  |
 | Javelin      | 350 cc   | 2 lb       | Medium              | 1d6 piercing                | Thrown (30'/120'), Fragile 1, Reach               |
 | Mace         | 15 sc    | 2.5 lb     | Medium              | 1d8 bludgeoning             |                                                   |
 | Quarterstaff | 1 sc     | 4 lb       | Medium              | 1d6 bludgeoning             | Versatile (1d8 bludgeoning, Reach)                |
