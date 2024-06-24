@@ -25,7 +25,7 @@
 ### Shields
 | **Armor**     | **Cost** | **Weight** | **Base AC** | **Weight Category** | **Weakness**      | **Notes**                                               |
 | ------------- | -------- | ---------- | ----------- | ------------------- | ----------------- | ------------------------------------------------------- |
-| Buckler       | 10 sc    | 2 lb       | +1          | Light               | Bludgeoning       | Glove (while strapped)                                  |
+| Buckler       | 10 sc    | 2 lb       | +1          | Light               | Bludgeoning       | Finesse, Glove (while strapped)                         |
 | Heater Shield | 20 sc    | 6 lb       | +2          | Medium              | Bludgeoning, Cold |                                                         |
 | Round Shield  | 20 sc    | 6 lb       | +2          | Medium              | Slashing, Fire    |                                                         |
 | Kite Shield   | 40 sc    | 10 lb      | +2          | Heavy               | Bludgeoning       | +1 to Resilience saving throws while holding the shield |

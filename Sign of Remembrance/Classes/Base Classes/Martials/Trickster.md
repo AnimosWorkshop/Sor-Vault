@@ -48,16 +48,14 @@ In order to advance as a rogue, you must meet the following prerequisites:
  
 Tricksters are able to shift their tempo as combat goes on, in order to match their reflexes to other creatures and strike at the right time. Whenever you hit a creature with an attack, you may increase or decrease your combat initiative by up to half your Dexterity modifier. When attacking a surprised creature or a creature with the same initiative as you, you add 1d4 to the attack roll.  
 At 4th level, this bonus to your attack roll is increased to 1d6, and you may increase or decrease your initiative by up to half your Dexterity modifier +1 instead.
+
+In addition, you may use the Dodge reaction as a response to being attacked by an enemy you can see. If you succeed, your AC is increased by your Dexterity modifier divided by 3 against the attack.
  
 ><u>Note:</u> You can't have two turns during the same round of combat, even if you lower your initiative.
- 
 ### Cunning Action
  
 Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The [[Action Economy#^f8a635|Dash]], [[Action Economy#^9a6755|Disengage]] and [[Action Economy#^284a7e|Hide]] actions become quick actions for you.  
 When you take the Dash action as a quick action, you may move up to half your speed instead of your full move speed, and when you take the Hide action as a quick action, you have a -2 penalty to your roll.  
-
-In addition, you may use the Dodge reaction as a response to being attacked by an enemy you can see. If you succeed, your AC is increased by your Dexterity modifier divided by 3 against the attack.
- 
 ### Martial Techniques
  
 At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.

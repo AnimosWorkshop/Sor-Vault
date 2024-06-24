@@ -65,7 +65,7 @@ In addition, whenever a concoction would restore hit points to you, you gain add
  
 ## Far Thrower
  
-Also starting at 2nd level, whenever you attack with a thrown weapon, you may use Alchemechanical Infusion feature to instead double the weapon's range. Stacking this effect more than once makes the range: tripled, quadrupled, etc.
+Also starting at 4th level, whenever you attack with a thrown weapon, you may use Alchemechanical Infusion feature to instead double the weapon's range. Stacking this effect more than once makes the range: tripled, quadrupled, etc.
  
 ## Martial Techniques
  
@@ -106,7 +106,7 @@ The helmet can switch between two modes: one according to your [[Vision|vision t
  
 ## Momental Attack
  
-At 4th level, you understand how to stretch your gain of momentum to its limit, allowing you to swing with extreme force at the cost of your own health. As another option of an infusion, using your transmuter's Alchemechanical Infusion feature, you may lose 1 hit point to gain a +1 bonus to your attack roll.
+At 4th level, you understand how to stretch your gain of momentum to its limit, allowing you to swing with extreme force at the cost of your own health. As another option of an infusion, using your transmuter's Alchemechanical Infusion feature, you may get a +1 bonus to your attack roll.
  
 ## Advanced Infusion
  

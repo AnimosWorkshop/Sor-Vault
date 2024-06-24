@@ -2,19 +2,18 @@
 - - -
 ## Feature Table
  
-| **Fighter Level** | **Features**                                              |
-| ----------------- | --------------------------------------------------------- |
-| 1st               | Parrying Strike                                           |
-| 2nd               | Adrenaline Surge, Martial Techniques, Attribute Increase  |
-| 3rd               | Arms Specialty, Weapon Adaptability                       |
-| 4th               | Dirty Tactics, Martial Techniques, Attribute Increase     |
-| 5th               | Extra Attack                                              |
-| 6th               | On Guard, Martial Techniques, Attribute Increase          |
-| 7th               | Arms Adept, Adrenaline Surge                              |
-| 8th               | Martial Techniques, Attribute Increase                    |
-| 9th               | Momentum                                                  |
-| 10th              | Specialty Mastery, Martial Techniques, Attribute Increase |
-   
+| **Fighter Level** | **Features**                                                   |
+| ----------------- | -------------------------------------------------------------- |
+| 1st               | Dirty Tactics, Parrying Strike                                 |
+| 2nd               | Adrenaline Surge, Martial Techniques, Attribute Increase       |
+| 3rd               | Arms Specialty, Weapon Adaptability                            |
+| 4th               | Advanced Dirty Tactics, Martial Techniques, Attribute Increase |
+| 5th               | Extra Attack                                                   |
+| 6th               | On Guard, Martial Techniques, Attribute Increase               |
+| 7th               | Arms Adept, Adrenaline Surge                                   |
+| 8th               | Momentum, Martial Techniques, Attribute Increase               |
+| 9th               | Dirty Tactics Mastery                                          |
+| 10th              | Specialty Mastery, Martial Techniques, Attribute Increase      |
 
 - - -
 ## Prerequisites
@@ -50,6 +49,21 @@ In order to advance as a fighter, you must meet the following prerequisites:
 - - -
 ## Class Features
  
+### Dirty Tactics
+
+When everything goes loose, you must learn to take the reins and stir back to control. At 1st level, you choose a "dirty tactic" to adopt and add to your arsenal, from the following choices:
+ 
+#### Choke
+While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 2, but the weapon's traits remain the same.
+ 
+#### Fling
+You are able to throw weapons more effectively, increasing their range by 10' for the first increment, and by 20' for the second increment.
+ 
+#### Shield Bash
+While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy), and you are considered proficient with it. If you are using a heavy shield, you may also shove the creature you are attacking with it as a free action.
+ 
+#### Swift Grab
+You may make a brawl action as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
 ### Parrying Strike
  
 Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do, subtract half your fighter level + your Strength modifier divided by 3 (total minimum of 1) from the damage dealt.  
@@ -98,25 +112,16 @@ Whenever you attack with a weapon of this specialty, you may move 5' as a part o
 Also at 3rd level, whenever you attack with a weapon you are not proficient with, you may add half your proficiency modifier to the attack roll.  
 You also gain 1 proficiency level in either the Intimidation or Performance.
  
-#### Dirty Tactics
-When everything goes loose, you must learn to take the reins and stir back to control. At 4th level, you choose a "dirty tactic" to adopt and add to your arsenal, from the following choices:
- 
-#### Choke
-While using a two-handed weapon and grappling or restraining another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die is 1d6 bludgeoning.
- 
-#### Fling
-You are able to throw weapons more effectively, increasing their range by 10' for the first increment, and by 20' for the second increment.
- 
-#### Shield Bash
-While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy), and you are considered proficient with it. If you are using a heavy shield, you may also shove the creature you are attacking with it as a free action.
- 
-#### Swift Grab
-You may make a brawl action as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
- 
+### Advanced Dirty Tactics
+
+At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tactic]] to your arsenal, or improve your existing one with the following benefits:
+* Choke - The size of the weapon's damage die is not reduced as a result of this feature.
+* Fling - The range is instead increased by 15' for the first increment and 30' for the second increment.
+* Shield Bash - The shield's damage die is increased by 1.
+* Swift Grab - The Resilience DC against the quickened brawl action does not get a bonus.
 ### Extra Attack
  
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action as an action.
- 
 ### On Guard
  
 At 6th level, you learn how to use your weapon effectively not only as a means for offense, but for defense too. Expanding on what you have already learned with parrying, you may expend any number of attacks from your Attack action during it to perform a Guard. When you are damaged by an attack, the Guard is automatically activated, and you make a damage roll with your weapon. The damage you rolled is reduced from the damage of the attack.  
@@ -124,23 +129,30 @@ The amount of times you can guard equals to the number of attacks expended.
 In addition, you become proficient with Resilience and Willpower saving throws.
  
 ><u>Note:</u> The damage roll you make includes your ability modifier (Strength or Dexterity usually, depending on the weapon) and any other modifiers to damage you would have for that weapon's attacks.
- 
 ### Arms Adept
  
 Starting at 7th level, your knowledge about weapons expands to the point that you can wield any weapon. You add your full proficiency modifier to attacks with weapons you are not proficient with instead of half, and you add one and a half times your proficiency modifier instead of once to attacks with weapons of your specialty if you are proficient with them.  
 In addition, you increase the damage die of weapons from your arms specialty weapon category by 1.
- 
 ### Momentum
  
-At 9th level, your mastery over battle allows you to chain your moves, dazing others as you sweep through. When you hit with the second weapon attack against creatures on your turn, you may use one of the following options as a follow-up free action:
+At 8th level, your mastery over battle allows you to chain your moves, dazing others as you sweep through. When you hit with the second weapon attack or brawl action against creatures on your turn, you may use one of the following options as a follow-up free action:
 
 - Move half your base movement speed without provoking attacks of opportunity
 - Attempt to use a brawl action
-- Increase your AC by 1 (if using a weapon which is neither light nor heavy) or by 2 (if using a heavy weapon) until the start of your next turn
+- Increase your AC by 1 (if using a medium weapon) or by 2 (if using a heavy weapon) until the start of your next turn
 - Increase the next attack roll by an ally against an enemy within 5' by your Wisdom or Charisma modifier (if using a light weapon)
 
 You may only use this feature once per round.
- 
+### Dirty Tactics Mastery
+
+At 9th level, you become a master of manipulating every advantage you can muster. Choose one of the following:
+* Add another [[#Dirty Tactics|dirty tactic]] to adopt out of the list.
+* If you already have two dirty tactics, upgrade both into [[#Advanced Dirty Tactics|advanced dirty tactics]].
+* If you already have a singular advanced dirty tactic, upgrade it as following:
+	* Choke - A creature grappled, restrained or toppled by you is pacified 1.
+	* Fling - Add your attribute modifier an additional time for damage rolls for thrown weapons.
+	* Shield Bash - Shields you use gain the lethal 1 trait.
+	* Swift Grab - While grappling, restraining or toppling a creature, you have a +1 bonus to your AC.
 ### Specialty Mastery
  
 At 10th level, you master your arms specialty wholly, allowing you to add twice your proficiency modifier to attack rolls with those weapons and increase the weapon's damage die by 1. In addition, you learn a special move depending on the specialty you chose, which you can attempt when you make a weapon attack with your specialty weapon once per round:
@@ -149,16 +161,16 @@ At 10th level, you master your arms specialty wholly, allowing you to add twice 
 The next attack against the target until the start of your next turn is made with advantage.
  
 #### Pugilist - Concussion
-If the attack hits, the target must make a Constitution saving throw against 10 + your attack bonus or be stunned until the end of its next turn.
+If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or be stunned until the end of its next turn.
  
 #### Sharpshooter - Headshot
-The weapon's lethal property is increased by 2 for the attack, but you get a -2 penalty to the attack roll.
+The weapon's [[Weapon Rules#Lethal|lethal]] trait is increased by 2 for the attack, but you get a -2 penalty to the attack roll.
  
 #### Skewer - Puncture
 If the attack hits, the target must make a Constitution saving throw against 10 + your attack bonus or take 3d4 additional necrotic damage.
  
 #### Sweeper - Bulldoze
-If the attack hits, the target must make a Strength saving throw against 10 + your attack bonus or take 1d4 additional bludgeoning damage and be pushed back 10'.
+If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or take 1d4 additional bludgeoning damage and be pushed back 10'.
  
 #### Swiftblade - Outspeed
 The target takes additional damage equal to your Strength or Dexterity modifier, and you may move an additional 5' as a part of your attack.
