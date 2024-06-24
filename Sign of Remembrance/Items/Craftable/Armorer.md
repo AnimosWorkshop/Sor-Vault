@@ -23,12 +23,12 @@
 | Splint     | 130 sc   | 55 lb      | 17          | Bludgeoning    |
 | Plate      | 2 gc     | 65 lb      | 18          | Bludgeoning    |
 ### Shields
-| **Armor**     | **Cost** | **Weight** | **Base AC** | **Weight Category** | **Weakness**      | **Notes**                                               |
-| ------------- | -------- | ---------- | ----------- | ------------------- | ----------------- | ------------------------------------------------------- |
-| Buckler       | 10 sc    | 2 lb       | +1          | Light               | Bludgeoning       | Finesse, Glove (while strapped)                         |
-| Heater Shield | 20 sc    | 6 lb       | +2          | Medium              | Bludgeoning, Cold |                                                         |
-| Round Shield  | 20 sc    | 6 lb       | +2          | Medium              | Slashing, Fire    |                                                         |
-| Kite Shield   | 40 sc    | 10 lb      | +2          | Heavy               | Bludgeoning       | +1 to Resilience saving throws while holding the shield |
+| **Armor**     | **Cost** | **Weight** | **Base AC** | **Weight Category** | **Weakness**      | **Notes**                                                                                                         |
+| ------------- | -------- | ---------- | ----------- | ------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Buckler       | 10 sc    | 2 lb       | +1          | Light               | Bludgeoning       | Finesse, Glove (while strapped)                                                                                   |
+| Heater Shield | 20 sc    | 6 lb       | +2          | Medium              | Bludgeoning, Cold |                                                                                                                   |
+| Round Shield  | 20 sc    | 6 lb       | +2          | Medium              | Slashing, Fire    |                                                                                                                   |
+| Kite Shield   | 40 sc    | 10 lb      | +2          | Heavy               | Bludgeoning       | Versatile (+1 to damage die size) if used as a weapon,<br>+1 to Resilience saving throws while holding the shield |
 - - -
 ## Upgrades
 

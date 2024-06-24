@@ -85,15 +85,12 @@ At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Int
 | 6th               | 3                    | -                       |
 | 8th               | 3                    | 1                       |
 | 10th              | 3                    | 2                       |
-
 ### Attribute Increase
  
 When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
- 
 ### Arms Specialty
  
 When you reach 3rd level, choose a type of weapon to become your specialty weapon. Based on the category you choose, you get a bonus when using these types of weapons:
- 
 #### Hurler (sling, flask, dart, whip)
 The Lethal property and the damage die for weapons of this specialty increases by 1 for you.
 #### Pugilist (knuckles, unarmed strikes, shields)
