@@ -37,7 +37,7 @@ In order to advance as a fighter, you must meet the following prerequisites:
  
 ### Proficiencies
  
-- Weapons: 2 martial weapons of your choice
+- Weapons: 2 martial weapons of your choice, each of which can be substituted for 2 simple weapons
 - Armor: Next tier of armor
 - Tools: None
 - Saving Throws: None
@@ -45,8 +45,7 @@ In order to advance as a fighter, you must meet the following prerequisites:
  
 ### Equipment
  
-- 2 martial weapons of your choice
-   
+- 2 simple or martial weapons of your choice
 
 - - -
 ## Class Features
