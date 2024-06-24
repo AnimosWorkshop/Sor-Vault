@@ -54,7 +54,7 @@ In order to advance as a fighter, you must meet the following prerequisites:
 When everything goes loose, you must learn to take the reins and stir back to control. At 1st level, you choose a "dirty tactic" to adopt and add to your arsenal, from the following choices:
  
 #### Choke
-While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 2, but the weapon's traits remain the same.
+While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same.
  
 #### Fling
 You are able to throw weapons more effectively, increasing their range by 10' for the first increment, and by 20' for the second increment.
