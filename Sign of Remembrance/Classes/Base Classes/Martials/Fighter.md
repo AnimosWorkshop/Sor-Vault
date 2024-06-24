@@ -52,10 +52,11 @@ In order to advance as a fighter, you must meet the following prerequisites:
 ### Dirty Tactics
 
 When everything goes loose, you must learn to take the reins and stir back to control. At 1st level, you choose a "dirty tactic" to adopt and add to your arsenal, from the following choices:
- 
+
+#### Bind Break
+Whenever you parry an incoming attack using the Parrying Strike feature with a non-shield weapon, you may break the bind early as an offensive opener, reducing 1 less damage to grant yourself 2 additional damage to your next damage roll against the creature until the end of your next turn.
 #### Choke
 While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same.
- 
 #### Fling
 You are able to throw weapons more effectively, increasing their range by 10' for the first increment, and by 20' for the second increment.
  
@@ -64,6 +65,7 @@ While wielding a shield, you may use it as a weapon. It deals bludgeoning damage
  
 #### Swift Grab
 You may make a brawl action as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
+
 ### Parrying Strike
  
 Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do, subtract half your fighter level + your Strength modifier divided by 3 (total minimum of 1) from the damage dealt.  
@@ -112,6 +114,7 @@ You also gain 1 proficiency level in either the Intimidation or Performance.
 ### Advanced Dirty Tactics
 
 At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tactic]] to your arsenal, or improve your existing one with the following benefits:
+* Bind Break - The damage reduction upon a parry is not penalized as a result of this feature.
 * Choke - The size of the weapon's damage die is not reduced as a result of this feature.
 * Fling - The range is instead increased by 15' for the first increment and 30' for the second increment.
 * Shield Bash - The shield's damage die is increased by 1.
@@ -146,10 +149,11 @@ At 9th level, you become a master of manipulating every advantage you can muster
 * Add another [[#Dirty Tactics|dirty tactic]] to adopt out of the list.
 * If you already have two dirty tactics, upgrade both into [[#Advanced Dirty Tactics|advanced dirty tactics]].
 * If you already have a singular advanced dirty tactic, upgrade it as following:
+	* Bind Break - Whenever you bind break, you have a +1 bonus to damage rolls until the end of your next turn.
 	* Choke - A creature grappled, restrained or toppled by you is pacified 1.
 	* Fling - Add your attribute modifier an additional time for damage rolls for thrown weapons.
 	* Shield Bash - Shields you use gain the lethal 1 trait.
-	* Swift Grab - While grappling, restraining or toppling a creature, you have a +1 bonus to your AC.
+	* Swift Grab - While grappling, restraining or toppling a creature, you have a +1 bonus to your damage rolls and AC.
 ### Specialty Mastery
  
 At 10th level, you master your arms specialty wholly, allowing you to add twice your proficiency modifier to attack rolls with those weapons and increase the weapon's damage die by 1. In addition, you learn a special move depending on the specialty you chose, which you can attempt when you make a weapon attack with your specialty weapon once per round:
