@@ -52,11 +52,11 @@ In order to advance as a fighter, you must meet the following prerequisites:
 ### Dirty Tactics
 
 When everything goes loose, you must learn to take the reins and stir back to control. At 1st level, you choose a "dirty tactic" to adopt and add to your arsenal, from the following choices:
-
 #### Choke
 While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same.
-#### Fling
-You are able to throw weapons more effectively, increasing their range by 10' for the first increment, and by 20' for the second increment.
+#### Fan
+You may use a [[Action Economy#^359f07|minor interaction]] to draw two light weapons and hold them in one hand.
+If you have three or less light weapons with the Thrown trait held this way in one hand, you may throw each from this hand with no penalty.
 #### Shield Bash
 While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy), and you are considered proficient with it.
 #### Swift Grab
@@ -89,13 +89,13 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
 ### Arms Specialty
  
 When you reach 3rd level, choose a type of weapon to become your specialty weapon. Based on the category you choose, you get a bonus when using these types of weapons:
-#### Hurler (sling, flask, dart, whip)
+#### Hurler (dagger, sling, flask, dart, whip)
 The Lethal property and the damage die for weapons of this specialty increases by 1 for you.
 #### Pugilist (knuckles, unarmed strikes, shields)
 Parrying Strike can be used in conjunction with the Deflect reaction as a part of the same reaction if you are using a weapon of this specialty. If you don't have the Deflect reaction, you may instead increase your AC by 1 against the attack in addition to the normal effects of Parrying Strike.
 #### Sharpshooter (blowgun, shortbow, stone bow, crossbow, hand crossbow, longbow)
 You get a +2 bonus to attack rolls with weapons of this specialty.
-#### Skewer (dagger, estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)
+#### Skewer (estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)
 When you critically hit with a weapon of this specialty, it breaks the defender's armor no matter its type.
 #### Sweeper (club, chain whip, greatclub, hammer, mace, quarterstaff, battleaxe, greatsword, halberd, war pickaxe)
 You get a +2 bonus to damage rolls with weapons of this specialty.
@@ -111,7 +111,7 @@ You also gain 1 proficiency level in either the Intimidation or Performance.
 
 At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tactic]] to your arsenal, or improve your existing one with the following benefits:
 * Choke - The size of the weapon's damage die is not reduced as a result of this feature.
-* Fling - The range is instead increased by 15' for the first increment and 30' for the second increment.
+* Fan - The range is instead increased by 15' for the first increment and 30' for the second increment.
 * Shield Bash - The shield's damage die is increased by 1.
 * Swift Grab - The Resilience DC against the quickened brawl action does not get a bonus.
 ### Extra Attack
@@ -145,7 +145,7 @@ At 9th level, you become a master of manipulating every advantage you can muster
 * If you already have two dirty tactics, upgrade both into [[#Advanced Dirty Tactics|advanced dirty tactics]].
 * If you already have a singular advanced dirty tactic, upgrade it as following:
 	* Choke - A creature grappled, restrained or toppled by you is pacified 1.
-	* Fling - Add your attribute modifier an additional time for damage rolls for thrown weapons.
+	* Fan - Add your attribute modifier an additional time for damage rolls for thrown weapons.
 	* Shield Bash - Shields you use gain the lethal 1 trait.
 	* Swift Grab - While grappling, restraining or toppling a creature, you have a +1 bonus to your damage rolls and AC.
 ### Specialty Mastery
