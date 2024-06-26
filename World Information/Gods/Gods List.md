@@ -99,7 +99,7 @@
 ### Laurien - Goddess of Patience
 
 - Veila - Goddess of Support; The Directress (Directress of undead)
-- [[Limbani Gods#Ollial|Ollial]] - The Recruiter
+- [[Limbani Gods#Ollial|Ollial]] - The Reaper
 - Murca - Goddess of Introspection; The Nurturer (Caretaker of undead)
 ### Delyres - God of Coping
 

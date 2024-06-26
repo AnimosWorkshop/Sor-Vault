@@ -81,7 +81,7 @@ _The bronze dragons have keen eyes, and their interest in physical objects turne
  
 ### Copper
  
-_The copper dragons are well-versed with other creatures, even the humanoids they tended to rule over, until the disappearance of Erliquen, the elder copper dragon in the year 1130, Second Verse. Ever since, the Copper Dragonland, located in eastern Sadeenver, was forced to quickly turn into a kingdom of the people - Copperland, housing the most ambitious cooperation between a dragonflight and humanoids Temuthan had ever seen. Even so, some say that the elder is still within the dragonland's territory, still managing his dragonland from the shadows._
+_The copper dragons are well-versed with other creatures, even the humanoids they tended to rule over, until the disappearance of Erliquen, the elder copper dragon in the year 1130 2V. Ever since, the Copper Dragonland, located in eastern Sadeenver, was forced to quickly turn into a kingdom of the people - Copperland, housing the most ambitious cooperation between a dragonflight and humanoids Temuthan had ever seen. Even so, some say that the elder is still within the dragonland's territory, still managing his dragonland from the shadows._
  
 **Racial Attribute Bonus:** Your Intelligence and Charisma scores each increase by 1, plus 1 for each age category above wyrmling, up to 20.  
 **Specialty:** You are novice with Culture.  

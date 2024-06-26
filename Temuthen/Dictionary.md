@@ -32,8 +32,8 @@
 * cucū - to silence
 	* cuciul - silent
 * cuciulū - to whisper
-* daxrū - to kill
-	* mal daxrū - to die
+* dahrū - to kill
+	* mal dahrū - to die
 * dalkatū - to reject
 * delnū - to greet
 	* deln - hello
