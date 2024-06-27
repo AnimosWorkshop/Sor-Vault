@@ -100,7 +100,7 @@
 
 - Veila - Goddess of Support; The Directress (Directress of undead)
 - [[Limbani Gods#Ollial|Ollial]] - The Reaper
-- Murca - Goddess of Introspection; The Nurturer (Caretaker of undead)
+- [[Dahrian Gods#Murca|Murca]] - Goddess of Introspection; The Nurturer (Caretaker of undead)
 ### Delyres - God of Coping
 
 - Sermona - Goddess of Hope (Borderkeeper of Dahrial)
