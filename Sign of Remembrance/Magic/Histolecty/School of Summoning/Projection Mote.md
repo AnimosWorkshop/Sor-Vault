@@ -11,7 +11,7 @@ When your image is supposed to take damage, the mote takes it. While it is manif
 The mote's stats are as follows. When it drops to 0 hit points or the spell ends, the mote vanishes.
  
 _Tiny Elemental_  
-8/14/10/8/12/8/12  
+8/10/14/12/8/8/12  
 **Health:** 7 times the spell level  
 **AC:** 13 + spell level  
 **Vision:** Nullvision  

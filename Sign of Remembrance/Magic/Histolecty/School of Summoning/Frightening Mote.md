@@ -11,7 +11,7 @@ In the end of the affected creature's turn, they may make a Wits saving throw. O
 The motes' stats are as follows. When it drops to 0 hit points or the spell ends, the mote vanishes.
  
 _Tiny Elemental_  
-8/14/10/8/14/8/8  
+8/10/14/14/8/8/8  
 **Health:** 5 times the spell level  
 **AC:** 13 + spell level  
 **Vision:** Nullvision  

@@ -10,7 +10,7 @@ While attached to a creature, they are must make a Wits saving throw at the star
 The mote's stats are as follows. When it drops to 0 hit points or the spell ends, the mote vanishes.
  
 _Tiny Elemental_  
-8/14/14/8/12/8/12  
+8/14/14/12/8/8/12  
 **Health:** 9 times the spell level  
 **AC:** 14 + spell level  
 **Vision:** Nullvision  

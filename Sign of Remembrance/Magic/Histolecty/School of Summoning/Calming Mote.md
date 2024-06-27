@@ -10,7 +10,7 @@ While attached to a creature, they are under the [[Conditions#Pacified|pacified]
 The motes' stats are as follows. When it drops to 0 hit points or the spell ends, the mote vanishes.
  
 _Tiny Elemental_  
-8/16/12/8/14/8/8  
+8/12/16/8/14/8/8  
 **Health:** 7 times the spell level  
 **AC:** 14 + spell level  
 **Vision:** Nullvision  
