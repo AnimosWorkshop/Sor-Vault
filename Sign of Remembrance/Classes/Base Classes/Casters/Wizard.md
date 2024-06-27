@@ -70,7 +70,7 @@ As you gain this feature, choose 1 school of magic, which becomes your chosen sc
 - Tempest - harnessing power common with weather and nature, you get a bonus to Intimidation
 
 This bonus increases by to +2 when you reach 4th level, and to +3 at 7th level.
- 
+
 ### Orb Storage
  
 Also at 2nd level, you understand how to store energy in your arcane orb in order to become more flexible over a work day. Once every long rest, you may cast an arcana spell in the highest resonance level you have of the school you chose with Arcane Orb if your orb is manifested.
@@ -81,7 +81,7 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
  
 ### Arcane Eye
  
-Starting at 3rd level, when you see a spell being cast within 90' of you, you may use your reaction to make a Sorcery (Wisdom) check against a DC of 10 + the spell's level. On a successful check, you recognize the spell's magic type and level.  
+Starting at 3rd level, when you see a spell being cast within 90' of you, you may use your reaction to make a Sorcery (Intelligence) check against a DC of 10 + the spell's level. On a successful check, you recognize the spell's magic type and level.  
 When you recognize a spell, you may use this feature to place a barrier around you to endure the blow, and either:
 
 - If the spell requires an attack and targets you, impose disadvantage on the attack.
