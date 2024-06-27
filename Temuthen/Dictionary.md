@@ -20,7 +20,7 @@
 * cecnū - to teach
 * cedū - to hold
 * celū - to open
-* cilū - to chill
+* cilū - to extinguish
 * ciokū - to demand
 * cirū - to sing
 	* cirier - singing

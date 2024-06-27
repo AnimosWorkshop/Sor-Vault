@@ -57,6 +57,8 @@
 ### Yezikol - God of Trade
 
 - -
+- -
+- -
 
 ### Nidora - Goddess of Collectivity
 
@@ -66,7 +68,7 @@
 ### Alsidia - Goddess of Balance
 
 - -
-- Creod - God of Oaths
+- [[Temuþen Gods#Creod|Creod]] - God of Oaths
 - -
 - - -
 ## Delreth, Architect of Limbo
@@ -105,4 +107,4 @@
 
 - Sermona - Goddess of Hope (Borderkeeper of Dahrial)
 - Kuzodon - God of Recovery (Manager of the Dahrialian hospital)
-- Crandile - Goddess of Coping (Dahrial's messenger)
+- Carndile - Goddess of Coping (Dahrial's messenger)
