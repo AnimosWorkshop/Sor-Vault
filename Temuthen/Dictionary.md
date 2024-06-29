@@ -143,7 +143,10 @@
 * nomū - to rest
 * ogenū - to insist
 * orkū - to travel
-* ornū - to deny (something)
+* ornū - to deny (something)\
+* pacū - to name
+	* mal pacū - to be named / to be called as
+	* pacieþ - name
 * petuzū - to flutter
 	* petuzien - butterfly
 * pojrū - to fuck

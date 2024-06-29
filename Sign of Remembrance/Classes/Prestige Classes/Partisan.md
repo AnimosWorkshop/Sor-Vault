@@ -4,8 +4,8 @@
 
 | **Partisan Level** | **Features**                                                 |
 | ------------------ | ------------------------------------------------------------ |
-| 1st                | Battle Trance                                                |
-| 2nd                | Spree, Martial Techniques, Attribute Increase                |
+| 1st                | Battle Trance, Spree                                         |
+| 2nd                | Brutal Strikes, Martial Techniques, Attribute Increase       |
 | 3rd                | Rejuvenating Flow                                            |
 | 4th                | Determined and Eager, Martial Techniques, Attribute Increase |
 | 5th                | Retaliation                                                  |
@@ -39,14 +39,15 @@ The partisan class does not grant any special equipment.
 ## Class Features
 ### Battle Trance
  
-As a quick action after hitting an enemy with an attack on your turn, you let the thrill wash over you. For the next minute, whenever you receive damage, reduce the amount taken by your partisan level divided by 3. This effect ends early if you are unconscious, or you end your turn without attempting to damage an enemy creature, taking damage from an enemy creature, or casting a spell.  
+As a quick action, you may let the thrill wash over you and enter into a battle trance. For the next minute, whenever you receive damage, reduce the amount taken by your partisan level divided by 3. This effect ends early if you are unconscious, or you end your turn without attempting to damage an enemy creature, performing a brawl action against an enemy creature, taking damage from an enemy creature, or casting a spell.  
 You may use this feature twice, and regain all uses when you finish a short or long rest. You gain an additional use per rest at 4th level.
 ### Spree
  
-Beginning at 2nd level, staying in your battle trance allows you further focus on the battle, and use your momentum to your advantage. You have a minimum spree of 0, and a maximum spree of 3 times your partisan level. Different events will allow you to gain, lose or spend spree, as follows:
+Staying in your battle trance allows you further focus on the battle, and use your momentum to your advantage. You have a minimum spree of 0, and a maximum spree of 3 times your partisan level. Different events will allow you to gain, lose or spend spree, as follows:
 #### Gaining Spree
 - Hitting with a weapon attack (+1)
 - Successfully performing a brawl action (+1)
+- Rolling over a natural 18 on a martial technique's skill check (+1) 
 - Rolling maximum damage on your weapon damage die (+2)
 - Critically hitting with a weapon attack (+2)
 - Dealing a killing blow (+3, overrules other spree-gaining methods)
@@ -59,11 +60,12 @@ Beginning at 2nd level, staying in your battle trance allows you further focus o
 - Raising the damage rolled on a weapon attack by your proficiency modifier (-1)
 - Using the Dash action as a quick action (-2)
 - Raising the brawl action DC by 4 for your target as a quick action (-2, doesn't stack)
-- Raising the number rolled on a weapon attack roll by 2 after rolling, potentially making the attack hit or critically hit (-3, doesn't stack. Nullifies spree gain for the attack.)
+- Raising the number rolled on a weapon attack roll by 2 after rolling, potentially making the attack hit or critically hit (-3, doesn't stack, nullifies spree gain for the attack)
 - Replenish 1 use of Battle Trance (-3)    
-### Attribute Increase
- 
-When you reach 2nd level, and again at 4th and 6th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
+### Brutal Strikes
+
+Starting at 2nd level, whenever you critically strike an enemy creature in Battle Trance, you deal additional damage to it equal to your partisan level.
+In addition, you may take a calculated risk while in Battle Trance, giving your attacks have the potential to become lethal at the cost of your own safety. At the start of your turn, you may choose to assume a lethal stance until the start of your next turn. While in this stance, any attacks you make (including spell attacks) gain the Lethal 1 trait, but attacks against you also get the Lethal 1 trait.
 ### Martial Techniques
  
 At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
@@ -73,12 +75,15 @@ At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Int
 | 2nd                | 1                    | -                       |
 | 4th                | 2                    | -                       |
 | 6th                | 2                    | 1                       |
+### Attribute Increase
+ 
+When you reach 2nd level, and again at 4th and 6th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
 ### Rejuvenating Flow
  
 At 3rd level, you learn how to harness the flow of battle to regain your resolve. Whenever you gain spree, you recover twice as many hit points.
 ### Overexertion
  
-At 4th level, you learn a way to extend your aggression beyond what is normally advised, enterring more and more into your battle trance at the cost of your health. Whenever you gain spree, you may use use up 1 hit dice in order to gain 1 additional spree.
+At 4th level, you learn a way to extend your aggression beyond what is normally advised, enterring more and more into your battle trance at the cost of your health. Whenever you gain spree, you may use up to 2 hit dice in order to gain an equal amount of additional spree.
 ### Retaliation
  
 Starting at 5th level, as a reaction to being attacked, you may make a weapon attack against the enemy who attacked you. You may only use this feature once per round.  
