@@ -8,7 +8,7 @@ Although the worship of the gods is universal and extends beyond a god's realm o
 
 #### Second Verse Role
 The gods of the Second Verse recruited successors mostly in an organized fashion, dividing their primary followers into three categories: bishops, angels and missionaries. The successors leading these sects have had the 'arch-' prefix added to their titles, being: archbishops, archangels and archmissionaries. Although not all successors follow the following distinction, it is noted that many times, archbishops mostly follow the Second Verse god's line of thinking, the archangels have a more restrictive, vigilant perception of it, and the archmissionaries subvert it in some way.
-Followers of a god who work at the temple are usually also titled as priest, aside from the head of a temple who is treated a successor equal in rank to the bishops, angels and missionaries, called the archpriest.
+Followers of a god who work at the temple are usually also titled as priest, aside from the head of a temple who is treated as a successor of equal rank to the bishops, angels and missionaries, called the archpriest.
 
 #### Nomination Reasoning
 Nomination as successors can usually be divided into two broad categories, being virtue or deeds, although in reality choosing a god consists of a combination of these two. Virtue gods are often characterized by devotion to an ideal or aspect of an ideal of the ancestor god in a more direct way, while deeds gods are chosen for their experience. As expected from successors who are intended to last for the entirety of the Third Verse, all gods were chosen as long-term sources of authorities with trust in their intended policies.

@@ -83,7 +83,7 @@ When you reach 2nd level, and again at 4th and 6th level, you can increase one a
 At 3rd level, you learn how to harness the flow of battle to regain your resolve. Whenever you gain spree, you recover twice as many hit points.
 ### Overexertion
  
-At 4th level, you learn a way to extend your aggression beyond what is normally advised, enterring more and more into your battle trance at the cost of your health. Whenever you gain spree, you may use up to 2 hit dice in order to gain an equal amount of additional spree.
+At 4th level, you learn a way to extend your aggression beyond what is normally advised, entering more and more into your battle trance at the cost of your health. Whenever you gain spree, you may use up to 2 hit dice in order to gain an equal amount of additional spree.
 ### Retaliation
  
 Starting at 5th level, as a reaction to being attacked, you may make a weapon attack against the enemy who attacked you. You may only use this feature once per round.  
