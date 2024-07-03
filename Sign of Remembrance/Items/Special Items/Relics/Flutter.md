@@ -4,9 +4,7 @@ _Artifact_
 - Magic Type: Arcana
 - Requires Attunement: Potency, Property (must be with Willpower 15)
  
-This special rapier was crafted by Tezix, the Shifter, for whomever might be his future archmissionary in the end of the next verse, right before the Sealing occurred. It was later claimed, in the year 1274 of the Second Verse, by Ashe - lead to the Sealed Island in Temuthan to finally be able to talk closely with his god.
- 
-As a [[Weaponsmith#Martial Melee Weapons|rapier]], Flutter deals 1d8 piercing damage and has the Finesse property.
+This special [[Weaponsmith#Martial Melee Weapons|rapier]] was crafted by Tezix, the Shifter, for whomever might be his future archmissionary in the end of the next verse, right before the Sealing occurred. It was later claimed, in the year 1274 of the Second Verse, by Ashe - lead to the Sealed Island in Temuthan to finally be able to talk closely with his god.
  
 _Potency_  
 While being held by the attuned, Gale provides a +3 bonus to attack rolls with it.

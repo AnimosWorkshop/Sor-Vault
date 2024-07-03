@@ -35,21 +35,21 @@ For information about the different traits, see [[Weapon Rules#Weapon Traits|Wea
 | **Weapon**    | **Cost** | **Weight** | **Weight Category** | **Damage**                  | **Traits**                                                    |
 | ------------- | -------- | ---------- | ------------------- | --------------------------- | ------------------------------------------------------------- |
 | Bastard Sword | 35 sc    | 3 lb       | Medium              | 1d8 slashing                | Pommel, Versatile (1d10 slashing)                             |
-| Battleaxe     | 40 sc    | 5 lb       | Heavy               | 1d10 slashing               | Versatile (1d12 slashing)                                     |
+| Battleaxe     | 40 sc    | 5 lb       | Heavy               | 1d10 slashing or piercing   | Versatile (1d12 slashing or piercing)                         |
 | Chain Whip    | 15 sc    | 7 lb       | Medium              | 1d8 bludgeoning             | Tool (Athletics), Tool (Intimidation), Windup                 |
-| Dart          | 1 sc     | 0.3 lb     | Light               | 1d4 piercing                | Thrown (30'/90'), Finesse, Fragile 1                          |
+| Dart          | 1 sc     | 0.3 lb     | Light               | 1d4 piercing                | Finesse, Fragile 1, Thrown (30'/90'),                         |
 | Estoc         | 40 sc    | 4 lb       | Medium              | 1d6 piercing                | Finesse, Lethal 1, Pommel, Versatile (+1 to attack rolls)     |
-| Glaive        | 30 sc    | 6 lb       | Heavy               | 1d10 slashing               | Finesse, Pommel, Two-handed                                   |
-| Greatsword    | 60 sc    | 6 lb       | Heavy               | 2d6 slashing                | Two-handed                                                    |
+| Glaive        | 30 sc    | 6 lb       | Heavy               | 1d10 slashing               | Finesse, Pommel, Reach, Two-handed                            |
+| Greatsword    | 60 sc    | 6 lb       | Heavy               | 2d6 slashing                | Pommel, Two-handed                                            |
 | Halberd       | 25 sc    | 6 lb       | Heavy               | 1d12 slashing               | Reach, Two-handed                                             |
 | Knuckles      | 5 sc     | 0.5 lb     | Light               | 1d6 bludgeoning             | Tool (Athletics), Glove                                       |
-| Maul          | 45 sc    | 11 lb      | Heavy               | 2d6 bludgeoning             | Two-handed                                                    |
+| Maul          | 45 sc    | 11 lb      | Heavy               | 2d6 bludgeoning or piercing | Two-handed                                                    |
 | Pike          | 25 sc    | 10 lb      | Heavy               | 1d12 piercing               | Reach, Two-handed                                             |
 | Rapier        | 25 sc    | 2 lb       | Medium              | 1d8 piercing                | Finesse, Tool (Deception)                                     |
 | Rondel        | 15 sc    | 1 lb       | Light               | 1d4 piercing                | Finesse, Lethal 1, Pommel                                     |
 | Scimitar      | 20 sc    | 2 lb       | Light               | 1d6 slashing                | Finesse, Pommel, Tool (Performance)                           |
-| Shortsword    | 15 sc    | 2 lb       | Light               | 1d6 piercing                | Finesse, Pommel                                               |
-| Spear         | 10 sc    | 3 lb       | Medium              | 1d8 piercing                | Reach, Thrown (20'/60'), Fragile 1, Versatile (1d10 piercing) |
+| Shortsword    | 15 sc    | 2 lb       | Light               | 1d6 slashing or piercing    | Finesse, Pommel                                               |
+| Spear         | 10 sc    | 3 lb       | Medium              | 1d8 piercing                | Fragile 1, Reach, Thrown (20'/60'), Versatile (1d10 piercing) |
 | War Pickaxe   | 20 sc    | 2.5 lb     | Medium              | 1d8 bludgeoning or piercing | Versatile (1d10 bludgeoning or piercing)                      |
 | Whip          | 10 sc    | 4 lb       | Medium              | 1d6 slashing                | Finesse, Reach, Tool (Athletics), Windup                      |
 ### Martial Ranged Weapons
