@@ -37,7 +37,7 @@ For information about the different traits, see [[Weapon Rules#Weapon Traits|Wea
 | Bastard Sword | 35 sc    | 3 lb       | Medium              | 1d8 slashing                | Pommel, Versatile (1d10 slashing)                             |
 | Battleaxe     | 40 sc    | 5 lb       | Heavy               | 1d10 slashing or piercing   | Versatile (1d12 slashing or piercing)                         |
 | Chain Whip    | 15 sc    | 7 lb       | Medium              | 1d8 bludgeoning             | Tool (Athletics), Tool (Intimidation), Windup                 |
-| Dart          | 1 sc     | 0.3 lb     | Light               | 1d4 piercing                | Finesse, Fragile 1, Thrown (30'/90'),                         |
+| Dart          | 1 sc     | 0.3 lb     | Light               | 1d4 piercing                | Finesse, Fragile 1, Thrown (30'/90')                          |
 | Estoc         | 40 sc    | 4 lb       | Medium              | 1d6 piercing                | Finesse, Lethal 1, Pommel, Versatile (+1 to attack rolls)     |
 | Glaive        | 30 sc    | 6 lb       | Heavy               | 1d10 slashing               | Finesse, Pommel, Reach, Two-handed                            |
 | Greatsword    | 60 sc    | 6 lb       | Heavy               | 2d6 slashing                | Pommel, Two-handed                                            |
