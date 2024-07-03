@@ -2,20 +2,15 @@
  
 Each piece of equipment may be enchanted with one of each of the upgrade types. These types include: potency, functionality and property upgrades.
 
-- **Potency** upgrades (mostly in the form of runes) increase the raw power of the equipment by the specified modifier (for example, +1).
-- **Functionality** upgrades (mostly in the form of physical alteration of the item) change how the equipment behaves or reacts based on its natural function.
-- **Property** upgrades (mostly in the form of runes) are upgrades which don't change an item's raw potency or natural functional use.
-
-An upgrade of any kind must be removed or reverted, in order to allow the item to receive another rune of the same time, or else the carving process will fail.
+- **Potency** upgrades (mostly in the form of runes) increase the raw power of the equipment by the specified modifier (for example, +1). Potency runes can be upgraded from one to the next by paying the price difference.
+- **Functionality** upgrades (mostly in the form of physical alteration of the item) change how the equipment behaves or reacts based on its natural function. Adding an additional functionality upgrade onto an item requires 2 gc for each additional upgrade already on the item, and most upgrades (such as masterwork weapons) can be applied multiple times this way.
+- **Property** upgrades (mostly in the form of runes) are upgrades which don't change an item's raw potency or natural functional use. This upgrades may be added without a restriction.
  
-In the crafting section, many upgrade recipes are written with a category of items in parentheses. The category refers to which items can be enhanced using these upgrades, for example:
+In the items section, many upgrade recipes are written with a category of items in parentheses. The category refers to which items can be enhanced using these upgrades, for example:
 
 - Arcana - any arcane spell focus
 - Auramancy - any auramantic spell focus
-- Cloth - any clothes, cloth items or leatheresque items
 - Histolecty - any histolectual spell focus
-- Metallic - any item which is made primarily out of metal
-- Wooden - any item which is made primarily out of wood
 
 In addition, any item counts as a weapon for the purpose of weapon upgrades if used as such, and both armor and shields count as armor for armor upgrades.
  

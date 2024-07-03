@@ -32,8 +32,7 @@ The shields branch is considered separate from the medium and heavy armor branch
 ### Shields
  
 A shield is made from wood or metal and is usually carried in one hand. Wielding a shield increases your Armor Class by the noted amount. You can benefit from only one shield at a time.  
-The shields branch is considered separate from the medium and heavy armor branch, and therefore using shields when you aren't proficient with them but proficient with light armor, even if you are proficient with heavier armor types, will still penalize you as if you were missing 1 level of armor training.  
-Potency and functionality runes put both on armor and shields do not stack, and thus the user has to decide which of items' runes to use.
+The shields branch is considered separate from the medium and heavy armor branch, and therefore using shields when you aren't proficient with them but proficient with light armor, even if you are proficient with heavier armor types, will still penalize you as if you were missing 1 level of armor training. 
    
 - - -
 ## Armor Breakage and Weaknesses
