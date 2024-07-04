@@ -1,6 +1,6 @@
 #1st-Level #Histolecty #Illusion 
 
- * Casting Time: As a part of an attack action using a ranged weapon
+* Casting Time: As a part of an attack action using a ranged weapon
 - Range: Self
 - Duration: Until the end of your next turn  
 

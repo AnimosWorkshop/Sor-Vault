@@ -2,8 +2,7 @@
  
 Many features refer to either increasing or decreasing damage dice. Damage dice size can be described in the following chart:
  
-0 -> 1 -> 1d2 -> 1d3 -> 1d4 -> 1d6 -> 1d8 -> 1d10 -> 1d12 -> 2d6 -> 2d8 -> 2d10 -> 3d8 -> 4d6 -> 6d4  
-… <- 1d6 <- 1d8 <- 2d4 -> 1d10 -> 1d12 -> …
+0 $\rightarrow$ 1 $\rightarrow$ 1d2 $\rightarrow$ 1d3 $\rightarrow$ 1d4 $\rightarrow$ 1d6 $\rightarrow$ 1d8 $\rightarrow$ 1d10 $\rightarrow$ 1d12 $\rightarrow$ 2d6 $\rightarrow$ 2d8 $\rightarrow$ 2d10 $\rightarrow$ 3d8 $\rightarrow$ 3d10 $\rightarrow$ 4d8 $\rightarrow$ 3d12 $\rightarrow$ 6d6 $\rightarrow$ 5d8 $\rightarrow$ 7d6 $\rightarrow$ 4d12 $\rightarrow$ 5d10 $\rightarrow$ 5d12
  
 It is easy to tell that as damage dice increase, they eventually get to a hard stop with 24 maximum damage. What increases, then, is consistency, as rolling more than 1 die results in rolls skewed more towards the middle, meaning they are more consistent.
  

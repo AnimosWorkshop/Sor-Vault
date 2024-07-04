@@ -16,7 +16,7 @@ Using a ranged weapon and being able to move freely across the battlefield, this
 	* Attack with Trap Shot
 	* Move at least 20' away from the enemy
 	For enemies with 30' movement speed, this implies that over a turn you will get at least 5' further than them, which opens the distance and prevents them from catching up to you.
-* At 3rd level, the [[Fighter#Sharpshooter (blowgun, shortbow, stone bow, crossbow, hand crossbow, longbow)|Sharpshooter]] specialization improves the consistency of Trap Shot, as you will hit your attacks more often.
+* At 3rd level, the [[Fighter#Arms Specialty|Sharpshooter]] specialization improves the consistency of Trap Shot, as you will hit your attacks more often.
 
 ### Midgame Choices
 
