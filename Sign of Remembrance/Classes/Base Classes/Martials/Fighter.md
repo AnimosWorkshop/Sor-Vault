@@ -52,6 +52,8 @@ In order to advance as a fighter, you must meet the following prerequisites:
 ### Dirty Tactics
 
 When everything goes loose, you must learn to take the reins and stir back to control. At 1st level, you choose a "dirty tactic" to adopt and add to your arsenal, from the following choices:
+#### Careful Step
+You may use the [[Action Economy#^9a6755|disengage]] action as a quick action with the additional cost of 10' movement.
 #### Choke
 While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same.
 #### Fan
@@ -61,7 +63,6 @@ If you have three or less light weapons with the Thrown trait held this way in o
 While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy), and you are considered proficient with it.
 #### Swift Grab
 You may make a brawl action as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
-
 ### Parrying Strike
  
 Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do, subtract half your fighter level + your Strength modifier divided by 3 (total minimum of 1) from the damage dealt.  
@@ -110,6 +111,7 @@ You also gain 1 proficiency level in either the Intimidation or Performance.
 ### Advanced Dirty Tactics
 
 At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tactic]] to your arsenal, or improve your existing one with the following benefits:
+* Careful Step - Using this tactic does not cost movement anymore.
 * Choke - The size of the weapon's damage die is not reduced as a result of this feature.
 * Fan - The range is instead increased by 15' for the first increment and 30' for the second increment.
 * Shield Bash - The shield's damage die is increased by 1.
@@ -144,6 +146,7 @@ At 9th level, you become a master of manipulating every advantage you can muster
 * Add another [[#Dirty Tactics|dirty tactic]] to adopt out of the list.
 * If you already have two dirty tactics, upgrade both into [[#Advanced Dirty Tactics|advanced dirty tactics]].
 * If you already have a singular advanced dirty tactic, upgrade it as following:
+	* Careful Step - Using the disengage action or quick action now allows you to use the [[Action Economy#^1e684d|disorient]] action as a free action. If you disengaged as a quick action, your target has a +2 bonus to their saving throw against it.
 	* Choke - A creature grappled, restrained or toppled by you is pacified 1.
 	* Fan - Add your attribute modifier an additional time for damage rolls for thrown weapons.
 	* Shield Bash - Shields you use gain the lethal 1 trait.

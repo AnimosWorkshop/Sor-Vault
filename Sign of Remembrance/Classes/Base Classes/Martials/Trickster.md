@@ -54,7 +54,7 @@ In addition, you may use the Dodge reaction as a response to being attacked by a
 ><u>Note:</u> You can't have two turns during the same round of combat, even if you lower your initiative.
 ### Cunning Action
  
-Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The [[Action Economy#^f8a635|Dash]], [[Action Economy#^9a6755|Disengage]] and [[Action Economy#^284a7e|Hide]] actions become quick actions for you.  
+Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The [[Action Economy#^f8a635|dash]], [[Action Economy#^9a6755|disengage]] and [[Action Economy#^284a7e|hide]] actions become quick actions for you.  
 When you take the Dash action as a quick action, you may move up to half your speed instead of your full move speed, and when you take the Hide action as a quick action, you have a -2 penalty to your roll.  
 ### Martial Techniques
  
@@ -74,8 +74,8 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
  
 ### Fast Hands
  
-Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. The Major Interaction, [[Action Economy#^1e684d|Disorient]] and [[Action Economy#^79c113|Medicate]] actions become quick actions for you, and you gain a climbing speed equal to your walking speed.  
-When using the Disorient action as a quick action, the target gets a +2 bonus their saving throw, and using the Medicate action as a quick action gives you a -2 penalty to your roll.  
+Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. The major interaction, [[Action Economy#^1e684d|disorient]] and [[Action Economy#^79c113|medicate]] actions become quick actions for you, and you gain a climbing speed equal to your walking speed.  
+When using the disorient action as a quick action, the target gets a +2 bonus their saving throw, and using the medicate action as a quick action gives you a -2 penalty to your roll.  
 You also gain 1 proficiency level in either the Sleight of Hand or Medicine.
  
 ### Uncanny Prediction
