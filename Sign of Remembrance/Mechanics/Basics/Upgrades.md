@@ -3,7 +3,7 @@
 Each piece of equipment may be enchanted with one of each of the upgrade types. These types include: potency, functionality and property upgrades.
 
 - **Potency** upgrades (mostly in the form of runes) increase the raw power of the equipment by the specified modifier (for example, +1). Potency runes can be upgraded from one to the next by paying the price difference.
-- **Functionality** upgrades (mostly in the form of physical alteration of the item) change how the equipment behaves or reacts based on its natural function. Adding an additional functionality upgrade onto an item requires 2 gc for each additional upgrade already on the item, and most upgrades (such as masterwork weapons) can be applied multiple times this way.
+- **Functionality** upgrades (mostly in the form of physical alteration of the item) change how the equipment behaves or reacts based on its natural function. Adding an additional functionality upgrade onto an item requires 3 gc for each additional upgrade already on the item, and most upgrades (such as masterwork weapons) can be applied multiple times this way.
 - **Property** upgrades (mostly in the form of runes) are upgrades which don't change an item's raw potency or natural functional use. This upgrades may be added without a restriction.
  
 In the items section, many upgrade recipes are written with a category of items in parentheses. The category refers to which items can be enhanced using these upgrades, for example:
