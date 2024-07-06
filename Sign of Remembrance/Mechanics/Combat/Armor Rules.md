@@ -38,8 +38,11 @@ The shields branch is considered separate from the medium and heavy armor branch
 ## Armor Breakage and Weaknesses
  
 Each type of armor has its own weaknesses, and an adventurer willing to break their opponent's armor must know that by heart. The armor table below also shows which kinds or armor are weak to which damage type. When armor gets struck by a critical hit using the damage type it is weak to, it gains 1 breakage level. Each breakage level causes its wearer a -1 penalty to their AC until it is repaired. Armor can have up to 3 breakage levels, as noted by the following list.  
-Repairing a weapon requires an artisan with tools according to the type of weapon, and the price depends on the breakage level:
+
+Repairing an armor piece requires an armorer, and the price depends on the breakage level:
 - Breakage 0 - None. The armor is perfectly fine.
 - Breakage 1 - 10% of the original price of the armor. The armor shows a minor decrease in performance.
 - Breakage 2 - 20% of the original price of the armor. The armor shows a major decrease in performance.
 - Breakage 3 - The armor cannot be repaired. The armor is broken, and cannot be used effectively, meaning that your proficiency with it does not apply. The armor also does not have any of the properties and traits it normally does, including upgrades.
+
+The amount of time required to repair the weapon is 1 hour per base AC of the armor per breakage level, i.e. between one to two work days per breakage level for all armor types.
