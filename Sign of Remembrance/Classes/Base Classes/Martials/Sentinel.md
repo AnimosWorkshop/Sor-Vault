@@ -88,12 +88,12 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
 ### Focus Strikes
  
 Starting at 3rd level, you can use your focus in a concise strike that delivers a shockwave to the attacked  
-creature. At the start of your turn, you may use 1 focus to empower your unarmed weapon attacks for the remainder of the turn, adding 1d8 force to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.  
+creature. At the start of your turn, you may use 1 focus to empower your weapon attacks for the remainder of the turn, adding 1d6 force to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.  
 You also gain 1 proficiency level in any skill of your choice.
  
 ### Enhanced Focus
  
-At 4th level, you have managed to enhance your focus further. While focused, your unarmed strike damage die, the bonus you gain to Perception (Wisdom) checks and your natural armor AC increases by 1.
+At 4th level, you have managed to enhance your focus further. While focused, your unarmed strike damage die, the bonus you gain to Perception (Wisdom) checks and your natural armor AC increases by 1, in addition to your movement speed being increased by 5'.
  
 ### Deflection Expertise
  

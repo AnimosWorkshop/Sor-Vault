@@ -1,5 +1,4 @@
-#Basic #Trickster #Time
-_Basic, Transmuter_
+#Basic #Transmuter #Time
  
 - Performance Time: Action
 - Success DC: Medicine (Wisdom), DC 10

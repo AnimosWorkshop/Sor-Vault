@@ -85,8 +85,16 @@ You may only use this feature once per round. You may use this feature twice per
  
 ### All Out
  
-Starting at 4th level, you manage to let your power flow through each attack given that your weapon allows it, increasing each attack's magnitude. When you attack with light, finesse and ammunition weapons, the attribute modifier you may add to the damage roll is both your Dexterity and Strength modifiers instead of only one of them.
- 
+Starting at 4th level, you manage to let your power flow through each attack given that your weapon allows it, increasing each attack's magnitude. Choose one of the following benefits:
+
+#### Brutal Finesse
+
+When you attack with light, finesse and ammunition weapons and you should add your attribute modifier to the damage roll, you may add both your Dexterity and Strength modifiers to the damage roll instead of only one of them.
+
+#### Mental Assault
+
+When you get this feature, choose between: Intelligence, Wisdom or Charisma. When you make an attack with light, finesse and ammunition weapons and you should add your attribute modifier to the damage roll, you may add half the modifier of the attribute you have chosen to the damage rolls, in addition to the physical modifier (e.g. Dexterity for finesse weapons).
+
 ### Quick Attack
  
 Starting at 5th level, the [[Action Economy#^43d1b5|Attack]] action becomes a quick action for you. Using a quick action to perform the Attack action does not allow you to use the [[Fighter#Extra Attack|Extra Attack]] fighter feature on it. In addition, your damage rolls with light, finesse and ammunition weapons increase by 1.
