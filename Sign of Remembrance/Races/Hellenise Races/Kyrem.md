@@ -7,8 +7,8 @@ _Kyrems are well-known for their able bodies, which allowed them to adapt into t
 **Size:** Medium.  
 **Creature Type:** Hellenise.  
 **Speed:** 30' walking.  
-**Strong Tail:** You may use your tail to grab objects with the same strength as if it were a third arm, even allowing you to grapple a creature using it. You are proficient with Athletics.  
-**Languages:** You can speak, read, and write Hellenise and another language of your choice.  
+**Strong Tail:** You may use your tail to grab objects with the same strength as if it were a third arm, even allowing you to brawl a creature using it.  
+**Languages:** You can speak, read, and write Hellenise.
  - - -
 ## Subraces
 ### Demon Kyrem
@@ -17,24 +17,24 @@ _Demon kyrems, as the name suggests, are descendants of the kyrems who decided t
    
 **Racial Attribute Bonus:** Your Strength score increases by 2.  
 **Vision:** Darkvision.  
-**Demonic Resistance:** You are resistant to cold damage. In addition, your natural armor AC is 10, and its armor weakness is Slashing and Fire.  
-**Large Weapons Training:** You are proficient with a weapon with the [[Weapon Rules#Two-Handed|two-handed]] trait. In addition, while you use a two-handed or a versatile weapon, you have a +1 bonus to your AC.
+**Demonic Resistance:** You are resistant to cold damage.
+**Large Weapons Training:** You are proficient with a weapon with the [[Weapon Rules#Two-Handed|two-handed]] or [[Weapon Rules#Versatile|versatile]] trait. In addition, while you use a two-handed or a versatile weapon, you have a +1 bonus to your AC.
 
 ### Devil Kyrem
    
-_Devil kyrems are the descendants of ancient kyrems who settled down in Burning Hell. They have a sharp mind, and are taught from an early age how to read people, press the right buttons and always turn a conversation well for them. As such, they often turn to be smart traders, but even those who don’t, rely on their early education to carry them through life and have a chance to truly enjoy themselves, with having one less thing to worry about._  
+_Devil kyrems are the descendants of ancient kyrems who settled down in Burning Hell. They have sharp minds, who tend to be sharpened to whatever end they may, and usually are turned against their adversaries to the utmost._  
    
 **Racial Attribute Bonus:** Your Intelligence score increases by 2.  
 **Vision:** Lightvision.  
 **Diabolic Resistance:** You are resistant to fire damage.  
-**Exposing the Breach:** All your attacks have the Lethal 1 trait. In addition, when you critically hit with an attack, the next attack against the same target during the next minute gets a bonus equal to your Intelligence modifier.  
-**Supply and Demand:** You are novice with Insight and Persuasion.  
+**Exposing the Breach:** All your attacks have the Lethal 1 trait. In addition, when you critically hit with an attack, the next attack roll against the same target during the next minute gets a bonus equal to your Intelligence modifier.  
 
 ### Fiend Kyrem
    
-_Fiend kyrems are the descendants of ancient kyrems who settled down in the Great Chasm. They are passionate and remarkable in whatever they decide to do, especially in arts. With the memory of Laurien, the Peacekeeper, whether as a positive or a negative thing, their societies are mostly well-organized and lean towards peace more than other kyrem subraces._  
-   
-**Racial Attribute Bonus:** Your Willpower score increases by 1, and another attribute score increases by 1.  
-**Vision:** Nullvision.  
-**Artisan:** You are proficient with a tool of your choice.  
+_Fiend kyrems are the descendants of ancient kyrems who settled down in the Great Chasm. They are passionate and remarkable in whatever they decide to do, especially in arts. Their societies are mostly well-organized and lean towards peace more than other kyrem subraces._  
+
+**Racial Attribute Bonus:** You may increase an attribute of your choice other than Constitution and Willpower by 1.  
+**Vision:** Nullvision. 
+**Trailblazers:** You may choose either fire or cold, and are resistant to that type of damage. In addition, you are proficient with Nature.
+**Artisan:** You are proficient with a tool of your choice.
 **Cleansing:** You are proficient with Resilience saving throws. In addition, once per long rest, you may use your action to end a curse of a level up to third of your total level (minimum of 1st-level, rounded up).

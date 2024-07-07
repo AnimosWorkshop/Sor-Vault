@@ -4,11 +4,11 @@
 ### Ragauda - Goddess of Equality
 
 - [[Temuþen Gods#Ratoki|Ratoki]] - Goddess of Equality; The Harmonizer
-- Ardain - God of Balance
+- [[Helian Gods#Ardain|Ardain]] - God of Balance
 - -
 ### Tezix - God of Change
 
-- [[Sylvan Gods#Sanae|Sanae]] - Goddess of Change
+- [[Fey Gods#Sanae|Sanae]] - Goddess of Change
 - -
 - [[Temuþen Gods#Ashe Faranor|Ashe]] - God of Charity
 ### Gharil - God of Confidence
@@ -32,19 +32,19 @@
 
 - -
 - -
-- [[Sylvan Gods#Sipya, the Martyr's Dagger|Sipya]] - Voice of Life
+- [[Fey Gods#Sipya, the Martyr's Dagger|Sipya]] - Voice of Life
 - - -
 ## Ifrit, Architect of Hell
 
 ### Fahren - God of Protection
 
-- Custodem - God of Protection
+- [[Hellenise Gods|Custodem]] - God of Protection
 - -
 - -
 ### Aria - Goddess of Knowledge
 
 - -
-- [[Sylvan Gods#Kitas|Kitas]] - God of Rhetoric
+- [[Fey Gods#Kitas|Kitas]] - God of Rhetoric
 - [[Temuþen Gods#Lirika|Lirika]] - Goddess of Information
 ### Armogon - God of Judgement
 
@@ -76,7 +76,7 @@
 ### Kadaran - God of Anonymity
 
 - [[Limbani Gods|Datson]] - God of Autonomy
-- Seiran - Goddess of Assassination
+- [[Hellenise Gods|Seiran]] - Goddess of Assassination
 - [[Temuþen Gods#Meralien (Meralyn) Martor|Meralien]] - God of Manipulation
 
 ### Hastur - God of Authority
@@ -95,9 +95,9 @@
 
 ### Vorona - Goddess of Fate
 
-- Hervo - God of Foresight (Head oracle)
+- [[Dahrian Gods#Hervo|Hervo]] - God of Foresight (Head oracle)
 - Galnaza - Goddess of Acceptance (Fatal passivist)
-- Azel - God of Preparation (Fatal activist)
+- [[Hellenise Gods|Azel]] - God of Preparation (Fatal activist)
 ### Laurien - Goddess of Patience
 
 - Veila - Goddess of Support; The Directress (Directress of undead)

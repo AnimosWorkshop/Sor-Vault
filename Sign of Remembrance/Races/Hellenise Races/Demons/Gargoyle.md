@@ -1,6 +1,6 @@
 #Race #Hellenise
 - - -
-**Racial Attribute Bonus:** Your Constitution score increases by 2.  
+**Racial Attribute Bonus:** Your Constitution score increases by 2. 
 **Age:** Mature at early teens, live about 90 years.  
 **Size:** Medium.  
 **Creature Type:** Hellenise.  
@@ -8,8 +8,8 @@
 **Vision:** Darkvision.  
 **Demonic Resistance:** You are resistant to cold damage.  
 **Toughness:** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.  
-**Possessive:** Gargoyles are good watchers, and guard their possessions accordingly. You are novice with Stealth and Perception.  
-**Languages:** You can speak, read, and write Hellenise and Goylin.
+**Possessive:** Gargoyles are good watchers, and guard their possessions accordingly. You are novice with Stealth, and Perception and Acrobatics.
+**Languages:** You can speak, read, and write Hellenise.
 - - -
 ## Subraces
 ### Fargo Gargoyle
@@ -20,5 +20,5 @@
  
 ### Keeper Gargoyle
  
-**Racial Attribute Bonus:** Your Intelligence score increases by 1 and your Wisdom score increases by 1.  
-**Stiff Wings:** A keeper gargoyle's wings are stiff, not allowing flight, but additional bodily protection. Your AC increases by 1.
+**Racial Attribute Bonus:** Your Wisdom score increases by 1.  
+**Stiff Wings:** A keeper gargoyle's wings are stiff, able to grant additional bodily protection instead of flight. Your AC increases by 2, but this does not stack with shields.
