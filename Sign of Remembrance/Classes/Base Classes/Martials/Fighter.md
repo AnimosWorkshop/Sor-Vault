@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
  
-| **Fighter Level** | **Features**                                                   |
-| ----------------- | -------------------------------------------------------------- |
-| 1st               | Dirty Tactics, Parrying Strike                                 |
-| 2nd               | Adrenaline Surge, Martial Techniques, Attribute Increase       |
-| 3rd               | Arms Specialty, Weapon Adaptability                            |
-| 4th               | Advanced Dirty Tactics, Martial Techniques, Attribute Increase |
-| 5th               | Extra Attack                                                   |
-| 6th               | On Guard, Martial Techniques, Attribute Increase               |
-| 7th               | Arms Adept, Adrenaline Surge                                   |
-| 8th               | Momentum, Martial Techniques, Attribute Increase               |
-| 9th               | Dirty Tactics Mastery                                          |
-| 10th              | Specialty Mastery, Martial Techniques, Attribute Increase      |
+| **Fighter Level** | **Features**                                                                  |
+| ----------------- | ----------------------------------------------------------------------------- |
+| 1st               | [[#Dirty Tactics]], [[#Parrying Strike]]                                      |
+| 2nd               | [[#Adrenaline Surge]], [[#Martial Techniques]], [[#Attribute Increase]]       |
+| 3rd               | [[#Arms Specialty]], [[#Weapon Adaptability]]                                 |
+| 4th               | [[#Advanced Dirty Tactics]], [[#Martial Techniques]], [[#Attribute Increase]] |
+| 5th               | [[#Extra Attack]]                                                             |
+| 6th               | [[#On Guard]], [[#Martial Techniques]], [[#Attribute Increase]]               |
+| 7th               | [[#Arms Adept]], [[#Adrenaline Surge]]                                        |
+| 8th               | [[#Momentum]], [[#Martial Techniques]], [[#Attribute Increase]]               |
+| 9th               | [[#Dirty Tactics Mastery]]                                                    |
+| 10th              | [[#Specialty Mastery]], [[#Martial Techniques]], [[#Attribute Increase]]      |
 
 - - -
 ## Prerequisites

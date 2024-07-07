@@ -38,12 +38,12 @@
 
 ### Fahren - God of Protection
 
-- [[Hellenise Gods|Custodem]] - God of Protection
+- [[Hellenise Gods#Custodem|Custodem]] - God of Protection
 - -
 - -
 ### Aria - Goddess of Knowledge
 
-- -
+- [[Hellenise Gods#Verkez|Verkez]] - Goddess of 
 - [[Fey Gods#Kitas|Kitas]] - God of Rhetoric
 - [[Temuþen Gods#Lirika|Lirika]] - Goddess of Information
 ### Armogon - God of Judgement
@@ -76,7 +76,7 @@
 ### Kadaran - God of Anonymity
 
 - [[Limbani Gods|Datson]] - God of Autonomy
-- [[Hellenise Gods|Seiran]] - Goddess of Assassination
+- [[Hellenise Gods#Seiran|Seiran]] - Goddess of Assassination
 - [[Temuþen Gods#Meralien (Meralyn) Martor|Meralien]] - God of Manipulation
 
 ### Hastur - God of Authority
@@ -96,8 +96,8 @@
 ### Vorona - Goddess of Fate
 
 - [[Dahrian Gods#Hervo|Hervo]] - God of Foresight (Head oracle)
-- Galnaza - Goddess of Acceptance (Fatal passivist)
-- [[Hellenise Gods|Azel]] - God of Preparation (Fatal activist)
+- Kanasa - Goddess of Acceptance (Fatal passivist)
+- [[Hellenise Gods#Azel|Azel]] - God of Preparation (Fatal activist)
 ### Laurien - Goddess of Patience
 
 - Veila - Goddess of Support; The Directress (Directress of undead)

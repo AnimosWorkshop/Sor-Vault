@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
  
-| **Transmuter Level** | **Features**                                                             |
-| -------------------- | ------------------------------------------------------------------------ |
-| 1st                  | Alchemechanical Infusion, Makeshift Alchemy                              |
-| 2nd                  | Alchemical Affinity, Far Thrower, Martial Techniques, Attribute Increase |
-| 3rd                  | Opus Creation Specialty                                                  |
-| 4th                  | Momental Attack, Martial Techniques, Attribute Increase                  |
-| 5th                  | Advanced Infusion                                                        |
-| 6th                  | Vitality Transference, Martial Techniques, Attribute Increase            |
-| 7th                  | Deeper Alchemical Affinity, Upgraded Opus Specialty                      |
-| 8th                  | Martial Techniques, Attribute Increase                                   |
-| 9th                  |                                                                          |
-| 10th                 | Martial Techniques, Attribute Increase                                   |
+| **Transmuter Level** | **Features**                                                                                 |
+| -------------------- | -------------------------------------------------------------------------------------------- |
+| 1st                  | [[#Alchemechanical Infusion]], [[#Makeshift Alchemy]]                                        |
+| 2nd                  | [[#Alchemical Affinity]], [[#Far Thrower]], [[#Martial Techniques]], [[#Attribute Increase]] |
+| 3rd                  | [[#Opus Creation Specialty]]                                                                 |
+| 4th                  | [[#Momental Attack]], [[#Martial Techniques]], [[#Attribute Increase]]                       |
+| 5th                  | [[#Advanced Infusion]]                                                                       |
+| 6th                  | [[#Vitality Transference]], [[#Martial Techniques]], [[#Attribute Increase]]                 |
+| 7th                  | [[#Deeper Alchemical Affinity]], [[#Upgraded Opus Specialty]]                                |
+| 8th                  | [[#Martial Techniques]], [[#Attribute Increase]]                                             |
+| 9th                  |                                                                                              |
+| 10th                 | [[#Martial Techniques]], [[#Attribute Increase]]                                             |
    
 
 # Prerequisites

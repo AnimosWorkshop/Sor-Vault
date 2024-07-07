@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
  
-| **Sentinel Level** | **Features**                                                |
-| ------------------ | ----------------------------------------------------------- |
-| 1st                | Harmony within Everything, Inner Focus                      |
-| 2nd                | Deflecting Instinct, Martial Techniques, Attribute Increase |
-| 3rd                | Focus Strikes                                               |
-| 4th                | Enhanced Focus, Martial Techniques, Attribute Increase      |
-| 5th                | Deflection Expertise                                        |
-| 6th                | Stance, Martial Techniques, Attribute Increase              |
-| 7th                | Watchful Combatant                                          |
-| 8th                | Focused Respite, Martial Techniques, Attribute Increase     |
-| 9th                |                                                             |
-| 10th               | Martial Techniques, Attribute Increase                      |
+| **Sentinel Level** | **Features**                                                               |
+| ------------------ | -------------------------------------------------------------------------- |
+| 1st                | [[#Harmony within Everything]], [[#Inner Focus]]                           |
+| 2nd                | [[#Deflecting Instinct]], [[#Martial Techniques]], [[#Attribute Increase]] |
+| 3rd                | [[#Focus Strikes]]                                                         |
+| 4th                | [[#Enhanced Focus]], [[#Martial Techniques]], [[#Attribute Increase]]      |
+| 5th                | [[#Deflection Expertise]]                                                  |
+| 6th                | [[#Stance]], [[#Martial Techniques]], [[#Attribute Increase]]              |
+| 7th                | [[#Watchful Combatant]]                                                    |
+| 8th                | [[#Focused Respite]], [[#Martial Techniques]], [[#Attribute Increase]]     |
+| 9th                |                                                                            |
+| 10th               | [[#Martial Techniques]], [[#Attribute Increase]]                           |
  - - -
 ## Prerequisites
  
@@ -106,7 +106,7 @@ At 6th level, you may choose to focus on a particular fighting style, granting y
 - Defensive Stance: You bolster your body and anchor it to the ground, granting you a +1 bonus to your AC and a +1 bonus to saving throws.
 - Offensive Stance: Your weapon becomes an extension of your body and even your unarmed strikes are bolstered. You have a +1 bonus to weapon attack and damage rolls.
 
-You may also change your stance while focused using 1 focus over a quick action.  
+You may also change your stance while focused as a quick action.  
 In addition, you become proficient with Resilience and Initiative saving throws.
  
 ### Watchful Combatant

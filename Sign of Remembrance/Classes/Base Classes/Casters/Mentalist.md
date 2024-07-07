@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
 
-| **Mentalist Level** | **Features**                                |
-| ------------------- | ------------------------------------------- |
-| 1st                 | Histolect, Mental Sense                     |
-| 2nd                 | Mental Specialty, Attribute Increase        |
-| 3rd                 | Silver Tongue                               |
-| 4th                 | Enhanced Bond Specialty, Attribute Increase |
-| 5th                 | Psychic Tug                                 |
-| 6th                 | Danger Sense, Attribute Increase            |
-| 7th                 | Communal Bond, Enhanced Bond                |
-| 8th                 | Performative Casting, Attribute Increase    |
-| 9th                 |                                             |
-| 10th                | Attribute Increase                          |
+| **Mentalist Level** | **Features**                                          |
+| ------------------- | ----------------------------------------------------- |
+| 1st                 | [[#Histolect]], [[#Mental Sense]]                     |
+| 2nd                 | [[#Mental Specialty]], [[#Attribute Increase]]        |
+| 3rd                 | [[#Silver Tongue]]                                    |
+| 4th                 | [[#Enhanced Bond Specialty]], [[#Attribute Increase]] |
+| 5th                 | [[#Psychic Tug]]                                      |
+| 6th                 | [[#Danger Sense]], [[#Attribute Increase]]            |
+| 7th                 | [[#Communal Bond]], [[#Enhanced Bond]]                |
+| 8th                 | [[#Performative Casting]], [[#Attribute Increase]]    |
+| 9th                 |                                                       |
+| 10th                | [[#Attribute Increase]]                               |
    - - -
 
 ## Prerequisites

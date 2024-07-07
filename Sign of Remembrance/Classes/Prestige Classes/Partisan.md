@@ -2,15 +2,15 @@
 - - -
 ## Feature Table
 
-| **Partisan Level** | **Features**                                                 |
-| ------------------ | ------------------------------------------------------------ |
-| 1st                | Battle Trance, Spree                                         |
-| 2nd                | Brutal Strikes, Martial Techniques, Attribute Increase       |
-| 3rd                | Rejuvenating Flow                                            |
-| 4th                | Determined and Eager, Martial Techniques, Attribute Increase |
-| 5th                | Retaliation                                                  |
-| 6th                | Martial Techniques, Attribute Increase                       |
-| 7th                | Ever-Determined Spirit                                       |
+| **Partisan Level** | **Features**                                                                |
+| ------------------ | --------------------------------------------------------------------------- |
+| 1st                | [[#Battle Trance]], [[#Spree]]                                              |
+| 2nd                | [[#Brutal Strikes]], [[#Martial Techniques]], [[#Attribute Increase]]       |
+| 3rd                | [[#Rejuvenating Flow]]                                                      |
+| 4th                | [[#Determined and Eager]], [[#Martial Techniques]], [[#Attribute Increase]] |
+| 5th                | [[#Retaliation]]                                                            |
+| 6th                | [[#Martial Techniques]], [[#Attribute Increase]]                            |
+| 7th                | [[#Ever-Determined Spirit]]                                                 |
 - - -
 ## Prerequisites
  

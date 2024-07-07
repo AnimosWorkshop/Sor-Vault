@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
  
-| **Trickster Level** | **Features**                                                    |
-| ------------------- | --------------------------------------------------------------- |
-| 1st                 | Shifting Tempo                                                  |
-| 2nd                 | Cunning Action, Martial Techniques, Attribute Increase          |
-| 3rd                 | Fast Hands, Uncanny Prediction                                  |
-| 4th                 | All Out, Shifting Tempo, Martial Techniques, Attribute Increase |
-| 5th                 | Quick Attack, Uncanny Prediction                                |
-| 6th                 | Alacrity, Martial Techniques, Attribute Increase                |
-| 7th                 | Guerilla                                                        |
-| 8th                 | Skillful Technique, Martial Techniques, Attribute Increase      |
-| 9th                 | Versatile Rotation                                              |
-| 10th                | Perfected Technique, Martial Techniques, Attribute Increase     |
+| **Trickster Level** | **Features**                                                                        |
+| ------------------- | ----------------------------------------------------------------------------------- |
+| 1st                 | [[#Shifting Tempo]]                                                                 |
+| 2nd                 | [[#Cunning Action]], [[#Martial Techniques]], [[#Attribute Increase]]               |
+| 3rd                 | [[#Fast Hands]], [[#Uncanny Prediction]]                                            |
+| 4th                 | [[#All Out]], [[#Shifting Tempo]], [[#Martial Techniques]], [[#Attribute Increase]] |
+| 5th                 | [[#Quick Attack]], [[#Uncanny Prediction]]                                          |
+| 6th                 | [[#Alacrity]], [[#Martial Techniques]], [[#Attribute Increase]]                     |
+| 7th                 | [[#Guerilla]]                                                                       |
+| 8th                 | [[#Skillful Technique]], [[#Martial Techniques]], [[#Attribute Increase]]           |
+| 9th                 | [[#Versatile Rotation]]                                                             |
+| 10th                | [[#Perfected Technique]], [[#Martial Techniques]], [[#Attribute Increase]]          |
    - - -
 ## Prerequisites
  

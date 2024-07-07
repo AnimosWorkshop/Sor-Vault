@@ -1,13 +1,13 @@
 #Class #Caster
 ### Feature Table
  
-| **Metamage Level** | **Features**                               |
-| ------------------ | ------------------------------------------ |
-| 1st                | Mage, Reckless Casting                     |
-| 2nd                | Sorcerous Annihilation, Attribute Increase |
-| 3rd                | Sorcerous Overload                         |
-| 4th                | Magical Tolerance, Attribute Increase      |
-| 5th                | Dynamicist                                 |
+| **Metamage Level** | **Features**                                         |
+| ------------------ | ---------------------------------------------------- |
+| 1st                | [[#Mage]], [[#Reckless Casting]]                     |
+| 2nd                | [[#Sorcerous Annihilation]], [[#Attribute Increase]] |
+| 3rd                | [[#Sorcerous Overload]]                              |
+| 4th                | [[#Magical Tolerance]], [[#Attribute Increase]]      |
+| 5th                | [[#Dynamicist]]                                      |
    
 - - -
 ## Prerequisites

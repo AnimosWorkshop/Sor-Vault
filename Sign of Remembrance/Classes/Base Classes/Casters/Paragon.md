@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
 
-| **Paragon Level** | **Features**                                                |
-| ----------------- | ----------------------------------------------------------- |
-| 1st               | Ideal Conduit, Divine Sense                                 |
-| 2nd               | Recovery Meditation, Call of Protection, Attribute Increase |
-| 3rd               | Intervention Specialty                                      |
-| 4th               | Invoke Karma, Attribute Increase                            |
-| 5th               | Major Intervention                                          |
-| 6th               | Intervening Beacon, Attribute Increase                      |
-| 7th               | Conduit's Intervention                                      |
-| 8th               | Conduit of the Realm, Invoke Karma, Attribute Increase      |
-| 9th               |                                                             |
-| 10th              | Saving Grace, Attribute Increase                            |
+| **Paragon Level** | **Features**                                                               |
+| ----------------- | -------------------------------------------------------------------------- |
+| 1st               | [[#Ideal Conduit]], [[#Divine Sense]]                                      |
+| 2nd               | [[#Recovery Meditation]], [[#Call of Protection]], [[#Attribute Increase]] |
+| 3rd               | [[#Intervention Specialty]]                                                |
+| 4th               | [[#Invoke Karma]], [[#Attribute Increase]]                                 |
+| 5th               | [[#Major Intervention]]                                                    |
+| 6th               | [[#Intervening Beacon]], [[#Attribute Increase]]                           |
+| 7th               | [[#Conduit's Intervention]]                                                |
+| 8th               | [[#Conduit of the Realm]], [[#Invoke Karma]], [[#Attribute Increase]]      |
+| 9th               |                                                                            |
+| 10th              | [[#Saving Grace]], [[#Attribute Increase]]                                 |
 - - -
 ## Prerequisites
  

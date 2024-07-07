@@ -1,0 +1,7 @@
+Hell has changed quite a lot in the short yet terrifying time of the Second Cataclysm. Particularly, a turbulent event which at the same time both linked and separated the two important Burning and Freezing Cores, which maintained the harmony within the plane, caused them to erupt and blend the two ends of the realm together.
+
+Once distinct, now the two ends of Hell can be generally figured once in the region, but their true prominence and beautiful nature is now somewhat lost to time, each becoming much more neutral except for in their appropriate season: the beginning of the year for the winter of Frozen Hell, and the middle of the year for the summer of Burning Hell. Ever important, the Great Chasm remains the center of the realm, though it could be argued that it has effectively grown to the larger neutral area throughout Hell.
+
+Less tied to the history the realm possessed, questions have started to arise as to who should rule it: is the meaning of a demon kingdom and a devil kingdom still relevant in a verse of blending and mixing? Is something in the multiverse trying to tell all hellenise that perhaps they should reconsider their structure, becoming one, or many?
+
+While some gods, such as [[Hellenise Gods#Azel|Azel]], call for a reconsideration of the system and encourage progress as a new ruling structure, some as [[Hellenise Gods#Custodem|Custodem]] heavily disagree and demand that the identity of Hell will not be taken by the brutal fist of time.

@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
 
-| **Druid Level** | **Features**                               |
-| --------------- | ------------------------------------------ |
-| 1st             | Auramancer, Aura Sense                     |
-| 2nd             | Instinct Sense, Attribute Increase         |
-| 3rd             | Natural Specialty                          |
-| 4th             | Ex Terra, Attribute Increase               |
-| 5th             | Natural Specialty Focus                    |
-| 6th             | Instinctive Ward, Attribute Increase       |
-| 7th             | Instinct Sense                             |
-| 8th             | Instinct Harmonization, Attribute Increase |
-| 9th             |                                            |
-| 10th            | Sanguimancy, Attribute Increase            |
+| **Druid Level** | **Features**                                         |
+| --------------- | ---------------------------------------------------- |
+| 1st             | [[#Auramancer]], [[#Aura Sense]]                     |
+| 2nd             | [[#Instinct Sense]], [[#Attribute Increase]]         |
+| 3rd             | [[#Natural Specialty]]                               |
+| 4th             | [[#Ex Terra]], [[#Attribute Increase]]               |
+| 5th             | [[#Natural Specialty Focus]]                         |
+| 6th             | [[#Thorn Ward]], [[#Attribute Increase]]             |
+| 7th             | [[#Instinct Sense]]                                  |
+| 8th             | [[#Instinct Harmonization]], [[#Attribute Increase]] |
+| 9th             |                                                      |
+| 10th            | [[#Sanguimancy]], [[#Attribute Increase]]            |
 - - -
 ## Prerequisites
  

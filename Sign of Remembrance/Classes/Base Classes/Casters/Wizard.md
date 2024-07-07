@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
  
-| **Wizard Level** | **Features**                                               |
-| ---------------- | ---------------------------------------------------------- |
-| 1st              | Arcanist, Spatial Sense                                    |
-| 2nd              | Arcane Orb Specialty, Attribute Increase                   |
-| 3rd              | Arcane Eye                                                 |
-| 4th              | Arcane Orb Specialty, Specialty School, Attribute Increase |
-| 5th              | Spatial Deformation                                        |
-| 6th              | Arcane Eye Expertise, Attribute Increase                   |
-| 7th              | Arcane Orb Specialty, Specialty School                     |
-| 8th              | Specialty Transformation, Attribute Increase               |
-| 9th              | Arcane Deflection                                          |
-| 10th             | Negation, Attribute Increase                               |
+| **Wizard Level** | **Features**                                                              |
+| ---------------- | ------------------------------------------------------------------------- |
+| 1st              | [[#Arcanist]], [[#Spatial Sense]]                                         |
+| 2nd              | [[#Arcane Orb Specialty]], [[#Attribute Increase]]                        |
+| 3rd              | [[#Arcane Eye]]                                                           |
+| 4th              | [[#Arcane Orb Specialty]], [[#Specialty School]], [[#Attribute Increase]] |
+| 5th              | [[#Spatial Deformation]]                                                  |
+| 6th              | [[#Arcane Eye Expertise]], [[#Attribute Increase]]                        |
+| 7th              | [[#Arcane Orb Specialty]], [[#Specialty School]]                          |
+| 8th              | [[#Specialty Transformation]], [[#Attribute Increase]]                    |
+| 9th              | [[#Arcane Deflection]]                                                    |
+| 10th             | [[#Negation]], [[#Attribute Increase]]                                    |
    
 - - -
 ## Prerequisites

@@ -1,7 +1,3 @@
-The campaign starts at year 31 of the Third Verse, and is centered on the world of Temuthan recovering and sustaining the great world war, which commenced at the Second Cataclysm.
-
-The campaign starts at 2nd level, and will probably last at least until the level up from 3rd -> 4th level. Each player starts with 3 gc, and the party as a whole might have additional equipment as will be specified in a later stage of the party's creation.
-- - -
 As if the world hasn’t suffered enough in the Second Cataclysm, five of the dragonlands decided to take advantage of the crisis to wage war against the weakened realm. The world has been divided between two main factions:
 
 - The Dragonlands (Gandecrala) – ruled by the chrome dragons and the: gold, brass, blue, black and white dragonflights.
