@@ -1,12 +1,7 @@
-#1st-Level #Auramancy #Alteration #Boon
+#2nd-Level #Auramancy #Alteration #Boon
  
 - Casting Time: Action
 - Range: Self
 - Duration: Concentration, up to 1 minute
  
-You modify your arms to become stiff and infused with magic. As a part of casting the spell, you may make a brawl action, and additionally get the following benefits for the duration of the boon:
-
-- As a quick action, you may make a brawl action. You may use your spellcasting modifier instead of your Athletics (Strength) for it.
-- As a reaction to an enemy trying to break free from your grapple or topple, you may use your auramancy modifier instead of your Athletics (Strength) modifier.
-- As a reaction to being forced to make a Resilience save against a brawl action, you may use your Wisdom modifier instead of your Strength modifier.
-- When you make an attack of opportunity, you may choose to replace the attack with a grapple or shove. You may use your spellcasting modifier instead of your Athletics (Strength) modifier.
+You modify your limbs to become stiffer and infused with magic. For the duration of the spell, you may replace your Athletics (Strength) modifier for the [[Action Economy#^b70e3f|brawl]] DC you impose with your spellcasting modifier. In addition, you may make a brawl action as a part of casting the spell, and may make a brawl action as a quick action for the duration of the spell.
