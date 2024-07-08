@@ -43,7 +43,7 @@
 - -
 ### Aria - Goddess of Knowledge
 
-- [[Hellenise Gods#Verkez|Verkez]] - Goddess of 
+- [[Hellenise Gods#Verkez|Verkez]] - Goddess of the Crowds
 - [[Fey Gods#Kitas|Kitas]] - God of Rhetoric
 - [[Temuþen Gods#Lirika|Lirika]] - Goddess of Information
 ### Armogon - God of Judgement
