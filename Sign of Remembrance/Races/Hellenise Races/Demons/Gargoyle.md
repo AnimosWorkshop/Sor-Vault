@@ -15,8 +15,8 @@
 ### Fargo Gargoyle
  
 **Racial Attribute Bonus:** Your Dexterity score increases by 1.  
-**Mobile Wings:** A fargone gargoyle's wings are flexible and mobile, allowing for a 25' flying speed, which allows them to go on long journeys.  
-**Travelers:** Fargone gargoyles are known to venture far and learn about the world around them. You are proficient with Nature.
+**Mobile Wings:** A fargo gargoyle's wings are flexible and mobile, allowing for a 25' flying speed, which allows them to go on long journeys.  
+**Travelers:** Fargo gargoyles are known to venture far and learn about the world around them. You are proficient with Nature.
  
 ### Keeper Gargoyle
  

@@ -20,7 +20,7 @@ _A rather rare subrace of ogres, they live in small groups and wander from place
  
 ### Scaled Ogre
  
-_Scaled ogres live in and near the volcanos of Burning Hell. Their bodies, a big bigger than mystic ogres', are also especially resilient and covered with scales, which allows them to better withstand the pests and aggressive animals contesting this territory. With the "heat of the mountain", their ancestors created powerful blades, and passed on the art of smithing to their children - who proudly take their place as worldforges._
+_Scaled ogres live in and near the volcanos of Burning Hell. Their bodies, a bit bigger than mystic ogres', are also especially resilient and covered with scales, which allows them to better withstand the pests and aggressive animals contesting this territory. With the "heat of the mountain", their ancestors created powerful blades, and passed on the art of smithing to their children - who proudly take their place as worldforges._
  
 **Racial Attribute Bonus:** Your Constitution score increases by 1.
 **Heat Treating:** Whenever you would use a hit die, for example as a part of a short rest or using a concoction, you may use less hit dice. The amount of hit dice you may save this way is equal to half your proficiency modifier per long rest.

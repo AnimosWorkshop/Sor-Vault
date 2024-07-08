@@ -15,7 +15,7 @@
 ## Subraces 
 ### Trickster Imp
  
-**Racial Attribute Bonus:** Your Charisma score increases by 1.  
+**Racial Attribute Bonus:** Your Charisma score increases by 2.  
 **Devil's Tongue:** You are proficient with Deception and novice with Performance.
  
 ### Advocate Imp
