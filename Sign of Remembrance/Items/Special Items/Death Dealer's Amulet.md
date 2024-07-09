@@ -6,4 +6,4 @@ While attuned to the amulet and wearing it around the neck, the amulet activates
 
 _Property_
 While active, the amulet senses whenever the bearer critically attacks another creature, starting to bear a red tint to indicate it is filled with aura. The amulet remains full for 3 rounds.  
-While the amulet is full, the attuned may use 2 reactions as a reaction to being damaged, using up all aura in the amulet to prevent an amount of damage points equal to 1d6 + proficiency modifier + Constitution modifier of the attuned.
+While the amulet is full, the attuned may use 2 reactions as a reaction to being damaged, using up all aura in the amulet to prevent an amount of damage points equal to 1d6 + proficiency modifier of the attuned.
