@@ -15,10 +15,10 @@ The familiar's turn comes after yours, allowing you to command it with your thou
 The familiar's stats are as follows, and its form is that of a tiny or small animal you have previously seen. When it drops to 0 hit points, it vanishes. You may only have 1 steadfast familiar at a time, and you may recast this spell to extend the spell by 1 day instead of replacing the familiar if less than 1 hour remains until the spell ends.
  
 _Tiny or Small Elemental_  
-14/14/10/12/10/12/20  
+14/14/10/12/10/12/18
 +6/+5/+5/+9  
-**Health:** 12 times the spell level  
+**Health:** 11 + 11 times the spell level  
 **AC:** 12 + the spell level  
-**Vision:** Nullvision  
+**Vision:** A sight-based vision type of your choice
 **Speed:** 30' walking, 30' climbing (if its form allows it), 30' flying (if its form allows it)  
 **Actions:** _Strike_, melee natural weapon attack, +5 + the spell level to hit instead of the normal attack roll modifier. Deals an amount of d4 equal to the spell level slashing / bludgeoning / piercing damage (depending on the form).

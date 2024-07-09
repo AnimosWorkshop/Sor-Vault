@@ -11,8 +11,8 @@ The familiar's stats are as follows, and its form is that of an air elemental. W
 _Tiny Elemental_  
 8/8/12/10/8/8/12  
 +1/+3/+1/+3  
-**Health:** 6 times the mana expended  
+**Health:** 4 + 6 times the mana expended  
 **AC:** 11 + mana expended  
-**Vision:** Nullvision, mistvision  
+**Vision:** A sight-based vision type of your choice, mistvision  
 **Speed:** 20' flying  
 **Actions:** _Heal_, touch range. The target recovers 1d10 hit points. This action can only be used a number of times equal to the mana expended, after which the sprite vanishes as if it was dropped to 0 hit points.

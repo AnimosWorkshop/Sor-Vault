@@ -11,9 +11,9 @@ The familiar's turn comes after yours, allowing you to command it with your word
 _Tiny Elemental_  
 10/14/14/8/6/8/10  
 +3/+3/+1/+2  
-**Health:** 7 times the spell level  
+**Health:** 6 + 7 times the spell level  
 **AC:** 10 + mana expended  
 **Damage Immunities:** The damage type you chose  
-**Vision:** Nullvision  
-**Speed:** 30' walking, 30' flying  
+**Vision:** A sight-based vision type of your choice
+**Speed:** 25' walking, 25' flying  
 **Actions:** _Strike_, melee weapon attack, +2 + mana expended to hit instead of the normal attack roll modifier. Deals an amount of (d4 + 1) equal to the spell level of the damage type you chose.

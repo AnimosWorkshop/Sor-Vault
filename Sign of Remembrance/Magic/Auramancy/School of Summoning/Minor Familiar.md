@@ -15,8 +15,8 @@ The familiar's stats are as follows, and its form is that of a tiny animal you h
 _Tiny Elemental_  
 14/8/8/8/8/8/18  
 +4/+1/+1/+6  
-**Health:** 7 times the mana expended  
+**Health:** 7 + 7 times the mana expended  
 **AC:** 9 + mana expended  
-**Vision:** Nullvision  
+**Vision:** A sight-based vision type of your choice
 **Speed:** 30' walking, 30' flying (if its form allows it)  
 **Actions:** _Strike_, melee natural weapon attack, +2 + mana expended to hit instead of the normal attack roll modifier. Deals an amount of d4 equal to the spell level slashing / bludgeoning / piercing damage (depending on the form).

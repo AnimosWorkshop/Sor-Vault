@@ -15,10 +15,10 @@ The frigid husk's stats are as follows, and it appears like the corpse which is 
 _(According to the body's size, up to) Medium Elemental_  
 14/16/8/8/8/8/12  
 +6/+2/+2/+4  
-**Health:** 7 times the mana expended  
-**AC:** 9 + mana expended  
-**Vision:** Darkvision  
+**Health:** 12 + 12 times the spell level  
+**AC:** 11 + spell level
+**Vision:** A sight-based vision type of your choice
 **Speed:** According to the racial base speed of the used corpse  
 **Damage Resistances:** Cold, Necrotic  
-**Actions:** _Strike_, melee natural weapon attack, +3 + mana expended to hit instead of the normal attack roll modifier. Deals 1d8 bludgeoning damage.  
+**Actions:** _Strike_, melee natural weapon attack, +6 + spell level to hit instead of the normal attack roll modifier. Deals 1d8 bludgeoning damage.  
 **Passives:** _Chilling Retaliation_, the ice elemental makes living bodies around it more brittle. Any non-elemental, non-undead within 5' of the husk (including themselves) takes 1 cold damage whenever this creature takes slashing, piercing or bludgeoning damage.

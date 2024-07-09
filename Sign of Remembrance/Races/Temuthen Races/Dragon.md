@@ -11,12 +11,12 @@ Uncommon
 **Vision:** Lightvision, mistvision.  
 **Breath Weapon:** Each dragon has their own breath weapon, which they can use with an action to unleashing an element within them in a cube in front of them, 15' as wyrmlings and 5' more for each age category above it. Each creature within that area must make a Dexterity saving throw in the case of fire, cold and lightning, or a Constitution saving throw in the case of poison and acid. The DC is 10 + your Willpower modifier + your proficiency modifier. The breath weapon deals 3d8 of the dragon's element, and 3d8 more damage for each age category above it, or half as much damage if the creature succeeds on the saving throw. You regain the use of this feature once per short or long rest.  
 **Of the Elements:** You are immune to the damage type of your element.
-**Persistent Anatomy:** Dragons' hit points don't act like those of other creatures. The dragon's hit die is one associated with their size, increasing as the dragon increases in age. Hit dice from classes are also converted to the one associated with their size instead of with their class. When they go into the next size category, the dragon's maximum hit points increase by 2 (or by 8 from adults to elders), plus 1 for each class hit die (or by 4 from adults to elders).
-
-- Wyrmlings: 8 starting hit points, 8 maximum hit points per level, 1d8 class hit die.
-- Youngs: 10 starting hit points, 10 maximum hit points per level, 1d10 class hit die.
-- Adults: 12 starting hit points, 12 maximum hit points per level, 1d12 class hit die.
-- Elders: 20 starting hit points, 20 maximum hit points per level, 1d20 class hit die.
+**Persistent Anatomy:** The starting hit points of dragons changes as they age alongside with their size:
+- Wyrmlings (medium): 8 starting hit points
+- Youngs (large): 10 starting hit points
+- Adults (huge): 12 starting hit points
+- Elders (gargantuan): 20 starting hit points
+In addition, your hit point maximum increases by 1, and by an additional 1 every time you gain a level.
 
 **Languages:** You can speak, read, and write Temuthen.
    

@@ -14,9 +14,9 @@ The ashborn's stats are as follows, and its form is bipedal, and of the same siz
 _(According to the body's size, up to) Medium Elemental_  
 16/14/12/8/8/8/12  
 +6/+4/+2/+4  
-**Health:** 11 times the mana expended  
+**Health:** 11 + 11 times the mana expended  
 **AC:** 10 + mana expended  
-**Vision:** Lightvision  
+**Vision:** A sight-based vision type of your choice
 **Speed:** 30' walking  
 **Damage Vulnerabilities:** Acid, Fire, Necrotic  
 **Actions:** _Strike_, melee natural weapon attack, +3 + mana expended to hit instead of the normal attack roll modifier. Deals 1d6 bludgeoning damage and an amount of d6 equal to the spell level necrotic damage.  

@@ -14,7 +14,7 @@ The guardian's turn comes after yours, allowing you to command it with your word
 _Gargantuan Elemental_  
 22/20/14/12/12/12/14  
 +11/+7/+6/+7  
-**Health:** 20 times the mana expended  
+**Health:** 20 + 20 times the mana expended  
 **AC:** 12 + mana expended  
 **Vision:** Lightvision, Darkvision  
 **Speed:** 40' walking  
