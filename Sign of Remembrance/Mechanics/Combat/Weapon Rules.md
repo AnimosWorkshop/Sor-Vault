@@ -95,4 +95,4 @@ Repairing a weapon requires an artisan with tools according to the type of weapo
 - Breakage 2 - 20% of the original price of the weapon. The weapon shows a major decrease in performance.
 - Breakage 3 - The weapon cannot be repaired. The weapon is broken, and cannot be used effectively, meaning that your proficiency modifier does not apply to it when attacking in addition to the normal -3 penalty for attack rolls. The weapon also does not have any of the traits it normally does, including upgrades ones, except for Light and Heavy.
 
-The amount of time required to repair the weapon is 1 hour per base AC of the armor.
+The amount of time required to repair the weapon is 1 hour per maximum damage on the weapon damage dice.

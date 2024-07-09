@@ -35,5 +35,5 @@
 
 | **Product**           | **Cost** | **Weight** | **Notes**                                                                                                             |
 | --------------------- | -------- | ---------- | --------------------------------------------------------------------------------------------------------------------- |
-| Death Dealer's Amulet | 250 sc   | 0.25 lb    | See the [Death Dealer's Amulet](Death%20Dealer's%20Amulet.md) page under the Magical Items category.                  |
+| Death Dealer's Amulet | 4 gc     | 0.25 lb    | See the [Death Dealer's Amulet](Death%20Dealer's%20Amulet.md) page under the Magical Items category.                  |
 | Nega-Empathy Gloves   | 10 gc    | 0.5 lb     | See the [Nega-Empathy Gloves](Nega-Empathy%20Gloves.md) page under the Magical Items category. Starts with 0 charges. |
