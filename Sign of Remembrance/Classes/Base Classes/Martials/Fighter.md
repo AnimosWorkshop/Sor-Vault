@@ -92,7 +92,7 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
 When you reach 3rd level, choose a type of weapon to become your specialty weapon. Based on the category you choose, you get a bonus when using these types of weapons:
 #### Hurler (dagger, sling, flask, dart, whip)
 The Lethal trait and the damage die for weapons of this specialty increases by 1 for you.
-#### Pugilist (knuckles, unarmed strikes, shields)
+#### Pugilist (gauntlet, unarmed strikes, shields)
 Parrying Strike can be used in conjunction with the Deflect reaction as a part of the same reaction if you are using a weapon of this specialty. If you don't have the Deflect reaction, you may instead increase your AC by 1 against the attack in addition to the normal effects of Parrying Strike.
 #### Sharpshooter (blowgun, shortbow, stone bow, crossbow, hand crossbow, longbow)
 You get a +2 bonus to attack rolls with weapons of this specialty.

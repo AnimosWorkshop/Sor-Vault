@@ -55,7 +55,7 @@ You have trained your mind to enter a state of coordination between body and min
 You may use an action and 1 focus to become Focused, using your [[Reading a Spell Entry|concentration]] slot to allow the world around you to become clearer - you can control your senses more easily, focusing on whatever you'd like, your body is honed and prepared to deal with that which threatens it. While focused:
 
 - You have a +1 bonus for Perception (Wisdom) checks.
-- Your [[Weaponsmith#Commoners' Melee Weapons|unarmed strikes]] have their damage die increased by 1, and you may use all functional limbs in order to perform unarmed strikes and the [[Action Economy#^5d5dd0|shove]] brawl action.
+- Your [[Weaponsmith#Commoners' Melee Weapons|unarmed strikes]] have their damage die increased by 1, and you may use all functional limbs in order to perform unarmed strikes and the [[Action Economy#^5d5dd0|shove]] brawl action. Gauntlet weapons are also affected by this bonus.
 - Your natural armor AC increases by 1.
 - You gain access to the Deflect reaction against an incoming attack, increasing your AC by your Strength modifier divided by 3 against it.
 - You have a +1 bonus to saving throws.
