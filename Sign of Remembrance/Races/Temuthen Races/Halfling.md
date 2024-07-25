@@ -21,7 +21,7 @@ _Lightfoot halfling society is more open than of other halfling subraces. They a
 **Racial Attribute Bonus:** Your Charisma score increases by 1.  
 **Haggler:** You are novice with Persuasion and Deception.  
 **Quick Feet:** You have a base walking speed of 30’ instead of the regular 25’.  
-**Assessor:** You are proficient with [[Sign of Remembrance/Mechanics/Basics/Tools#Provisioner|provisioner's tools]].
+**Assessor:** You are proficient with [[Crafting#Provisioner|provisioner's tools]].
 **Naturally Stealthy:** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you. In addition, you are novice with Stealth.
  
 ### Strongheart Halfling

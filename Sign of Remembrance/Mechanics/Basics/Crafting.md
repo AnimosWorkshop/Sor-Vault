@@ -1,11 +1,25 @@
-If you are proficient with a tool, you can craft with it to your heart's content, without a crafting check of any kind required. 
-If you would need to roll a knowledge check for that tool, or want to earn income using your tool, use your Intelligence modifier + twice your proficiency modifier as your bonus to the roll. [[Proficiency and Downtime#Earn Income|Earn Income]] may also be used to reduce the cost of items you craft using the tool, according to the amount of money you would earn using that tool.
+If you would need to roll a knowledge check for a tool you are proficient with, or want to earn income using your tool, use your Intelligence modifier + twice your proficiency modifier as your bonus to the roll. [[Proficiency and Downtime#Earn Income|Earn Income]] may also be used to reduce the cost of items you craft using the tool, according to the amount of money you would earn using that tool.
 
 Tools may have a specific attribute associated with them for the purposes of earning income, which can (but not must) be used instead of Intelligence:
 - **Strength:** Weaponsmith
 - **Dexterity:** Armorer
 - **Wisdom:** Alchemist, Provisioner
 - **Casting Modifier** (if the character is a caster): Runecarver
+
+### Crafting Operation
+
+Characters may use their tool proficiencies to craft items, provided they have basic knowledge about the item. While rare or complex items may require additional study to master their construction, most basic items can be crafted with a combination of general tool knowledge and some experimentation.
+
+#### Crafting Supplies
+
+Crafting requires supplies, which are generally available in towns and cities. These supplies are versatile and can be stored for future use. The efficiency of converting supplies into finished goods depends on whether the character is engaging in quick crafting or slow crafting:
+
+- Quick Crafting - Supplies are converted to progress at a 1:1 ratio.
+- Slow Crafting (via [[Proficiency and Downtime#Earn Income|Earn Income]]) - Supplies are converted to progress at a 1:2 ratio. For example, a character with a potential 16 sc income use 16 silver coins (sc) worth of supplies can create items worth 16 sc in quick crafting or 32 sc in slow crafting, yielding their 16 sc profit margin.
+
+Quick crafting can be performed by working over an entire day, in order to create items of their crafting profession. Make a crafting roll using your tool. The items created or progress made is can be up to a silver coins amount equal to your roll. 
+- - -
+## Tools List
  
 #### Alchemist
 Alchemy is usually considered the spearhead of technology, using the mixing of materials and chemicals in order to create concoctions, poisons and more. Alchemist's tools include: a set of vials and alembics, a gas grill, a retort and a pestle and mortar.

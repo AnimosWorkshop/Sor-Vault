@@ -93,6 +93,17 @@ Repairing a weapon requires an artisan with tools according to the type of weapo
 - Breakage 0 - None. The weapon is perfectly fine.
 - Breakage 1 - 10% of the original price of the weapon. The weapon shows a minor decrease in performance.
 - Breakage 2 - 20% of the original price of the weapon. The weapon shows a major decrease in performance.
-- Breakage 3 - The weapon cannot be repaired. The weapon is broken, and cannot be used effectively, meaning that your proficiency modifier does not apply to it when attacking in addition to the normal -3 penalty for attack rolls. The weapon also does not have any of the traits it normally does, including upgrades ones, except for Light and Heavy.
+- Breakage 3 - 30% of the original price of the weapon. In the meanwhile, the weapon is broken, and cannot be used effectively, meaning that your proficiency modifier does not apply to it when attacking in addition to the normal -3 penalty for attack rolls. The weapon also does not have any of the traits it normally does, including upgrades ones, except for Light and Heavy.
 
 The amount of time required to repair the weapon is 1 hour per maximum damage on the weapon damage dice.
+
+### Weapon Seals
+
+A weaponsmith may use a short rest to create a seal to fix broken weapons, which also functions as reinforcement against potential breakage. Once the number of hits against a seal is reached, or if breakage would occur to the weapon, the seal is destroyed and the weapon returns to its no-seal state, but does not receive additional breakage. 
+Aside from the reinforcement seal, all seals effectively reduce the breakage value of the weapon, which affects the effectiveness of the weapon and allows another seal to be placed on top. Stacked seals take damage at the same time, but if breakage would occur, only the top seal is destroyed.
+
+| Name               | Cost (% of weapon's price) | Works up to # breakage | Effective Hit Number |
+| ------------------ | -------------------------- | ---------------------- | -------------------- |
+| Reinforcement Seal | 2                          | 0                      | 6                    |
+| Safeguard Seal     | 4                          | 1                      | 5                    |
+| Emergency Seal     | 6                          | 2                      | 4                    |

@@ -72,4 +72,4 @@ _Income = Proficiency Bonus * Chosen Skill Bonus_ (according to GM discretion, a
 You may also use this in order to craft items if you have a tool proficiency. 
 Whenever you'd like to craft an item, as long as you possess the right tool proficiency to do so, pay the cost of the item and subtract the following amount from the cost (in silver coins) for each DP used, as long as at least 1 DP was used: 
 _Savings = Proficiency Bonus * Crafting Bonus_
-The crafting bonus may be either Intelligence or the [[Sign of Remembrance/Mechanics/Basics/Tools|specific]] attribute mentioned for the tool.
+The crafting bonus may be either Intelligence or the [[Crafting|specific]] attribute mentioned for the tool.

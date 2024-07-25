@@ -43,6 +43,17 @@ Repairing an armor piece requires an armorer, and the price depends on the break
 - Breakage 0 - None. The armor is perfectly fine.
 - Breakage 1 - 10% of the original price of the armor. The armor shows a minor decrease in performance.
 - Breakage 2 - 20% of the original price of the armor. The armor shows a major decrease in performance.
-- Breakage 3 - The armor cannot be repaired. The armor is broken, and cannot be used effectively, meaning that your proficiency with it does not apply. The armor also does not have any of the properties and traits it normally does, including upgrades.
+- Breakage 3 - 30% of the original price of the armor. In the meanwhile, the armor is broken, and cannot be used effectively, meaning that half your proficiency modifier is also not added to your AC calculation, aside from the normal -3 penalty to AC from breakage. The armor also does not have any of the properties and traits it normally does, including upgrades.
 
 The amount of time required to repair the weapon is 1 hour per base AC of the armor per breakage level, i.e. between one to two work days per breakage level for all armor types.
+
+### Armor Patches
+
+An armorer may use a short rest to create a patch to fix broken armor, which also functions as reinforcement against potential breakage. Once the number of hits against a patch is reached, or if breakage would occur to the armor, the patch is destroyed and the armor returns to its no-patch state, but does not receive additional breakage.
+Aside from the reinforcement patch, all patches effectively reduce the breakage value of the armor , which affects the AC of the wearer and allows them to place another patch on top. Stacked patches take damage at the same time, but if breakage would occur, only the top patch is destroyed.
+
+| Name                | Cost (% of armor's price) | Works up to # breakage | Effective Hit Number |
+| ------------------- | ------------------------- | ---------------------- | -------------------- |
+| Reinforcement Patch | 2                         | 0                      | 6                    |
+| Safeguard Patch     | 4                         | 1                      | 5                    |
+| Emergency Patch     | 6                         | 2                      | 4                    |
