@@ -2,19 +2,18 @@
 - - -
 ## Feature Table
  
-| **Transmuter Level** | **Features**                                                                                 |
-| -------------------- | -------------------------------------------------------------------------------------------- |
-| 1st                  | [[#Alchemechanical Infusion]], [[#Makeshift Alchemy]]                                        |
-| 2nd                  | [[#Alchemical Affinity]], [[#Far Thrower]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 3rd                  | [[#Opus Creation Specialty]]                                                                 |
-| 4th                  | [[#Momental Attack]], [[#Martial Techniques]], [[#Attribute Increase]]                       |
-| 5th                  | [[#Advanced Infusion]]                                                                       |
-| 6th                  | [[#Vitality Transference]], [[#Martial Techniques]], [[#Attribute Increase]]                 |
-| 7th                  | [[#Deeper Alchemical Affinity]], [[#Upgraded Opus Specialty]]                                |
-| 8th                  | [[#Martial Techniques]], [[#Attribute Increase]]                                             |
-| 9th                  |                                                                                              |
-| 10th                 | [[#Martial Techniques]], [[#Attribute Increase]]                                             |
-   
+| **Transmuter Level** | **Features**                                                                 |
+| -------------------- | ---------------------------------------------------------------------------- |
+| 1st                  | [[#Alchemechanical Infusion]], [[#Makeshift Alchemy]]                        |
+| 2nd                  | [[#Alchemical Affinity]], [[#Martial Techniques]], [[#Attribute Increase]]   |
+| 3rd                  | [[#Opus Creation Specialty]]                                                 |
+| 4th                  | [[#Momental Attack]], [[#Martial Techniques]], [[#Attribute Increase]]       |
+| 5th                  | [[#Advanced Infusion]]                                                       |
+| 6th                  | [[#Vitality Transference]], [[#Martial Techniques]], [[#Attribute Increase]] |
+| 7th                  | [[#Makeshift Alchemy]], [[#Upgraded Opus Specialty]]                         |
+| 8th                  | [[#Martial Techniques]], [[#Attribute Increase]]                             |
+| 9th                  |                                                                              |
+| 10th                 | [[#Martial Techniques]], [[#Attribute Increase]]                             |
 
 # Prerequisites
  
@@ -52,24 +51,22 @@ In order to advance as a transmuter, you must meet the following prerequisites:
  
 Whenever you make a weapon attack, you can infuse your weapon to increase its potency, increasing the weapon's damage die by 1 for the attack.  
 In addition, as a reaction to being attacked by a weapon, you may attempt to defuse the weapon. If you do, the weapon's damage die decreases by 1 for the attack.
+
+You may use a total number of infusions up to your transmuter level each round, resetting at the start of your turn.
  
 ## Makeshift Alchemy
  
-As a professional alchemist, you possess the ability to make improvised tools which emulate the effects of other alchemical items. Once per long rest, you may spend half an hour create [alchemical items](Alchemist.md) under the Bombs, Harmful Substances and Concoctions tabs which cost up to 12 sc * your transmuter level for free, using materials from your surroundings as ingredients. These items deteriorate once you take your next long rest, or 16 hours pass.
+As a professional alchemist, you possess the ability to make improvised tools which emulate the effects of other alchemical items. Once per long rest, you may spend half an hour create [alchemical items](Alchemist.md) under the Bombs, Harmful Substances and Concoctions tabs which cost up to 16 sc * your transmuter level for free, using materials from your surroundings as ingredients. These items deteriorate once you take your next long rest, or 16 hours pass.
  
 ## Alchemical Affinity
  
-Your affinity with alchemy as both a profession and a way of life, increases as you improve in weaving it through battle.  
-Starting at 2nd level, whenever you use your alchemechanical infusion to increase the damage die of a poison-coated weapon or a flask, you also increase the damage die dealt by the alchemical substance by 1.  
-In addition, whenever a concoction would restore hit points to you, you gain additional hit points equal to your transmuter level.
- 
-## Far Thrower
- 
-Also starting at 4th level, whenever you attack with a thrown weapon, you may use Alchemechanical Infusion feature to instead double the weapon's range. Stacking this effect more than once makes the range: tripled, quadrupled, etc.
+Your affinity with alchemy as both a profession and a way of life, increases as you improve in weaving it through battle. 
+Starting at 2nd level, whenever you attack with a weapon enhanced by an alchemical substance such as venoms or a crystallizer, you may use your alchemechanical infusion to increase the damage die of the substance by 1. You may also enhance damage die from substances applied by a flask or dart in this way.
+In addition, whenever a concoction would restore hit points to you, or you would use a dart with a healing concoction to heal a creature, you may use an alchemechanical infusion to increase the healing die by 1. For a coagulation concoction, this would effectively raise each of the hit dice expended.
  
 ## Martial Techniques
  
-At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
+At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
  
 | **Transmuter Level** | **Basic Techniques** | **Advanced Techniques** |
 | -------------------- | -------------------- | ----------------------- |
@@ -83,7 +80,7 @@ At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Int
  
 When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
-## Opus Creation Specialty
+## Opus Creation
  
 When you reach 3rd level, you create your major work as a transmuter, granting a fitting object of your choice with newfound powers. Choose one of the following opera, which becomes your opus. If the object is destroyed, you may remake the same opus on another fitting object of your choice during a short rest. You may also remake the opus onto another fitting object of your choice during a short rest, but this disables the opus on whatever it affected before.  
 You also gain 1 proficiency level in either Athletics, Acrobatics or Perception.
@@ -106,12 +103,12 @@ The helmet can switch between two modes: one according to your [[Vision|vision t
  
 ## Momental Attack
  
-At 4th level, you understand how to stretch your gain of momentum to its limit, allowing you to swing with extreme force at the cost of your own health. As another option of an infusion, using your transmuter's Alchemechanical Infusion feature, you may get a +1 bonus to your attack roll.
- 
+At 4th level, you understand how to stretch your gain of momentum to its limit, allowing you to swing with extreme force. When you make an weapon attack roll, you may use an alchemechanical infusion to get a +1 bonus to your attack roll. This can be used with conjunction with the damage die infusions.
+In addition, whenever you attack with a thrown weapon, you may use Alchemechanical Infusion feature to instead double the weapon's range. Stacking this effect more than once makes the range: tripled, quadrupled, etc.
+
 ## Advanced Infusion
  
-Starting at 5th level, your infusions become more powerful, allowing you to infuse a weapon attack twice instead of once. The infusions may be the same infusion, or two different infusions.  
-You may also apply a doubled effect when you defuse a weapon attack using your Alchemechanical Infusion feature using the same reaction.
+Starting at 5th level, your infusions become more powerful. Whenever you would be able to use an alchemechanical infusion, you may use two instead for a doubled effect.
  
 ## Vitality Transference
  
@@ -119,12 +116,12 @@ At 6th level, you unlock the ability to extract some of your own vital essence, 
 Any creature who drinks the concoction from the vial regains hit points equal to twice those hit dice + twice your Constitution modifier. If not used by the next 24 hours, the concoctions spoil.  
 In addition, your body adapts to survive such operations by becoming more resilience - granting you proficiency in Resilience and Wits saving throws.
  
-## Deeper Alchemical Affinity
+## Mutable Alchemy
  
-At 7th level, the bonuses you get from the Alchemical Affinity feature are enhanced, allowing you to use alchemical items to an even more potent degree. Whenever you use your alchemechanical infusion to increase the damage die of a poison-coated weapon or a flask, you also increase the damage die dealt by the alchemical substance by 2 instead of by just 1. This applies only once per attack, so enhancing the attack's damage with two infusions increases the substance's damage die by 3.  
-In addition, whenever a concoction would restore hit points to you, you gain additional hit points equal to your 1.5 times your transmuter level instead of once.
- 
-## Upgraded Opus Specialty
+At 7th level, you are able to create a mutable alchemical kit using your [[#Makeshift Alchemy|makeshift alchemy supplies]], made up of different substance which are only almost stabilized. When you prepare your makeshift alchemy supplies, choose an amount of gold up to 4 sc * your Transmuter level. This amount is subtracted from your supplies, and enters the mutable kit. Using a minor interaction, you are able to create one item from these materials, subtracting its cost from the amount of remaining materials.
+When you take a long rest, any unused items and supplies deteriorate.
+
+## Upgraded Opus
  
 Also when you reach 7th level, you upgrade your opus in such a manner which enhances its capabilities to bestow you a greater benefit.
  
