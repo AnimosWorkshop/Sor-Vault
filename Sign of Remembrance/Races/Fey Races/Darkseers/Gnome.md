@@ -13,9 +13,9 @@
 ## Subraces
 ### Wideview Gnome
  
-**Seen That Before**: Whenever you fail a saving throw, you may attempt to draw knowledge about similar situations you have already encountered. Choose a skill relevant to the problem you're dealing with which caused you to roll a saving throw (according to the GM's discretion), and roll a skill check. This becomes your new result for the saving throw. You may use this feature once before needing to recover it over a long rest. In addition, you become proficient with any skill of your choice.
+**Seen That Before**: Whenever you fail a saving throw, you may attempt to draw knowledge about similar situations you have already encountered. Choose a skill relevant to the problem you're dealing with which caused you to roll a saving throw (according to the GM's discretion), and roll a skill check. This becomes your new result for the saving throw. You may use this feature once before needing to recover it over a long rest. In addition, you are proficient with one skill of your choice.
  
 ### Prism Gnome
  
 **Eye of an Expert:** You are expert with a skill of your choice.  
-**Focusing Lens:** Your senses allow you to focus through mists, granting you mistvision.
+**Focusing Lens:** Additional visual sensors allow you to focus through obstructions ahead of you, granting you mistvision.

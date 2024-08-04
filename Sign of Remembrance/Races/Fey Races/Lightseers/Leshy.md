@@ -6,9 +6,9 @@
 **Creature Type:** Fey.  
 **Speed:** 25' walking.  
 **Vision:** Lightvision.  
-**Barkskin:** Your skin has a wooden texture, and is harder than most creatures. Your natural armor AC is 11, and you are vulnerable to fire damage. Your natural armor is weak to Slashing, Acid and Fire damage.  
+**Barkskin:** Your skin has a wooden texture, and is harder than most creatures'. Your natural armor AC is 11, and you are vulnerable to fire damage. Your natural armor is weak to Slashing, Acid and Fire damage.  
 **Stability:** You are connected to the ground, never letting the winds of change bend you. You are proficient with Resilience saving throws.  
-**Increased Regrowth:** While having a short rest, you may use double your Constitution modifier instead of adding it once to rolled hit dice.  
+**Increased Regrowth:** While having a short rest, you may use double your Constitution modifier instead of adding it once to rolled hit dice.
 **Wooden Affinity:** While attacking with a wooden weapon (including your unarmed strikes), you channel your energy into it, increasing the damage die by 1 for the attack. This feature is considered auramancy for the purpose of magic detection, but cannot be dispelled.  
 **Languages:** You can speak, read, and write Sylvan and Leshen.
 - - -

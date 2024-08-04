@@ -20,20 +20,20 @@ _The strongest advocates of stability among their kind, arctic elf society as st
  
 **Racial Attribute Bonus:** Your Constitution score increases by 1.  
 **Arctic Adaptation:** You are resistant to cold damage.  
-**Arctic Climates Hunting:** You are proficient with spears.
+**Arctic Climates Hunting:** You are proficient with one weapon with the [[Weapon Rules#Reach|reach]] trait of your choice.
  
 ### High Elf
  
 _Calm and collected, this subrace of elves inherited a high affinity for arcana, which caused them to feel a sense of regality. They are trained since a young age to develop this ability, as well as manners and elegance. Many high elves feel torn, between the abilities they develop and the humility associated with them, and so education of elves varies from family to family._
  
 **Racial Attribute Bonus:** Your Intelligence score increases by 1.  
-**Faerie Fire:** Once per short or long rest, you can use your action to burst arcane energy into existence, causing light to be shed from nearby objects. Each creature in a 15' cube within 60' must succeed on a Constitution saving throw to repel the energy, or be illuminated for 1 minute or until you lose your concentration. Illuminated objects and creatures suffer a -2 penalty to their AC and can't become invisible for the curse's duration. The effect is considered a 2nd-level, arcana, calefaction, curse for the purpose of magic detection.
+**Faerie Fire:** Once per short or long rest, you can use your action to burst arcane energy into existence, causing light to be shed from nearby objects. Each creature in a 15' cube within 60' must succeed on a Initiative saving throw to repel the energy, or be illuminated for 1 minute or until you lose your concentration. Illuminated objects and creatures suffer a -2 penalty to their AC and do not get the benefits of [[Cover|cover]] or invisibility for the curse's duration. The effect is considered a 2nd-level, arcana, calefaction, curse for the purpose of magic detection.
  
 ### Wood Elf
  
 _The wood elves, as the name suggests, are more in-tune with nature than other elves. They prefer living close to the ground and nature, and even when living in cities they tend to keep memories of their birthplace - perhaps a flower or a small pet. They have great instincts and most are protective of their kin - whether those would be other wood elves or close friends, and they seek to be integrated into society and find their place, often joining different communities over their lifetime if no other option presents itself._
  
 **Racial Attribute Bonus:** Your Dexterity score increases by 1.  
-**Woods Weapon Training:** You are proficient with longbows.  
+**Woods Weapon Training:** You are proficient with one ranged weapon of your choice.  
 **Fleet of Foot:** You have a base walking speed of 35'.  
-**Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+**Wild Camoflague:** You can attempt to hide even when you only have [[Cover#^687bf7|cover 1]].
