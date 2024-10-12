@@ -46,11 +46,13 @@
 * edū - to eat
 * ekisū - to hear
 * ekosū - to listen
+* elabū - to tell
 * enotū - to unity
 * entū - to summon
 * erenū - to scam
 * erlū - to comfort
-* esfū - to talk / to speak
+* esfū - to talk / to say
+* esfolū - to report
 * fakerū - to forget
 * farisū - to lead
 * fasū - to subtract
@@ -58,6 +60,7 @@
 * fenirū - to glorify
 * feznū - to befriend
 * flexū - to pull / to draw (from something)
+* fikanū - to notice
 * fivū - to imagine / to wonder
 * forū - to heat
 * foxū - to start / to begin
@@ -86,16 +89,20 @@
 * hirkū - to risk
 * hizū - to mean
 * homū - to hope / to long for
+* homarū - to miss
 * hosū - to reside
 * hurū - to pick up
 * iarlū - to prosper
 * ikrū - to be proud of
+* ilentū - to demonstrate
+	* ilentieren - for example
 * inū - to unite
 * janū - to see
 * jandū - to reckon
 * jecinū - to be must
 * jelfū - to implore
 * jetū - to cause
+* jezenū - to submit
 * jilū - to condition
 * jirenū - to become
 * jorimū - to cause to be sick
@@ -126,12 +133,14 @@
 * lobū - to raise
 * lublazū - to survive
 * lunū - to lie (down)
+* mazrū - to make (someone) used to
 * meralū - to have mercy
 * mevxū - to plan
 * milerū - to endanger
 * mocū - to cause
 * monū - to leave (from somewhere)
 * mukirū - to boast
+* nadexū - to lock
 * nakū - to not know
 * napū - to clean
 * natū - to need
@@ -147,6 +156,7 @@
 * pacū - to name
 	* mal pacū - to be named / to be called as
 	* pacieþ - name
+* pelavū - to guess
 * petuzū - to flutter
 	* petuzien - butterfly
 * pojrū - to fuck
@@ -171,12 +181,16 @@
 * renū - to love
 * relimū - to rescue
 * relþū - to understand / to realize
+	* relþa - idea
 * rofū - to cool
 * safū - to add
+	* safes - also / too
+	* safieren - additionally
 * savū - to work
 * savecū - to task
 * savikū - to think
 * savusū - to be able to
+	* savusiere - ability / skill
 * satū - to touch
 * shelū - to sense
 * sklū - to defend / to protect
@@ -198,10 +212,11 @@
 * trū - to drink
 * tuxfū - to visit
 * twarū - to include
+* ufelū - to fear
 * ulfū - to research
 * ukilū - to assume
 * mal ukilū - "to be should"
-* ufelū - to fear
+* uroxū - to steal
 * vabū - to intend
 * vartū - to win
 * vekrū - to succeed (in something)
@@ -215,6 +230,7 @@
 * vletū - to respect
 * volanū - to fight
 * voronū - to hide
+* vranū - to make happy / to cheer
 * vralū - to restore
 * vulnū - to stand
 * vū - to let / to allow
@@ -225,13 +241,16 @@
 * wonū - to pray
 * xabilū - to gather
 * xalū - to improve
+* xedanū - to unlock
 * xelfū - to discard
 * xofū - to finish
 * zalkū - to slow
 * zalomū - to snow
 	* zalome - snow
 * zavū - to choose
+	* zava - option
 * zastū - to aid
+* zectū - to practice
 * zelþū - to wait
 * zednū - to hurt
 * zefū - to liken
