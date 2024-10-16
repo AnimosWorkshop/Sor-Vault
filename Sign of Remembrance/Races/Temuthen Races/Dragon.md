@@ -71,7 +71,7 @@ _The brass dragons naturally attuned to the environment around them, forming it 
  
 ### Bronze
  
-_The bronze dragons have keen eyes, and their interest in physical objects turned them to be great appraisers. Their dragonland in Bachter and northern Lothano is wisely formed where ships and naval war and trade can be easily handled, and their society was greatly influenced by Tezix, the Shifter, a god of the Second Verse._
+_The bronze dragons have keen eyes, and their interest in physical objects turned them to be great appraisers. Their dragonland in Bachter and northern Lothano is wisely formed where ships and naval war and trade can be easily handled, and their society was greatly influenced by Tezik, the Shifter, a god of the Second Verse._
  
 **Racial Attribute Bonus:** Your Constitution and Wisdom scores each increase by 1, plus 1 for each age category above wyrmling, up to 20.  
 **Specialty:** You are novice with Persuasion.  

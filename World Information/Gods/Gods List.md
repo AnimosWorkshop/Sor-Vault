@@ -6,7 +6,7 @@
 - [[Temuþen Gods#Ratoki|Ratoki]] - Goddess of Equality; The Harmonizer
 - [[Helian Gods#Ardain|Ardain]] - God of Balance
 - -
-### Tezix - God of Change
+### Tezik - God of Change
 
 - [[Fey Gods#Sanae|Sanae]] - Goddess of Change
 - -

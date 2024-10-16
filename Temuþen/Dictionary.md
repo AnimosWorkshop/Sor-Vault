@@ -64,7 +64,7 @@
 * fivū - to imagine / to wonder
 * forū - to heat
 * foxū - to start / to begin
-* frodū - to dismantly
+* frodū - to dismantle
 * frodrū - to disperse
 * fuklū - to search
 * gargū - to swim
@@ -114,9 +114,11 @@
 * kacanū - to climb
 * kenþū - to expect
 * ketū - to write
+	* ketieþo - book
 * kfatū - to reconcile
 * klazū - to quicken
 * kokricū - to pinch
+* koperū - to conduct
 * krenū - to adopt (a habit / something)
 * kumonū - to lose (at something)
 * kū - to be / to exist
@@ -178,7 +180,9 @@
 	* ratienga - hand
 * rawtū - to remember
 * rekafū - to exclude
+* ranū - to like
 * renū - to love
+* retū - to make
 * relimū - to rescue
 * relþū - to understand / to realize
 	* relþa - idea
@@ -227,6 +231,7 @@
 	* videnieþ - spell
 * vifū - to return
 * virū - to grow
+	* viriecna - forest
 * vletū - to respect
 * volanū - to fight
 * voronū - to hide

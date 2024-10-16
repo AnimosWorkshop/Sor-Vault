@@ -6,7 +6,7 @@
 		{"id":"a6ca6dc7da9a320e","type":"text","text":"## <center>Disruption</center>\n\n* Leadership (Hastur)\n* Knowledge (Aria)\n* Justice (Armogon)","x":460,"y":-280,"width":300,"height":200,"color":"1"},
 		{"id":"dda1ee327b006115","type":"text","text":"## <center>Guidance</center>\n\n* Peace (Laurien)\n* Coping (Delyres)\n* Cooperation (Nidora)","x":800,"y":-280,"width":300,"height":200,"color":"1"},
 		{"id":"4edb6036d91b192e","type":"text","text":"# <center>Arcana</center>","x":-720,"y":-460,"width":280,"height":60,"color":"6"},
-		{"id":"0e6978c05b977298","type":"text","text":"## <center>Disruption</center>\n\n* Protection (Fahren)\n* Freedom (Gweldyn)\n* Change (Tezix)","x":-900,"y":-280,"width":300,"height":200,"color":"6"},
+		{"id":"0e6978c05b977298","type":"text","text":"## <center>Disruption</center>\n\n* Protection (Fahren)\n* Freedom (Gweldyn)\n* Change (Tezik)","x":-900,"y":-280,"width":300,"height":200,"color":"6"},
 		{"id":"464ae399613e9169","type":"text","text":"## <center>Guidance</center>\n\n* Fate (Vorona)\n* Curiosity (Venandi)\n* Creativity (Grelleyal)","x":-560,"y":-280,"width":300,"height":200,"color":"6"},
 		{"id":"05594b0a09606e57","type":"text","text":"# <center>Auramancy</center>","x":-40,"y":-460,"width":280,"height":60,"color":"4"}
 	],
