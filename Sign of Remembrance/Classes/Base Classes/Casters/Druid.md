@@ -2,18 +2,18 @@
 - - -
 ## Feature Table
 
-| **Druid Level** | **Features**                                         |
-| --------------- | ---------------------------------------------------- |
-| 1st             | [[#Auramancer]], [[#Aura Sense]]                     |
-| 2nd             | [[#Instinct Sense]], [[#Attribute Increase]]         |
-| 3rd             | [[#Natural Specialty]]                               |
-| 4th             | [[#Ex Terra]], [[#Attribute Increase]]               |
-| 5th             | [[#Natural Specialty Focus]]                         |
-| 6th             | [[#Thorn Ward]], [[#Attribute Increase]]             |
-| 7th             | [[#Instinct Sense]]                                  |
-| 8th             | [[#Instinct Harmonization]], [[#Attribute Increase]] |
-| 9th             |                                                      |
-| 10th            | [[#Sanguimancy]], [[#Attribute Increase]]            |
+| **Druid Level** | **Features**                                                   |
+| --------------- | -------------------------------------------------------------- |
+| 1st             | [[#Auramancer]], [[#Aura Sense]]                               |
+| 2nd             | [[#Instinct Sense]], [[#Attribute Increase]]                   |
+| 3rd             | [[#Natural Specialty]]                                         |
+| 4th             | [[#Ex Terra]], [[#Attribute Increase]]                         |
+| 5th             | [[#Natural Specialty Focus]]                                   |
+| 6th             | [[#Thorn Ward]], [[#Attribute Increase]]                       |
+| 7th             | [[#Instinct Sense]]                                            |
+| 8th             | [[#Instinct Harmonization Specialty]], [[#Attribute Increase]] |
+| 9th             |                                                                |
+| 10th            | [[#Sanguimancy]], [[#Attribute Increase]]                      |
 - - -
 ## Prerequisites
  
@@ -33,7 +33,7 @@ In order to advance as a druid, you must meet the following prerequisites:
  
 ### Proficiencies
  
-- Weapons: 1 simple or martial weapon of your choice
+- Weapons: 1 simple or martial weapon style of your choice
 - Armor: Next tier of armor
 - Tools: None
 - Saving Throws: None
@@ -86,7 +86,7 @@ You also gain 1 proficiency level in Medicine.
  
 ### Ex Terra
  
-Starting at 4th level, your auramancy echoes through your body in such a way which allows you to stabilize your own aura, restoring your body over time. Whenever you spend mana, you recover that many hit points.
+Starting at 4th level, your auramancy echoes through your body in such a way which allows you to stabilize your own aura, restoring your body over time. Once per round you spend mana, you recover that many hit points.
  
 ### Natural Specialty Focus
  
@@ -112,7 +112,6 @@ Attuning to dominance, you strike those who oppose you to become alpha. While yo
 #### Fear
 Attuning to fear, you become more agitated. The horror of death, not being exclusive to our soul, but also to our very body, motivates you to be aware of danger and continue on your path. While you are below half your maximum hit points, you have a +2 bonus to saving throws, and your movement speed increases by 10'.  
 In addition, while making a ranged attack you may infuse your attack with your instinct, allowing you to move 5' away from your target. Attacks of opportunity during this movement are made with disadvantage.
- 
 #### Growth
 Attuning to growth, your focus shifts to not on what was lost - but on what can be gained. Whenever you spend mana, you recover hit points equal to the amount of mana spent. In addition, whenever you lose at least 7 hit points in one instance, you recover mana equal to the amount of hit points lost divided by 7 (rounded down).
  

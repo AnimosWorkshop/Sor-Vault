@@ -111,8 +111,8 @@ In addition, you become proficient with Resilience and Initiative saving throws.
  
 ### Watchful Combatant
  
-At 7th level, your mastery over yourselves and others shows in your reflexes and ability to manipulate a dangerous situation to your advantage. You become proficient with Willpower saving throws. In addition, whenever an enemy moves willingly within your reach for the first time each round, you may make an attack of opportunity against them with advantage, increasing your damage roll for it by 2. This does not use a reaction.
+At 7th level, your mastery over yourselves and others shows in your reflexes and ability to manipulate a dangerous situation to your advantage. You become proficient with Willpower saving throws. In addition, whenever an enemy moves willingly within your reach for the first time each round, you may make an attack of opportunity against them with advantage. This does not use a reaction.
  
 ### Focused Respite
  
-At 8th level, you become able to focus your inner focus in order to restore health. As a quick action while you focus, you may use 1 focus point and up to 2 hit dice in order to heal for the result of those hit dice + twice your Constitution + twice your Willpower + twice your Wisdom modifier hit points.
+At 8th level, you become able to focus your inner focus in order to restore health. As a quick action while you focus, you may use 1 focus point and up to 2 hit dice in order to heal an amount of hit points equal to the result of those hit dice + twice the sum of your Constitution, Willpower and Wisdom modifier.

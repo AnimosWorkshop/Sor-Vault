@@ -18,7 +18,7 @@ _Demon kyrems, as the name suggests, are descendants of the kyrems who decided t
 **Racial Attribute Bonus:** Your Strength score increases by 2.  
 **Vision:** Darkvision.  
 **Demonic Resistance:** You are resistant to cold damage.
-**Large Weapons Training:** You are proficient with a weapon with the [[Weapon Rules#Two-Handed|two-handed]] or [[Weapon Rules#Versatile|versatile]] trait. In addition, while you use a two-handed or a versatile weapon, you have a +1 bonus to your AC.
+**Large Weapons Training:** You are proficient with a martial weapon style of your choice containing a weapon with the [[Weapon Rules#Two-Handed|two-handed]] or [[Weapon Rules#Versatile|versatile]] trait. In addition, while you use a two-handed or a versatile weapon, you have a +1 bonus to your AC.
 
 ### Devil Kyrem
    

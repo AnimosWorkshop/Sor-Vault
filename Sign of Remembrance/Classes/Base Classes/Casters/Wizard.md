@@ -34,7 +34,7 @@ In order to advance as a wizard, you must meet the following prerequisites:
  
 ### Proficiencies
  
-- Weapons: 1 simple weapon of your choice
+- Weapons: 1 simple weapon style of your choice
 - Armor: None
 - Tools: None
 - Saving Throws: None
@@ -128,7 +128,7 @@ You become able to build up charge around you, crackling lightly whenever you do
  
 ### Arcane Deflection
  
-At 9th level, your understanding of spells and sorcery leads you to master the art of deflection, allowing you to channel thrown-off ranged spell attacks to your own use. When a ranged spell attack misses you, if the projectile remains, you may use your reaction to attempt to take control over the spell. You make a ranged spell attack of your own, and if you roll higher than the attack against you, the projectile is propelled to another creature you can see. This attack's range is the range remaining from the original spell.You may attempt to use this feature an amount of times equal to your Intelligence modifier. Uses of this feature replenish when you finish a long rest.
+At 9th level, your understanding of spells and sorcery leads you to master the art of deflection, allowing you to channel thrown-off ranged spell attacks to your own use. When a ranged spell attack misses you, if the projectile remains, you may use your reaction to attempt to take control over the spell. You make a ranged spell attack of your own, and if you roll higher than the attack against you, the projectile is propelled to another creature you can see. This attack's range is the range remaining from the original spell. You may attempt to use this feature an amount of times equal to your Intelligence modifier. Uses of this feature replenish when you finish a long rest.
  
 ### Negation
  

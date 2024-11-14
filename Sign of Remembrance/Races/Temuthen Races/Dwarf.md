@@ -9,7 +9,7 @@ _Dwarves are a materialistic race, who are taught discipline from young age. Whi
 **Speed:** 25' walking.  
 **Vision:** Lightvision, tremorsense.  
 **Dwarven Resilience:** You have advantage on saving throws against being weakened, and you have resistance against being poisoned and taking poison damage.  
-**Dwarven Combat Training:** You are proficient with either hammers or war pickaxes.  
+**Dwarven Combat Training:** You are proficient with the martial sweeper weapon style.
 **Tool Proficiency:** You are proficient with one tool of your choice.  
 **Languages:** You can speak, read, and write Temuthen.
  - - -
@@ -20,7 +20,7 @@ _The dune dwarves, uncommon even in the Blue and Brass dragonlands, are a subrac
  
 **Racial Attribute Bonus:** Your Dexterity score increases by 1.  
 **Desert Adaptation:** You are resistant to fire damage.  
-**Survivalist:** You are novice with Nature, and have advantage when perofrming checks for the Search action to notice traps.
+**Survivalist:** You are novice with Nature, and have advantage when performing checks for the Search action to notice traps.
 ### Hill Dwarf
  
 _The hill dwarves are the most common of dwarves, often residing on hills and near human villages to trade and craft for them. They developed a hard dedication to the arts, and shy as a society from magic even more than the other dwarven communities._

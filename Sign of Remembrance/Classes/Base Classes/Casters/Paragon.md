@@ -33,7 +33,7 @@ In order to advance as a paragon, you must meet the following prerequisites:
  
 ### Proficiencies
  
-- Weapons: 1 simple weapon of your choice
+- Weapons: 1 simple weapon style of your choice
 - Armor: None
 - Tools: None
 - Saving Throws: None
@@ -150,4 +150,4 @@ Dahrial could be seen as a place of despair, as most people would never cross th
  
 ### Saving Grace
  
-At 10th level, you become a true embodiment of your ideal - a full conduit. When you are reduced to 0 hit points for the first time after a long rest, roll a d20. You regain thrice that many hit points. If you were brought prone, you now float standing in place until the start of your next turn.
+At 10th level, you become a true embodiment of your ideal - a full conduit. When you are reduced to 0 hit points for the first time after a long rest, roll a d20. You regain thrice that many hit points. If you were brought prone, you now float standing in place until the start of your next turn, after which you may land safely.

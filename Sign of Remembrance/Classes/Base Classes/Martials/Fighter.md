@@ -36,7 +36,7 @@ In order to advance as a fighter, you must meet the following prerequisites:
  
 ### Proficiencies
  
-- Weapons: 2 martial weapons of your choice, each of which can be substituted for 2 simple weapons
+- Weapons: 2 martial weapon styles of your choice, each of which can be substituted for 2 simple weapon styles
 - Armor: Next tier of armor
 - Tools: None
 - Saving Throws: None
@@ -60,7 +60,7 @@ While grappling, restraining or toppling another creature, you may still use you
 You may use a [[Action Economy#^359f07|minor interaction]] to draw two light weapons and hold them in one hand.
 If you have three or less light weapons with the Thrown trait held this way in one hand, you may throw each from this hand with no penalty.
 #### Shield Bash
-While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy), and you are considered proficient with it.
+While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy). Proficiency with shield attacks is gained as part of your shield proficiency, and the weapon is considered of the pugilist style.
 #### Swift Grab
 You may make a brawl action as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
 ### Parrying Strike
@@ -89,18 +89,18 @@ At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Int
 When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
 ### Arms Specialty
  
-When you reach 3rd level, choose a type of weapon to become your specialty weapon. Based on the category you choose, you get a bonus when using these types of weapons:
-#### Hurler (dagger, sling, flask, dart, whip)
+When you reach 3rd level, choose one weapon style to become your specialty. Based on the one you choose, you get a bonus when using these weapons:
+#### Hurler
 The Lethal trait and the damage die for weapons of this specialty increases by 1 for you.
-#### Pugilist (gauntlet, unarmed strikes, shields)
+#### Pugilist
 Parrying Strike can be used in conjunction with the Deflect reaction as a part of the same reaction if you are using a weapon of this specialty. If you don't have the Deflect reaction, you may instead increase your AC by 1 against the attack in addition to the normal effects of Parrying Strike.
-#### Sharpshooter (blowgun, shortbow, stone bow, crossbow, hand crossbow, longbow)
+#### Sharpshooter
 You get a +2 bonus to attack rolls with weapons of this specialty.
-#### Skewer (estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)
+#### Skewer
 When you critically hit with a weapon of this specialty, it breaks the defender's armor no matter its type.
-#### Sweeper (club, chain whip, greatclub, hammer, mace, quarterstaff, battleaxe, greatsword, halberd, war pickaxe)
+#### Sweeper
 You get a +2 bonus to damage rolls with weapons of this specialty.
-#### Swiftblade (bastard sword, sickle, handaxe, glaive, scimitar)
+#### Swiftblade
 Whenever you attack with a weapon of this specialty, you may move 5' as a part of your attack action. Attacks of opportunity taken against you as a part of this movement are made with disadvantage.
  
 ### Weapon Adaptability

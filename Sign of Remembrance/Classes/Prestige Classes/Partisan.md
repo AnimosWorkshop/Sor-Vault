@@ -27,7 +27,7 @@ In order to advance as a partisan, you must meet the following prerequisites:
 - Hit Points per Level: 12 + your Constitution modifier + your Willpower modifier per partisan level  
 ### Proficiencies
  
-- Weapons: 1 martial weapon of your choice
+- Weapons: 1 martial weapon style of your choice
 - Armor: None
 - Tools: None
 - Saving Throws: None

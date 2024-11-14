@@ -34,7 +34,7 @@ In order to advance as a transmuter, you must meet the following prerequisites:
  
 ## Proficiencies
  
-- Weapons: Flasks, 1 simple or martial weapon of your choice
+- Weapons: Flasks, 1 simple or martial weapon style of your choice
 - Armor: Next tier of armor
 - Tools: None
 - Saving Throws: None

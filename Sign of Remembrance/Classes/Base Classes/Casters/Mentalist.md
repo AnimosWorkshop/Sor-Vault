@@ -10,7 +10,7 @@
 | 4th                 | [[#Enhanced Bond Specialty]], [[#Attribute Increase]] |
 | 5th                 | [[#Psychic Tug]]                                      |
 | 6th                 | [[#Danger Sense]], [[#Attribute Increase]]            |
-| 7th                 | [[#Communal Bond]], [[#Enhanced Bond]]                |
+| 7th                 | [[#Enhanced Bond Heightening]]                        |
 | 8th                 | [[#Performative Casting]], [[#Attribute Increase]]    |
 | 9th                 |                                                       |
 | 10th                | [[#Attribute Increase]]                               |
@@ -34,7 +34,7 @@ In order to advance as a mentalist, you must meet the following prerequisites:
 - Hit Points per Level: 8 + your Constitution modifier + your Willpower modifier per mentalist level
  
 ### Proficiencies
-  - Weapons: 1 simple weapon of your choice
+  - Weapons: 1 simple weapon style of your choice
 - Armor: None
 - Tools: None
 - Saving Throws: None
@@ -95,10 +95,16 @@ In addition, the bonus you get for skill checks depending from your mental speci
  
 At 6th level, you learn how to sense danger your bound creatures feel, and tug those bonds just a bit to influence them. When creature you are bound to is attacked or is forced to make a saving throw by a creature other than you, you may use a reaction to either increase or decrease their AC against that attack or that saving throw's result by 1.  
 In addition, you become proficient with Wits and Willpower saving throws.
+
+### Enhanced Bond Heightening
+
+At 7th level, your expertise over enhanced bonds allows you to become more versatile in how you apply them. Choose one of the following features:
+#### Bond Versatility
+
+You learn how to use the second [[#Enhanced Bond Specialty|enhanced bond]]. You may still maintain only one enhanced bond in total at a time, according to the rules detailed above.
+#### Communal Enhanced Bond
  
-### Communal Enhanced Bond
- 
-At 7th level, your ability to use your enhanced bond heightens, allowing you greater versatility. If you currently maintain only one enhanced bond, you can choose to either:
+If you currently maintain only one enhanced bond, you can choose to either:
 
 - Maintain another enhanced bond of the type you have learned.
 - Use a quick action and the same amount of influence used for your previous enhanced bond to share the effect with another creature you have histolectually bound, allowing them to trigger the same effect on your enhanced bond for as long as both are bound.
