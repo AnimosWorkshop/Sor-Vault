@@ -86,7 +86,7 @@ You also gain 1 proficiency level in Medicine.
  
 ### Ex Terra
  
-Starting at 4th level, your auramancy echoes through your body in such a way which allows you to stabilize your own aura, restoring your body over time. Once per round you spend mana, you recover that many hit points.
+Starting at 4th level, your auramancy echoes through your body in such a way which allows you to stabilize your own aura, restoring your body over time. Once per round, when you spend mana, you recover that many hit points.
  
 ### Natural Specialty Focus
  
