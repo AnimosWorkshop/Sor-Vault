@@ -135,6 +135,9 @@
 * lobū - to raise
 * lublazū - to survive
 * lunū - to lie (down)
+* macū - to blind
+	* mac - sand
+	* macklazo - quicksand
 * mazrū - to make (someone) used to
 * meralū - to have mercy
 * mevxū - to plan
@@ -154,7 +157,7 @@
 * nomū - to rest
 * ogenū - to insist
 * orkū - to travel
-* ornū - to deny (something)\
+* ornū - to deny (something)
 * pacū - to name
 	* mal pacū - to be named / to be called as
 	* pacieþ - name
