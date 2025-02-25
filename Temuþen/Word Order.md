@@ -1,6 +1,6 @@
 Typical sentences in Temuþen are formed in the following way:
 $$\text{Subject} \longrightarrow \text{Predicate} $$
-Each of those two parts may be augmented by further descriptions. For example, the subject can be augmented by adjectives, and the [[Actions|predicate]] by several kinds of augmentations:
+Each of those two parts may be augmented by further descriptions. For example, the subject can be augmented by adjectives, and the [[Verbs|predicate]] by several kinds of augmentations:
 * Direct object via 'iv'.
 * Indirect object via 'can' or 'cim', with 'can' taking the place of 'from' and 'cim' taking the place of 'to / for'.
 * Adverbs and prepositions via many different conjunctions.

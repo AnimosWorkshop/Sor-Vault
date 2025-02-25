@@ -1,6 +1,3 @@
-- - -
-## Actions and Derived Nouns
-
 * acū - to have
 * adfū - to turn
 * afū - to feel (emotion)
@@ -13,6 +10,7 @@
 * begehrū - to bound
 * belkū - to separate
 * bevlū - to fail (at something)
+* bezū - to divide
 * blū - to prepare
 * bolū - to lower
 * britū - to prove
@@ -59,6 +57,8 @@
 * fegū - to succeed (someone)
 * fenirū - to glorify
 * feznū - to befriend
+	* feznien - friend
+	* feznieþ - friendship
 * flexū - to pull / to draw (from something)
 * fikanū - to notice
 * fivū - to imagine / to wonder
@@ -124,7 +124,7 @@
 * kū - to be / to exist
 * laþū - to beget
 	* laþieþ - child
-* larwū - to lose (something)
+* laruū - to lose (something)
 * laxū - to worsen
 * lazū - to live
 * lecū - to change
@@ -177,11 +177,11 @@
 * þonsū - to go / to pass
 	* þosienga - leg
 * þosū - to arrive
-* þratū - to quantivy
+* þratū - to quantify
 * þuvkū - to fly
 * ratū - to do
 	* ratienga - hand
-* rawtū - to remember
+* rautū - to remember
 * rekafū - to exclude
 * ranū - to like
 * renū - to love
@@ -218,12 +218,17 @@
 * traxtū - to complicate
 * trū - to drink
 * tuxfū - to visit
-* twarū - to include
+* tuarū - to include
 * ufelū - to fear
+* ufrū - to play (an instrument)
 * ulfū - to research
 * ukilū - to assume
 * mal ukilū - "to be should"
+* uodū - to progress
+* usonū - to pray
 * uroxū - to steal
+* utū - to bring
+* uvū - to learn / to discover
 * vabū - to intend
 * vartū - to win
 * vekrū - to succeed (in something)
@@ -233,20 +238,19 @@
 	* videnieng - [[Spell Foci|spell focus]]
 	* videnieþ - spell
 * vifū - to return
+* mal vifū - to be cyclical
+	* malvifa - year
+		* bezmalvifa - year partition (context dependent), e.g. semester / quarter
 * virū - to grow
 	* viriecna - forest
 * vletū - to respect
+	* vleteþ - degree / title
 * volanū - to fight
 * voronū - to hide
 * vranū - to make happy / to cheer
 * vralū - to restore
 * vulnū - to stand
 * vū - to let / to allow
-* watū - to bring
-* wavū - to learn / to discover
-* wefrū - to play (an instrument)
-* wodū - to progress
-* wonū - to pray
 * xabilū - to gather
 * xalū - to improve
 * xedanū - to unlock
@@ -259,8 +263,10 @@
 	* zava - option
 * zastū - to aid
 * zectū - to practice
+* zebū - to multiply
 * zelþū - to wait
 * zednū - to hurt
 * zefū - to liken
 * mal zefū - to be alike
 * zinevū - to give up
+* zormū - to place in time

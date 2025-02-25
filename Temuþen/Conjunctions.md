@@ -28,6 +28,7 @@ For example, the word *ūxura* means *your* (female singular), as it is construc
 * sek - behind
 #### Temporal
 * bules - before
+* hetor - then (temporal)
 * lubes - after
 * olaz - during / while
 * ret - in / on / at (temporal)
