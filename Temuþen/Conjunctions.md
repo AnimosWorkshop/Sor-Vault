@@ -25,6 +25,7 @@ For example, the word *ūxura* means *your* (female singular), as it is construc
 * kes - in front of
 * lib - out / outside
 * lob - on / above
+* ref - to the side of
 * sek - behind
 #### Temporal
 * bules - before
@@ -57,6 +58,7 @@ For example, the word *ūxura* means *your* (female singular), as it is construc
 * sef - in favor of
 #### Likeness
 * fez - unlike
+* ilentieren - for example
 * vel - essive case
 	<u>Example:</u> Bul ranūo ūlive *vel þalieþo*. - I liked it *as a child (when I was a child)*.
 * zef - similar to

@@ -3,7 +3,7 @@
 * afū - to feel (emotion)
 * akelū - to focus / to center
 * arenū - to follow / to worship
-	* mal areniene - god
+	* mal-areniene - god
 * arterū - to create
 * avsū - to root
 * balū - to want
@@ -18,6 +18,7 @@
 * cecnū - to teach
 * cedū - to hold
 * celū - to open
+* cerfekū - to age / to cause wear
 * cilū - to extinguish
 * ciokū - to demand
 * cirū - to sing
@@ -26,19 +27,25 @@
 	* cirieþ - music
 * conū - to taste
 * cralū - to rule over
+	* cralieca - country
 * cugrū - to investigate
 * cucū - to silence
 	* cuciul - silent
 * cuciulū - to whisper
 * dahrū - to kill
-	* mal dahrū - to die
+	* mal-dahrū - to die
 * dalkatū - to reject
 * delnū - to greet
 	* deln - hello
 * dihū - to sell
 * ditanū - to make important
 * dorfū - to build
+	* dorf - building
+	* dorfpram - settlement
+	* dorfpram
 * dorū - to sleep
+	* dor - night
+	* dora - dark
 * drowū - to weaken
 * dunū - to sit
 * edū - to eat
@@ -50,7 +57,11 @@
 * erenū - to scam
 * erlū - to comfort
 * esfū - to talk / to say
+	* esfieþo - word
 * esfolū - to report
+* evnū - to create a community
+	* evnieþ - family
+	* evnieþ - community
 * fakerū - to forget
 * farisū - to lead
 * fasū - to subtract
@@ -79,6 +90,7 @@
 * glenū - to transfer
 * goblū - to invent
 * hafalū - to trade
+	* hafalieng - money
 * hafnū - to bestow luck
 * hanū - to solve
 * hefū - to lift
@@ -95,9 +107,11 @@
 * iarlū - to prosper
 * ikrū - to be proud of
 * ilentū - to demonstrate
-	* ilentieren - for example
+	* ilentier - example
 * inū - to unite
 * janū - to see
+	* jankesū - to attend to
+		* jankesier - attention
 * jandū - to reckon
 * jecinū - to be must
 * jelfū - to implore
@@ -112,6 +126,7 @@
 * katū - to thank
 	* katu - thanks
 * kacanū - to climb
+* kefrecū - to renew
 * kenþū - to expect
 * ketū - to write
 	* ketieþo - book
@@ -123,11 +138,15 @@
 * kumonū - to lose (at something)
 * kū - to be / to exist
 * laþū - to beget
+	* laþien - parent
 	* laþieþ - child
 * laruū - to lose (something)
 * laxū - to worsen
 * lazū - to live
+	* lazien - living being
+	* lazieng - body (living)
 * lecū - to change
+* legazū - to develop
 * lenū - to close
 * licū - to burn
 * lirikū - to promise
@@ -159,8 +178,9 @@
 * orkū - to travel
 * ornū - to deny (something)
 * pacū - to name
-	* mal pacū - to be named / to be called as
+	* mal-pacū - to be named / to be called as
 	* pacieþ - name
+* pasrū - to span (to take time / space)
 * pelavū - to guess
 * petuzū - to flutter
 	* petuzien - butterfly
@@ -170,15 +190,19 @@
 * poxvū - to legislate
 * pratū - to cover / to hide (something) 
 * þajū - to ask
+	* þajier - question
 * þelakū - to give
 * þenū - to play (a game)
 * þevū - to find
+* þilbū - to make (someone) bleed
+	* þilb - blood
 * þintū - to judge
 * þonsū - to go / to pass
 	* þosienga - leg
 * þosū - to arrive
 * þratū - to quantify
 * þuvkū - to fly
+	* þuvkiec - sky
 * ratū - to do
 	* ratienga - hand
 * rautū - to remember
@@ -186,6 +210,7 @@
 * ranū - to like
 * renū - to love
 * retū - to make
+* riklū - to measure
 * relimū - to rescue
 * relþū - to understand / to realize
 	* relþa - idea
@@ -202,7 +227,8 @@
 * shelū - to sense
 * sklū - to defend / to protect
 	* sklieng - shield / armor / wall
-* soknū - to attempt
+* soknū - to attempt / to try
+	* soknuvū - to experiment
 * stilū - to smell (something)
 * surū - to meet
 * tafū - to transport
@@ -223,12 +249,13 @@
 * ufrū - to play (an instrument)
 * ulfū - to research
 * ukilū - to assume
-* mal ukilū - "to be should"
+* mal-ukilū - "to be should"
 * uodū - to progress
 * usonū - to pray
 * uroxū - to steal
 * utū - to bring
 * uvū - to learn / to discover
+	* uvieco - course
 * vabū - to intend
 * vartū - to win
 * vekrū - to succeed (in something)
@@ -238,15 +265,18 @@
 	* videnieng - [[Spell Foci|spell focus]]
 	* videnieþ - spell
 * vifū - to return
-* mal vifū - to be cyclical
+* mal-vifū - to be cyclical
 	* malvifa - year
 		* bezmalvifa - year partition (context dependent), e.g. semester / quarter
 * virū - to grow
 	* viriecna - forest
 * vletū - to respect
+	* vletieng - honor
+	* vletienge - please
 	* vleteþ - degree / title
 * volanū - to fight
 * voronū - to hide
+	* vorona - secret
 * vranū - to make happy / to cheer
 * vralū - to restore
 * vulnū - to stand
@@ -262,11 +292,13 @@
 * zavū - to choose
 	* zava - option
 * zastū - to aid
+	* zastiera - welfare
 * zectū - to practice
 * zebū - to multiply
 * zelþū - to wait
 * zednū - to hurt
 * zefū - to liken
-* mal zefū - to be alike
+* mal-zefū - to be alike
 * zinevū - to give up
 * zormū - to place in time
+	* zorma - time
