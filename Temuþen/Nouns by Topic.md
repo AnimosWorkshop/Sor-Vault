@@ -25,3 +25,7 @@
 * þona - minute
 * bezsav - hour
 * savlin - week
+
+### Sciences
+
+* belkier en janū - spectroscopy
