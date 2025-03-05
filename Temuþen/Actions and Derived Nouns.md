@@ -96,7 +96,8 @@
 * hefū - to lift
 * hekū - to make easy
 * heskū - to order
-* hevrū - to bear
+* hevrū - to carry / to bear
+	* hevrieng - bag / pouch
 * hidū - to buy
 * hirkū - to risk
 * hizū - to mean
