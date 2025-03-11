@@ -3,7 +3,7 @@
   "baseFontSize": 20,
   "baseFontSizeAction": true,
   "cssTheme": "Ukiyo",
-  "textFontFamily": "Sabon Next LT",
-  "monospaceFontFamily": "Sabon Next LT",
+  "textFontFamily": "Sabon Next LT,Apple Chancery",
+  "monospaceFontFamily": "Sabon Next LT,American Typewriter",
   "interfaceFontFamily": "Sabon Next LT"
 }

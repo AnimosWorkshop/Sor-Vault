@@ -114,6 +114,7 @@
 	* jankesū - to attend to
 		* jankesier - attention
 * jandū - to reckon
+* jaþū - to answer / to reply
 * jecinū - to be must
 * jelfū - to implore
 * jetū - to cause
@@ -244,8 +245,8 @@
 * tomirū - to rain
 * traxtū - to complicate
 * trū - to drink
-* tuxfū - to visit
 * tuarū - to include
+* tuxfū - to visit
 * ufelū - to fear
 * ufrū - to play (an instrument)
 * ulfū - to research
