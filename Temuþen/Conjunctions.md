@@ -61,4 +61,5 @@ For example, the word *ūxura* means *your* (female singular), as it is construc
 * ilentieren - for example
 * vel - essive case
 	<u>Example:</u> Bul ranūo ūlive *vel þalieþo*. - I liked it *as a child (when I was a child)*.
+* vex - made of / composed of
 * zef - similar to

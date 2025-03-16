@@ -46,7 +46,9 @@
 * dorū - to sleep
 	* dor - night
 	* dora - dark
-* drowū - to weaken
+* drobū - to weaken
+* dudunū - to list
+	* dudunieþ - list
 * dunū - to sit
 * edū - to eat
 * ekisū - to hear
@@ -88,13 +90,18 @@
 	* gharieþa - faith
 * gijū - to watch
 * glenū - to transfer
+	* glenesfū - to translate
 * goblū - to invent
+* gorezū - to happen
+	* goreziera - happening / event
 * hafalū - to trade
 	* hafalieng - money
 * hafnū - to bestow luck
 * hanū - to solve
 * hefū - to lift
 * hekū - to make easy
+* hertezū - to tile
+	* hertez - floor
 * heskū - to order
 * hevrū - to carry / to bear
 	* hevrieng - bag / pouch
@@ -110,6 +117,7 @@
 * ilentū - to demonstrate
 	* ilentier - example
 * inū - to unite
+* ilomū - to get
 * janū - to see
 	* jankesū - to attend to
 		* jankesier - attention
@@ -124,10 +132,11 @@
 * jorimū - to cause to be sick
 * joþū - to hate
 * jratū - to test
+* kacanū - to climb
 * kanū - to know
 * katū - to thank
 	* katu - thanks
-* kacanū - to climb
+* kaxtū - to stop
 * kefrecū - to renew
 * kenþū - to expect
 * ketū - to write
@@ -163,6 +172,7 @@
 * meralū - to have mercy
 * mevxū - to plan
 * milerū - to endanger
+* milcefū - to request
 * mocū - to cause
 * monū - to leave (from somewhere)
 * mukirū - to boast
@@ -200,7 +210,6 @@
 	* þilb - blood
 * þintū - to judge
 * þonsū - to go / to pass
-	* þosienga - leg
 * þosū - to arrive
 * þratū - to quantify
 * þuvkū - to fly
@@ -247,6 +256,7 @@
 * trū - to drink
 * tuarū - to include
 * tuxfū - to visit
+* txakū - to continue / to resume
 * ufelū - to fear
 * ufrū - to play (an instrument)
 * ulfū - to research
