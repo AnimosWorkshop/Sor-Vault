@@ -40,7 +40,6 @@ For example, the word *ūxura* means *your* (female singular), as it is construc
 * ekes - upon
 * jil - if / when
 * lij - then (causal)
-* monel - since / because
 * nex - since / because / due to
 * xen - although / despite
 #### Addition

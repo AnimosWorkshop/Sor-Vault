@@ -13,6 +13,7 @@
 * þona - minute
 * bezsav - hour
 * savlin - week
+* malvifa - year
 -- -- -- --
 ## Anatomy
 

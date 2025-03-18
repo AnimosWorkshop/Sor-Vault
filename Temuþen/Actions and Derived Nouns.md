@@ -7,6 +7,7 @@
 * arterū - to create
 * avsū - to root
 * balū - to want
+* balalū - to lengthen
 * begehrū - to bound
 * belkū - to separate
 * bevlū - to fail (at something)
@@ -100,6 +101,7 @@
 * hanū - to solve
 * hefū - to lift
 * hekū - to make easy
+* hemaxū - to interest
 * hertezū - to tile
 	* hertez - floor
 * heskū - to order
@@ -148,6 +150,7 @@
 * krenū - to adopt (a habit / something)
 * kumonū - to lose (at something)
 * kū - to be / to exist
+* lalabū - to shorten
 * laþū - to beget
 	* laþien - parent
 	* laþieþ - child
