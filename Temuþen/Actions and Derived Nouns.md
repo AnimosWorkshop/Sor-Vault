@@ -270,6 +270,7 @@
 * uroxū - to steal
 * utū - to bring
 * uvū - to learn / to discover
+	* uviec - school / university
 	* uvieco - course
 * vabū - to intend
 * vartū - to win

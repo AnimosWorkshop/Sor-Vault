@@ -4,6 +4,7 @@
 * bulre - earlier
 * cilin - soon
 * exles - always / forever
+* hodek - still / yet
 * lubesav - tomorrow
 * lubre - later
 * taxsav - today
