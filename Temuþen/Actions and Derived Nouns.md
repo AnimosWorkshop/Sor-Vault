@@ -51,6 +51,7 @@
 * dudunū - to list
 	* dudunieþ - list
 * dunū - to sit
+* eckū - to oppose
 * edū - to eat
 * ekisū - to hear
 * ekosū - to listen
@@ -253,7 +254,8 @@
 * tegū - to refer (to someone)
 * tekū - to read
 * temuþū - to vary
-* tilkū - to locate
+* tilkū - to place in space
+* tilkcimū - to locate
 * tomirū - to rain
 * traxtū - to complicate
 * trū - to drink

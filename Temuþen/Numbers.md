@@ -14,7 +14,7 @@
 | ten     | infin    | infiun  |
 ### Cardinal Numbers
 
-When using cardinal numbers to indicate an amount, it should come right after the noun but before any adjectives. For example, *laþieþou riun zebiulou* means *three little boys*.
+When using cardinal numbers to indicate an amount, it should come right after the noun but before any adjectives. For example, *laþieþou rin zebiulou* means *three little boys*.
 
 ### Weekdays
 
