@@ -11,7 +11,7 @@ _Elves are long-living and lead simple and humble lives, taking their time to st
 **Enough Lies for a Lifetime:** You are proficient with Insight.  
 **Trivial Knowledge:** You are novice with 3 skills of your choice. You may choose any of these for proficiency with a tool of your choice.  
 **Recall Trauma:** Your experience did not only lead you down good paths - sometimes they are loaded with bad experiences. You may draw upon these memories as a quick action to give you a +1 bonus for damage rolls and one skill of your choice for the next minute. This counts as 1st-level, auramancy, illusion, boon, for the purpose of magic detection. You may use this feature once before needing to recover it over a long rest.  
-**Languages:** You can speak, read, and write Sylvan and Elvish.
+**Languages:** You can speak, read, and write Sylvan.
  - - -
 ## Subraces
 ### Arctic Elf

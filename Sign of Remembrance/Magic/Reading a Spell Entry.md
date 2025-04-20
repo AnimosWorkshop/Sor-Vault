@@ -66,6 +66,11 @@ There are three rarities of spells:
 - Uncommon - denoted by the Uncommon keyword under the spell's normal keywords. The spell is known to individuals around the world, who can share their secrets, but will often choose not to due to religious, social or moral reasons, such with the [Imbue Life](Imbue%20Life.md) spell. Though any character _can_ learn them, it's advised to think of a good reason for why they do, or who taught them - which might lead to interesting plots.
 - Rare - denoted by the Rare keyword under the spell's normal keywords. The spell is known to few, but unlike uncommon spells, it's due to the spell being granted only as a reward from a blessing or another special source. Rare spells cannot be taught to others, nor can they be transcribed onto scrolls or items.
  
+### Duration
+
+How long a spell's effects last.
+
+- Concentration - Some spells and features require you to maintain your concentration on them. You can only concentrate on one spell or feature at a time, and breaking your concentration will end it. Whenever you take damage, make a Resilience save with a DC of either 10 or half the damage taken to your hit points (whichever is higher). You may also use a reaction at any time to end your concentration early, and if you do, the spell ends as normal.
 ### Casting Time
 
 How much time is required to cast the spell.
@@ -86,12 +91,6 @@ How far a spell can go, or how far the targets be in order to affect them. There
 - Sphere - a sphere around the point originally noted. The number of feet noted is the radius of the sphere.
 - Cone - a cone originating at the caster, spanning 90 degrees. The number of feet noted is the cone's height.
 - Cube - a cube originating at the point roiginally noted. The number of feet noted is the length of the cube's sides.
- 
-### Duration
-
-How long a spell's effects last.
-
-- Concentration - Some spells and features require you to maintain your concentration on them. You can only concentrate on one spell or feature at a time, and breaking your concentration will end it. Whenever you take damage, make a Resilience save with a DC of either 10 or half the damage taken to your hit points (whichever is higher). You may also use a reaction at any time to end your concentration early, and if you do, the spell ends as normal.
  
 ### Exhaustion
 

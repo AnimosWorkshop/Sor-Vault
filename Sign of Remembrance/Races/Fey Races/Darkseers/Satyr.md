@@ -8,7 +8,7 @@
 **Vision:** Darkvision.  
 **Strong System:** Due to the societal dealing with alcohol, satyrs' bodies are adapted to ignore some poisoning. You are resistant to poison damage.  
 **Ram:** Your set of horns can be used as a natural weapon to make unarmed strikes with, as you ram into your enemy. Their damage die is 1d4 bludgeoning damage, and they have the Unarmed and Light traits.  
-**Languages:** You can speak, read, and write Sylvan and Satyrian.
+**Languages:** You can speak, read, and write Sylvan.
 - - -
 ## Subraces
 ### Song Satyr

@@ -5,6 +5,7 @@ Uncommon
 - Range: Touch
 - Duration: 3 hours
 - Material Components: [Soul stone](Runecarver.md) put inside a poppet vessel  
+- Exhausts by 1
 
 You use the primal force of magic to imbue life from an enchanted soul stone into the poppet. The poppet, small in size and consisting usually of organic material, absorbs the soul stone's energy to house the soul in it to become a construct.  
 The elemental has the personality of the soul in the soul stone, getting its mental stats, memories and class levels. The base body, however, depends on the poppet provided. A few examples for poppet vessels:

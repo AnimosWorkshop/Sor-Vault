@@ -12,7 +12,7 @@
 - Intimidation - demoralize
 - Sleight of Hand - disorient
 
-**Languages:** You can speak, read, and write Sylvan and Tengese.
+**Languages:** You can speak, read, and write Sylvan.
  - - -
 ## Subraces
 ### Crow Tengu

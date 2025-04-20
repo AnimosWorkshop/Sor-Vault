@@ -7,7 +7,7 @@
 **Speed:** 30' walking.  
 **Vision:** Lightvision, mistvision.  
 **Natural Charm:** You are proficient with Persuasion and Nature.  
-**Languages:** You can speak, read, and write Sylvan and Nymph. You may also communicate simple ideas with tiny and small beasts using Sylvan.
+**Languages:** You can speak, read, and write Sylvan. You may also communicate simple ideas with tiny and small beasts using Sylvan.
  - - -
 ## Subraces
 ### Forest Nymph
