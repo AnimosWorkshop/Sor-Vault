@@ -1,7 +1,7 @@
 * daler - very
 * feden - much / many / a lot
 * nedef - little (amount)
-
+* rekf - the rest
 
 ### Comparative
 

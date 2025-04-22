@@ -2,6 +2,8 @@
 * adfū - to turn
 * afū - to feel (emotion)
 * akelū - to focus / to center
+* alalū - to make noise
+	* alaliul - noisy / loud
 * arenū - to follow / to worship
 	* mal-areniene - god
 * arterū - to create
@@ -43,7 +45,6 @@
 * dorfū - to build
 	* dorf - building
 	* dorfpram - settlement
-	* dorfpram
 * dorū - to sleep
 	* dor - night
 	* dora - dark
@@ -86,11 +87,11 @@
 * gaxesū - to nurse
 * gandū - to strengthen
 * gaznū - to demand
-* gexū - to order / to command
+* gexū - to watch
 * gezrū - to tame
 * gharū - to believe
 	* gharieþa - faith
-* gijū - to watch
+* gijū - to order / to command
 * glenū - to transfer
 	* glenesfū - to translate
 * goblū - to invent
@@ -139,7 +140,7 @@
 * kanū - to know
 * katū - to thank
 	* katu - thanks
-* kaxtū - to stop
+* kaxtū - to stop / to halt
 * kefrecū - to renew
 * kenþū - to expect
 * ketū - to write
@@ -218,6 +219,7 @@
 * þratū - to quantify
 * þuvkū - to fly
 	* þuvkiec - sky
+* ragazū - to manage
 * ratū - to do
 	* ratienga - hand
 * rautū - to remember

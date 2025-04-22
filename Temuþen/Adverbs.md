@@ -1,4 +1,9 @@
-#### Temporal
+In general, adverbs can be constructed from actions by using the -_iuv_ suffix.
+
+<u>Example:</u> _alalū_ - to make noise; _alaliuv_ - loudly.
+- - - -
+## List of Adverbs
+### Temporal
 
 * bulesav - yesterday
 * bulre - earlier
@@ -20,9 +25,9 @@
 
 ### Manner
 
-* klaz - quickly
-* lax - badly
 * safes - too
-* xal - well
-* zalk - slowly
 * pram - together
+
+### Certainty
+
+* mal-janiuv - probably / maybe (lit. seemingly)

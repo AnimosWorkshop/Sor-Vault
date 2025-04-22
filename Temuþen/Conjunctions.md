@@ -20,9 +20,10 @@ For example, the word *ūxura* means *your* (female singular), as it is construc
 * ur - genitive case; of
 	<u>Example:</u> IIle kūe ta hosiec *ur ta cralien*. - This is the house *of the ruler*.
 #### Positional
-* bil - in / inside
+* bil - in / on / at (spatial) / inside
 * bol - under / below
 * kes - in front of
+* kes-sek - around
 * lib - out / outside
 * lob - on / above
 * ref - to the side of
