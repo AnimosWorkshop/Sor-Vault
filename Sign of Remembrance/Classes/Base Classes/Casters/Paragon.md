@@ -40,16 +40,16 @@ In order to advance as a paragon, you must meet the following prerequisites:
 - Skills: 2 levels of Insight, 2 level of History  
 ### Equipment
  
-- 2 common 1st-level spell scrolls of your choice (already learned as a part of you getting the class) of your Ideal Conduit magic type
+- 2 common 1st-level spell scrolls of your choice (already learned as a part of you getting the class) of your [[#Ideal Conduit|Ideal Conduit]] magic type
 - A simple weapon
-- A piece of art or scripture associated with your ideal
+- A piece of art or scripture associated with your [[#Ideal Conduit|ideal]]
    
 - - -
 ## Class Features
  
 ### Ideal Conduit
  
-Paragons get their magic from attuning to an ideal held by one of the gods, or a leader of a sect whose faith was strong enough to become immortalized in the cultural backbone of Sor. Choose one ideal, as detailed in the diagram; this will become the source of your paragon class features. You get 1 level in either [Arcanist](Arcana.md), [Auramancer](Auramancy.md) or [Histolect](Histolecty.md), according to the ideal you serve. For each of your paragon levels, your caster level in that magic type increases by 1.
+Paragons get their magic from attuning to an ideal held by one of the gods, or a leader of a sect whose faith was strong enough to become immortalized in the cultural backbone of Sor. Choose one ideal, as detailed in the diagram; this becomes the source of your paragon class features. You get 1 level in either [Arcanist](Arcana.md), [Auramancer](Auramancy.md) or [Histolect](Histolecty.md), according to the ideal you serve. For each of your paragon levels, your caster level in that magic type increases by 1.
 
 Click on the diagram to see it fully:
 ![[Paragon Ideals.canvas]]
@@ -125,28 +125,29 @@ You understand that sometimes it's not only what people say and communicate that
  
 #### Histolecty
 You understand that self-reliance cannot always be done - in the end, manipulations of bonds, for better or worse, is the key for success. Whenever you use your Major Intervention feature, you may enhance the result of the targeted creature for better or worse by half your Willpower modifier.
+All effects last up to the start of your next turn unless specified otherwise.
  
 ### Conduit of the Realm
  
-At 8th level, you achieve a whole enough understanding of the fundamentals of ideals that you can some channel the energy of the world itself. Choose a world, either your own or the the one of your ideal's god. You gain the ability to channel that world onto a focused expression of power, using a free action. Either you or a willing or unconscious creature you touch gain the benefit. The benefit does not stack with itself.
+At 8th level, you achieve a whole enough understanding of the fundamentals of ideals that you can some channel the energy of the world itself. Choose a realm, either your own or the the one of your ideal's bearer. You gain the ability to channel that world onto a focused expression of power, using a free action once per turn. Either you or a willing or unconscious creature you touch gain the benefit. The benefit does not stack with itself.
  
 #### Temuthan
-Temuthan has many creatures - big and small, living in the mountains, hills, forests, deserts and tundra. Yet, even that diversity does not mean that they are unable to work with each other, all being able to understand the hope of the light of day, and the danger in the dark of night. The creature gets a 1d4 bonus to their attack rolls until the start of your next turn.
+Temuthan has many creatures - big and small, living in the mountains, hills, forests, deserts and tundra. Yet, even that diversity does not mean that they are unable to work with each other, all being able to understand the hope of the light of day, and the danger in the dark of night. The creature gets a 1d4 bonus to their attack rolls.
  
 #### Preida
-Preida gives new meaning to how the land can give back to you - rewarding its inhabitants with not only bountiful crops, but in biomes which truly adapt to accommodate their inhabitants. When the creature uses a supportive action or quick action, such as the Medicate action, the Inspire quick action, casting boon spells, etc., both the creature and their supported target restore hit points equal to your Willpower modifier.
+Preida gives new meaning to how the land can give back to you - rewarding its inhabitants with not only bountiful crops, but in biomes which truly adapt to accommodate their inhabitants. The next time the creature uses a supportive action or quick action, such as the Medicate action, the Inspire quick action, casting boon spells, etc., both the creature and their supported target restore hit points equal to your Willpower modifier.
  
 #### Hell
-Hell represents the balance between eternal summer and eternal winter - opposing forces which by themselves might not be able to coexist, but using some external force, can be used to create harmony. Whenever they receive damage until the start of your next turn, the damaging creature takes 1d4 piercing damage.
+Hell represents the balance between eternal summer and eternal winter - opposing forces which by themselves might not be able to coexist, but using some external force, can be used to create harmony. Whenever they receive damage, the damaging creature takes 1d4 piercing damage.
  
 #### Heliax
-Heliax shows a clear disparity, both between the different layers of the world, the great mountain, and the realm below the clouds. In a way, class only has meaning when both the stakes are high, and the result is tangible - and one must both stand tall above, and withstand the suffering awaiting on their way to the top. The creature gets a +2 bonus to saving throws and AC until the start of your next turn.
+Heliax shows a clear disparity, both between the different layers of the world, the great mountain, and the realm below the clouds. In a way, class only has meaning when both the stakes are high, and the result is tangible - and one must both stand tall above, and withstand the suffering awaiting on their way to the top. The creature gets a +2 bonus to saving throws and AC.
 
 #### Limbo
 Limbo consists of many realm parts, separated by spatial distortions and teleportation hubs - and yet, the world as a whole is without a doubt united, despite the difficulty of travel. The creature may teleport to a point it can see within 20' of it.
  
 #### Dahrial
-Dahrial could be seen as a place of despair, as most people would never cross the world unless their life has already given in, and the last resort possible could be this attempt to grab onto whatever pride was left to climb back up. Those who actually do succeed, however, are the direct opposite - seeing the grand opportunity they were given to proudly live on to the best of their ability, and become better than they ever could be. This hope drives you further, giving the creature temporary hit points equal to twice your Willpower modifier until the start of your next turn.
+Dahrial could be seen as a place of despair, as most people would never cross the world unless their life has already given in, and the last resort possible could be this attempt to grab onto whatever pride was left to climb back up. Those who actually do succeed, however, are the direct opposite - seeing the grand opportunity they were given to proudly live on to the best of their ability, and become better than they ever could be. This hope drives you further, giving the creature temporary hit points equal to twice your Willpower modifier.
  
 ### Saving Grace
  

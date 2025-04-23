@@ -10,7 +10,9 @@
 		{"id":"464ae399613e9169","type":"text","text":"## <center>Guidance</center>\n\n* Fate (Vorona)\n* Curiosity (Venandi)\n* Creativity (Grelleyal)","x":-560,"y":-280,"width":300,"height":200,"color":"6"},
 		{"id":"05594b0a09606e57","type":"text","text":"# <center>Auramancy</center>","x":-40,"y":-460,"width":280,"height":60,"color":"4"},
 		{"id":"b0feaad30683e9b0","type":"text","text":"* Purity (Lynelle)","x":120,"y":-80,"width":300,"height":60,"color":"4"},
-		{"id":"0f864a63fcc5e418","type":"text","text":"* Preservation (Doeth)","x":-900,"y":-80,"width":300,"height":60,"color":"6"}
+		{"id":"0f864a63fcc5e418","type":"text","text":"* Preservation (Doeth)","x":-900,"y":-80,"width":300,"height":60,"color":"6"},
+		{"id":"2c5565accfd04610","x":-1120,"y":-210,"width":160,"height":60,"type":"text","text":"### Gods"},
+		{"id":"6910bc0cd746c604","x":-1120,"y":-80,"width":160,"height":60,"type":"text","text":"### Others"}
 	],
 	"edges":[
 		{"id":"19f5e31b5e6b0fdd","fromNode":"4edb6036d91b192e","fromSide":"bottom","toNode":"0e6978c05b977298","toSide":"top"},
