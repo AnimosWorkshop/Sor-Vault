@@ -1,7 +1,8 @@
 #Race #Temuthen
 Uncommon
 - - -
->Note: Dragons are a lot stronger than traditional player characters. This page serves as a consistent guideline to how to create dragons, but the use of them in parties is generally discouraged because of their imbalance relative to the other players. Despite this, wyrmlings are the closest in power level to regular player characters, and can be used if taken into account.
+>[!note] 
+>Dragons are a lot stronger than traditional player characters. This page serves as a consistent guideline to how to create dragons, but the use of them in parties is generally discouraged because of their imbalance relative to the other players. Despite this, wyrmlings are the closest in power level to regular player characters, and can be used if taken into account.
 
 _The chrome dragons were created as a result of a conspiracy by five dragonflights: gold, brass, blue, black and white, to be the force to rival the very gods. Terrifying battle-born creatures, they are immune to most harm by the elements and are well suited for all combat scenarios. The first was born right at the Second Cataclysm, however their numbers grow, slowly but surely, threatening creatures of all realms._
  

@@ -13,4 +13,5 @@ Creatures sometime make the choice to ride a bigger creature during combat. Usua
 - An intelligent creature might use their action as they wish. An unintelligent yet trained ridee may take their action according to their rider's will.
 - Reactions may only be taken if the ridee wants to or is trained to do so.
 
-><u>Note:</u> The ridee has their own health point. If they drop to 0 hit points, the rider must make an Initiative save with DC 12 in order to not fall prone if the mount is not flying. If the ridee was flying, the rider has no saving throw, and they fall prone and take fall damage accordingly.
+>[!note] 
+>The ridee has their own health point. If they drop to 0 hit points, the rider must make an Initiative save with DC 12 in order to not fall prone if the mount is not flying. If the ridee was flying, the rider has no saving throw, and they fall prone and take fall damage accordingly.

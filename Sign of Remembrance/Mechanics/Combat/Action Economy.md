@@ -16,14 +16,15 @@ We will now go over what each of those moves means:
  
 The creature may move up to its movement speed. The total number of feet the creature may move is according to its highest movement speed type, and whenever it moves using its movement, movement speed of the matching type is expended. When a creature moves in what is called "difficult terrain", twice the movement speed is expended for each foot it moves. 
 
-><u>Note:</u> All races and creatures have a base movement speed specified in their page. This value is used as a baseline, and is mentioned in different actions and features.
+>[!note] 
+>All races and creatures have a base movement speed specified in their page. This value is used as a baseline, and is mentioned in different actions and features.
 
-<u>Example:</u> A creature with the following movement speeds: 20' walking, 50' flying, 20' burrowing, can move in the following example combinations:
-
-- walk 20', burrow 20', fly 10'
-- walk 20', fly 30'
-- fly 30', burrow 20'
-- walk 10', fly 10', burrow 15', fly 15'
+>[!example] 
+>A creature with the following movement speeds: 20' walking, 50' flying, 20' burrowing, can move in the following example combinations:
+>- walk 20', burrow 20', fly 10'
+>- walk 20', fly 30'
+>- fly 30', burrow 20'
+>- walk 10', fly 10', burrow 15', fly 15'
 
 The movement speeds can be expended in any order, and not all the movement speed must be expended in the same turn.  
 
@@ -103,4 +104,5 @@ Reactions are taken as responses to moves committed by other creatures. Each rea
  
 - Attack of Opportunity - when a creature willingly moves away from you out of reach (but doesn't teleport away), you may attempt a single weapon attack against them right before they move out. Each creature may use only one attack of opportunity against each other creature during a turn, meaning that a creature leaving and entering another creature's range multiple times during the same turn is safe from multiple attacks of opportunity.
 	On a critical hit, the creature stops, and may not use their normal movement to move during that turn anymore.
-><u>Note:</u> This applies to a single turn, not a single round.
+>[!note]
+>This applies to a single turn, not a single round.

@@ -11,7 +11,8 @@ In order to play Sign of Remembrance, the game master and each player need (at l
 - d12
 - d20
 
-*Note: Sometimes the system requires to roll a d3, in which case the recommendation is to roll a d6 and divide the result by 2 (rounded up).
+>[!note]
+>Sometimes the system requires to roll a d3, in which case the recommendation is to roll a d6 and divide the result by 2 (rounded up).
  
 When multiple dice are needed, they are denoted by a number before the letter 'd', which is the number of dice required. The results of all the dice are then added, and the sum is used as the roll's result. For example:
 
@@ -25,7 +26,9 @@ And so on.
  
 All dice rolls can be categorized into five main categories, being: the attack roll, the damage roll, the saving throw, the attribute check and the flat check.  
 The common property almost all rolls have is their need to meet a certain minimum in order to succeed. Such minimum is often called a Difficulty Class, or DC for short. A "basic DC" is the standard formula for calculating the DC for an action against another creature. The basic DC is usually defined with a skill in mind, and is equal to 10 + the creature's bonus for that skill.  
-For example - a basic Athletics (Strength) DC will be equal to 10 + the target's Strength modifier + the Target's proficiency bonus with the Athletics skill.
+
+>[!example] 
+>A basic Athletics (Strength) DC will be equal to 10 + the target's Strength modifier + the Target's proficiency bonus with the Athletics skill.
  
 ### Attack Rolls
  
@@ -61,7 +64,10 @@ _Saving Throw = d20 + attribute modifier + proficiency bonus_
     - Wits - highest among Intelligence or Charisma
     - Willpower - Willpower
     - Flat saving throws - no attribute modifier
-- Proficiency bonus - all creatures add their proficiency bonus to saving throws. However, if they are proficient in a particular save (such as from downtime training or class features), they add twice their proficiency bonus instead. For example, the [leshy](Leshy.md) race gets a racial feature which grants them proficiency with Resilience saving throws.
+- Proficiency bonus - all creatures add their proficiency bonus to saving throws. However, if they are proficient in a particular save (such as from downtime training or class features), they add twice their proficiency bonus instead. 
+
+>[!example]
+> The [leshy](Leshy.md) race gets a racial feature which grants them proficiency with Resilience saving throws.
  
 ### Ability Checks
  
@@ -69,9 +75,15 @@ Ability checks are used both in combat and out of combat to determine the succes
 _Ability Checks = d20 + attribute modifier + proficiency bonus_
 
 - Attribute modifier - ability checks correspond to a certain attribute modifier, according to the roll.
-- Proficiency bonus - if the check is not a normal ability check (for example, a Dexterity check), a skill or tool is noted in the requirement for the check, with the corresponding attribute modifier in parentheses. For example, an Insight (Wisdom) check would use the Insight skill with the Wisdom attribute. In this case, the creature's proficiency bonus is added according to their [proficiency level](Proficiency and Downtime) in that specific skill.
+- Proficiency bonus - if the check is not a normal ability check (for example, a Dexterity check), a skill or tool is noted in the requirement for the check, with the corresponding attribute modifier in parentheses. 
 
-The DC for an ability check is either noted in whatever required the check (for example, an opposing saving throw), or determined by the game master. In the case of a tie in opposing checks, the "attacker" wins - for example, Deception is usually thought of as more offensive than Insight, and Perception more offensive than Stealth.
+>[!example]
+>An Insight (Wisdom) check would use the Insight skill with the Wisdom attribute. In this case, the creature's proficiency bonus is added according to their [proficiency level](Proficiency and Downtime) in that specific skill.
+
+The DC for an ability check is either noted in whatever required the check (for example, an opposing saving throw), or determined by the game master. In the case of a tie in opposing checks, the "attacker" wins.
+
+>[!example] Examples
+>Deception is usually thought of as more offensive than Insight, and Perception more offensive than Stealth.
  
 ### Flat Checks
  

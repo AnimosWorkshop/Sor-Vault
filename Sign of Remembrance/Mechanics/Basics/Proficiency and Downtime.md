@@ -51,7 +51,8 @@ _Proficiency Cap_ = 15 + _Intelligence Score_
 | Armor (any one type)        | 2                                      |
 | Language                    | 1                                      |
 | Saving throw*               | 2                                      |
-Note that as mentioned in the table, weapon proficiency is learned for an entire weapon style, as listed in the [[Weaponsmith|weapons table]].
+>[!note]
+>As mentioned in the table, weapon proficiency is learned for an entire weapon style, as listed in the [[Weaponsmith|weapons table]].
 ### Training
  
 Proficiencies can be trained on any character in a free-form manner, meaning that if they use their time correctly to learn a skill, they'll become proficient with it over time. The time it takes to train in a proficiency is about 8 weeks for each Proficiency Point (abbreviated as PP).  

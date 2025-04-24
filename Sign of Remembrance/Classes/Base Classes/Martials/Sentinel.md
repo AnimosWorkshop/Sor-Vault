@@ -66,7 +66,8 @@ The focused condition lasts 10 minutes, and your concentration on it cannot end 
  
 Also at 2nd level, you learn how to deflect incoming attacks using precise, deliberate movements. This allows you to substitute your Dexterity modifier when calculating AC with your Strength modifier, as you attempt to deflect and push away incoming blows instead of dodging them.  
 
-><u>Note:</u> Limitations and changes to how you add your Dexterity modifier for AC calculation, such as heavy armor not allowing you to add Dexterity for AC calculation, applies to this feature too. Therefore, a 2nd level sentinel wearing chain plate has AC 15 regardless of their Strength modifier.
+>[!note] 
+>Limitations and changes to how you add your Dexterity modifier for AC calculation, such as heavy armor not allowing you to add Dexterity for AC calculation, applies to this feature too. Therefore, a 2nd level sentinel wearing chain plate has AC 15 regardless of their Strength modifier.
  
 ### Martial Techniques
  

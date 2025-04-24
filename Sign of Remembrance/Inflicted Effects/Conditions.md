@@ -2,7 +2,8 @@
 - - -
 #### Decaying
 Negative energy flows through your veins, disrupting your healing processes. Any form of healing you receive recovers only half the hit points it should have, rounded down.  
-For example, you receive half the healing from potions, spells, etc., and also recover only half the difference between your maximum and current hit points during a long rest.
+>[!example]
+>You receive half the healing from potions, spells, etc., and also recover only half the difference between your maximum and current hit points during a long rest.
 #### Encumbered
 An encumbered creature has a -2 penalty to all rolls based on Strength and Dexterity, including Resilience and Initiative saving throws, as well as to their AC. In addition, their movement speed is 10' slower.  
 A creature is usually encumbered while the weight of creatures or items they wear and carry exceeds a number of lb equal to 6 times their Strength score. If the creature's carried weight exceeds 10 times their Strength score, double the condition's effects.

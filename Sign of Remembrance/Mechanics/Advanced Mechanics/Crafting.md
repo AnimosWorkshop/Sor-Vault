@@ -15,7 +15,10 @@ Characters may use their tool proficiencies to craft items, provided they have b
 Crafting requires supplies, which are generally available in towns and cities. These supplies are versatile and can be stored for future use. The efficiency of converting supplies into finished goods depends on whether the character is engaging in quick crafting or slow crafting:
 
 - Quick Crafting - Supplies are converted to progress at a 1:1 ratio.
-- Slow Crafting (via [[Proficiency and Downtime#Earn Income|Earn Income]]) - Supplies are converted to progress at a 1:2 ratio. For example, a character with a potential 16 sc income use 16 silver coins (sc) worth of supplies can create items worth 16 sc in quick crafting or 32 sc in slow crafting, yielding their 16 sc profit margin.
+- Slow Crafting (via [[Proficiency and Downtime#Earn Income|Earn Income]]) - Supplies are converted to progress at a 1:2 ratio.
+
+>[!example]
+>A character with a potential 16 sc income use 16 silver coins (sc) worth of supplies can create items worth 16 sc in quick crafting or 32 sc in slow crafting, yielding their 16 sc profit margin.
 
 Quick crafting can be performed by working over an entire day, in order to create items of their crafting profession. Make a crafting roll using your tool. The items created or progress made is can be up to a silver coins amount equal to your roll. 
 - - -

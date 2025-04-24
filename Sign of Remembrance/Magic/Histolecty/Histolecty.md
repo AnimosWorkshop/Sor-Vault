@@ -61,7 +61,8 @@ Histolects can be categorized into power levels. Depending on their level, the c
 ### Casting a Spell
  
 Every histolect gains access to the Bind quick action, which reassigns their histolectual bonds. Each bond can be assigned to a different creature other than yourself, which you can sense within 60'. The bonds hold until you reassign them, you fall unconscious, or they leave a range of 120' from you. You must be bound to a creature in order to target them with histolecty spells (unless you are the target) and have your spell effects persist on them.   ^8e3f1d
-> <u>Note:</u> In order for a creature to notice that they are histolectually bound, they must a 1st level histolect or higher.
+>[!note]
+>In order for a creature to notice that they are histolectually bound, they must a 1st level histolect or higher.
  
 For some spells, you will have to determine your histolecty modifier. Use the following simple formula:  
 _Histolecty Modifier_ = _Charisma Modifier_ + _Proficiency Bonus (if you are a 1st-level or higher histolect)_

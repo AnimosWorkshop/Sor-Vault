@@ -7,7 +7,7 @@
 **Speed:** 30' walking.  
 **Vision:** Lightvision.  
 **Natural Tint:** You are resistant to radiant damage.  
-**Languages:** You can speak, read, and write Helian and Lumen.
+**Languages:** You can speak, read, and write Helian.
 - - -
 ## Subraces
 ### Brightlight Lumen

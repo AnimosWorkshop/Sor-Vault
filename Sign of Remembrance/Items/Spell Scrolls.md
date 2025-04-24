@@ -18,4 +18,6 @@ _Cost per Magic Type of the Spell_ _(sc)_ = 10 * (_Spell Level + 1_)
 ## Invoking Spell Scrolls
  
 Invoking spell scrolls are used to invoke a certain spell within them. Every creature that can fulfill the normal components of the spell (usually verbal and somatic) can cast the spell inside the scroll by touching it and spending the spell's casting time. The scroll is consumed in the process.  
-Note that the rules for spellcasting apply to the spell cast, e.g. casting an arcana spell without being at least a 1st level arcanist means that you won't add your proficiency modifier to the spellcasting modifier.
+
+>[!note]
+>The rules for spellcasting apply to the spell cast, e.g. casting an arcana spell without being at least a 1st level arcanist means that you won't add your proficiency modifier to the spellcasting modifier.

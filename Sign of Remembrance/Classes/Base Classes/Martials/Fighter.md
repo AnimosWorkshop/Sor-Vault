@@ -125,7 +125,8 @@ At 6th level, you learn how to use your weapon effectively not only as a means f
 The amount of times you can guard equals to the number of attacks expended.  
 In addition, you become proficient with Resilience and Willpower saving throws.
  
-><u>Note:</u> The damage roll you make includes your ability modifier (Strength or Dexterity usually, depending on the weapon) and any other modifiers to damage you would have for that weapon's attacks.
+>[!note] 
+>The damage roll you make includes your ability modifier (Strength or Dexterity usually, depending on the weapon) and any other modifiers to damage you would have for that weapon's attacks.
 ### Arms Adept
  
 Starting at 7th level, your knowledge about weapons expands to the point that you can wield any weapon. You add your full proficiency modifier to attacks with weapons you are not proficient with instead of half, and you add one and a half times your proficiency modifier instead of once to attacks with weapons of your specialty if you are proficient with them.  

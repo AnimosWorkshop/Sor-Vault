@@ -1,7 +1,8 @@
 #Race #Temuthen
 Uncommon
 - - -
->Note: Dragons are a lot stronger than traditional player characters. This page serves as a consistent guideline to how to create dragons, but the use of them in parties is generally discouraged because of their imbalance relative to the other players. Despite this, wyrmlings are the closest in power level to regular player characters, and can be used if taken into account.
+>[!note]
+>Dragons are a lot stronger than traditional player characters. This page serves as a consistent guideline to how to create dragons, but the use of them in parties is generally discouraged because of their imbalance relative to the other players. Despite this, wyrmlings are the closest in power level to regular player characters, and can be used if taken into account.
  
 **Racial Attribute Bonus:** Your Willpower score increases by 2. If your dragonflight stat increases are going to pass 20, you may choose another stat to increase instead.  
 **Age:** Wyrmlings (akin to children-adolescents) until their 50s, then youngs (akin to young adults and adults) until 120s, and adults (akin to middle-age and elderly) until their 240s. Elders can live up to the age of 650, but usually die sooner due to blood wars or direct inheritance.  

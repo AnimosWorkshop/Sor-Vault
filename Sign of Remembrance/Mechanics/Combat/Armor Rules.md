@@ -9,11 +9,11 @@ While you are incapacitated, your Dexterity modifier and any bonuses you have to
  
 Using armor effectively requires proficiency with the corresponding types. Each armor type is considered to have a training level, and progression must be rising, meaning that medium armor and shields require light armor training, and heavy armor requires (only) medium armor training.  
 For each 1 level of training you are missing before armor of the type you are using, you will receive a -5' penalty to your movement speed, and a -1 penalty to checks based on Dexterity.  
-For example:
 
-- Using a shield without any armor proficiencies gives a -10' penalty to movement speed and -2 penalty to checks based on Dexterity.
-- Using heavy armor while having light armor and shields proficiency gives a -10' penalty to movement speed and -2 penalty to checks based on Dexterity, as shields are in a separate branch from heavy armor.
-- Using both heavy armor and a shield without any armor proficiencies gives a -25' penalty to movement speed and -5 penalty to checks based on Dexterity.
+>[!example] Examples
+>- Using a shield without any armor proficiencies gives a -10' penalty to movement speed and -2 penalty to checks based on Dexterity.
+>- Using heavy armor while having light armor and shields proficiency gives a -10' penalty to movement speed and -2 penalty to checks based on Dexterity, as shields are in a separate branch from heavy armor.
+>- Using both heavy armor and a shield without any armor proficiencies gives a -25' penalty to movement speed and -5 penalty to checks based on Dexterity.
  
 ### Light Armor
  

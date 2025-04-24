@@ -13,6 +13,7 @@ You meditate, focusing on the arcane web and the infinite possibilities lying be
 
 Having foresight about the event allows you to intuitively perform better towards that goal. For the boon's duration, you have a +1 bonus to skill checks and DCs regarding the event you foresaw.
  
-><u>Example:</u> looking for foresight about a heist you are about to perform will yield an omen, and the different skill checks, such as Sleight of Hand and Deception checks to aid your success in the heist, will be made with a +1 bonus.
+>[!example] 
+>Looking for foresight about a heist you are about to perform will yield an omen, and the different skill checks, such as Sleight of Hand and Deception checks to aid your success in the heist, will be made with a +1 bonus.
  
 **At Higher Levels:** The spell's duration is doubled for each spell level above 2nd.

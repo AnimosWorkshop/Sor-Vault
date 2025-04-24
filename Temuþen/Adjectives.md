@@ -10,7 +10,8 @@ All the following suffixes come without the hyphen.
 ### General Derivation Rules
 
 An adjective is able to be derived from any infinitive, by replacing the _ū_ suffix with _iul_.
-<u>Example:</u> _tatū_ - to simplify; _tatiul_ - simple
+>[!example] 
+>_tatū_ - to simplify; _tatiul_ - simple
 
 ---- --
 ## Other Adjectives

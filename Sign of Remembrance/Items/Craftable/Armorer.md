@@ -2,7 +2,8 @@
 - - -
 ## Armor Bases
 
-><u>Note:</u> Without armor, most races have a base AC of 9 and are weak to Slashing damage.
+>[!note] 
+>Without armor, most races have a base AC of 9 and are weak to Slashing damage.
 
 ### Light Armor
 | **Armor**       | **Cost** | **Weight** | **Base AC** | **Weakness**   |

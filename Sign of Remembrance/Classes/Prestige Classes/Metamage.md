@@ -42,7 +42,8 @@ In order to advance as a metamage, you must meet the following prerequisites:
 ### Mage
  
 You continue your research of sorcery and spellcasting. For each of your metamage levels, you gain a caster level in any one magic type you already have.  
-For example: a druid 3rd / wizard 2nd / metamage 1st can only choose to gain either auramancer or arcanist levels.
+>[!example]
+>A druid 3rd / wizard 2nd / metamage 1st can only choose to gain either auramancer or arcanist levels.
  
 ### Reckless Casting
  
@@ -76,4 +77,5 @@ In addition, when you roll a saving throw against any spell and the result excee
  
 Somehow, you have managed to break the limit - being so used to magic, containing and conducting so much energy and studying the laws and properties of dynamics all around you, lead you to not only the discovery - but the application, of magic beyond traditional mortal understanding. At 5th level, your caster level in all spellcasting types you are proficient with, is increased by 1.
  
-Note: If this feature would cause a character to be a 21th level caster of any magic type, they remain a 20th level caster but get a +1 bonus to their spellcasting bonus with that magic type.
+>[!note] 
+>If this feature would cause a character to be a 21th level caster of any magic type, they remain a 20th level caster but get a +1 bonus to their spellcasting bonus with that magic type.

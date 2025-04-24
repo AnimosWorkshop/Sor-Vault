@@ -12,7 +12,10 @@ A character can spend one or more Hit Dice at the end of a short rest, up to the
  
 A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting spells, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.
  
-It is important to mention that a long rest is technically made up of multiple short rests, which results in the characters attempting it regaining an amount of hit points and abilities depending on the time passed, even if the long rest as a whole was interrupted. For example, a long rest interrupted 4 hours from its start means that each character regains all of its short rest resetting abilities back, and an amount of hit points equal to 4 times (Constitution modifier + Willpower modifier).
+It is important to mention that a long rest is technically made up of multiple short rests, which results in the characters attempting it regaining an amount of hit points and abilities depending on the time passed, even if the long rest as a whole was interrupted. 
+
+>[!example]
+>A long rest interrupted 4 hours from its start means that each character regains all of its short rest resetting abilities back, and an amount of hit points equal to 4 times (Constitution modifier + Willpower modifier).
  
 At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character’s total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest. In case of having hit dice of different sizes, you restore the larger ones.
  
