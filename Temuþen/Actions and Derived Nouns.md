@@ -158,6 +158,7 @@
 	* laþieþ - child
 * laruū - to lose (something)
 * laxū - to worsen
+* lazxenū - to survive
 * lazū - to live
 	* lazien - living being
 	* lazieng - body (living)

@@ -14,7 +14,7 @@ For example, the word *ūxura* means *your* (female singular), as it is construc
 * cim - dative case; for
 	<u>Example:</u> Retūo ūlive *cim mal feznien*. - I am making it *for a friend*.
 * en - instrumental case; by / with
-	<u>Example:</u> Esfūo *en Temuþen*. - I am talking *in Temuþen*.
+	<u>Example:</u> Esfūo *en Temuþi*. - I am talking *in Temuþen*.
 * haf - about
 	<u>Example:</u> Savikūa *haf ta ketieþo*. - I am thinking *about the book*.
 * ur - genitive case; of
