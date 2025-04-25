@@ -11,7 +11,8 @@ You may use a quick action in order to see and hear through your familiar's eyes
 The familiar's turn comes after yours, allowing you to command it with your words, even if it can't hear you, and you can use your action to cast a spell with touch range from the familiar's range instead of yours, given that they succeed on a reaction check if you are within 120' of it. You may also attempt to command the familiar to use a reaction by making a reaction check for both you and for your familiar.
  
 The familiar's stats are as follows, and its form is that of a tiny animal you have previously seen. When it drops to 0 hit points, it vanishes.
- 
+
+>[!danger] Minor Familiar
 _Tiny Elemental_  
 14/8/8/8/8/8/18  
 +4/+1/+1/+6  

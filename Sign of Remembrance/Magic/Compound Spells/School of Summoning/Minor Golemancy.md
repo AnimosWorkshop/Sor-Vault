@@ -11,7 +11,8 @@ Over a long ritual, you manage to place a hyper-responsive arcane engine inside 
 The command may be more complex the if creator is experienced - in which case more exceptions, conditions and limitations may be added to the command.
  
 The most common material for a golem created with this spell is clay, which can be easily enchanted using this spell and is rather malleable. An example for a golem with a medium clay vessel is:
- 
+
+>[!danger] Clay Golem
 _Medium Golem_  
 18/9/20/7/6/7/5  
 **Proficiency Modifier:** +3  

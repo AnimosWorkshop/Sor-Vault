@@ -11,7 +11,8 @@ Using a rather stable material to cast an elemental into, you create an amalgama
 The frigid husk's turn comes after yours, allowing you to command it with your words, even if it can't hear you, and you can use your action to cast a touch range spell from the elemental, given that they succeed on a reaction check if you are within 1 mile of it.
  
 The frigid husk's stats are as follows, and it appears like the corpse which is used to raise them. When it drops to 0 hit points, it collapses into the lifeless, soul-deprived corpse.
- 
+
+>[!danger] Frigid Husk
 _(According to the body's size, up to) Medium Elemental_  
 14/16/8/8/8/8/12  
 +6/+2/+2/+4  

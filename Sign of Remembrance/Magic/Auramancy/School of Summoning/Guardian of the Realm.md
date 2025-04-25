@@ -10,7 +10,8 @@ Uncommon
 Using an extensive ritual and some of the world's own energy, you create a stable elemental holding a hulking form. The guardian is carved from the earth itself, and therefore the spell must be cast on the world's earth.
  
 The guardian's turn comes after yours, allowing you to command it with your words, even if it can't hear you, and you can use your action to cast a touch range spell from the guardian, given that they succeed on a reaction check if you are within 1 mile of it.
- 
+
+>[!danger] Guardian of the Realm
 _Gargantuan Elemental_  
 22/20/14/12/12/12/14  
 +11/+7/+6/+7  
