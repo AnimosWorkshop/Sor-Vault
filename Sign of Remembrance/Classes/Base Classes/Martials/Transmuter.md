@@ -56,7 +56,7 @@ You may use a total number of infusions up to your transmuter level each round, 
  
 ## Makeshift Alchemy
  
-As a professional alchemist, you possess the ability to make improvised tools which emulate the effects of other alchemical items. Once per long rest, you may spend half an hour create [alchemical items](Alchemist.md) under the Bombs, Harmful Substances and Concoctions tabs which cost up to 16 sc * your transmuter level for free, using materials from your surroundings as ingredients. These items deteriorate once you take your next long rest, or 16 hours pass.
+As a professional alchemist, you possess the ability to make improvised tools which emulate the effects of other alchemical items. Once per long rest, you may spend half an hour create [alchemical items](Alchemist.md) under the Bombs, Harmful Substances and Concoctions sections which cost up to 16 sc * your transmuter level for free, using materials from your surroundings as ingredients. These items deteriorate once you take your next long rest, or 16 hours pass.
  
 ## Alchemical Affinity
  

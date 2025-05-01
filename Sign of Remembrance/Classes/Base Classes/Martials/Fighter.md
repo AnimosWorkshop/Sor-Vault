@@ -113,12 +113,19 @@ You also gain 1 proficiency level in either the Intimidation or Performance.
 At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tactic]] to your arsenal, or improve your existing one with the following benefits:
 * Careful Step - Using this tactic does not cost movement anymore.
 * Choke - The size of the weapon's damage die is not reduced as a result of this feature.
-* Fan - The range is instead increased by 15' for the first increment and 30' for the second increment.
+* Fan - The range for weapons you throw is increased by 15' for the first increment and by 30' for the second increment.
 * Shield Bash - The shield's damage die is increased by 1.
 * Swift Grab - The Resilience DC against the quickened brawl action does not get a bonus.
 ### Extra Attack
  
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action as an action.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action as an action. Each of those can be swapped for a [[Action Economy#^b70e3f|brawl action]] as per usual.
+If both attacks were used as regular (non-brawl) attacks, and both hit, the second attack deals only half damage.
+The attacks do not have to be taken together, meaning that if you take the Attack action, the second attack can occur at any time until the end of your turn.
+
+Taking two Attack actions with the help of [[#Adrenaline Surge]] allows you to halve your damage only from the third hitting attack in total instead.
+
+>[!note]
+>Halving the attack's damage only occurs if both attacks hit, which implies that if only one of them hits, regardless of whether it's the first or second, damage isn't reduced.
 ### On Guard
  
 At 6th level, you learn how to use your weapon effectively not only as a means for offense, but for defense too. Expanding on what you have already learned with parrying, you may expend any number of attacks from your Attack action during it to perform a Guard. When you are damaged by an attack, the Guard is automatically activated, and you make a damage roll with your weapon. The damage you rolled is reduced from the damage of the attack.  
@@ -150,7 +157,7 @@ At 9th level, you become a master of manipulating every advantage you can muster
 	* Careful Step - Using the disengage action or quick action now allows you to use the [[Action Economy#^1e684d|disorient]] action as a free action. If you disengaged as a quick action, your target has a +2 bonus to their saving throw against it.
 	* Choke - A creature grappled, restrained or toppled by you is pacified 1.
 	* Fan - Add your attribute modifier an additional time for damage rolls for thrown weapons.
-	* Shield Bash - Shields you use gain the lethal 1 trait.
+	* Shield Bash - Shields you use have their [[Weapon Rules#Lethal|lethal]] trait increased by 1.
 	* Swift Grab - While grappling, restraining or toppling a creature, you have a +1 bonus to your damage rolls and AC.
 ### Specialty Mastery
  

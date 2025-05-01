@@ -146,7 +146,9 @@
 * ketū - to write
 	* ketieþo - book
 * kfatū - to reconcile
-* klazū - to quicken
+* klazū - to accelerate
+	* klazier - acceleration
+	* klazieþ - speed
 * kokricū - to pinch
 * koperū - to conduct
 * krenū - to adopt (a habit / something)
@@ -221,12 +223,15 @@
 * þuvkū - to fly
 	* þuvkiec - sky
 * ragazū - to manage
-* ratū - to do
-	* ratienga - hand
+* rū - to do
+	* rienga - hand
 * rautū - to remember
 * rekafū - to exclude
 * ranū - to like
 * renū - to love
+* resū - to apply force
+	* resier - force
+	* resieþ - momentum
 * retū - to make
 * riklū - to measure
 * relimū - to rescue
