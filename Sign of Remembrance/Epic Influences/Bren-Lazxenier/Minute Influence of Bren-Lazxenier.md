@@ -5,4 +5,5 @@ When prolonged exposure to the Tree of Survival is met with a receptive body, th
 Your Strength and Wisdom scores each increase by 1, and your Intelligence decreases by 1. When your health points are reduced below 50% for the first time after a long rest, you are thrown into a state of enhanced instincts and measured aggression:
 * Your base movement speed increases by 5'.
 * You get a +1 bonus to all saving throws.
-The state lasts for 10 minutes or until danger has passed. After that, you become [[Conditions#Tired|tired]] until you perform a short or long [[Rest and Hit Dice|rest]].
+
+This state lasts for 10 minutes or until danger has passed. After that, you become [[Conditions#Tired|tired]] until you perform a short or long [[Rest and Hit Dice|rest]].

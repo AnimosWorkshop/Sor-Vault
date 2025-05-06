@@ -1,13 +1,28 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Sign of Remembrance\"  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Sign of Remembrance\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8593055
+      }
+    },
+    {
+      "query": "path:\"World Information\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -17,6 +32,6 @@
   "repelStrength": 12.1,
   "linkStrength": 0.735,
   "linkDistance": 275,
-  "scale": 0.45050811767578264,
+  "scale": 0.1459118122288943,
   "close": false
 }

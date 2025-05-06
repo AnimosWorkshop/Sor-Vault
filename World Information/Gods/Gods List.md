@@ -10,7 +10,7 @@
 
 - [[Fey Gods#Sanae|Sanae]] - Goddess of Change
 - -
-- [[Temuþen Gods#Ashe Faranor|Ashe]] - God of Charity
+- [[Temuþen Gods#Ashe Faranor|Ashe]] - The Charitable
 ### Gharil - God of Confidence
 
 - -
@@ -26,7 +26,7 @@
 ### Gweldyn - God of Freedom
 
 - -
-- [[Temuþen Gods#Niala|Niala]] - Goddess of Fervor
+- [[Temuþen Gods#Niala|Niala]] - The Beating Heart
 - -
 ### Saenka - Goddess of Health
 
@@ -39,7 +39,7 @@
 ### Fahren - God of Protection
 
 - [[Hellenise Gods#Custodem|Custodem]] - God of Protection
-- -
+- [[Helian Gods#Ethalia|Ethalia]] - Sickle of the People
 - -
 ### Aria - Goddess of Knowledge
 
@@ -81,7 +81,7 @@
 
 ### Hastur - God of Authority
 
-- [[Temuþen Gods#Þea of Maþak|Þea]] - Goddess of the Servant Leader
+- [[Temuþen Gods#Þea of Maþak|Þea]] - The Nominator
 - [[Limbani Gods#Valeo|Valeo]] - Goddess of the Visionary Leader
 - -
 

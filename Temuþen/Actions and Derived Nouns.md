@@ -248,8 +248,8 @@
 	* savusiere - ability / skill
 * satū - to touch
 * shelū - to sense
-* sklū - to defend / to protect
-	* sklieng - shield / armor / wall
+* skalū - to defend / to protect
+	* skalieng - shield / armor / wall
 * soknū - to attempt / to try
 	* soknuvū - to experiment
 * stilū - to smell (something)

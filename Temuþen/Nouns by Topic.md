@@ -33,6 +33,8 @@
 ### Metals
 
 * Fera - iron
+* Koper - copper
+* Silve - silver
 --------
 ## Sciences
 

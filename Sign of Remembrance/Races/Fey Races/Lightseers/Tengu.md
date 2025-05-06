@@ -18,7 +18,7 @@
 ### Crow Tengu
  
 **Racial Attribute Bonus:** Your Intelligence score increases by 2.  
-**Winged:** Your wings grant you a flying speed equal to your base walking speed, but you are unable to don medium or heavy armor while flying. In addition, any armor you wear besides your unarmored defense must be specialized for you, and therefore must start as having a breakage level of 1.  
+**Winged:** Your wings grant you a flying speed equal to your base walking speed, but you are unable to don medium or heavy armor while flying. In addition, any armor you wear besides your unarmored defense must be specialized for you. Specialized armor has a minimum [[Armor Rules#Armor Breakage and Weaknesses|breakage]] level of 1.  
 **Brave the Winds:** To maneuver in the dangerous winds of the peaks, crow tengu develop the instincts to move gracefully. You are proficient with Acrobatics.
  
 ### Fox Tengu

@@ -17,4 +17,4 @@ Although one may learn any number of martial techniques from their class (or gen
 ## Performance
  
 Techniques involve using a particular skill in order to outperform regular moves. This skill is depicted in the specific technique, alongside a DC. When a technique is performed, one should attempt a skill check - which results in the technique working on a success, or not on a failure. Even if the technique fails, the ordinary move - whether be it an attack (only a weapon attack), an action, etc., are executed as normal.  
-You may not use multiple techniques at the same time if both involve making an attack as a part of them.
+You may not use multiple techniques at the same time if both involve making an attack as a part of them, and you may use a technique only once per round.

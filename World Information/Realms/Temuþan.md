@@ -1,7 +1,7 @@
 As if the world hasn’t suffered enough in the Second Cataclysm, five of the dragonlands decided to take advantage of the crisis to wage war against the weakened realm. The world has been divided between two main factions:
 
 - Gandecrala (The Dragonlands) – ruled by the chrome dragons and the: gold, brass, blue, black and white dragonflights.
-- Carniules (The Free World) – lead by [[Avsekoper]] which managed to preserve its structure due to its society from before the cataclysm, with the other countries being: Urevneþ as a new country inhabited by the previously-called Puppeteers, Akelfutes, Arborealis and the Bronze Archipelago.
+- Carniules (The Free World) – lead by [[Avsekoper]] which managed to preserve its structure due to its society from before the cataclysm, with the other countries being: Urevneþ as a new country inhabited by the previously-called Puppeteers, Akelfutes, Breniskal, and the Bronze Archipelago.
 
 As the world was divided in twain, large population shifts on both sides ensued, leading to a major humanitarian crisis all over the world. While skepticism from the rest of the worlds grows, a plane at war must somehow take care of the many who have lost their home, and potentially their family as well.
 
@@ -17,4 +17,4 @@ For this reason, two gods who have lost their homes - [[Temuþen Gods#Vilidin|Vi
 * 18 - Foundation of [[Avsekoper]] (Copperoot) as a country in place of Copperland, and Akelfutes (Redpoint) in place of the Red Dragonland
 * 20 - Dissolution of the White Dragonland and division of land between Urevneþ and Avsekoper
 * 21 - Dissolution of the Silver Dragonland
-* 22 - Foundation of Arborealis in place of the Green Dragonland and the Bronze Archipelago in place of the Bronze Dragonland
+* 22 - Foundation of Arborwall in place of the Green Dragonland and the Bronze Archipelago in place of the Bronze Dragonland

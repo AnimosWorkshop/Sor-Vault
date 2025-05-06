@@ -3,7 +3,7 @@
 
 During the Great Dragon War, Anapati refugees fled from the Blue Federation to Copperland and aided in the war effort. As people of two countries who knew conflict and survived the Cataclysm, cooperation came naturally with the aid of [[Temuþen Gods#Meralien (Meralyn) Martor|Meralien Martor]] and [[Temuþen Gods#Þea of Maþak|Þea of Maþaq]], two new gods who now maintain peace in the country, which chose to take on a new name to mark an end to the age of the dragonlands, called Avsekoper - "Copperoot".
 
-The people native to Avsekoper are often called koperium (“coppern”), and the refugees are called federationists, or bifium federationists. Among them, there is a fairly large group who consider themselves to be coppern at heart, due to the changes in the world and a newfound love for their new home. Those are sometimes called bifedaxium (“old blues”), and they wish to have rights equal to the koperium.
+The people native to Avsekoper are often called _koperiumeu_ (“coppern”), and the refugees are called federationists, or _bifiumeu federationists_. Among them, there is a fairly large group who consider themselves to be coppern at heart, due to the changes in the world and a newfound love for their new home. Those are sometimes called _bifedaxiumeu_ (“old blues”), and they wish to have rights equal to the koperiumeu.
 - - -
 ## Regions
 
