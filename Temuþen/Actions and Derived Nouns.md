@@ -57,7 +57,7 @@
 * ekisū - to hear
 * ekosū - to listen
 * elabū - to tell
-* enotū - to unity
+* enotū - to unite
 * entū - to summon
 * erenū - to scam
 * erlū - to comfort

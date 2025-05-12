@@ -9,4 +9,4 @@ The country changed its name to Breniskal - "Arborwall", which only further soli
 ### Gezrier
 
 An island located in the sea east from the country toward Central Island. Despite its size, the island holds a great meaning in the dynamics of the whole of Temuþan, as in it lies the great portal to Preida. As such, Gezrier enjoys traffic of both Breniumeu citizens, Fey visitors, divine messengers and so on.
-The island also houses the Tree of Survival, _Bren-Lazxenier_, which spreads its roots deep and wide into Sor.
+The island also houses the Tree of Survival, _Bren-Lazxenier_, which spreads its roots deep and wide into Sor. ^e4904a

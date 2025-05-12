@@ -32,7 +32,7 @@
 
 - -
 - -
-- [[Fey Gods#Sipya, the Martyr's Dagger|Sipya]] - Voice of Life
+- [[Fey Gods#Sipya|Sipya]] - Echo of Life
 - - -
 ## Ifrit, Architect of Hell
 
@@ -56,10 +56,9 @@
 
 ### Yezikol - God of Trade
 
+- [[Helian Gods#Ildovan|Ildovan]] - God of Trade
 - -
-- -
-- -
-
+- [[Renatke]] - Goddess of Nature
 ### Nidora - Goddess of Collectivity
 
 - [[Temuþen Gods#Vilidin|Vilidin]] - Goddess of Society

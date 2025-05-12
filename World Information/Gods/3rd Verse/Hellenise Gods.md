@@ -15,6 +15,10 @@ Appears to be a tall, quiet woman who often bears a deadpan expression, consider
 ### Azel
 
 >[[Zirval#Veiled Zirval|Veiled]] [[Zirval]]
+
+### Renatke
+
+>[[Zirval#Beckoned Zirval|Beckoned]] [[Zirval]]; Protection [[Druid]] 10th
 ### Seiran
 
 >[[Gargoyle#Fargo Gargoyle|Fargo]] [[Gargoyle]]

@@ -19,7 +19,7 @@ Vilidin came to the Bronze Archipelago from the Black Dragonland after the Great
 
 ### Niala
 
->[[Orc#Berserker Orc|Berserker]] [[Orc]]; [[Fighter]] 3rd, [[Partisan]] 7th
+>[[Orc#Berserker Orc|Berserker]] [[Orc]]; Hurler [[Fighter]] 3rd, [[Partisan]] 7th
 
 Back in the 9th century 2V, Niala was a soldier in the Red Dragonlands, and both her deeds and writings focusing on the importance of the will to life has elevated her in the ranks of the late Gweldyn and led to her ascension.
 
