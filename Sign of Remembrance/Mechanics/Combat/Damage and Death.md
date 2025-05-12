@@ -24,7 +24,7 @@ While both of these terms results in their current hit points going down, a key 
 - Radiant - caused by extreme blinding light or dark, causing a sensory overload
 - Slashing - sharp objects cutting through the target
 - Thunder - caused by extreme loud sounds causing a sensory overload
- 
+
 Creatures can be: weak, resistant or immune to certain damage types, as described in their racial / class / items page or creature stats page.
  
 - Weakness - stacks up to twice per damage type. The creature takes 25% more damage from that damage type, or 50% more if stacked twice.
@@ -33,7 +33,12 @@ Creatures can be: weak, resistant or immune to certain damage types, as describe
  
 The number 2 written next to a weakness or resistance indicates double weakness or double resistance, respectively.  
 In contrast to damage, whose numbers can be manipulated, loss of hit points is extremely rare, and cannot be prevented or augmented in any way. These are effects which directly pull out of a character's life force.
-   - - -
+
+#### Fall Damage
+
+When finishing to fall, a creature takes 1d8 damage for each 10' of height difference from their original height to the ground, rounded down (e.g. no damage for up to 9' of height difference). Landing on a soft enough material, using special items or class features, may prevent some of this damage.
+In addition, when falling the creature must make an Acrobatics (Dexterity) save with the DC equal to half the falling height in ft., or fall [[Conditions#Prone|prone]].
+-- -
 ## Death
  
 When a creature's hit points drop to 0 or below it, it becomes prone and unconscious. At the start of each of its turns, its health becomes 0 (if it has below 0), and it makes a death flat check, with DC 10.
