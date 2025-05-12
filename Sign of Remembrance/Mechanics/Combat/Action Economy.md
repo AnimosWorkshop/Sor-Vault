@@ -77,7 +77,7 @@ Actions will usually be most things a creature improvises, from picking up items
     - Perception (Wisdom) - see objects and creatures, etc. Each hidden creature with basic Stealth (Dexterity) DC lower than your roll is not hidden from you.
     - Investigation (Intelligence) - understand the form of an item or its purpose, find clues, etc.
     - Sorcery (Wisdom) - sense the quality of magic affecting the area around you. Taking base caster classes ([paragon](Paragon.md), [druid](Druid.md), [mentalist](Mentalist.md), [wizard](Wizard.md)) grants features which extend what is possible to sense using this action.
-- Medicate - the creature attempts to aid a fallen creature in order to pull them away from death's door. Roll either a Medicine (Intelligence) or a Medicine (Wisdom) check, according to the GM's decision. On DC 10, the fallen creature makes their next Death check with advantage. On DC 20, the fallen creature gets a death success instead. ^79c113
+- Medicate - the creature attempts to aid a [[Damage and Death#Death|fallen creature]] in order to pull them away from death's door. Roll either a Medicine (Intelligence) or a Medicine (Wisdom) check, according to the GM's decision. On DC 15, the fallen creature gets 1 successful death save. On DC 25, the creature gets 2 successful death saves. ^79c113
 - Wake Up - any unconscious creatures above 0 hit points within 15' wake up, unless what put them under that condition specifies otherwise.
  - - -
 ## Quick Action

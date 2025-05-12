@@ -4,7 +4,7 @@ Many types of vision exist across the worlds. In order to understand it, we must
 - Darkness - a state in which there is dark energy.
 - Nullness - a state in which light and dark energies balanced each other out.
 
-Magic can cause light or dark energy to appear. Magical light and dark cancel each other just as nonmagical light and dark do, but they overpower their nonmagical counterpart. In time, as the magical effects end, the magical light and dark turn into nonmagical light and dark.  
+Magic can cause light or dark energy to appear. Magical light and dark cancel each other just as non-magical light and dark do, but they overpower their non-magical counterpart. In time, as the magical effects end, the magical light and dark turn into non-magical light and dark.  
 
 ><u>Note:</u> Flames can be either hotflames (emitting light) or coldflames (emitting dark), and there are torches corresponding to both.
 

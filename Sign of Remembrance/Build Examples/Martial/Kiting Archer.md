@@ -3,8 +3,8 @@ Using a ranged weapon and being able to move freely across the battlefield, this
 
 ### Attribute Priorities
 
-* Either Strength or Dexterity are great options as main offensives stats, and each can be used with a corresponding weapon: longbows with Strength and crossbows with Dexterity.
-* Wisdom is important to improve the consistency of [[Trap Shot]]
+* Either _Strength_ or _Dexterity_ are great options as main offensives stats, and each can be used with a corresponding weapon: longbows with Strength and crossbows with Dexterity.
+* _Wisdom_ is important to improve the consistency of [[Trap Shot]]
 
 ### Early Choices
 

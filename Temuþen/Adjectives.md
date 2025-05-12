@@ -6,7 +6,7 @@ All the following suffixes come without the hyphen.
 
 * -_iul_ - state adjective
 * -_ium_ - race and culture
-* -_iun_ - [[Numbers|ordinals]] and colors
+* -_iun_ - [[Numbers|ordinals]] and [[Colors|colors]]
 ### General Derivation Rules
 
 An adjective is able to be derived from any infinitive, by replacing the _ū_ suffix with _iul_.

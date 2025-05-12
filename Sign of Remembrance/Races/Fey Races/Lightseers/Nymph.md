@@ -15,7 +15,7 @@
 **Racial Attribute Bonus:** Your Wisdom score increases by 1.  
 **Attune with Nature:** Your ties with nature allow you to be aware of how much time has past from the last sunrise. In addition, while touching a tiny or small beast, you can use your action to discover its physical condition, whether it is poisoned or not and damage of which type it was dealt the most during the last 24 hours.  
 **Conduit of Life:** While taking a short rest, you may spend one of your hit dice in order to restore hit points to another willing creature you touch equal to your Nature (Wisdom) + your Constitution modifier. You may only use this feature once per short rest, and using it does not prevent you from using other hit dice during the rest. This feature counts as a 1st-level, auramancy alteration for the purpose of magic detection.  
-**Elegant Stride:** You are proficient with Acrobatics. In addition, while walking through a nonmagical grassy or forest terrain, you ignore difficult terrain.
+**Elegant Stride:** You are proficient with Acrobatics. In addition, while walking through a non-magical grassy or forest terrain, you ignore difficult terrain.
  
 ### Water Nymph
  

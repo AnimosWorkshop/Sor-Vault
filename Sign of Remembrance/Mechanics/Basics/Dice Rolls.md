@@ -50,6 +50,12 @@ _Damage Roll = weapon's damage die + attribute modifier_
 - Weapon damage dice - can be found in the [weapons](Weaponsmith.md) page. Note that different upgrades, magic items and class features might modify the weapon's damage dice.
 - Attribute modifier - as with the attack roll.
 
+>[!note]
+>You may choose to not add your attribute modifier to an attack's damage roll. 
+>This might be desirable if, for whatever reason, you choose to attack an ally.
+
+^2da378
+
 For spells and other special cases, the damage dice are noted in the relevant feature's description, though it is important to remember that the spellcasting attribute modifier (for example, Intelligence for Arcana) is added to the damage roll of spell attacks, just as Strength would be added to weapon damage rolls. Any item bonuses to a creature's spellcasting modifier are also added to spell damage rolls.  
 Damage is dealt according to the rules listed in the [Damage and Death](Damage%20and%20Death.md) page.
  
