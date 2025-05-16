@@ -14,4 +14,5 @@ In addition, according to your base caster classes, you may learn specific featu
 - Spatial Sense (Wizard) - You may learn what causes the arcane field to behave as such in your area (such as plants, minerals, manmade structures, spells, etc.), and get a sense of how many caster levels people around you have.
 
  
-**At Higher Levels:** The spell lasts twice as long for each spell level above 1st.
+**At Higher Levels:** 
+* (+1) The spell lasts twice as long.

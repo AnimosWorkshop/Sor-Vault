@@ -8,4 +8,5 @@ You distort a creature's magic field, causing it to flicker and become less resp
 For the curse's duration, the creature's spellcasting modifiers are reduced by 1, but spells targeting or affecting it act as if their spellcasting modifier is increased by 1.  
 The spell's casting time may be extended to 10 minutes, causing the curse to last for a week on a failed saving throw.
  
-**At Higher Levels:** The curse lasts twice as long for each spell level above 1st.
+**At Higher Levels:** 
+* (+1) The curse lasts twice as long.

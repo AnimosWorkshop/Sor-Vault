@@ -51,7 +51,8 @@ At 4th level, this bonus to your attack roll is increased to 1d6, and you may in
 
 In addition, you may use the Dodge reaction as a response to being attacked by an enemy you can see. If you succeed, your AC is increased by your Dexterity modifier divided by 3 against the attack.
  
-><u>Note:</u> You can't have two turns during the same round of combat, even if you lower your initiative.
+>[!note] 
+>You can't take two turns during the same round of combat, even if you lower your initiative.
 ### Cunning Action
  
 Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The [[Action Economy#^f8a635|dash]], [[Action Economy#^9a6755|disengage]] and [[Action Economy#^284a7e|hide]] actions become quick actions for you.  

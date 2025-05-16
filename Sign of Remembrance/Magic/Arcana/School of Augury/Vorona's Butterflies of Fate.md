@@ -8,4 +8,5 @@ _Fate comes for all - the fortunate might think that fate favors them, the other
  
 Unleashing a burst of tiny butterfly-shaped disturbances in the Arcane Web, all creatures within range, including the caster, make a Willpower saving throw. Each creature loses 4d20 hit points, or half on a success. Reduce your arcana modifier from the amount of hit points you lose.
  
-**At Higher Levels:** Each creature 1d20 additional hit points for each spell level above 4th.
+**At Higher Levels:** 
+* (+1) Each creature 1d20 additional hit points.

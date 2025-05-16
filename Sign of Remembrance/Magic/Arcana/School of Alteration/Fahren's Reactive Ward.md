@@ -8,4 +8,5 @@ You cast a quick enhancement on an object holding, allowing it to block upon nee
 The aggressor must also make a Willpower saving throw, and take 1d6 force damage on a fail.
 The ward may be used this way up to 3 times before the spell ends.
  
-**At Higher Levels:** The ward may be used an additional time for each spell level above 1st.
+**At Higher Levels:** 
+* (+1) The ward may be used an additional time.

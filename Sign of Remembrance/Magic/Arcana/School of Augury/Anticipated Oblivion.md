@@ -9,4 +9,5 @@ Creatures contained in the area of the cube within range must make a Willpower s
 >[!note] 
 >The spell lasts on the creatures, not on the area.
  
-**At Higher Levels:** The size of the cube increases by 5' for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) The size of the cube increases by 5'.

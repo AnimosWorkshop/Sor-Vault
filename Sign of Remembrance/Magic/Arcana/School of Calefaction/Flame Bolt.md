@@ -8,6 +8,7 @@ You hurl a small flame at a creature or object, making a ranged spell attack. Ch
 * Creatures other than the target within 5' of it must make an Initiative save or take 1d4 fire or cold damage from the burst.
 * Unattended objects within 5' of the target are set aflame.
 
-**At Higher Levels:** For each spell level above 1st, choose one:
-* The bolt deals 1d8 additional damage.
-* The explosion around the target on a hit deals 1d4 additional damage.
+**At Higher Levels:**
+* (+1) Choose one:
+	* The bolt deals 1d8 additional damage.
+	* The explosion around the target on a hit deals 1d4 additional damage.

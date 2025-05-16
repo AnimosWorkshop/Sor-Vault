@@ -9,4 +9,5 @@ You cause light to originate from the edge of your hand in a sudden flash, attem
 >[!note] 
 >The blindness is not a curse, since it originates from a physical source - the physical trauma of the flash to the eye, in the same way scars from a fire spell aren't curses.
  
-**At Higher Levels:** When a creature fails the initial save, they take 1d8 additional radiant damage for each spell level above 3rd.
+**At Higher Levels:** 
+* (+1) A creature who fails the initial save takes 1d8 additional radiant damage.

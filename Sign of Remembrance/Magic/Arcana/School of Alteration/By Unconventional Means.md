@@ -6,4 +6,5 @@
 
 You change the web around a creature, allowing you to swap all damage types dealt by their next attack into a damage type of your choice among: fire, cold, lightning, acid or necrotic, and increasing the damage dealt by 3d4. For each damage type switched besides the first, the attack deals 1d4 additional damage, as they converge into one unified method.
 
-**At Higher Levels:** The attack deals 1d4 additional damage for each damage type switched for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) The attack deals 1d4 additional damage for each damage type switched.

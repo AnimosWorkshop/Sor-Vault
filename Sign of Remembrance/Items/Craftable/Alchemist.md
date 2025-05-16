@@ -12,10 +12,12 @@ Alchemists create many substances which may have some kind of influence over a c
 
 - Inject - having the substance put directly into the bloodstream of the creature, usually by a traditional syringe or a dart containing it. If a dart containing the substance misses, the substance is not spent, unless the dart is broken or the target succeeds on a substance's saving throw (in poisons' case). A syringe deals no damage when applied, but a dart does, though the user may choose to deal half the minimum damage instead of rolling for damage.
 	A dangerous injected substance is usually called a _venom_.
-  
+
+>[!tip]
+>Anyone who might consider using alchemical items should look for a [[Provisioner#Starting Gear|pouch]].
+
 >[!note]
 >Some bombs and venoms of higher costs are written as 'double', 'triple', etc. of an effect. That is to indicate the base damage for the transmuter class, which can increase the base damage of alchemical items when used as an attack.
-
 ^40dc6a
 
 - - -

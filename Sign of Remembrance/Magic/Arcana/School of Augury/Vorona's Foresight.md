@@ -16,4 +16,5 @@ Having foresight about the event allows you to intuitively perform better toward
 >[!example] 
 >Looking for foresight about a heist you are about to perform will yield an omen, and the different skill checks, such as Sleight of Hand and Deception checks to aid your success in the heist, will be made with a +2 bonus.
  
-**At Higher Levels:** The spell's duration is doubled for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) The spell's duration is doubled.

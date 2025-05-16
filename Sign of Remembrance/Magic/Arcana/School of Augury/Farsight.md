@@ -8,4 +8,5 @@ You declare out loud a place you know well within the spell's range. Focusing on
 
 The point remains in place as boon still holds, yet you can move normally, even as you sense from the other point. You may cast this spell more than one time to hold multiple points of view using the spell, yet may sense from only one at a time.
  
-**At Higher Levels:** The spell's duration and range are doubled for each spell level above 3rd.
+**At Higher Levels:** 
+* (+1) The spell's duration and range are doubled.

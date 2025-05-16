@@ -39,4 +39,6 @@ The elemental has the personality of the soul in the soul stone, getting its men
  
 The construct acts on their own, according to their personality. When the body is destroyed, the soul stone is taken outside of the poppet, or the spell's duration ends, the soul returns to the soul stone.
  
-**At Higher Levels:** The spell's duration increases by 7 hours for each spell level above 1st. At 5th level, it becomes permanent, but also binds the soul's existence to the body's, meaning that it'll die when the body does and consuming the soul stone.
+**At Higher Levels:** 
+* (5th) The spell becomes permanent, but also binds the soul's existence to the body's, meaning that it'll die when the body does and consuming the soul stone.
+* (+1) The spell's duration increases by 7 hours for each spell level above 1st.

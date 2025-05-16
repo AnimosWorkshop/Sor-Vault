@@ -37,7 +37,7 @@ In order to advance as a paragon, you must meet the following prerequisites:
 - Armor: None
 - Tools: None
 - Saving Throws: None
-- Skills: 2 levels of Insight, 2 level of History  
+- Skills: 2 levels of Insight, 2 levels of History  
 ### Equipment
  
 - 2 common 1st-level spell scrolls of your choice (already learned as a part of you getting the class) of your [[#Ideal Conduit|Ideal Conduit]] magic type
