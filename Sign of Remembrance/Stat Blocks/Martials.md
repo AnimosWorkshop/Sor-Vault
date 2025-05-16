@@ -1,9 +1,46 @@
+-- - -
+## 1st Level
+
+>[!danger]- Scout
+>>[!info]- Basics
+>>* [[Elf#Wood Elf]]
+>>* Attributes - 8 / 13 / 18 / 18 / 12 / 8 / 14
+>>* Saves - +3 / +6 / +3 / +4
+>>* HP - 20, 1d6
+>>* AC - 15 leather (slashing, acid) + 1 buckler (bludgeoning) + 2 [[Trickster#Shifting Tempo|dodge]]
+>>* Movement - 35' walking
+>
+>>[!info]- Specifics
+>>* Classes - [[Trickster]] 1st
+>>* Arms:
+>>	* Shortsword (finesse, pommel) - 1d6 + 4 slashing / piercing
+>>	* Buckler
+^6aa3e7
+
 - - -
-## Melee
+## 2nd Level
+
+>[!danger]- Archer
+>>[!info]- Basics
+>>* [[Vident#Inquisitive Vident]]
+>>* Attributes - 17 / 16 / 12 / 14 / 12 / 8 / 12
+>>* Saves - +5 / +4 / +3 / +3, +1 focused + 1 lone wolf
+>>* HP - 40, 2d10
+>>* AC - 15 studded leather (slashing, acid) + 1 lone wolf
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills (+1 from lone wolf) - Athletics (Strength) +7, Intimidation (Charisma) +6
+>>* Classes - [[Sentinel]] 2nd
+>>* Arms:
+>>	* Bayonet Longbow (ammunition (100' / 400')) - 1d8 + 3 piercing + 1 lone wolf
+>>* Martial Techniques - [[Unbalancing Kick]]
+>>* [[Provisioner#Mid-Range Equipment|Refreshening straw]]
+^2a16f5
 
 >[!danger]- Leatherworker
 >>[!info]- Basics
->>* [[Fariste#Scholar Fariste|Scholar]] [[Fariste]]
+>>* [[Fariste#Scholar Fariste]]
 >>* Attributes - 10 / 12 / 17 / 10 / 16 / 14 / 16
 >>* Saves - +4 / +5 / +5 / +4
 >>* HP - 36, 2d8
@@ -17,12 +54,13 @@
 >>* Arms:
 >>	* Rapier (finesse, tool (Deception)) - 1d10 + 3 piercing + 1d6 adder venom
 >>	* Kite Shield
-
 ^99605d
+-- - ---
+## 3rd Level
 
 >[!danger]- Hook Bruiser
 >>[!info]- Basics
->>* [[Orc#Berserker Orc|Berserker]] [[Orc]]
+>>* [[Orc#Berserker Orc]]
 >>* Attributes - 19 / 14 / 13 / 10 / 14 / 10 / 14
 >>* Saves - +6 / +3 / +4 / +4
 >>* HP - 54, 3d10
@@ -38,12 +76,13 @@
 >>	* Rondel (light, finesse, pommel, lethal 1) - 1d4 + 4 piercing + 1d4 adder venom
 >>	* Hook (light, tool (Athletics)) - 1d4 + 4 piercing
 >>* 2 [[Alchemist#Harmful Substances|adder venom, minor]]
-
 ^d850b7
+-- - - -
+## 4th Level
 
  >[!danger]- Wyrmling Assassin
 >>[!info]- Basics
->>* Blue Dragon (Wyrmling)
+>>* [[Dragon#Blue]] (Wyrmling)
 >>* Attributes - 14 / 14 / 18 / 14 / 14 / 8 / 16
 >>* Saves - +5 / +7 / +5 / +6
 >>* HP - 60, 4d6
@@ -59,27 +98,4 @@
 >>* Breath Weapon - 15' cube, DC 16, 3d8 lightning damage or half
 >>* [[Trickster#Uncanny Prediction|Uncanny Prediction]]
 >>* 1 [[Alchemist#Concoctions|coagulation concoction, minor]]
-
 ^79a06b
---- --
-## Ranged
-
->[!danger]- Archer
->>[!info]- Basics
->>* [[Vident#Inquisitive Vident|Inquisitive]] [[Vident]]
->>* Attributes - 17 / 16 / 12 / 14 / 12 / 8 / 12
->>* Saves - +5 / +4 / +3 / +3, +1 focused + 1 lone wolf
->>* HP - 40, 2d10
->>* AC - 15 studded leather (slashing, acid) + 1 lone wolf
->>* Movement - 30' walking
->
->>[!info]- Specifics
->>* Skills (+1 from lone wolf) - Athletics (Strength) +7, Intimidation (Charisma) +6
->>* Classes - [[Sentinel]] 2nd
->>* Arms:
->>	* Bayonet Longbow (ammunition (100' / 400')) - 1d8 + 3 piercing + 1 lone wolf
->>* Martial Techniques - [[Unbalancing Kick]]
->>* [[Provisioner#Mid-Range Equipment|Refreshening straw]]
-
-^2a16f5
-
