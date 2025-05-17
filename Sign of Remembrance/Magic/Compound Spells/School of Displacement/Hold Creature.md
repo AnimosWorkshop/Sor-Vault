@@ -9,4 +9,7 @@ You use a creature's surroundings in order to suppress their movement, paralyzin
 >[!note] 
 >As a clarification, the creature is not stunned by this spell until they attempt the save on the start of their turn after this spell is cast, no matter if they succeed or fail on that first save. This also implies that the creature does not know what the curse affecting them is until after they make the first save.
  
-**At Higher Levels:** You may either choose another target or have one of the affected creatures be 1 size larger for each spell level above 1st.
+**At Higher Levels:** 
+* (+1) Choose one:
+	* You may choose another target.
+	* You may have one of the affected creatures be 1 size larger.

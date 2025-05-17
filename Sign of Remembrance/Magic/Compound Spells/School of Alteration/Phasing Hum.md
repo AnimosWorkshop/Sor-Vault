@@ -7,4 +7,6 @@
 You hum in a calm tune while calling upon magic to alter your body, allowing it to go through passages more easily. As long as you continue to hum the chant, using a quick action on each of your turns (not required on the turn you cast this spell), you may go through the spaces of other creatures, and attacks of opportunity against you are made with disadvantage. You may still cast spells while humming the chant.  
 If you end your turn in another creature's space, if you normally wouldn't be able to, you take 1d10 force damage.
  
-**At Higher Levels:** If you cast this spell at 2nd level or higher, you are also invisible for the duration of the spell. If you cast this spell at 3rd level or higher, your humming becomes quiet to those surrounding you.
+**At Higher Levels:** 
+* (2nd) You are also invisible for the duration of the spell. 
+* (3rd) Your humming becomes quiet to those surrounding you.

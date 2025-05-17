@@ -11,4 +11,5 @@ You tap into a creature's histolectual fountain, allowing you to sense attempts 
 
 Creatures attempting to communicate with the creature using the means detailed above do not notice the effects of this spell.
  
-**At Higher Levels:** This spell lasts for twice as long for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) This spell lasts for twice as long.

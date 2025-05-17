@@ -9,4 +9,5 @@ _It had always been said that Doeth, the Cold King, was calm and collected, with
 You become one with the frost of Freezing Hell, letting it echo from within your body and soul, and into the environment. For the duration, you are resistant to cold damage as the energy swells in your body, so desperate to spread outward that you appear to raise cold vapor from your body, and attacks deal 1d4 additional cold damage.  
 On each of your turns for the duration, you may use a free action to shoot a shard of ice from the vapor. The shard is shot as a spell attack with a range of 30'/120', and deals 1d4 piercing damage.
  
-**At Higher Levels:** The added cold damage is increased by 1d4 for each spell level above 1st.
+**At Higher Levels:** 
+* (+1) The added cold damage is increased by 1d4.
