@@ -1,14 +1,16 @@
 ## Upcasting
  
 Upcasting is the act of casting a spell at a level higher than its base one. When using an upcasting of a spell, it usually gains additional effects, indicated by a "**At Higher Levels:**" paragraph in the bottom of the spell's page. If no additional effects are noted, casting the spell is virtually identical to casting it at its base level.
+* If the bullet point says "(X) ...", then the additional effect takes place when the spell is cast at least at level X.
+* If the bullet point says "(+Y) ...", then the additional effect takes place _for each_ Y spell levels above base level.
  - - -
 ## Compound Casting
  
 Compound casting is used for compound spells, which have more than one magic types. The spellcasting ability for compound spells is the highest of the magic types used, and during the casting both spell costs are expended in the same time. All requirements for both magic types must also be fulfilled.  
 
-><u>Example:</u> In order to cast Nullify Intentions at 1st level, one must both use a 1st-level resonance and 2 mana.  
+>[!example] 
+>In order to cast Nullify Intentions at 1st level, one must both use a 1st-level resonance and 2 mana.  
 >It should be noted that spell currencies used must be equal, and determine the spell level in which the spell is cast.
- 
  - - -
 ## Coven Casting
  

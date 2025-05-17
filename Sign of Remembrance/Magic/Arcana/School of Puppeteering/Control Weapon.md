@@ -8,4 +8,6 @@ You use puppeteering magic in order to control an object of the light weight cat
 
 As a quick action, you may use your controlled weapon to make a melee spell attack against a creature within range of the weapon. On a hit, it deals 1d8 force damage.
  
-**At Higher Levels:** You can control objects weighing 5 lb more, the force damage is increased by 1d4, the duration of the spell is increased by 1 minute for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) You can control objects weighing 5 lb more.
+* (+1) The force damage is increased by 1d4

@@ -14,4 +14,5 @@ However, if the clothing is attended, the creature wearing it may take a Resilie
 
 For as long as their armor is possessed, you may use a free action on your turn to command the clothing with your voice. The wearer is stunned but may attempt a Resilience saving throw in the end of each of their turns. On a success, the creature manages to seize control over their clothing, ending your control over that set of clothes.
  
-**At Higher Levels:** You may take over an additional set of clothing for each 2 spell levels above 4th.
+**At Higher Levels:** 
+* (+2) You may take over an additional set of clothing.

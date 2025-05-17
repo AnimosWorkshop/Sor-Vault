@@ -6,13 +6,15 @@ _Spell-level, Magic type, Spell school, (Boon / Curse)_
 _(Spell Rarity)_
  
 - Casting Time:
-- Range: (area)
+- Range: 
 - Duration:
 - (Exhaustion)
  
 Spell description
  
 **At Higher Levels:**
+* (x)
+* (+y) 
    
 - - -
 ## Spell Components

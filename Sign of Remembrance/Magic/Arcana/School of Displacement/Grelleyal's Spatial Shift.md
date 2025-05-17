@@ -8,4 +8,5 @@ You disappear from your position, converting yourself into essence spread thinly
 
 At any time during the boon's duration, you may use a quick action to violently manifest yourself again. All other creatures within a 30' sphere centered on yourself must make a Resilience saving throw, taking 6d8 force damage and being pushed away to the beyond the sphere. On a success, the creature takes only half the damage and is not pushed.
  
-**At Higher Levels:** The force damage increases by 1d8 for each spell level above 4th.
+**At Higher Levels:** 
+* (+1) The force damage increases by 1d8.
