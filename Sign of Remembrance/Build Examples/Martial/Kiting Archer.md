@@ -22,7 +22,7 @@ Using a ranged weapon and being able to move freely across the battlefield, this
 
 At 4th level onward, the build can diverge onto multiple paths:
 * Both continuing with the fighter class and diverging into [[Partisan|partisan]] gives an option to fire two shots each attack action, either with [[Fighter#Extra Attack|Extra Attack]] or [[Dual Shot]].
-* [[Transmuter]]'s 2nd level gives a moderate damage boost using venoms and [[Transmuter#Alchemical Affinity|Alchemical Affinity]], further enhanced by [[Deadly Shattering]].
+* [[Transmuter]]'s 2nd level gives a moderate damage boost using venoms and [[Transmuter#Alchemical Affinity|Alchemical Affinity]], further enhanced by [[Lethal Shattering]].
 
 ### Key Items
 

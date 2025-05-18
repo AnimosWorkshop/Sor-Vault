@@ -76,6 +76,7 @@ This weapon can be wound up using a quick action. Doing so allows an Attack acti
 ### Light
 
 A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons: after you attack with a light weapon on your turn, you can use your quick action to attack with another light weapon.
+Readied light weapons (such as a sheathed shortsword) can be drawn and used to attack using 1 [[Action Economy#^941070|Attack action]], as well as thrown weapons on a [[Provisioner#Starting Gear|pouch]] or a [[Provisioner#Mid-Range Equipment|bandolier]]. An [[Action Economy^941070|Attack quick action]] cannot be used this way.
  
 ### Medium
 
@@ -93,7 +94,7 @@ Repairing a weapon requires an artisan with tools according to the type of weapo
 - Breakage 0 - None. The weapon is perfectly fine.
 - Breakage 1 - 10% of the original price of the weapon. The weapon shows a minor decrease in performance.
 - Breakage 2 - 20% of the original price of the weapon. The weapon shows a major decrease in performance.
-- Breakage 3 - 30% of the original price of the weapon. In the meanwhile, the weapon is broken, and cannot be used effectively, meaning that your proficiency modifier does not apply to it when attacking in addition to the normal -3 penalty for attack rolls. The weapon also does not have any of the traits it normally does, including upgrades ones, except for Light and Heavy.
+- Breakage 3 - 30% of the original price of the weapon. In the meanwhile, the weapon is broken, and cannot be used effectively, meaning that your proficiency modifier does not apply to it when attacking in addition to the normal -3 penalty for attack rolls. The weapon also does not have any of the traits it normally does, including upgrades ones.
 
 The amount of time required to repair the weapon is 1 hour per maximum damage on the weapon damage dice.
 

@@ -76,6 +76,7 @@
 >>	* 2nd-Level (2) - [[Flame Darts]], [[Grelleyal's Shattering Grasp]]
 >>* Arms:
 >>	* [[Runecarver#Functionality Upgrades|Foretelling Scepter]]
+>>
 ^1c1710
 
 >[!danger]- Calefactor Histolect
