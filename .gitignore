@@ -9,8 +9,8 @@ Attachments/Pasted image 20240601185115.png
 # Ignore Obsidian workspace and plugin data
 .obsidian/workspace*
 .obsidian/plugins/tags-overview/data.json
-.obsidian/plugins/generic-initiative-tracker/
-.obsidian/plugins/obsidian-dice-roller/
+.obsidian/plugins/generic-initiative-tracker/*
+.obsidian/plugins/obsidian-dice-roller/*
 
 # Ignore Mac system files
 *.DS_Store
