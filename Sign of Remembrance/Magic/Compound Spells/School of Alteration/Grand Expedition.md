@@ -5,3 +5,6 @@
 - Duration: Concentration, up to 1 hour  
 
 You make yourself the locus of an accelerating sphere around you, granting all creatures who stay within range around you an increase of 15' to their movement speed for the boon's duration.
+
+**At Higher Levels:**
+* (+1) The boon's duration is doubled.
