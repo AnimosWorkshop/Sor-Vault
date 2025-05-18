@@ -1,16 +1,16 @@
-NBZ Campaign/*
-Survivors Campaign/*
-Oneshots/*
-Sessions/*
-Unrelated/*
+# Ignore specific campaigns and folders
+NBZ Campaign/
+Survivors Campaign/
+Oneshots/
+Sessions/
+Unrelated/
 Attachments/Pasted image 20240601185115.png
+
+# Ignore Obsidian workspace and plugin data
 .obsidian/workspace*
 .obsidian/plugins/tags-overview/data.json
-.obsidian/plugins/generic-initiative-tracker/*
-.obsidian/plugins/obsidian-dice-roller/*
+.obsidian/plugins/generic-initiative-tracker/
+.obsidian/plugins/obsidian-dice-roller/
+
+# Ignore Mac system files
 *.DS_Store
-.obsidian\plugins\obsidian-dice-roller/*
-.obsidian\plugins\generic-initiative-tracker/*
-.obsidian/plugins/generic-initiative-tracker/data.json
-.obsidian/plugins/obsidian-dice-roller/data.json
-*.json
