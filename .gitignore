@@ -6,4 +6,6 @@ Unrelated/*
 Attachments/Pasted image 20240601185115.png
 .obsidian/workspace*
 .obsidian/plugins/tags-overview/data.json
+.obsidian/plugins/generic-initiative-tracker/*
+.obsidian/plugins/obsidian-dice-roller/*
 *.DS_Store
