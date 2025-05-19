@@ -52,17 +52,13 @@ In order to advance as a fighter, you must meet the following prerequisites:
 ### Dirty Tactics
 
 When everything goes loose, you must learn to take the reins and stir back to control. At 1st level, you choose a "dirty tactic" to adopt and add to your arsenal, from the following choices:
-#### Careful Step
-You may use the [[Action Economy#^9a6755|disengage]] action as a quick action with the additional cost of 10' movement.
-#### Choke
-While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same.
-#### Fan
-You may use a [[Action Economy#^359f07|minor interaction]] to draw two light weapons and hold them in one hand.
-If you have three or less light weapons with the Thrown trait held this way in one hand, you may throw each from this hand with no penalty.
-#### Shield Bash
-While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy). Proficiency with shield attacks is gained as part of your shield proficiency, and the weapon is considered of the pugilist style.
-#### Swift Grab
-You may make a brawl action as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
+
+* _Careful Step_ - You may use the [[Action Economy#^9a6755|disengage]] action as a quick action with the additional cost of 10' movement.
+* _Choke_ - While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same.
+* _Fan_ - You may use a [[Action Economy#^359f07|minor interaction]] to draw two light weapons and hold them in one hand.
+	If you have three or less light weapons with the Thrown trait held this way in one hand, you may throw each from this hand with no penalty.
+* _Shield Bash_ - While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy). Proficiency with shield attacks is gained as part of your shield proficiency, and the weapon is considered of the pugilist style.
+* _Swift Grab_ - You may make a brawl action as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
 ### Parrying Strike
  
 Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do, subtract half your fighter level + your Strength modifier divided by 3 (total minimum of 1) from the damage dealt.  
@@ -91,12 +87,12 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
  
 When you reach 3rd level, choose one weapon style to become your specialty. Based on the one you choose, you get a bonus when using these weapons:
 
-* Hurler - The [[Weapon Rules#Lethal|lethal]] trait and the damage die for hurler weapons increases by 1 for you.
-* Pugilist - [[#Parrying Strike|Parrying strike]] can be used in conjunction with the [[Sentinel#Deflecting Instinct|deflect reaction]] as a part of the same reaction if you are using a pugilist wewapon. If you don't have the [[Sentinel#Deflecting Instinct|deflect reaction]], you may instead increase your AC by 1 against the attack in addition to the normal effects of [[#Parrying Strike|parrying strike]]
-* Sharpshooter - You get a +2 bonus to attack rolls with sharpshooter weapons.
-* Skewer - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type.
-* Sweeper - You get a +2 bonus to damage rolls with sweeper weapons.
-* Swiftblade - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. Attacks of opportunity taken against you as a part of this movement are made with disadvantage.
+* _Hurler_ - The [[Weapon Rules#Lethal|lethal]] trait and the damage die for hurler weapons increases by 1 for you.
+* _Pugilist_ - [[#Parrying Strike|Parrying strike]] can be used in conjunction with the [[Sentinel#Deflecting Instinct|deflect reaction]] as a part of the same reaction if you are using a pugilist wewapon. If you don't have the [[Sentinel#Deflecting Instinct|deflect reaction]], you may instead increase your AC by 1 against the attack in addition to the normal effects of [[#Parrying Strike|parrying strike]]
+* _Sharpshooter_ - You get a +2 bonus to attack rolls with sharpshooter weapons.
+* _Skewer_ - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type.
+* _Sweeper_ - You get a +2 bonus to damage rolls with sweeper weapons.
+* _Swiftblade_ - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. Attacks of opportunity taken against you as a part of this movement are made with disadvantage.
  
 ### Weapon Adaptability
  
@@ -106,11 +102,11 @@ You also gain 1 proficiency level in either the Intimidation or Performance.
 ### Advanced Dirty Tactics
 
 At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tactic]] to your arsenal, or improve your existing one with the following benefits:
-* Careful Step - Using this tactic does not cost movement anymore.
-* Choke - The size of the weapon's damage die is not reduced as a result of this feature.
-* Fan - The range for weapons you throw is increased by 15' for the first increment and by 30' for the second increment.
-* Shield Bash - The shield's damage die is increased by 1.
-* Swift Grab - The Resilience DC against the quickened brawl action does not get a bonus.
+* _Careful Step_ - Using this tactic does not cost movement anymore.
+* _Choke_ - The size of the weapon's damage die is not reduced as a result of this feature.
+* _Fan_ - The range for weapons you throw is increased by 15' for the first increment and by 30' for the second increment.
+* _Shield Bash_ - The shield's damage die is increased by 1.
+* _Swift Grab_ - The Resilience DC against the quickened brawl action does not get a bonus.
 ### Extra Attack
  
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action as an action. Each of those can be swapped for a [[Action Economy#^b70e3f|brawl action]] as per usual.
@@ -158,9 +154,9 @@ At 9th level, you become a master of manipulating every advantage you can muster
  
 At 10th level, you master your arms specialty wholly, allowing you to add twice your proficiency modifier to attack rolls with those weapons and increase the weapon's damage die by 1. In addition, you learn a special move depending on the specialty you chose, which you can attempt when you make a weapon attack with your specialty weapon once per round:
 
-* Opening (Hurler) - The next attack against the target until the start of your next turn is made with advantage.
-* Concussion (Pugilist) - If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or be stunned until the end of its next turn.
- * Headshot (Sharpshooter) - The weapon's [[Weapon Rules#Lethal|lethal]] trait is increased by 2 for the attack, but you get a -2 penalty to the attack roll.
- * Puncture (Skewer) - If the attack hits, the target must make a Constitution saving throw against 10 + your attack bonus or take 3d4 additional necrotic damage.
- * Bulldoze (Sweeper) - If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or take 1d4 additional bludgeoning damage and be pushed back 10'.
- * Outspeed (Swiftblade) - The target takes additional damage equal to your Strength or Dexterity modifier, and you may move an additional 5' as a part of your attack.
+* _Opening_ (Hurler) - The next attack against the target until the start of your next turn is made with advantage.
+* _Concussion_ (Pugilist) - If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or be stunned until the end of its next turn.
+ * _Headshot_ (Sharpshooter) - The weapon's [[Weapon Rules#Lethal|lethal]] trait is increased by 2 for the attack, but you get a -2 penalty to the attack roll.
+ * _Puncture_ (Skewer) - If the attack hits, the target must make a Constitution saving throw against 10 + your attack bonus or take 3d4 additional necrotic damage.
+ * _Bulldoze_ (Sweeper) - If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or take 1d4 additional bludgeoning damage and be pushed back 10'.
+ * _Outspeed_ (Swiftblade) - The target takes additional damage equal to your Strength or Dexterity modifier, and you may move an additional 5' as a part of your attack.
