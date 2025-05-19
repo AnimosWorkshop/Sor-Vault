@@ -6,11 +6,11 @@ During a turn, creatures may take the following moves:
 - Action
 - Quick Action
 
-And they may also make another type of move any time before the start of their turn:
+And they may also make another type of move at any time before the start of their turn:
 
 - Reactions
  
-We will now go over what each of those moves means:
+We will now go over what each of those moves means.
  
 ## Movement
  
