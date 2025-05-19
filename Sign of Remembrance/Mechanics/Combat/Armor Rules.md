@@ -47,13 +47,5 @@ Repairing an armor piece requires an armorer, and the price depends on the break
 
 The amount of time required to repair the weapon is 1 hour per base AC of the armor per breakage level, i.e. between one to two work days per breakage level for all armor types.
 
-### Armor Patches
-
-An armorer may use a short rest to create a patch to fix broken armor, which also functions as reinforcement against potential breakage. Once the number of hits against a patch is reached, or if breakage would occur to the armor, the patch is destroyed and the armor returns to its no-patch state, but does not receive additional breakage.
-Aside from the reinforcement patch, all patches effectively reduce the breakage value of the armor, which affects the AC of the wearer and allows them to place another patch on top. Stacked patches take damage at the same time, but if breakage would occur, only the top patch is destroyed.
-
-| Name                | Cost (% of armor's price) | Works up to # breakage | Effective Hit Number |
-| ------------------- | ------------------------- | ---------------------- | -------------------- |
-| Reinforcement Patch | 2                         | 0                      | 6                    |
-| Safeguard Patch     | 4                         | 1                      | 5                    |
-| Emergency Patch     | 6                         | 2                      | 4                    |
+>[!cite] Further Reading
+>See [[Armorer#Armor Patches]]

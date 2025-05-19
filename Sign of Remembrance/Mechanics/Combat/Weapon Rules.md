@@ -98,13 +98,5 @@ Repairing a weapon requires an artisan with tools according to the type of weapo
 
 The amount of time required to repair the weapon is 1 hour per maximum damage on the weapon damage dice.
 
-### Weapon Seals
-
-A weaponsmith may use a short rest to create a seal to fix broken weapons, which also functions as reinforcement against potential breakage. Once the number of hits against a seal is reached, or if breakage would occur to the weapon, the seal is destroyed and the weapon returns to its no-seal state, but does not receive additional breakage. 
-Aside from the reinforcement seal, all seals effectively reduce the breakage value of the weapon, which affects the effectiveness of the weapon and allows another seal to be placed on top. Stacked seals take damage at the same time, but if breakage would occur, only the top seal is destroyed.
-
-| Name               | Cost (% of weapon's price) | Works up to # breakage | Effective Hit Number |
-| ------------------ | -------------------------- | ---------------------- | -------------------- |
-| Reinforcement Seal | 2                          | 0                      | 6                    |
-| Safeguard Seal     | 4                          | 1                      | 5                    |
-| Emergency Seal     | 6                          | 2                      | 4                    |
+>[!cite] Further Reading
+>See [[Weaponsmith#Weapon Seals]]

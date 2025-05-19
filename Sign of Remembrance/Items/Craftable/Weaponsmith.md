@@ -86,3 +86,13 @@ For information about the different traits, see [[Weapon Rules#Weapon Traits|Wea
 | Flourish Weapon | 240 sc   | -          | _Functionality_  <br>The weapon's damage die size is increased by 2.                                                                                                                                                                                                                                                                              |
 | Kinetic Weapon  | 2 gc     | -          | _Functionality_  <br>This weapon uses the wielder's momentum as they strike, dealing 1 additional damage for each 5' moved previously on the current turn since the last attack performed with this weapon. Back-and-forth movement does not count.                                                                                               |
 | Reckless Weapon | 180 sc   | -          | _Functionality_  <br>Increases the enchanted weapon's Fragile trait by 1 and its Lethal trait potency by 1. It is said that such weapons were first made to taunt Vorona.                                                                                                                                                                         |
+### Weapon Seals
+
+A weaponsmith may use a short rest to create a seal to fix broken weapons, which also functions as reinforcement against potential breakage. Once the number of hits against a seal is reached, or if breakage would occur to the weapon, the seal is destroyed and the weapon returns to its no-seal state, but does not receive additional breakage. 
+Aside from the reinforcement seal, all seals effectively reduce the breakage value of the weapon, which affects the effectiveness of the weapon and allows another seal to be placed on top. Stacked seals take damage at the same time, breaking when the most critical one fails (e.g. the emergency seal); however, if breakage would occur, only the top seal is destroyed.
+
+| Name               | Cost (% of weapon's price) | Works up to # breakage | Effective Hit Number |
+| ------------------ | -------------------------- | ---------------------- | -------------------- |
+| Reinforcement Seal | 2                          | 0                      | 6                    |
+| Safeguard Seal     | 4                          | 1                      | 5                    |
+| Emergency Seal     | 6                          | 2                      | 4                    |
