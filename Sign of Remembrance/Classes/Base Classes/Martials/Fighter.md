@@ -90,18 +90,13 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
 ### Arms Specialty
  
 When you reach 3rd level, choose one weapon style to become your specialty. Based on the one you choose, you get a bonus when using these weapons:
-#### Hurler
-The Lethal trait and the damage die for weapons of this specialty increases by 1 for you.
-#### Pugilist
-Parrying Strike can be used in conjunction with the Deflect reaction as a part of the same reaction if you are using a weapon of this specialty. If you don't have the Deflect reaction, you may instead increase your AC by 1 against the attack in addition to the normal effects of Parrying Strike.
-#### Sharpshooter
-You get a +2 bonus to attack rolls with weapons of this specialty.
-#### Skewer
-When you critically hit with a weapon of this specialty, it breaks the defender's armor no matter its type.
-#### Sweeper
-You get a +2 bonus to damage rolls with weapons of this specialty.
-#### Swiftblade
-Whenever you attack with a weapon of this specialty, you may move 5' as a part of your attack action. Attacks of opportunity taken against you as a part of this movement are made with disadvantage.
+
+* Hurler - The [[Weapon Rules#Lethal|lethal]] trait and the damage die for hurler weapons increases by 1 for you.
+* Pugilist - [[#Parrying Strike|Parrying strike]] can be used in conjunction with the [[Sentinel#Deflecting Instinct|deflect reaction]] as a part of the same reaction if you are using a pugilist wewapon. If you don't have the [[Sentinel#Deflecting Instinct|deflect reaction]], you may instead increase your AC by 1 against the attack in addition to the normal effects of [[#Parrying Strike|parrying strike]]
+* Sharpshooter - You get a +2 bonus to attack rolls with sharpshooter weapons.
+* Skewer - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type.
+* Sweeper - You get a +2 bonus to damage rolls with sweeper weapons.
+* Swiftblade - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. Attacks of opportunity taken against you as a part of this movement are made with disadvantage.
  
 ### Weapon Adaptability
  
@@ -162,21 +157,10 @@ At 9th level, you become a master of manipulating every advantage you can muster
 ### Specialty Mastery
  
 At 10th level, you master your arms specialty wholly, allowing you to add twice your proficiency modifier to attack rolls with those weapons and increase the weapon's damage die by 1. In addition, you learn a special move depending on the specialty you chose, which you can attempt when you make a weapon attack with your specialty weapon once per round:
- 
-#### Hurler - Opening
-The next attack against the target until the start of your next turn is made with advantage.
- 
-#### Pugilist - Concussion
-If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or be stunned until the end of its next turn.
- 
-#### Sharpshooter - Headshot
-The weapon's [[Weapon Rules#Lethal|lethal]] trait is increased by 2 for the attack, but you get a -2 penalty to the attack roll.
- 
-#### Skewer - Puncture
-If the attack hits, the target must make a Constitution saving throw against 10 + your attack bonus or take 3d4 additional necrotic damage.
- 
-#### Sweeper - Bulldoze
-If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or take 1d4 additional bludgeoning damage and be pushed back 10'.
- 
-#### Swiftblade - Outspeed
-The target takes additional damage equal to your Strength or Dexterity modifier, and you may move an additional 5' as a part of your attack.
+
+* Opening (Hurler) - The next attack against the target until the start of your next turn is made with advantage.
+* Concussion (Pugilist) - If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or be stunned until the end of its next turn.
+ * Headshot (Sharpshooter) - The weapon's [[Weapon Rules#Lethal|lethal]] trait is increased by 2 for the attack, but you get a -2 penalty to the attack roll.
+ * Puncture (Skewer) - If the attack hits, the target must make a Constitution saving throw against 10 + your attack bonus or take 3d4 additional necrotic damage.
+ * Bulldoze (Sweeper) - If the attack hits, the target must make a Resilience saving throw against 10 + your attack bonus or take 1d4 additional bludgeoning damage and be pushed back 10'.
+ * Outspeed (Swiftblade) - The target takes additional damage equal to your Strength or Dexterity modifier, and you may move an additional 5' as a part of your attack.
