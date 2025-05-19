@@ -26,9 +26,11 @@ And so on.
  
 All dice rolls can be categorized into five main categories, being: the attack roll, the damage roll, the saving throw, the attribute check and the flat check.  
 The common property almost all rolls have is their need to meet a certain minimum in order to succeed. Such minimum is often called a Difficulty Class, or DC for short. A "basic DC" is the standard formula for calculating the DC for an action against another creature. The basic DC is usually defined with a skill in mind, and is equal to 10 + the creature's bonus for that skill.  
+If a creature would have an advantage for skill checks but the skill sets a "basic DC", then this DC is increased by 5. Conversely, if they would have a disadvantage, the DC is lowered by 5.
 
 >[!example] 
->A basic Athletics (Strength) DC will be equal to 10 + the target's Strength modifier + the Target's proficiency bonus with the Athletics skill.
+>A basic Athletics (Strength) DC will be equal to 10 + the creature's Strength modifier + the creature's proficiency bonus with the Athletics skill.
+>If they have advantage to Athletics (Strength) checks, then the basic DC would be 15 + the creature's Strength modifier + the creature's proficiency bonus with the Athletics skill.
  
 ### Attack Rolls
  

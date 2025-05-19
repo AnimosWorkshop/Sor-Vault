@@ -76,7 +76,7 @@ This weapon can be wound up using a quick action. Doing so allows an Attack acti
 ### Light
 
 A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons: after you attack with a light weapon on your turn, you can use your quick action to attack with another light weapon.
-Readied light weapons (such as a sheathed shortsword) can be drawn and used to attack using 1 [[Action Economy#^941070|Attack action]], as well as thrown weapons on a [[Provisioner#Starting Gear|pouch]] or a [[Provisioner#Mid-Range Equipment|bandolier]]. An [[Action Economy^941070|Attack quick action]] cannot be used this way.
+Readied light weapons (such as a sheathed shortsword) can be drawn and used to attack using 1 [[Action Economy#^43d1b5|Attack action]], as well as thrown weapons on a [[Provisioner#Starting Gear|pouch]] or a [[Provisioner#Mid-Range Equipment|bandolier]]. An [[Action Economy#^941070|Attack quick action]] cannot be used this way.
  
 ### Medium
 

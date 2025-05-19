@@ -72,7 +72,7 @@ Actions will usually be most things a creature improvises, from picking up items
     - Draw or stow a heavy item
     - Search a large inventory for an item and draw it
 - **Prepare** - the creature defines a specific action it will take if a specific condition is met until the start of its next turn. When the condition is met, the creature may use their reaction (will be expanded upon later) to perform the action, using the previous reaction DC used, meaning that if no reactions were yet used the DC is 0, if one reaction was used the DC is 10, and so on, and the reaction DC does not rise by performing the action. If the action was performed, the creature may not use it again, as the prepared action counts as used.
-- **Search** - the creature makes a Perception (Wisdom), Investigation (Intelligence), Nature (Intelligence) or Sorcery (Wisdom) roll, and gets information according to it:
+- **Search** - the creature makes a Perception (Wisdom), Investigation (Intelligence), Nature (Intelligence) or Sorcery (Wisdom) roll, and gets information according to it: ^3d44e8
     - Perception (Wisdom) - see objects and creatures, etc. Each hidden creature with basic Stealth (Dexterity) DC lower than your roll is not hidden from you.
     - Investigation (Intelligence) - understand the form of an item or its purpose, find clues, etc.
     - Sorcery (Wisdom) - sense the quality of magic affecting the area around you. Taking base caster classes ([paragon](Paragon.md), [druid](Druid.md), [mentalist](Mentalist.md), [wizard](Wizard.md)) grants features which extend what is possible to sense using this action.
