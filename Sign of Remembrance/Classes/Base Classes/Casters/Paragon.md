@@ -12,7 +12,7 @@
 | 6th               | [[#Intervening Beacon]], [[#Attribute Increase]]                           |
 | 7th               | [[#Conduit's Intervention]]                                                |
 | 8th               | [[#Conduit of the Realm]], [[#Invoke Karma]], [[#Attribute Increase]]      |
-| 9th               |                                                                            |
+| 9th               | [[#Herald of Miracles]]                                                    |
 | 10th              | [[#Saving Grace]], [[#Attribute Increase]]                                 |
 - - -
 ## Prerequisites
@@ -55,7 +55,7 @@ Click on the diagram to see it fully:
 ![[Paragon Ideals.canvas]]
 ### Divine Sense
  
-Becoming a paragon, you start noticing the consequences ideals have on your surroundings. Using a Search action with Sorcery (Wisdom), you are also able to sense the dominant ideal or god influencing the place or person you search, if any. You might also be able to detect the [[Sign of Remembrance/Epic Influences/Introduction|epic influences]] affecting a creature, such as blessings and corruptions.
+Becoming a paragon, you start noticing the consequences ideals have on your surroundings. Using a [[Action Economy#^3d44e8|Search action]] with Sorcery (Wisdom), you are also able to sense the dominant ideal or god influencing the place or person you search, if any. You might also be able to detect the [[Sign of Remembrance/Epic Influences/Introduction|epic influences]] affecting a creature, such as blessings and corruptions.
  
 ### Recovery Meditation
  
@@ -148,7 +148,18 @@ Limbo consists of many realm parts, separated by spatial distortions and telepor
  
 #### Dahrial
 Dahrial could be seen as a place of despair, as most people would never cross the world unless their life has already given in, and the last resort possible could be this attempt to grab onto whatever pride was left to climb back up. Those who actually do succeed, however, are the direct opposite - seeing the grand opportunity they were given to proudly live on to the best of their ability, and become better than they ever could be. This hope drives you further, giving the creature temporary hit points equal to twice your Willpower modifier.
- 
+
+### Herald of Miracles
+
+Starting at 9th level, bearing magic manifests your ideal in physical form. When you cast a spell, even if it is not of your [[#Ideal Conduit|ideal conduit type]], you shout a heralding command to have additional effects occur according to the spell's casting time. Once you shout a heralding command, you may not shout another one until the start of your next turn.
+Specified bonuses are equal to half the casted spell's level.
+
+* _"Stay vigilant!"_ (reaction) - One creature who senses you within 15' gets a bonus to their next Willpower save until the start of their next turn.
+* _"Light on your feet!"_ (quick action) - One creature who senses you within 15' may move up to 10' according to their normal movement types. Their AC gets a bonus against attacks of opportunity triggered by this movement.
+* _"Operate as one!"_ (action) - One creature who senses you within 15' may immediately use a utility quick action, out of: [[Action Economy#^9bb451|inspire]], [[Action Economy#^362ce9|demoralize]] or [[Action Economy#^3d44e8|search]] as a reaction. They get a bonus to the quick action's associated skill.
+* _"Save yourselves!"_ (action + quick action) - One creature who senses you within 15' may use a defensive class reaction once, out of: [[Trickster#^26e047|dodge]], [[Fighter#Parrying Strike|parry]], [[Sentinel#Deflecting Instinct|deflect]] or [[Transmuter#Alchemechanical Infusion|defuse]], in order to prompt another creature to make that reaction when it would be triggered by the attacked creature. This reaction cannot be augmented with [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]].
+* _"We cannot be stopped!"_ (channel) - You have a bonus to saves for concentration until you end your channeling.
+* _"Patience is key!"_ (> 1 minute) - One creature who senses you gets a bonus to any d20 rolls taken a part of a prepared action for as long as you cast the spell. 
 ### Saving Grace
  
 At 10th level, you become a true embodiment of your ideal - a full conduit. When you are reduced to 0 hit points for the first time after a long rest, roll a d20. You regain thrice that many hit points. If you were brought prone, you now float standing in place until the start of your next turn, after which you may land safely.

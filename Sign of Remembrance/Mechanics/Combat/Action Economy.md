@@ -91,8 +91,8 @@ Quick actions are things a creature can do which take up little time. Their vers
     - Damage resistances and immunities
     - Highest attribute
     - Lowest attribute
-- **Demoralize** - you taunt and scare a creature to the point of doubt. A creature within 30' that can hear you and understands a language you speak makes a Wits saving throw against your basic Intimidation (Charisma) DC or Intimidation (Strength). On a failed save, the first attack or Wits saving throw they make in their next turn is made with a penalty equal to third of your Intimidation modifier. A creature can't be demoralized twice at the same time.
-- **Inspire** - you inspire courage and unity within an ally. A creature within 30' that can hear you and understands a language you talk in gets a bonus to their first attack during their next turn equal to third of your Persuasion (Charisma) or Performance (Charisma) modifier. A creature can't be inspired twice at the same time.
+- **Demoralize** - you taunt and scare a creature to the point of doubt. A creature within 30' that can hear you and understands a language you speak makes a Wits saving throw against your basic Intimidation (Charisma) DC or Intimidation (Strength). On a failed save, the first attack or Wits saving throw they make in their next turn is made with a penalty equal to third of your Intimidation modifier. A creature can't be demoralized twice at the same time. ^362ce9
+- **Inspire** - you inspire courage and unity within an ally. A creature within 30' that can hear you and understands a language you talk in gets a bonus to their first attack during their next turn equal to third of your Persuasion (Charisma) or Performance (Charisma) modifier. A creature can't be inspired twice at the same time. ^9bb451
 - **Minor interaction** - the creature interacts with different objects within its reach. Examples: ^359f07
     - Pick up a small object (GM's decision for what counts as a small or easy to pick up item)
     - Draw or stow an item without the Heavy property

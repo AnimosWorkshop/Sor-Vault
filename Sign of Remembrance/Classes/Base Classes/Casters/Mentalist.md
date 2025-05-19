@@ -13,7 +13,7 @@
 | 7th                 | [[#Enhanced Bond Heightening]]                        |
 | 8th                 | [[#Performative Casting]], [[#Attribute Increase]]    |
 | 9th                 |                                                       |
-| 10th                | [[#Attribute Increase]]                               |
+| 10th                | [[#Communal Branching]], [[#Attribute Increase]]      |
    - - -
 
 ## Prerequisites
@@ -113,3 +113,10 @@ If you currently maintain only one enhanced bond, you can choose to either:
  
 At 8th level, you are able to cast spells so elegantly you become able to weave additional messages into your spellcasting. Whenever you cast a histolecty spell, you may make an impression against a creature, either using a Demoralize quick action as a free action if you have the Maddening Bond feature, or an Inspire quick action as a free action if you have the Encouraging Bond feature.  
 You may only use this feature once per round.
+
+### Communal Branching
+
+Constantly sustaining connections to the creatures around you not only allows you to influence your surroundings, but to be aware of it. Starting at 10th level, the creatures you bond via your [[#Enhanced Bond Specialty|enhanced bond]] share information with you constantly about the creatures they are aware of.
+* You are aware to creatures they are histolectually bound to, and when they use the [[Histolecty#^8e3f1d|bind quick action]] you may use 1 reaction to switch some of your bonds to these creatures.
+* You have advantage for Perception (Wisdom) checks against creatures attempting to hide while one of your enhanced bond creatures are aware of them.
+* You have advantage on Willpower saves for reactions triggered by your enhanced bond creatures.
