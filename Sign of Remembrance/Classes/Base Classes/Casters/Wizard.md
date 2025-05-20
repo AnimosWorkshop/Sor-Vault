@@ -20,7 +20,7 @@
  
 In order to advance as a wizard, you must meet the following prerequisites:
 
-- **Intelligence 13.** An exceptional ability to study the arcane is mandatory to be a good wizard.
+- **Intelligence 13.** An exceptional ability to study the arcane is mandatory to become a good wizard.
 - **Adept with Sorcery.** Sorcery, and arcana in particular, is the key of wizardry. Through study and research, you gain your ability, and so you must learn them.
 - **Complete special training.** Anyone can research, but not everyone have the capabilities of harnessing magic and becoming a wizard. Even beyond the studies of arcana, wizards understand what is required to stand on the other end of a spell - and live through it.
    
