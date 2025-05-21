@@ -6,4 +6,5 @@
 
 You send a bolt carrying overbearing energy towards a creature within range. Make an attack roll against the target. On a hit, they take 1d4 necrotic damage and are affected by the [[Conditions#Tired|tired]] condition for the curse's duration.
  
-**At Higher Levels:** The target takes 1d4 additional necrotic damage for each spell level above 1st.
+**At Higher Levels:** 
+* (+1) The target takes 1d4 additional necrotic damage.

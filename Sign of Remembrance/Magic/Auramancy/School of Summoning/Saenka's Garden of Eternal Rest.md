@@ -2,7 +2,7 @@
  
 - Casting Time: 4 hours
 - Range: 250' feet
-- Duration: 7 days  
+- Duration: 1 week
 
 _After Saenka's sacrifice for the end of the First Cataclysm, her most prized possessions were burried in her stead at the garden of her home, which in time became a temple to the shortly-serving god._
  
@@ -12,4 +12,5 @@ You manifest a lush field as a symbol of what can only be considered a plea for 
 - All creatures within the area recover 2d10 hit points every hour while in the area.
 - All creatures are pacified 3 while in the area, but get +3 to all skill checks.
  
-**At Higher Levels:** The spell's duration is doubled for each spell level above 5th.
+**At Higher Levels:** 
+* (+1) The spell's duration is doubled.

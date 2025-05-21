@@ -13,4 +13,6 @@ Trading power for mobility, your magic is channeled through a creature's skin, m
 - The creature has a +1 bonus to Dexterity-based rolls, and -1 to Strength-based rolls.
 - The creature has a +1 bonus to Initiative saving throws.
  
-**At Higher Levels:** For each spell level above 3rd, the affected creature's natural AC is increased by an additional 1, and their bonus to Dexterity-based rolls and penalty to Strength-based rolls also increases by 1.
+**At Higher Levels:** 
+* (+1) The affected creature's natural AC is increased by an additional 1.
+* (+1) Their bonus to Dexterity-based rolls and penalty to Strength-based rolls also increases by 1.

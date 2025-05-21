@@ -1,10 +1,10 @@
-- **Strength:** Athletics, Intimidation
-- **Dexterity:** Acrobatics, Sleight of Hand, Stealth
-- **Constitution:** Athletics
-- **Intelligence:** Culture, History, Investigation, Medicine, Nature, Sorcery
+- **Strength:** [[#Athletics]], [[#Intimidation]]
+- **Dexterity:** [[#Acrobatics]], [[#Sleight of Hand]], [[#Stealth]]
+- **Constitution:** [[#Athletics]]
+- **Intelligence:** [[#Culture]], [[#History]], [[#Investigation]], [[#Medicine]], [[#Nature]], [[#Sorcery]]
 - **Willpower:** None
-- **Wisdom:** Insight, Medicine, Nature, Perception
-- **Charisma**: Deception, Intimidation, Performance, Persuasion, Stealth
+- **Wisdom:** [[#Insight]], [[#Medicine]], [[#Nature]], [[#Perception]]
+- **Charisma**: [[#Deception]], [[#Intimidation]], [[#Performance]], [[#Persuasion]], [[#Stealth]]
  
 #### Acrobatics
  

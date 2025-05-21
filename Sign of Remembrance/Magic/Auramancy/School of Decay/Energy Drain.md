@@ -6,4 +6,5 @@
 
 You touch a creature to drain their physical energy. Make an melee spell attack against the target. On a hit, the attack deals 3d6 necrotic damage and makes them [[Conditions#Tired|tired]] for the duration of the curse.
  
-**At Higher Levels:** The attack deals 2d6 additional necrotic damage for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) The attack deals 2d6 additional necrotic damage.

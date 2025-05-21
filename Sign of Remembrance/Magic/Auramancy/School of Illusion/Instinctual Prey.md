@@ -9,4 +9,5 @@ You instill fear within up to 2 creatures that can see you within range, causing
 >[!note] 
 >Treat the field of view as 180 degrees, meaning that standing on the opposite side of the creature's target does not impose disadvantage on their attacks.
  
-**At Higher Levels:** You may choose another creature for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) You may choose another creature.

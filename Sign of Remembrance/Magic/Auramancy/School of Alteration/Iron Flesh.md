@@ -12,4 +12,6 @@ Trading mobility for power, your magic is channeled through a creature's flesh, 
 - The creature has a +1 bonus to Strength-based rolls, and -1 to Dexterity-based rolls.
 - The creature has a +1 bonus to Resilience saving throws.
  
-**At Higher Levels:** For each spell level above 3rd, the affected creature's natural AC is increased by an additional 1, and their bonus to Strength-based rolls and penalty to Dexterity-based rolls also increases by 1.
+**At Higher Levels:** 
+* (+1) The affected creature's natural AC is increased by an additional 1.
+* (+1) The creature's bonus to Strength-based rolls and penalty to Dexterity-based rolls also increases by 1.

@@ -6,4 +6,5 @@
 
 You send a wave of mixed temperature at a creature, causing their body to weaken and slow down. Make a spell attack against a creature within range. On a hit, they are dealt 1d10 fire damage and 1d10 cold damage, and are [[Conditions#Restrained|restrained]] for the duration of the curse.
  
-**At Higher Levels:** The wave deals 1d10 additional fire damage or cold damage (of your choice) for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) The wave deals 1d10 additional fire damage or cold damage (of your choice).

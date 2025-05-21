@@ -6,4 +6,5 @@
 
 You stimulate the nerves of a creature you can see within range. For the boon's duration, the creature gains an additional action during their turn, which may be used to perform a dash, major interaction, or attack action. The target also gets a +1 bonus to their AC but a -1 penalty for saves for the boon's duration.
  
-**At Higher Levels:** You may target an additional creature for each spell level above 3rd.
+**At Higher Levels:** 
+* (+1) You may target an additional creature.

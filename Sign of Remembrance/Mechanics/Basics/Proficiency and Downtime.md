@@ -58,8 +58,8 @@ _Proficiency Cap_ = 15 + _Intelligence Score_
 Proficiencies can be trained on any character in a free-form manner, meaning that if they use their time correctly to learn a skill, they'll become proficient with it over time. The time it takes to train in a proficiency is about 8 weeks for each Proficiency Point (abbreviated as PP).  
 Training is usually done over a period of downtime, in which the adventurers rest and prepare for the next adventure or journey. It can also be done actively - for example, in a mission where the adventurers build a boat or a ship, they might get 1 skill proficiency rank (for 1 PP) in the Athletics skill.
  
-To address notes from the table:  
-* Saving throws outside of race and class features can only be trained if you have one of the attributes contributing to that saving throw as at least 15. If a class feature would give you a saving throw proficiency with an attribute you are already proficient with, replace your downtime-trained one for another attribute you have at least 15 of, or replace the proficiency point entirely if you have no available attributes.
+>[!note]
+ Saving throws outside of race and class features can only be trained if you have one of the attributes contributing to that saving throw as at least 15. If a class feature would give you a saving throw proficiency with an attribute you are already proficient with, replace your downtime-trained one for another attribute you have at least 15 of, or replace the proficiency point entirely if you have no available attributes.
  
 You may retrain features gained from training, investing as much time as it would take to normally train in them. As you do so, forfeit as many features you want equivalent to the feature you want to get, as long as those features are not gained as race or class features.
  
