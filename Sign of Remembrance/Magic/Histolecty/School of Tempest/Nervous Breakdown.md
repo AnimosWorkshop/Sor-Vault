@@ -10,4 +10,5 @@ A creature you can see within range is afflicted by extreme anguish, locking the
 While stunned, the creature takes 1d6 lightning damage and 1d6 psychic damage at the start of its turn, and may make a Wits saving throw in the end of its turn.  
 If the creature succeeds on its Wits saving throw against this spell, the spell ends.
  
-**At Higher Levels:** You may choose another target for each 2 spell levels above 4th.
+**At Higher Levels:** 
+* (+2) You may target an additional creature.

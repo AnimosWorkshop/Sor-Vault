@@ -16,4 +16,5 @@ _Tiny Elemental_
 **Vision:** Nullvision  
 **Speed:** 30' flying (hover)
  
-**At Higher Levels:** The potency of the pacified condition increases by 1 for each 2 spell levels above 1st.
+**At Higher Levels:** 
+* (+2) The potency of the pacified condition increases by 1.

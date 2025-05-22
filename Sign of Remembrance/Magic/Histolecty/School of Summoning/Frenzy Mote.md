@@ -19,4 +19,5 @@ _Tiny Elemental_
 **Vision:** Nullvision  
 **Speed:** 30' flying (hover)
  
-**At Higher Levels:** You may summon an additional mote for each 2 levels above 1st. A creature may have up to one frenzy mote attached to them, and you may move any amount of them using the same quick action.
+**At Higher Levels:** 
+* (+2) You may summon an additional mote. A creature may have up to one frenzy mote attached to them, and you may move any amount of them using the same quick action.

@@ -10,4 +10,5 @@ You cast your hand forward, and a patterned flash appears in front of you, induc
 - Each Awed creature is Booned for the duration, gaining a quick action which allows them to get a +2 for all rolls until the end of the current turn.
 - Each Feared creature is Cursed for the duration. At the start of their turn, they must make a Willpower saving throw. On a fail, they must expend their quick action on getting over their fear, or they get a -2 penalty to all rolls for the rest of their turn. On a success, the curse ends.
  
-**At Higher Levels:** You may choose another creature to either bestow a boon or a curse for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) You may choose another creature to either bestow a boon or a curse.

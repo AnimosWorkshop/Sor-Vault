@@ -9,4 +9,6 @@ You try to implant inside a creature's head that either you or them are the cent
 - If the spotlight is on you, they has disadvantage on perceiving your allies other than you, as you wholeheartedly catch their attention.
 - If the spotlight is on the other creature, they have disadvantage on perceiving their allies, focusing only the unknown and hostile around it and how to handle it.
  
-**At Higher Levels:** You may choose an additional target for each spell level above 1st, but you must use the same mode on all creatures. In addition, the psychic damage is increased by 1d8 for each spell level above 1st.
+**At Higher Levels:** 
+* (+1) You may choose an additional target, but you must use the same mode on all creatures. 
+* (+1) The psychic damage is increased by 1d8.

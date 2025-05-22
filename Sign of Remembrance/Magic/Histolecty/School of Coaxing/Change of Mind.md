@@ -9,4 +9,5 @@ You touch an unconscious creature, using their state as leverage to take ahold o
 If exposed to danger - such as taking an amount of damage higher than a quarter of their hit points, and after each long rest they complete, the target makes an additional Willpower save, ending the curse.  
 In the end of the curse, the target does not retain any memories from the curse's duration, and they are not accessible using Imbue Memory and other magic.
  
-**At Higher Levels:** The curse lasts 3 times longer for each spell level above 4th.
+**At Higher Levels:** 
+* (+1) The curse lasts thrice as long.

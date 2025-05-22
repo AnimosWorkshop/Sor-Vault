@@ -10,4 +10,5 @@ Also while choosing the illusion, pick a skill from: Persuasion, Deception, Perf
 
 When a creature goes into either your original or your illusion's space, they make a Wits saving throw. On a success, they discern the illusion, but on a fail they find a logical conclusion for the mismatch and ignore it.
  
-**At Higher Levels:** The spell lasts for twice as long for each spell level above 2nd.
+**At Higher Levels:** 
+* (+1) The spell lasts for twice as long.

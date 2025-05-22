@@ -12,4 +12,5 @@ You designate up to 3 other creatures within range in addition to yourself. You 
 
 The bonuses attained from performing the action occur before their trigger, so for example, for Attack, the damage roll would be increased even for the attack the creature just made, and not just the next ones.
  
-**At Higher Levels:** You may designate another creature for each spell level above 4th.
+**At Higher Levels:** 
+* (+1) You may designate an additional creature.
