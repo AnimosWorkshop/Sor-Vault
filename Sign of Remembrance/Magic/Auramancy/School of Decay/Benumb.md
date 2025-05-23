@@ -9,7 +9,6 @@ You set your hand out, and a flash of concentrated energy travels forth towards 
 - If you target a hand or a limb that holds an item, that item is dropped and the creature can't hold items, attack or cast spells with that limb.
 - If you target a leg or a limb that the creature moves with, the associated movement speeds are divided by 2. If a creature has more than one limb affected this way, it is divided by 2 for each.
 
-If you upcast this spell, each creature attempts a save for each of their limbs you targeted, and takes 1d6 necrotic damage for each limb being numbed.
-
 **At Higher Levels:** 
+* (2nd) Upon failing the save, each creature takes 1d6 necrotic damage for every numbed limb.
 * (+1) You may target another limb, of the same creature or another. 

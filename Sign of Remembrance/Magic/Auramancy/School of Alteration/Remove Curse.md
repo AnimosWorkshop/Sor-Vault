@@ -3,7 +3,7 @@
 - Casting Time: Action and quick action / 10 minutes
 - Range: Touch
 - Duration: Instantaneous
-- Material Components: If cast over 10 minutes - medical herbs worth 10 sc * this spell's level
+- Material Components: If cast over 10 minutes - medicinal herbs worth 10 sc * this spell's level
 - Exhausts by 1 if cast over 10 minutes  
 
 You draw out both the aura out of yourself and the creature you attempt to relieve in order to attempt to end a curse of this spell's level or lower.
