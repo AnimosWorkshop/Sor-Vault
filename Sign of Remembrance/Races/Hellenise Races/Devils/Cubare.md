@@ -14,7 +14,7 @@
 ### Protector Cubare
  
 **Racial Attribute Bonus:** Your Strength and score increases by 1.  
-**First Aid:** You are adept with Medicine. Once per long rest, when you take the Medicate action, you may make a Medicine (Willpower) check instead. On a 10 or more, the creature wakes up with a sudden inhale, recovering an amount of hit points equal to the check divided by 3.
+**First Aid:** You are adept with Medicine. Once per long rest, when you take the [[Action Economy#^79c113|medicate action]], you may make a Medicine (Willpower) check instead. On a 10 or more, the creature wakes up with a sudden inhale, recovering an amount of hit points equal to the check divided by 3.
  
 ### Shifter Cubare
  

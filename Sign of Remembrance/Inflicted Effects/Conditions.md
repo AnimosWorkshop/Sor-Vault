@@ -36,4 +36,4 @@ When this condition ends, the toppled creature becomes prone instead.
 #### Unconscious
 An unconscious creature is unable to move and use any actions, quick actions and reactions. Attacks against the creature have advantage, they are unaware of their surroundings, and they don't add attribute modifiers (such as Dexterity) to their AC calculation.
 #### Weakened
-The creature's body is weakened, giving them disadvantage on attack rolls and Strength-based checks, including Resilience saving throws. In addition, the DC against brawl actions the creature makes is decreased by 5.
+The creature's body is weakened, giving them disadvantage on attack rolls and Strength-based checks, including Resilience saving throws. In addition, the DC against [[Action Economy#^b70e3f|brawl actions]] the creature makes is decreased by 5.

@@ -39,14 +39,14 @@ The partisan class does not grant any special equipment.
 ## Class Features
 ### Battle Trance
  
-As a quick action, you may let the thrill wash over you and enter into a battle trance. For the next minute, whenever you receive damage, reduce the amount taken by your partisan level divided by 3. This effect ends early if you are unconscious, or you end your turn without attempting to damage an enemy creature, performing a brawl action against an enemy creature, taking damage from an enemy creature, or casting a spell.  
+As a quick action, you may let the thrill wash over you and enter into a battle trance. For the next minute, whenever you receive damage, reduce the amount taken by your partisan level divided by 3. This effect ends early if you are unconscious, or you end your turn without attempting to damage an enemy creature, performing a [[Action Economy#^b70e3f|brawl action]] against an enemy creature, taking damage from an enemy creature, or casting a spell.  
 You may use this feature twice, and regain all uses when you finish a short or long rest. You gain an additional use per rest at 4th level.
 ### Spree
  
 Staying in your battle trance allows you further focus on the battle, and use your momentum to your advantage. You have a minimum spree of 0, and a maximum spree of 3 times your partisan level. Different events will allow you to gain, lose or spend spree, as follows:
 #### Gaining Spree
 - Hitting with a weapon attack (+1)
-- Successfully performing a brawl action (+1)
+- Successfully performing a [[Action Economy#^b70e3f|brawl action]] (+1)
 - Rolling over a natural 18 on a martial technique's skill check (+1) 
 - Rolling maximum damage on your weapon damage die (+2)
 - Critically hitting with a weapon attack (+2)
@@ -59,7 +59,7 @@ Staying in your battle trance allows you further focus on the battle, and use yo
 - Nullifying 1 disadvantage on a weapon attack before rolling (-1 each)
 - Raising the damage rolled on a weapon attack by your proficiency modifier (-1)
 - Using the Dash action as a quick action (-2)
-- Raising the brawl action DC by 4 for your target as a quick action (-2, doesn't stack)
+- Raising the [[Action Economy#^b70e3f|brawl action]] DC by 4 for your target as a quick action (-2, doesn't stack)
 - Raising the number rolled on a weapon attack roll by 2 after rolling, potentially making the attack hit or critically hit (-3, doesn't stack, nullifies spree gain for the attack)
 - Replenish 1 use of Battle Trance (-3)    
 ### Brutal Strikes

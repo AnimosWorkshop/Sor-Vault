@@ -8,9 +8,9 @@
 **Vision:** Lightvision.  
 **Bestial Visage:** As tengus' form resembles that of animals, they can trigger primal instincts in others which makes them seem more ferocious in their actions. Choose one of the following actions types. You are adept with the action's associated skill, and may impose disadvantage on a target of these actions once per short or long rest.
 
-- Athletics - brawl
-- Intimidation - demoralize
-- Sleight of Hand - disorient
+- Athletics - [[Action Economy#^b70e3f|brawl]]
+- Intimidation - [[Action Economy#^362ce9|demoralize]]
+- Sleight of Hand - [[Action Economy#^1e684d|disorient]]
 
 **Languages:** You can speak, read, and write Sylvan.
  - - -

@@ -58,7 +58,7 @@ When everything goes loose, you must learn to take the reins and stir back to co
 * _Fan_ - You may use a [[Action Economy#^359f07|minor interaction]] to draw two light weapons and hold them in one hand.
 	If you have three or less light weapons with the Thrown trait held this way in one hand, you may throw each from this hand with no penalty.
 * _Shield Bash_ - While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy). Proficiency with shield attacks is gained as part of your shield proficiency, and the weapon is considered of the pugilist style. ^96f2d9
-* _Swift Grab_ - You may make a brawl action as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
+* _Swift Grab_ - You may make a [[Action Economy#^b70e3f|brawl action]] as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
 ### Parrying Strike
  
 Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do, subtract half your fighter level + your Strength modifier divided by 3 (total minimum of 1) from the damage dealt.  
@@ -106,11 +106,11 @@ At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tacti
 * _Choke_ - The size of the weapon's damage die is not reduced as a result of this feature.
 * _Fan_ - The range for weapons you throw is increased by 15' for the first increment and by 30' for the second increment.
 * _Shield Bash_ - The shield's damage die is increased by 1.
-* _Swift Grab_ - The Resilience DC against the quickened brawl action does not get a bonus.
+* _Swift Grab_ - The Resilience DC against the quickened [[Action Economy#^b70e3f|brawl action]] does not get a bonus.
 ### Extra Attack
  
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action as an action. Each of those can be swapped for a [[Action Economy#^b70e3f|brawl action]] as per usual.
-If both attacks were used as regular (non-brawl) attacks, and both hit, the second attack deals only half damage.
+If both attacks were used as regular (non-[[Action Economy#^b70e3f|brawl]]) attacks, and both hit, the second attack deals only half damage.
 The attacks do not have to be taken together, meaning that if you take the Attack action, the second attack can occur at any time until the end of your turn.
 
 Taking two Attack actions with the help of [[#Adrenaline Surge]] allows you to halve your damage only from the third hitting attack in total instead.
@@ -131,7 +131,7 @@ Starting at 7th level, your knowledge about weapons expands to the point that yo
 In addition, you increase the damage die of weapons from your arms specialty weapon category by 1.
 ### Momentum
  
-At 8th level, your mastery over battle allows you to chain your moves, dazing others as you sweep through. When you hit with the second weapon attack or brawl action against creatures on your turn, you may use one of the following options as a follow-up free action:
+At 8th level, your mastery over battle allows you to chain your moves, dazing others as you sweep through. When you hit with the second weapon attack or [[Action Economy#^b70e3f|brawl action]] against creatures on your turn, you may use one of the following options as a follow-up free action:
 
 - Move half your base movement speed without provoking attacks of opportunity
 - Attempt to use a brawl action

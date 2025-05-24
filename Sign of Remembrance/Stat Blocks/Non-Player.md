@@ -16,7 +16,7 @@
 >>[!info]- Specifics
 >>* Skills - Athletics (Strength) +10
 >>* Arms:
->>	* Unarmed (finesse, light, natural, tool (Athletics)) - 1d6 + 4 bludgeoning, a successful hit allows the slime to make a free brawl action
+>>	* Unarmed (finesse, light, natural, tool (Athletics)) - 1d6 + 4 bludgeoning, a successful hit allows the slime to make a free [[Action Economy#^b70e3f|brawl action]]
 >>* Necrotic Contact - As a reaction to a melee attack or touch spell being used against this creature, both the enemy and this creature take 1d4 + 2 necrotic damage.
 >>* Necrotic Siphon - Each creature grappled, restrained or toppled by the slime takes 1d10 necrotic damage at the start of their turn.
 

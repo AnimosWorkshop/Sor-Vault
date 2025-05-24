@@ -75,7 +75,7 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
 At 3rd level, you gain a way to influence creatures around you. Choose one according to the god you serve:
  
 #### Minor Disruption
-Your actions elevate yourself above others, either to further your own goals or even the playing field. When you and another creature compete using a skill (for example: brawl action check, disarm check, insight check, stealth check, etc.), you may use this feature to subtract 1d4 from your opponent's roll or DC. You may also aid an ally within 30' this way by using a reaction.  
+Your actions elevate yourself above others, either to further your own goals or even the playing field. When you and another creature compete using a skill (for example: [[Action Economy#^b70e3f|brawl action]] check, disarm check, insight check, stealth check, etc.), you may use this feature to subtract 1d4 from your opponent's roll or DC. You may also aid an ally within 30' this way by using a reaction.  
 You also gain 1 proficiency level in the Deception skill.
  
 #### Minor Guidance
@@ -135,7 +135,7 @@ At 8th level, you achieve a whole enough understanding of the fundamentals of id
 Temuthan has many creatures - big and small, living in the mountains, hills, forests, deserts and tundra. Yet, even that diversity does not mean that they are unable to work with each other, all being able to understand the hope of the light of day, and the danger in the dark of night. The creature gets a 1d4 bonus to their attack rolls.
  
 #### Preida
-Preida gives new meaning to how the land can give back to you - rewarding its inhabitants with not only bountiful crops, but in biomes which truly adapt to accommodate their inhabitants. The next time the creature uses a supportive action or quick action, such as the Medicate action, the Inspire quick action, casting boon spells, etc., both the creature and their supported target restore hit points equal to your Willpower modifier.
+Preida gives new meaning to how the land can give back to you - rewarding its inhabitants with not only bountiful crops, but in biomes which truly adapt to accommodate their inhabitants. The next time the creature uses a supportive action or quick action, such as the [[Action Economy#^79c113|medicate action]], the Inspire quick action, casting boon spells, etc., both the creature and their supported target restore hit points equal to your Willpower modifier.
  
 #### Hell
 Hell represents the balance between eternal summer and eternal winter - opposing forces which by themselves might not be able to coexist, but using some external force, can be used to create harmony. Whenever they receive damage, the damaging creature takes 1d4 piercing damage.

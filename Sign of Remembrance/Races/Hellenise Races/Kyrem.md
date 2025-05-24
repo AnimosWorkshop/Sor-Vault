@@ -7,7 +7,7 @@ _Kyrems are well-known for their able bodies, which allowed them to adapt into t
 **Size:** Medium.  
 **Creature Type:** Hellenise.  
 **Speed:** 30' walking.  
-**Strong Tail:** You may use your tail to grab objects with the same strength as if it were a third arm, even allowing you to brawl a creature using it.  
+**Strong Tail:** You may use your tail to grab objects with the same strength as if it were a third arm, even allowing you to [[Action Economy#^b70e3f|brawl]] a creature using it.  
 **Languages:** You can speak, read, and write Hellenise.
  - - -
 ## Subraces

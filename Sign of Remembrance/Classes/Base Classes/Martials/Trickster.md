@@ -75,8 +75,8 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
  
 ### Fast Hands
  
-Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. The major interaction, [[Action Economy#^1e684d|disorient]] and [[Action Economy#^79c113|medicate]] actions become quick actions for you, and you gain a climbing speed equal to your walking speed.  
-When using the disorient action as a quick action, the target gets a +2 bonus their saving throw, and using the medicate action as a quick action gives you a -2 penalty to your roll.  
+Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. The [[Action Economy#^30b3a9|major interaction]], [[Action Economy#^1e684d|disorient]] and [[Action Economy#^79c113|medicate]] actions become quick actions for you, and you gain a climbing speed equal to your walking speed.  
+When using the [[Action Economy#^1e684d|disorient action]] as a quick action, the target gets a +2 bonus their saving throw, and using the [[Action Economy#^79c113|medicate action]] as a quick action gives you a -2 penalty to your roll.  
 You also gain 1 proficiency level in either the Sleight of Hand or Medicine.
  
 ### Uncanny Prediction
@@ -113,7 +113,7 @@ In addition, whenever you attack a creature using a weapon without disadvantage,
  
 ### Skillful Technique
  
-At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. You gain four skillful techniques: Disorient, Hide, Major Interaction, and Medicate. 
+At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. You gain four skillful techniques: [[Action Economy#^1e684d|disorient]], [[Action Economy#^284a7e|hide]], [[Action Economy#^30b3a9|major interaction]], and [[Action Economy#^79c113|medicate]]. 
 Whenever you successfully use one of your skillful techniques as a quick action, you increase your movement speed by 5' and your next damage roll until the end of your next turn by 1, and whenever you successfully use it as an action, including martial techniques which extend it to an action, you increase your speed by 10' and increase your next damage roll until the end of your next turn by 2.
  
 ### Versatile Rotation
@@ -126,4 +126,4 @@ At 9th level, the importance of versatility is enhanced as you perform many diff
  
 ### Perfected Technique
  
-At 10th level, your mastery over your skillful technique rises to the point where you can instinctively perform it without wasting any extra time. When you get this feature, choose one of the following: Disorient, Hide, Major Interaction, and Medicate. This becomes your perfected technique, and you may perform it once during your turn as a free action, and this grants you the benefits of Skillful Technique as if you were using it as a quick action.
+At 10th level, your mastery over your skillful technique rises to the point where you can instinctively perform it without wasting any extra time. When you get this feature, choose one of the following: [[Action Economy#^1e684d|disorient]], [[Action Economy#^284a7e|hide]], [[Action Economy#^30b3a9|major interaction]], and [[Action Economy#^79c113|medicate]]. This becomes your perfected technique, and you may perform it once during your turn as a free action, and this grants you the benefits of Skillful Technique as if you were using it as a quick action.
