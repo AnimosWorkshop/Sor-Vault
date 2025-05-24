@@ -102,7 +102,7 @@ Starting at 5th level, the [[Action Economy#^43d1b5|Attack]] action becomes a qu
  
 ### Alacrity
  
-As you reach 6th level, your body gets used more and more to moving across fields, avoiding any danger that comes near it. Your walking speed increases by 10', and you are not impeded by difficult terrain while using techniques which involve your movement or the Dash action.  
+As you reach 6th level, your body gets used more and more to moving across fields, avoiding any danger that comes near it. Your walking speed increases by 10', and you are not impeded by difficult terrain while using techniques which involve your movement or the [[Action Economy#^f8a635|dash action]].  
 You are proficient with Initiative and Wits saving throws.
  
 ### Guerilla
@@ -122,7 +122,7 @@ At 9th level, the importance of versatility is enhanced as you perform many diff
 
 - If you didn't attack during the previous round with a melee weapon, your first melee weapon attack during a round deals one and a half times its normal damage.
 - If you didn't attack during the previous round with a ranged weapon, your first ranged weapon attack during a round deals one and a half times its normal damage.
-- If you didn't use the Dodge reaction during the previous round, your first Dodge reaction during a round raises your AC by an additional 2.
+- If you didn't use the [[#Shifting Tempo|dodge reaction]] during the previous round, your first Dodge reaction during a round raises your AC by an additional 2.
  
 ### Perfected Technique
  
