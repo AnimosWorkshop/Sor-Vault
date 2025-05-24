@@ -1,5 +1,9 @@
-#Class #Martial
-- - -
+---
+tags:
+  - Class
+  - Martial
+---
+
 ## Feature Table
  
 | **Sentinel Level** | **Features**                                                               |
@@ -47,7 +51,7 @@ In order to advance as a sentinel, you must meet the following prerequisites:
 ### Harmony within Everything
  
 As a sentinel, you know how to find peace and be able to concentrate on the world around you and on bettering yourself. During a short rest, you recover additional hit points equal to your sentinel level. In addition, you gain temporary hit points equal to your sentinel level whenever you finish a short or long rest.  
-In addition, when a breakage level would apply to your unarmed strikes or natural armor, make a flat check with a DC equal to 11 - your sentinel level. If you succeed, the breakage level doesn't apply.
+Furthermore, when a breakage level would apply to your unarmed strikes or natural armor, make a flat check with a DC equal to 11 - your sentinel level. If you succeed, the breakage level doesn't apply.
  
 ### Inner Focus
  

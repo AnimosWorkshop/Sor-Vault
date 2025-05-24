@@ -1,5 +1,8 @@
-#Class #Martial 
-- - -
+---
+tags:
+  - Class
+  - Martial
+---
 ## Feature Table
  
 | **Fighter Level** | **Features**                                                                  |

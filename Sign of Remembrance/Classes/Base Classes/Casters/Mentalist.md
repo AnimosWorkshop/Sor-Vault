@@ -1,5 +1,8 @@
-#Class #Caster 
-- - -
+---
+tags:
+  - Class
+  - Caster
+---
 ## Feature Table
 
 | **Mentalist Level** | **Features**                                          |

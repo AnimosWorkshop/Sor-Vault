@@ -1,5 +1,9 @@
-#Class #Caster
-### Feature Table
+---
+tags:
+  - Class
+  - Caster
+---
+## Feature Table
  
 | **Metamage Level** | **Features**                                         |
 | ------------------ | ---------------------------------------------------- |

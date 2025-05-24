@@ -1,5 +1,8 @@
-#Class #Caster 
-- - -
+---
+tags:
+  - Class
+  - Caster
+---
 ## Feature Table
 
 | **Paragon Level** | **Features**                                                               |
@@ -59,7 +62,7 @@ Becoming a paragon, you start noticing the consequences ideals have on your surr
  
 ### Recovery Meditation
  
-Starting at 2nd level, you have learned to regain some of your magical energy through meditation. Once per day, you may mediate during a short rest in order to get back a magical resource of your paragon spellcasting, lower or equivalent to that of a spell of half your paragon level. For example, a 3rd-level arcane paragon would get a used resonance of up to 2nd-level, while an auramantic paragon of the same level would get back up to 3 used mana. This feature cannot recover unspent resources.
+Starting at 2nd level, you have learned to regain some of your magical energy through meditation. Once per day, you may meditate during a short rest in order to get back a magical resource of your paragon spellcasting, lower or equivalent to that of a spell of half your paragon level. For example, a 3rd-level arcane paragon would get a used resonance of up to 2nd-level, while an auramantic paragon of the same level would get back up to 3 used mana. This feature cannot recover unspent resources.
  
 ### Call of Protection
  
