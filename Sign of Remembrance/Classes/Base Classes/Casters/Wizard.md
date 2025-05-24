@@ -55,7 +55,7 @@ As a wizard, you become an [Arcanist](Arcana.md). For each of your wizard levels
  
 ### Spatial Sense
  
-Studying arcana and the effects magic has on the physical world allows you to notice special details about it. Using a Search action for Sorcery (Wisdom) allows you to estimate the strength of the arcane field around you, and whether a creature is trained with magic or not.
+Studying arcana and the effects magic has on the physical world allows you to notice special details about it. Using a [[Action Economy#^3d44e8|search action]] for Sorcery (Wisdom) allows you to estimate the strength of the arcane field around you, and whether a creature is trained with magic or not.
  
 ### Arcane Orb Specialty
  

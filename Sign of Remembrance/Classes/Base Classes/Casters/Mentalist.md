@@ -54,7 +54,7 @@ At 1st level, you become a [Histolect](Histolecty.md). For each of your mentalis
  
 ### Mental Sense
  
-Your knowledge about histolecty, people and their habits allows you to get a good feel for the connections between creatures. Using a Search action for Sorcery (Wisdom), you are able to sense connections between creatures, both histolectual bonds and even strong friendships or animosity.
+Your knowledge about histolecty, people and their habits allows you to get a good feel for the connections between creatures. Using a [[Action Economy#^3d44e8|search action]] for Sorcery (Wisdom), you are able to sense connections between creatures, both histolectual bonds and even strong friendships or animosity.
  
 ### Mental Specialty
  

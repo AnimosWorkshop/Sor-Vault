@@ -20,7 +20,7 @@ _The dune dwarves, uncommon even in the Blue and Brass dragonlands, are a subrac
  
 **Racial Attribute Bonus:** Your Dexterity score increases by 1.  
 **Desert Adaptation:** You are resistant to fire damage.  
-**Survivalist:** You are novice with Nature, and have advantage when performing checks for the Search action to notice traps.
+**Survivalist:** You are novice with Nature, and have advantage when performing checks for the [[Action Economy#^3d44e8|search action]] to notice traps.
 ### Hill Dwarf
  
 _The hill dwarves are the most common of dwarves, often residing on hills and near human villages to trade and craft for them. They developed a hard dedication to the arts, and shy as a society from magic even more than the other dwarven communities._

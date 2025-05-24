@@ -55,11 +55,11 @@ Starting at 1st level, you become an [Auramancer](Auramancy.md). For each of you
  
 ### Aura Sense
  
-Becoming a druid, your study of auramancy and creatures has lead you to understand how to interpret a creature's aura. Using a Search action for Sorcery (Wisdom) allows you to see whether a creature is affected by boons or curses, their levels and magic types.
+Becoming a druid, your study of auramancy and creatures has lead you to understand how to interpret a creature's aura. Using a [[Action Economy#^3d44e8|search action]] for Sorcery (Wisdom) allows you to see whether a creature is affected by boons or curses, their levels and magic types.
  
 ### Instinct Sense
  
-Starting at 2nd level, your ability to read aura is improved to the point where you can understand surface-level reactions to things that it perceives or feels. This can be done using the Search action with Sorcery (Wisdom). Examples to those kinds of feelings include:
+Starting at 2nd level, your ability to read aura is improved to the point where you can understand surface-level reactions to things that it perceives or feels. This can be done using the [[Action Economy#^3d44e8|search action]] with Sorcery (Wisdom). Examples to those kinds of feelings include:
 
 - Is the creature familiar with something that is described to it?
 - Does the creature fear of, or feels awe towards what it is seeing, or of something that is described to it?

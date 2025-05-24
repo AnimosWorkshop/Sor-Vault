@@ -55,7 +55,7 @@ Click on the diagram to see it fully:
 ![[Paragon Ideals.canvas]]
 ### Divine Sense
  
-Becoming a paragon, you start noticing the consequences ideals have on your surroundings. Using a [[Action Economy#^3d44e8|Search action]] with Sorcery (Wisdom), you are also able to sense the dominant ideal or god influencing the place or person you search, if any. You might also be able to detect the [[Sign of Remembrance/Epic Influences/Introduction|epic influences]] affecting a creature, such as blessings and corruptions.
+Becoming a paragon, you start noticing the consequences ideals have on your surroundings. Using a [[Action Economy#^3d44e8|search action]] with Sorcery (Wisdom), you are also able to sense the dominant ideal or god influencing the place or person you search, if any. You might also be able to detect the [[Sign of Remembrance/Epic Influences/Introduction|epic influences]] affecting a creature, such as blessings and corruptions.
  
 ### Recovery Meditation
  

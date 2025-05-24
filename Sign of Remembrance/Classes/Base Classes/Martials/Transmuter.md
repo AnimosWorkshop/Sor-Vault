@@ -139,4 +139,4 @@ The weapon's lethal property by an additional 1 while you wield it.
  
 ### Sure Sight Helmet
 
-You have a +2 bonus for skill checks of the Search action while wearing the helmet, and you add the last mode to your helmet, allowing you to switch between: lightvision, nullvision and darkvision, using a quick action.
+You have a +2 bonus for skill checks of the [[Action Economy#^3d44e8|search action]] while wearing the helmet, and you add the last mode to your helmet, allowing you to switch between: lightvision, nullvision and darkvision, using a quick action.
