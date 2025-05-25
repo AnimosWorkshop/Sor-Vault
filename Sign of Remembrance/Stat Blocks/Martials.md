@@ -15,6 +15,7 @@
 >>* Arms:
 >>	* Shortsword (finesse, pommel) - 1d6 + 4 slashing / piercing
 >>	* Buckler
+
 ^6aa3e7
 
 - - -

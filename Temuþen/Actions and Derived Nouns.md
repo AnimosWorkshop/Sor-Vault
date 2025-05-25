@@ -296,6 +296,8 @@
 		* bezmalvifa - year partition (context dependent), e.g. semester / quarter
 * virū - to grow
 	* viriecna - forest
+* virxū - to bloom
+	* virxieþa - flower
 * vletū - to respect
 	* vletieng - honor
 	* vletienge - please

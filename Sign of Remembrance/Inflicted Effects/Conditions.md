@@ -8,7 +8,7 @@ Negative energy flows through your veins, disrupting your healing processes. Any
 An encumbered creature has a -2 penalty to all rolls based on Strength and Dexterity, including Resilience and Initiative saving throws, as well as to their AC. In addition, their movement speed is 10' slower.  
 A creature is usually encumbered while the weight of creatures or items they wear and carry exceeds a number of lb equal to 6 times their Strength score. If the creature's carried weight exceeds 10 times their Strength score, double the condition's effects.
 #### Grappled
-While grappled, a creature's movement speed is zero, and the grappler can move in half your speed in order to force the grappled creature to move with them. An effect which forces the grappled creature away from the grappler ends this condition.  
+While grappled, a creature's movement speed is zero, and the grappler can move at half speed in order to force the grappled creature to move with them. An effect which forces the grappled creature away from the grappler ends this condition.  
 While grappled, the creature may use an action to attempt a saving throw (usually a Resilience save unless stated otherwise) to end this condition, using the original DC for the grapple.
 #### Hidden
 You are hidden from some or all the creatures around you, depending on how you got this condition. You have advantage on attack rolls and Athletics, Deception, Sleight of Hand and Stealth checks against creatures you are hidden from.  

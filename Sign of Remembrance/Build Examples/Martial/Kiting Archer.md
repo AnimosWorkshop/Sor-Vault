@@ -1,4 +1,8 @@
-#Build #Martial
+---
+tags:
+  - Build
+  - Martial
+---
 Using a ranged weapon and being able to move freely across the battlefield, this fighter is not afraid to move across the battlefield and even dance close to its melee enemies, trapping them on their way out.
 
 ### Attribute Priorities

@@ -1,4 +1,8 @@
-#Build #Martial 
+---
+tags:
+  - Build
+  - Martial
+---
 With a dart that could bring both weal and woe, this character helps their allies without sacrificing versatility and defense.
 
 ### Attribute Priorities
