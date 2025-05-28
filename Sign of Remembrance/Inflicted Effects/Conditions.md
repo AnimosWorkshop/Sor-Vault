@@ -21,7 +21,11 @@ An invisible creature is unable to be perceived using sight, although it can sti
 The creature is pacified, reducing its combat capabilities. Their attacks and damage rolls and saving throws are made with a -1 penalty, and their AC is reduced by 1.  
 This condition can be given with a certain potency, with the default being 1. The attack and damage roll penalty, the save penalty and AC reduction is equal to that potency.
 #### Prone
-The creature is lying on the floor. Melee attacks the creature makes are made with disadvantage, melee attacks against it are made with advantage, and ranged attacks against it from at least 10' away are made with disadvantage. It also has disadvantage on Initiative saving throws. The condition can normally be ended by expending walking speed equal to half their race's base speed, or by expending any amount of flying speed.
+The creature is lying on the floor. Melee attacks the creature makes are made with disadvantage, melee attacks against it are made with advantage, and ranged attacks against it from at least 10' away are made with disadvantage. It also has disadvantage on Initiative saving throws. 
+
+The condition can normally be ended by expending walking speed equal to half their race's base speed, or by expending any amount of flying speed.
+
+If a creature attempts to get up on a difficult terrain, they must succeed on an Acrobatics (Dexterity) check with DC 10.
 #### Restrained
 A restrained creature has a -2 penalty to all rolls based on Strength and Dexterity, including Resilience and Initiative saving throws, as well as to their AC.
 #### Stunned
