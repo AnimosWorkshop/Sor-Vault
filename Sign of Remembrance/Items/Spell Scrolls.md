@@ -6,7 +6,7 @@ Learning spell scrolls are commonly used to teach mages, both new and old, how t
  
 | **Spell Level** | **Cost per Magic Type of the Spell (sc)** | **Downtime Points Required** |
 | --------------- | ----------------------------------------- | ---------------------------- |
-| 1th             | 20                                        | 1                            |
+| 1st             | 20                                        | 1                            |
 | 2nd             | 35                                        | 1                            |
 | 3rd             | 55                                        | 1                            |
 | 4th             | 80                                        | 2                            |

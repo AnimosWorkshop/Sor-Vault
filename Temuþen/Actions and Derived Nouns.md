@@ -321,6 +321,7 @@
 	* zava - option
 * zastū - to aid
 	* zastiera - welfare
+* zdarū - to satisfy
 * zectū - to practice
 * zebū - to multiply
 * zelþū - to wait

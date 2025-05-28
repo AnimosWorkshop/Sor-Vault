@@ -25,7 +25,7 @@
 >>[!info]- Basics
 >>* [[Elf#Wood Elf]]
 >>* Attributes - 8 / 14 / 17 / 18 / 8 / 10 / 14
->>* Saves - +4 / +4 / +5 / +5
+>>* Saves - +4 / +6 / +2 / +4
 >>* HP - 24, 1d6
 >>* AC - 13 leather (slashing, acid)
 >>* Movement - 30' walking
@@ -36,7 +36,7 @@
 >>* Auramantic Spells (Bonus +6, DC 16) - 10 Mana:
 >>	* 1st-Level - [[Expedite]], [[Kadaran's Obscured Steps]], [[Disarming Shock]], [[Exhaustion Bolt]]
 >>* Arms:
->>	* [[Runecarver#Functionality Upgrades|Foretelling Scepter]]
+>>	* [[Runecarver#Spell Foci|Scepter]]
 
 ^00969f
 
