@@ -1,11 +1,14 @@
-#Effects 
-- - -
+---
+tags:
+  - Effects
+---
 #### Decaying
 Negative energy flows through your veins, disrupting your healing processes. Any form of healing you receive recovers only half the hit points it should have, rounded down.  
 >[!example]
 >You receive half the healing from potions, spells, etc., and also recover only half the difference between your maximum and current hit points during a long rest.
 #### Encumbered
 An encumbered creature has a -2 penalty to all rolls based on Strength and Dexterity, including Resilience and Initiative saving throws, as well as to their AC. In addition, their movement speed is 10' slower.  
+
 A creature is usually encumbered while the weight of creatures or items they wear and carry exceeds a number of lb equal to 6 times their Strength score. If the creature's carried weight exceeds 10 times their Strength score, double the condition's effects.
 #### Grappled
 While grappled, a creature's movement speed is zero, and the grappler can move at half speed in order to force the grappled creature to move with them. An effect which forces the grappled creature away from the grappler ends this condition.  
@@ -34,7 +37,8 @@ A stunned creature is unable to move and use any actions, quick actions and reac
 While tired, a creature has a -2 penalty to all rolls which aren't flat checks, and -2 to AC. In addition, their movement speed is 5' slower.  
 A creature usually isn't tired to this extent on regular circumstances, unless it didn't receive a night's sleep, hasn't drunk or eaten for a day or was magically put in this condition.
 #### Toppled
-While toppled, a creature's movement speed is zero, and both the creature and the one who toppled them are prone in the same position. An effect which forces the toppling creature away from the toppled creature ends this condition.  
+While toppled, a creature's movement speed is zero, and both the creature and the one who toppled them are prone in the same position. An effect which forces the toppling creature away from the toppled creature ends this condition.
+
 While toppled, the creature may use an action to attempt a saving throw (usually a Resilience save unless stated otherwise) to end this condition, using the original DC for the topple.  
 When this condition ends, the toppled creature becomes prone instead.
 #### Unconscious

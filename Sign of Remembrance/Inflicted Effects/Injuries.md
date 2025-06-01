@@ -1,5 +1,7 @@
-#Effects
-- - -
+---
+tags:
+  - Effects
+---
 ### Blinded 
 
 A blinded creature can't see, failing on Perception checks which rely on sight, as well as having disadvantage on attacks and on Initiative saving throws. Attacks against a blinded creature are made with advantage.
