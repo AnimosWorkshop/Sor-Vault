@@ -71,7 +71,7 @@ Starting at 2nd level, whenever you critically strike an enemy creature in Battl
 In addition, you may take a calculated risk while in Battle Trance, giving your attacks have the potential to become lethal at the cost of your own safety. At the start of your turn, you may choose to assume a lethal stance until the start of your next turn. While in this stance, any attacks you make (including spell attacks) gain the Lethal 1 trait, but attacks against you also get the Lethal 1 trait.
 ### Martial Techniques
  
-At 2nd level, you learn the  use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
+At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
 
 | **Partisan Level** | **Basic Techniques** | **Advanced Techniques** |
 | ------------------ | -------------------- | ----------------------- |
