@@ -6,18 +6,18 @@ tags:
 
 ## Feature Table
  
-| **Sentinel Level** | **Features**                                                               |
-| ------------------ | -------------------------------------------------------------------------- |
-| 1st                | [[#Harmony within Everything]], [[#Inner Focus]]                           |
-| 2nd                | [[#Deflecting Instinct]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 3rd                | [[#Focus Strikes]]                                                         |
-| 4th                | [[#Enhanced Focus]], [[#Martial Techniques]], [[#Attribute Increase]]      |
-| 5th                | [[#Deflection Expertise]]                                                  |
-| 6th                | [[#Stance]], [[#Martial Techniques]], [[#Attribute Increase]]              |
-| 7th                | [[#Watchful Combatant]]                                                    |
-| 8th                | [[#Focused Respite]], [[#Martial Techniques]], [[#Attribute Increase]]     |
-| 9th                |                                                                            |
-| 10th               | [[#Martial Techniques]], [[#Attribute Increase]]                           |
+| **Sentinel Level** | **Features**                                                                |
+| ------------------ | --------------------------------------------------------------------------- |
+| 1st                | [[#Harmony within Everything]], [[#Inner Focus]]                            |
+| 2nd                | [[#Deflecting Instinct]], [[#Martial Techniques]], [[#Attribute Increase]]  |
+| 3rd                | [[#Grazing Style]]                                                          |
+| 4th                | [[#Enhanced Focus]], [[#Martial Techniques]], [[#Attribute Increase]]       |
+| 5th                | [[#Focus Strikes]]                                                          |
+| 6th                | [[#Stance]], [[#Martial Techniques]], [[#Attribute Increase]]               |
+| 7th                | [[#Watchful Combatant]]                                                     |
+| 8th                | [[#Deflection Expertise]], [[#Martial Techniques]], [[#Attribute Increase]] |
+| 9th                | [[#Mortal Reminder]]                                                        |
+| 10th               | [[#Martial Techniques]], [[#Attribute Increase]]                            |
  - - -
 ## Prerequisites
  
@@ -61,23 +61,24 @@ You may use an action and 1 focus to become Focused, using your [[Reading a Spel
 - You have a +1 bonus for Perception (Wisdom) checks.
 - Your [[Weaponsmith#Commoners' Melee Weapons|unarmed strikes]] have their damage die increased by 1, and you may use all functional limbs in order to perform unarmed strikes and the [[Action Economy#^5d5dd0|shove]] brawl action. Gauntlet weapons are also affected by this bonus.
 - Your natural armor AC increases by 1.
-- You gain access to the Deflect reaction against an incoming attack, increasing your AC by your Strength modifier divided by 3 against it.
+- You gain access to the Deflect reaction against an incoming attack, increasing your AC by your Strength modifier divided by 3 against it. ^843c5c
 - You have a +1 bonus to saving throws.
 
 The focused condition lasts 10 minutes, and your concentration on it cannot end due to taking damage. You may also take a quick action right after the Focus action to make an unarmed strike.
- 
-### Deflecting Instinct
- 
-Also at 2nd level, you learn how to deflect incoming attacks using precise, deliberate movements. This allows you to substitute your Dexterity modifier when calculating AC with your Strength modifier, as you attempt to deflect and push away incoming blows instead of dodging them.  
 
->[!note] 
->Limitations and changes to how you add your Dexterity modifier for AC calculation, such as heavy armor not allowing you to add Dexterity for AC calculation, applies to this feature too. Therefore, a 2nd level sentinel wearing chain plate has AC 15 regardless of their Strength modifier.
- 
+### Grazing Style
+
+Starting at 2nd level, you learn how to take advantage of your opponents getting dangerously close to you. An attack is considered _grazing_ whenever it misses you by an amount equal to the bonus AC you would get from using the [[#^843c5c|deflect]] reaction, even while not deflecting. Whenever a feature would increase your grazing range, the amount by which the attack misses can be greater.
+Whenever an attack grazes you, your next [[Action Economy#^43d1b5|attack]] or [[Action Economy#^b70e3f|brawl]] action against them until the end of their next turn only takes a quick action to perform, without any penalty. 
+
+>[!example]
+>For a sentinel with 18 Strength and AC 16, the bonus from deflect would be +2. Therefore, grazing range is 2, meaning that without using deflect, attack rolls between 14-15 would be grazing, while with deflect 16-17 would be grazing. If the grazing range is then increased by 1, then attack rolls between 13-15 would be grazing, or 15-17 while deflecting.
+>
+>Maneuvers and other traits which would increase the deflect range modify this range as well.
 ### Martial Techniques
  
 At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
  
-
 | **Sentinel** **Level** | **Basic Techniques** | **Advanced Techniques** |
 | ---------------------- | -------------------- | ----------------------- |
 | 2nd                    | 1                    | -                       |
@@ -85,39 +86,42 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | 6th                    | 3                    | -                       |
 | 8th                    | 3                    | 1                       |
 | 10th                   | 3                    | 2                       |
- 
+
 ### Attribute Increase
  
 When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
- 
-### Focus Strikes
- 
-Starting at 3rd level, you can use your focus in a concise strike that delivers a shockwave to the attacked  
-creature. At the start of your turn, you may use 1 focus to empower your weapon attacks for the remainder of the turn, adding 1d6 force to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.  
+
+### Keen Observer
+
+At 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. Up to once per round when you use the [[Action Economy#^047348|assess]] quick action, you may forgo learning up to 2 facts you would as a part of the quick action, and raise your graze range by the same amount.
 You also gain 1 proficiency level in any skill of your choice.
- 
+
 ### Enhanced Focus
  
 At 4th level, you have managed to enhance your focus further. While focused, your unarmed strike damage die, the bonus you gain to Perception (Wisdom) checks and your natural armor AC increases by 1, in addition to your movement speed being increased by 5'.
+
+### Focus Strikes
  
-### Deflection Expertise
- 
-At 5th level, your deflection skills are heightened to the point of being able to diminish any attack. Whenever you use the Deflect reaction, you become resistant to the damage of the incoming attack.
+At 5th level level, you can use your focus in a concise strike that delivers a shockwave to the attacked creature. At the start of your turn, you may use 1 focus to empower your weapon attacks for the remainder of the turn, adding 1d6 force to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.
  
 ### Stance
  
-At 6th level, you may choose to focus on a particular fighting style, granting you stability and power in new ways. When you use an action to become focused, you may choose one of the following stances, which lasts until your focus breaks:
+At 6th level, your training in the martial arts causes you to develop your practical memory to instinctively modify your [[#^843c5c|deflect]] reaction against grazing attacks as a part of the same deflect reaction. When you use an action to become [[#Inner Focus|focused]], you may choose one of the following stances, which lasts until your focus breaks:
 
-- Defensive Stance: You bolster your body and anchor it to the ground, granting you a +1 bonus to your AC and a +1 bonus to saving throws.
-- Offensive Stance: Your weapon becomes an extension of your body and even your unarmed strikes are bolstered. You have a +1 bonus to weapon attack and damage rolls.
+- Stone Stance: If an attack grazes you while you [[Sentinel#Deflecting Instinct|deflect]], you may attempt to leverage their momentum to throw them off balance. They must make an Initiative save or fall prone. If they were already prone, they take 1d6 bludgeoning damage instead.
+- Mud Stance: If an attack grazes you while you [[Sentinel#Deflecting Instinct|deflect]], you attempt to strike their mental balance. They must make a Wits save or have their combat initiative decreased by 1d3.
 
 You may also change your stance while focused as a quick action.  
 In addition, you become proficient with Resilience and Initiative saving throws.
  
 ### Watchful Combatant
  
-At 7th level, your mastery over yourselves and others shows in your reflexes and ability to manipulate a dangerous situation to your advantage. You become proficient with Willpower saving throws. In addition, whenever an enemy moves willingly within your reach for the first time each round, you may make an attack of opportunity against them with advantage. This does not use a reaction.
+At 7th level, your mastery over yourselves and others shows in your reflexes and ability to manipulate a dangerous situation to your advantage. You become proficient with Willpower saving throws. In addition, whenever an enemy moves willingly within your reach for the first time each round, you may make an attack of opportunity against them with advantage. Doing this requires you to succeed on a Willpower save equal to your reaction DC just as a reaction would, but does not increase the DC.
+
+### Deflection Expertise
  
-### Focused Respite
- 
-At 8th level, you become able to focus your inner focus in order to restore health. As a quick action while you focus, you may use 1 focus point and up to 2 hit dice in order to heal an amount of hit points equal to the result of those hit dice + twice the sum of your Constitution, Willpower and Wisdom modifier.
+At 8th level, your deflection skills are heightened to the point of being able to diminish any attack. Whenever you use the Deflect reaction, you become resistant to the damage of the incoming attack.
+
+### Mortal Reminder
+
+At 9th level, the exposure to harm enhances your instincts, allowing you to rely on your inner focus to restore health. If an attack grazes you, during your next turn, you may use a quick action, 1 focus point and up to 2 hit dice in order to heal an amount of hit points equal to the result of those hit dice + twice the sum of your Constitution, Willpower and Wisdom modifier.
