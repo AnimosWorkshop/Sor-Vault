@@ -120,7 +120,7 @@ At 7th level, your mastery over yourselves and others shows in your reflexes and
 
 ### Deflection Expertise
  
-At 8th level, your deflection skills are heightened to the point of being able to diminish any attack. Whenever you use the Deflect reaction, you become resistant to the damage of the incoming attack.
+At 8th level, your deflection skills are heightened to the point of being able to diminish any attack. Whenever you use the [[Sentinel#^843c5c|deflect]] reaction, you become resistant to the damage of the incoming attack.
 
 ### Mortal Reminder
 
