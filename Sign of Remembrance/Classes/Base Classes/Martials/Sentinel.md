@@ -61,7 +61,7 @@ You may use an action and 1 focus to become Focused, using your [[Reading a Spel
 - You have a +1 bonus for Perception (Wisdom) checks.
 - Your [[Weaponsmith#Commoners' Melee Weapons|unarmed strikes]] have their damage die increased by 1, and you may use all functional limbs in order to perform unarmed strikes and the [[Action Economy#^5d5dd0|shove]] brawl action. Gauntlet weapons are also affected by this bonus.
 - Your natural armor AC increases by 1.
-- You gain access to the Deflect reaction against an incoming attack, increasing your AC by your Strength modifier divided by 3 against it. ^843c5c
+- You gain access to the Deflect reaction against an incoming attack, increasing your AC by half your Strength modifier against it. ^843c5c
 - You have a +1 bonus to saving throws.
 
 The focused condition lasts 10 minutes, and your concentration on it cannot end due to taking damage. You may also take a quick action right after the Focus action to make an unarmed strike.
@@ -69,7 +69,7 @@ The focused condition lasts 10 minutes, and your concentration on it cannot end 
 ### Grazing Style
 
 Starting at 2nd level, you learn how to take advantage of your opponents getting dangerously close to you. An attack is considered _grazing_ whenever it misses you by an amount equal to the bonus AC you would get from using the [[#^843c5c|deflect]] reaction, even while not deflecting. Whenever a feature would increase your grazing range, the amount by which the attack misses can be greater.
-Whenever an attack grazes you, your next [[Action Economy#^43d1b5|attack]] or [[Action Economy#^b70e3f|brawl]] action against them until the end of their next turn only takes a quick action to perform, without any penalty. 
+Whenever an attack grazes you, your next [[Action Economy#^43d1b5|attack]] or [[Action Economy#^b70e3f|brawl]] action against the attacker until the end of their next turn only takes a quick action to perform, without any penalty. 
 
 >[!example]
 >For a sentinel with 18 Strength and AC 16, the bonus from deflect would be +2. Therefore, grazing range is 2, meaning that without using deflect, attack rolls between 14-15 would be grazing, while with deflect 16-17 would be grazing. If the grazing range is then increased by 1, then attack rolls between 13-15 would be grazing, or 15-17 while deflecting.
@@ -91,7 +91,7 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
  
 When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
 
-### Keen Observer
+### Keen Observer * (also look at Dodge)
 
 At 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. Up to once per round when you use the [[Action Economy#^047348|assess]] quick action, you may forgo learning up to 2 facts you would as a part of the quick action, and raise your graze range by the same amount.
 You also gain 1 proficiency level in any skill of your choice.
