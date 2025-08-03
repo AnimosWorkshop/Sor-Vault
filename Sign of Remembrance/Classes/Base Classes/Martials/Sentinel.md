@@ -106,7 +106,7 @@ At 5th level level, you can use your focus in a concise strike that delivers a s
  
 ### Stance
  
-At 6th level, your training in the martial arts causes you to develop your practical memory to instinctively modify your [[#^843c5c|deflect]] reaction against grazing attacks as a part of the same deflect reaction. When you use an action to become [[#Inner Focus|focused]], you may choose one of the following stances, which lasts until your focus breaks:
+At 6th level, your training in the martial arts causes you to develop your practical memory to instinctively modify your [[#^843c5c|deflect]] reaction against grazing attacks as a part of the same deflect reaction. In addition, while focused, deflecting increases your grazing range by your deflect bonus. When you use an action to become [[#Inner Focus|focused]], you may choose one of the following stances, which lasts until your focus breaks:
 
 - Stone Stance: If an attack grazes you while you [[Sentinel#Deflecting Instinct|deflect]], you may attempt to leverage their momentum to throw them off balance. They must make an Initiative save or fall prone. If they were already prone, they take 1d6 bludgeoning damage instead.
 - Mud Stance: If an attack grazes you while you [[Sentinel#Deflecting Instinct|deflect]], you attempt to strike their mental balance. They must make a Wits save or have their combat initiative decreased by 1d3.
