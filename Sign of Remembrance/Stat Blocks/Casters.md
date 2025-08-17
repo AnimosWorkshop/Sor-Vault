@@ -1,10 +1,32 @@
 -- - - -
 ## 1st Level
 
+
+>[!danger]- Coachman
+>>[!info]- Basics
+>>* [[Vident#Grove Vident|Grove]] [[Vident]]
+>>* Attributes - 8 / 14 / 14 / 18 / 12 / 14 / 14
+>>* Saves - +4 / +6 / +4 / +4
+>>* HP - 24
+>>* AC - 13 leather (slashing, acid)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Insight (Wisdom) +7, Nature (Wisdom) +6
+>>* Classes - [[Druid]] 1st
+>>* Auramanctic Spells (Bonus +6, DC 16) - 6 mana:
+>>	* 1st-Level - [[Expedite]], [[Mend Wounds]]
+>>* Arms:
+>>	* Staff (medium)
+
+^57e735
+
+
+
 >[!danger]- Disciple of Freedom
 >>[!info]- Basics
 >>* [[Elf#High Elf]]
->>* Attributes - 8 / 14  / 14 / 12 / 17 / 8 / 16
+>>* Attributes - 8 / 14 / 14 / 12 / 17 / 8 / 16
 >>* Saves - +4 / +4 / +5 / +5
 >>* HP - 24, 1d6
 >>* AC - 13 leather (slashing, acid)
@@ -13,11 +35,12 @@
 >>[!info]- Specifics
 >>* Skills - Insight (Wisdom) +5, Culture (Intelligence) +6, History (Intelligence) +6
 >>* Classes - [[Paragon|Freedom Paragon]] 1st
->>* Arcane Spells (Bonus +5, DC 16):
+>>* Arcane Spells (Bonus +5, DC 15):
 >>	* 1st-Level (3) - [[Force Burst]], [[Slowfall]], [[Witch Bolt]]
 >>* Arms:
 >>	* [[Runecarver#Functionality Upgrades|Foretelling Scepter]] (medium)
 ^feda12
+
 -- - -
 ## 2nd Level
 
@@ -120,4 +143,5 @@
 >>* Pouch:
 >>	* 2x [[Alchemist#Concoctions|Coagulation Concoction, Minor]]
 >>	* 1x [[Alchemist#Concoctions|Recovery Concoction, Minor]]
+
 ^1c1710

@@ -34,6 +34,7 @@
 >>* Arms:
 >>	* Shortsword (light; finesse, pommel) - 1d6 + 4 slashing / piercing
 >>	* Buckler
+
 ^6aa3e7
 
 - - -
@@ -73,7 +74,9 @@
 >>* Arms:
 >>	* Rapier (medium; finesse, tool (Deception)) - 1d10 + 3 piercing + 1d6 adder venom
 >>	* Kite Shield
-^99605d
+
+^a16c37
+
 -- - ---
 ## 3rd Level
 
