@@ -30,6 +30,7 @@
 	* ciriera - song
 	* cirieþ - music
 * conū - to taste
+* crū - to ease
 * cralū - to rule over
 	* cralieca - country
 * ctazū - to hunt

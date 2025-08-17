@@ -1,4 +1,4 @@
-Until only several dozen years before the Second Cataclysm, the Temuþen gods used to meet with each other rather rarely unless any major event had happened. However, they since created Temuþan's Divine Alliance (TDA), a great organization hosting many other important institutions in the realm. However, the Great Dragon War and the betrayal of Creod caused it to take care now of only half of the world - Carniules, while Gandecrala's only divine protection is given by the betrayer god of oaths.
+Until only several dozen years before the Second Cataclysm, the Temuþen gods used to meet with each other rather rarely unless any major event had happened. However, they since created Temuþan's Divine Alliance (TDA), a great organization hosting many other important institutions in the realm. However, the Great Dragon War and the betrayal of Creno caused it to take care now of only half of the world - Carniules, while Gandecrala's only divine protection is given by the betrayer god of oaths.
 - - -
 ## Carniules
 
@@ -32,4 +32,4 @@ Niala herself is the primary god actually fighting the war against Gandecrala, a
 - - -
 ## Gandecrala
 
-#### Creod
+#### Creno

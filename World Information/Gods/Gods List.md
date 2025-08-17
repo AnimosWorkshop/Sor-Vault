@@ -67,7 +67,7 @@
 ### Alsidia - Goddess of Balance
 
 - -
-- [[Temuþen Gods#Creod|Creod]] - God of Oaths
+- [[Temuþen Gods#Creno|Creno]] - God of Oaths
 - -
 - - -
 ## Delreth, Architect of Limbo
