@@ -141,6 +141,7 @@
 * jratū - to test
 * kacanū - to climb
 * kanū - to know
+	* kaniero - wisdom
 * katū - to thank
 	* katu - thanks
 * kaxtū - to stop / to halt
