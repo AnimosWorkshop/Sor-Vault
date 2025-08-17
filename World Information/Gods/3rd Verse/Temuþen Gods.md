@@ -33,3 +33,9 @@ Niala herself is the primary god actually fighting the war against Gandecrala, a
 ## Gandecrala
 
 #### Creno
+
+>[[Orc#Nomad Orc|Nomad]] [[Orc]]
+
+Creno became a very controversial figure in Temuþan after his choice to side with Gandecrala in their adversity against the TDA. While many were swift to criticize him and turn to other successors of Alsidia for guidance, some supporters of his claim that he decided to show his people the loyalty they deserve until the bitter end - he is the one to represent the Temuþen people in the new world order in Gandecrala, and he shall not forsake them even when he would not agree fully with his country's leaders. 
+
+No matter on which side you're on, you still deserve to have a god to look up to within your home; a privilege the Temuþen people of 2V did not have.
