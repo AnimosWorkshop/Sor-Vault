@@ -17,6 +17,7 @@
 * blū - to prepare
 * bolū - to lower
 * britū - to prove
+* carfū - to fall
 * carnū - to free
 * cecnū - to teach
 * cedū - to hold
@@ -31,6 +32,7 @@
 * conū - to taste
 * cralū - to rule over
 	* cralieca - country
+* ctazū - to hunt
 * cugrū - to investigate
 * cucū - to silence
 	* cuciul - silent
@@ -195,6 +197,7 @@
 * nivasū - to serve
 * nomū - to rest
 * ogenū - to insist
+* oparsū - to curl
 * orkū - to travel
 * ornū - to deny (something)
 * pacū - to name
@@ -302,6 +305,7 @@
 	* vletieng - honor
 	* vletienge - please
 	* vleteþ - degree / title
+* voctū - to lean
 * volanū - to fight
 * voronū - to hide
 	* vorona - secret

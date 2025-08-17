@@ -1,5 +1,7 @@
-#Profession 
-- - -
+---
+tags:
+  - Profession
+---
 ## Armor Bases
 
 >[!note] 

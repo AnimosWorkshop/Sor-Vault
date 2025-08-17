@@ -1,3 +1,7 @@
+---
+tags:
+  - Profession
+---
 For information about the different traits, see [[Weapon Rules#Weapon Traits|Weapon Traits]].
 - - -
 ## Weapon Bases

@@ -61,7 +61,7 @@ When everything goes loose, you must learn to take the reins and stir back to co
 * _Fan_ - You may use a [[Action Economy#^359f07|minor interaction]] to draw two light weapons and hold them in one hand.
 	If you have three or less light weapons with the Thrown trait held this way in one hand, you may throw each from this hand with no penalty.
 * _Shield Bash_ - While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy). Proficiency with shield attacks is gained as part of your shield proficiency, and the weapon is considered of the pugilist style. ^96f2d9
-* _Swift Grab_ - You may make a [[Action Economy#^b70e3f|brawl action]] as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw.
+* _Swift Grab_ - You may make a [[Action Economy#^b70e3f|brawl action]] as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw. ^a688fd
 ### Parrying Strike
  
 Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do, subtract half your fighter level + your Strength modifier divided by 3 (total minimum of 1) from the damage dealt.  

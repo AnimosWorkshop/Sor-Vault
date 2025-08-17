@@ -1,5 +1,7 @@
-#Profession
-- - -
+---
+tags:
+  - Profession
+---
 ## Methods of Administration
  
 Alchemists create many substances which may have some kind of influence over a creature. In order for the substance to take effect, the creature must be exposed to it in some way, which will usually be one of the following:

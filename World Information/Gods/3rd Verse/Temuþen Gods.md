@@ -21,7 +21,9 @@ Vilidin came to the Bronze Archipelago from the Black Dragonland after the Great
 
 >[[Orc#Berserker Orc|Berserker]] [[Orc]]; Hurler [[Fighter]] 3rd, [[Partisan]] 7th
 
-Back in the 9th century 2V, Niala was a soldier in the Red Dragonlands, and both her deeds and writings focusing on the importance of the will to life has elevated her in the ranks of the late Gweldyn and led to her ascension.
+Back in the 9th century 2V, Niala was a soldier in the Red Dragonlands, and both her deeds and writings focusing on the importance of the will to life has elevated her in the ranks of the late Gweldyn and led to her ascension. She is a self-proclaimed active advocate of life, and a firm believer that before one considers cognitive and emotional freedom, they must strive is physical freedom, expressed by the ability to live and survive. 
+
+During the 2V, her views alongside her country of origin seemed militaristic to foreigners; however, after the Cataclysm, she has garnered much following, due to how the conception of a guaranteed life was shattered.
 
 Ever since the Great Dragon War started, Niala and her forces put a lot of effort on their northern border in order to put effort and draw as many soldiers from the enemy's side to defend it, in order to relieve the other borders as the strongest single army in Carniules. In order to make sure of this, the Redpoint government gave out incentives for soldiers of all ranks financial incentives to join the cause in the war, which led to a massive wave of conscription.
 While good in its own right, this left the home front severely undermanned, lacking the ability to support the front lines without compromising those who stay behind. ^b55568

@@ -16,7 +16,7 @@
 >>* Arcane Spells (Bonus +5, DC 16):
 >>	* 1st-Level (3) - [[Force Burst]], [[Slowfall]], [[Witch Bolt]]
 >>* Arms:
->>	* [[Runecarver#Functionality Upgrades|Foretelling Scepter]]
+>>	* [[Runecarver#Functionality Upgrades|Foretelling Scepter]] (medium)
 ^feda12
 -- - -
 ## 2nd Level
@@ -36,7 +36,7 @@
 >>* Auramantic Spells (Bonus +6, DC 16) - 10 Mana:
 >>	* 1st-Level - [[Expedite]], [[Kadaran's Obscured Steps]], [[Disarming Shock]], [[Exhaustion Bolt]]
 >>* Arms:
->>	* [[Runecarver#Spell Foci|Scepter]]
+>>	* [[Runecarver#Spell Foci|Scepter]] (medium)
 
 ^00969f
 
@@ -59,7 +59,7 @@
 >>	* 1st-Level (4) - [[Enhanced Magic Sight]], [[Impedance]]
 >>	* 2nd-Level (2) - [[Anticipated Oblivion]], [[Locate Object]]
 >>* Arms:
->>	* [[Runecarver#Functionality Upgrades|Foretelling Scepter]]
+>>	* [[Runecarver#Functionality Upgrades|Foretelling Scepter]] (medium)
 
 >[!danger]- Tempestist Arcanist
 >>[!info]- Basics
@@ -77,7 +77,7 @@
 >>	* 1st-Level (4) - [[Witch Bolt]], [[Shocking Grasp]]
 >>	* 2nd-Level (2) - [[Misty Step]], [[Warding Wind]]
 >>* Arms:
->>	* [[Runecarver#Functionality Upgrades|Staff of Balance]]
+>>	* [[Runecarver#Functionality Upgrades|Staff of Balance]] (medium)
 ^ee8f5f
 
 >[!danger]- Calefactor Histolect
@@ -95,7 +95,7 @@
 >>* Histolectual Spells (Bonus +6, DC 16) - 5 Influence:
 >>	* 1st-Level - [[Doeth's Deathly Chill]], [[Light Up]], [[Poisonous Words]], [[Minor Relief]]
 >>* Arms:
->>	* Scepter
+>>	* [[Runecarver#Spell Foci|Scepter]] (medium)
 ^8bb739
 -- - -
 ## 4th Level
@@ -116,9 +116,8 @@
 >>	* 1st-Level (3) - [[Aria's Snow Globe]], [[Flame Bolt]]
 >>	* 2nd-Level (4) - [[Flame Darts]], [[Grelleyal's Shattering Grasp]], [[Misty Step]]
 >>* Arms:
->>	* [[Runecarver#Functionality Upgrades|Flaming Arc Wand]] +1
+>>	* [[Runecarver#Functionality Upgrades|Flaming Arc Wand]] +1 (light)
 >>* Pouch:
 >>	* 2x [[Alchemist#Concoctions|Coagulation Concoction, Minor]]
 >>	* 1x [[Alchemist#Concoctions|Recovery Concoction, Minor]]
->>
 ^1c1710

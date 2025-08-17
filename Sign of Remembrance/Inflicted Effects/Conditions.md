@@ -35,7 +35,10 @@ A restrained creature has a -2 penalty to all rolls based on Strength and Dexter
 A stunned creature is unable to move and use any actions, quick actions and reactions. Attacks against the creature are made with advantage, they have disadvantage on Initiative saving throws, and they don't add ability modifiers to their AC calculation.
 #### Tired
 While tired, a creature has a -2 penalty to all rolls which aren't flat checks, and -2 to AC. In addition, their movement speed is 5' slower.  
-A creature usually isn't tired to this extent on regular circumstances, unless it didn't receive a night's sleep, hasn't drunk or eaten for a day or was magically put in this condition.
+This condition expresses an extreme scenario of exhaustion, which does not usually happen unless a creature is magically put under this condition, or one of the following happens:
+* They have not [[Provisioner#Cheap Equipment and Services|eaten]] at least 2 rations during that day or 3 rations if they traveled at least 16 miles on foot that day.
+* They have not drunk water or equivalent drinks that day.
+* They did not take a long rest that day.
 #### Toppled
 While toppled, a creature's movement speed is zero, and both the creature and the one who toppled them are prone in the same position. An effect which forces the toppling creature away from the toppled creature ends this condition.
 

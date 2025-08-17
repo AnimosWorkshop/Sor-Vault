@@ -1,5 +1,7 @@
-#Profession 
-- - -
+---
+tags:
+  - Profession
+---
 ## [[Spell Foci]]
 
 | **Item** | **Cost** | **Weight** | **Notes**                                                                                                                                                                                                                                                                 |

@@ -1,6 +1,13 @@
 -- -- ---
 ## Natural Concepts
 
+### Directions
+
+* gervano - north
+* tolpaxa - east
+* navrega - south
+* xaploto - west
+
 ### Time
 * bulzorm - past
 * dor - night

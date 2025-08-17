@@ -1,6 +1,25 @@
 -- - -
 ## 1st Level
 
+
+>[!danger]- Guard
+>>[!info]- Basics
+>>* [[Orc#Berserker Orc]]
+>>* Attributes - 18 / 16 / 12 / 12 / 8 / 10 / 13
+>>* Saves - +6 / +3 / +2 / +3
+>>* HP - 26, 1d10
+>>* AC - 14 chain shirt (piercing, fire)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Athletics (Strength) +7, Intimidation (Strength) +6
+>>* Classes - [[Fighter]] 1st ([[Fighter#^a688fd|Swift Grab]])
+>>* Arms:
+>>	* Battleaxe (heavy; versatile 1d12 slashing / piercing) - 1d10 + 4 slashing / piercing
+
+^cd2b3d
+
+
 >[!danger]- Scout
 >>[!info]- Basics
 >>* [[Elf#Wood Elf]]
@@ -13,9 +32,8 @@
 >>[!info]- Specifics
 >>* Classes - [[Trickster]] 1st
 >>* Arms:
->>	* Shortsword (finesse, pommel) - 1d6 + 4 slashing / piercing
+>>	* Shortsword (light; finesse, pommel) - 1d6 + 4 slashing / piercing
 >>	* Buckler
-
 ^6aa3e7
 
 - - -
@@ -34,7 +52,7 @@
 >>* Skills (+1 from lone wolf) - Athletics (Strength) +7, Intimidation (Charisma) +6
 >>* Classes - [[Sentinel]] 2nd
 >>* Arms:
->>	* Bayonet Longbow (ammunition (100' / 400')) - 1d8 + 3 piercing + 1 lone wolf
+>>	* Bayonet Longbow (heavy; ammunition (100' / 400')) - 1d8 + 3 piercing + 1 lone wolf
 >>* Martial Techniques - [[Unbalancing Kick]]
 >>* [[Provisioner#Mid-Range Equipment|Refreshening straw]]
 ^2a16f5
@@ -53,7 +71,7 @@
 >>* Classes - [[Transmuter]] 2nd
 >>* Martial Techniques - [[Precise Strike]]
 >>* Arms:
->>	* Rapier (finesse, tool (Deception)) - 1d10 + 3 piercing + 1d6 adder venom
+>>	* Rapier (medium; finesse, tool (Deception)) - 1d10 + 3 piercing + 1d6 adder venom
 >>	* Kite Shield
 ^99605d
 -- - ---
@@ -74,8 +92,8 @@
 >>* Classes - [[Fighter#Skewer (dagger, estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)|Skewer]] [[Fighter]] 3rd ([[Fighter#Swift Grab|Swift Grab]])
 >>* Martial Techniques - [[Reel In]]
 >>* Arms:
->>	* Rondel (light, finesse, pommel, lethal 1) - 1d4 + 4 piercing + 1d4 adder venom
->>	* Hook (light, tool (Athletics)) - 1d4 + 4 piercing
+>>	* Rondel (light; finesse, pommel, lethal 1) - 1d4 + 4 piercing + 1d4 adder venom
+>>	* Hook (light; tool (Athletics)) - 1d4 + 4 piercing
 >>* 2 [[Alchemist#Harmful Substances|adder venom, minor]]
 ^d850b7
 -- - - -
