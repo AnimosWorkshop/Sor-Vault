@@ -5,18 +5,18 @@ tags:
 ---
 ## Feature Table
  
-| **Transmuter Level** | **Features**                                                                 |
-| -------------------- | ---------------------------------------------------------------------------- |
-| 1st                  | [[#Alchemechanical Infusion]], [[#Makeshift Alchemy]]                        |
-| 2nd                  | [[#Alchemical Affinity]], [[#Martial Techniques]], [[#Attribute Increase]]   |
-| 3rd                  | [[#Opus Creation]]                                                           |
-| 4th                  | [[#Momental Attack]], [[#Martial Techniques]], [[#Attribute Increase]]       |
-| 5th                  | [[#Advanced Infusion]]                                                       |
-| 6th                  | [[#Vitality Transference]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 7th                  | [[#Makeshift Alchemy]], [[#Upgraded Opus]]                                   |
-| 8th                  | [[#Martial Techniques]], [[#Attribute Increase]]                             |
-| 9th                  |                                                                              |
-| 10th                 | [[#Martial Techniques]], [[#Attribute Increase]]                             |
+| **Transmuter Level** | **Features**                                                                    |
+| -------------------- | ------------------------------------------------------------------------------- |
+| 1st                  | [[#Alchemechanical Infusion]], [[#Makeshift Alchemy]]                           |
+| 2nd                  | [[#Alchemechanical Infusion]], [[#Martial Techniques]], [[#Attribute Increase]] |
+| 3rd                  | [[#Opus Creation]]                                                              |
+| 4th                  | [[#Alchemechanical Infusion]], [[#Martial Techniques]], [[#Attribute Increase]] |
+| 5th                  | [[#Alchemechanical Infusion]], [[#Advanced Infusion]]                           |
+| 6th                  | [[#Vitality Transference]], [[#Martial Techniques]], [[#Attribute Increase]]    |
+| 7th                  | [[#Makeshift Alchemy]], [[#Upgraded Opus]]                                      |
+| 8th                  | [[#Martial Techniques]], [[#Attribute Increase]]                                |
+| 9th                  |                                                                                 |
+| 10th                 | [[#Martial Techniques]], [[#Attribute Increase]]                                |
 
 # Prerequisites
  
@@ -51,21 +51,27 @@ In order to advance as a transmuter, you must meet the following prerequisites:
 # Class Features
  
 ## Alchemechanical Infusion
- 
-Whenever you make a weapon attack, you can infuse your weapon to increase its potency, increasing the weapon's damage die by 1 for the attack.  
-In addition, as a reaction to being attacked by a weapon, you may attempt to defuse the weapon. If you do, the weapon's damage die decreases by 1 for the attack.
 
-You may use a total number of infusions up to your transmuter level each round, resetting at the start of your turn.
+As a transmuter, you gain access to alchemechanical infusions, which allow you to enhance the potency of certain actions. The number of infusions you can perform is equal to twice your proficiency modifier, and they are replenished at the start of your turn. This feature lists all the available infusion triggers a transmuter gets, along with their level requirement and effect. 
+
+If a trigger notes it requires a reaction and you have the [[#Advanced Infusion]] feature, you spend only 1 reaction for all infusions for this trigger.
+
+* On making a weapon attack:
+	* Offensive Infusion (1st) - Increase the size of the weapon's damage die by 1.
+	* Rapid Alchemical Enhancement (2nd) - If the weapon is an alchemical bomb or harmful flask, or is enhanced by an alchemical substance such as venoms or a crystallizer, increase the damage die of the substance by 1.
+	* Precision Strike (4th) - Increase the attack roll by 1, and by an additional 1 if the enemy is [[Conditions#Grappled|grappled]], [[Conditions#Restrained|restrained]] or [[Conditions#Prone|prone]].
+	* Biomechanical Catapult (4th) - If the weapon is thrown, increase its range by its original range increment (double for the first infusion, triple for the second, etc.)
+* On being attacked by a weapon attack (requires a reaction):
+	* Defensive Diffusion (1st)  - Decrease the size of the weapon's damage die by 1.
+	* Adaptive Mold (5th, \*) - If the attack hits, after damage is dealt, gain resistance 1 against the highest dealt damage type.
+* On being healed by a concoction or alchemical dart:
+	* Alchemical Restoration (2nd) - Increase the size of each healing die by 1.
+* On being forced to make a saving throw against a non-magical effect (requires a reaction):
+	* Dissipative Force (5th, \*) - If you succeed on your save, the creature which forced you to make that save must use a quick action to recover, or take a -2 penalty to their imposed DC for the same action type for the next minute.
  
 ## Makeshift Alchemy
  
 As a professional alchemist, you possess the ability to make improvised tools which emulate the effects of other alchemical items. Once per long rest, you may spend half an hour create [alchemical items](Alchemist.md) under the Bombs, Harmful Substances and Concoctions sections which cost up to 16 sc * your transmuter level for free, using materials from your surroundings as ingredients. These items deteriorate once you take your next long rest, or 16 hours pass.
- 
-## Alchemical Affinity
- 
-Your affinity with alchemy as both a profession and a way of life, increases as you improve in weaving it through battle. 
-Starting at 2nd level, whenever you attack with a weapon enhanced by an alchemical substance such as venoms or a crystallizer, you may use your alchemechanical infusion to increase the damage die of the substance by 1. You may also enhance damage die from substances applied by a flask or dart in this way.
-In addition, whenever a concoction would restore hit points to you, or you would use a dart with a healing concoction to heal a creature, you may use an alchemechanical infusion to increase the healing die by 1. For a coagulation concoction, this would effectively raise each of the hit dice expended.
  
 ## Martial Techniques
  
@@ -103,16 +109,11 @@ As long as you consciously wield this weapon, you cannot be disarmed from it aga
 ### Sure Sight Helmet
 
 The helmet can switch between two modes: one according to your [[Vision|vision type]] (whether be it: lightvision, nullvision or darkvision), and one vision type lighter or darker than the one you have. While you put on the helmet, you may switch between these two modes using a quick action.
- 
-## Momental Attack
- 
-At 4th level, you understand how to stretch your gain of momentum to its limit, allowing you to swing with extreme force. When you make an weapon attack roll, you may use an alchemechanical infusion to get a +1 bonus to your attack roll. This can be used with conjunction with the damage die infusions.
-In addition, whenever you attack with a thrown weapon, you may use Alchemechanical Infusion feature to instead double the weapon's range. Stacking this effect more than once makes the range: tripled, quadrupled, etc.
-
 ## Advanced Infusion
  
-Starting at 5th level, your infusions become more powerful. Whenever you would be able to use an alchemechanical infusion, you may use two instead for a doubled effect.
- 
+Starting at 5th level, your infusions become more powerful. Whenever you would be able to use an [[#Alchemechanical Infusion|alchemechanical infusion]], you may use two. You may use the same infusion twice for a doubled effect.
+In addition, the infusions list contains some options marked by \*. These are advanced infusions, and you may use a total number of advanced infusions equal to your Intelligence modifier per long rest.
+
 ## Vitality Transference
  
 At 6th level, you unlock the ability to extract some of your own vital essence, and transform it into a drinkable fluid, which, when drunk, "redeems" the life energy as health. Once during a short rest, you may spend 10 minutes and expend any amount of hit dice in order to transfer the vital essence from yourself into a small water vial, which fills with a semi-translucent concoction. You may prepare any amount of vials this way during the rest, so long as each contains at least one hit die.
@@ -121,7 +122,7 @@ In addition, your body adapts to survive such operations by becoming more resili
  
 ## Mutable Alchemy
  
-At 7th level, you are able to create a mutable alchemical kit using your [[#Makeshift Alchemy|makeshift alchemy supplies]], made up of different substance which are only almost stabilized. When you prepare your makeshift alchemy supplies, choose an amount of gold up to 4 sc * your Transmuter level. This amount is subtracted from your supplies, and enters the mutable kit. Using a minor interaction, you are able to create one item from these materials, subtracting its cost from the amount of remaining materials.
+At 7th level, you are able to create a mutable alchemical kit using your [[#Makeshift Alchemy|makeshift alchemy supplies]], made up of different substance which are only almost stabilized. When you prepare your makeshift alchemy supplies, choose an amount of gold up to 4 sc * your Transmuter level. This amount is subtracted from your supplies, and enters the mutable kit. Using a [[Action Economy#^359f07|minor interaction]], you are able to create one item from these materials, subtracting its cost from the amount of remaining materials.
 When you take a long rest, any unused items and supplies deteriorate.
 
 ## Upgraded Opus
