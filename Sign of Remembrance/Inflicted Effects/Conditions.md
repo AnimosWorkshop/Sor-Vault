@@ -5,7 +5,7 @@ tags:
 #### Decaying
 Negative energy flows through your veins, disrupting your healing processes. Any form of healing you receive recovers only half the hit points it should have, rounded down.  
 >[!example]
->You receive half the healing from potions, spells, etc., and also recover only half the difference between your maximum and current hit points during a long rest.
+>You receive half the healing from concoctions, spells, etc., and also recover only half the difference between your maximum and current hit points during a long rest.
 #### Encumbered
 An encumbered creature has a -2 penalty to all rolls based on Strength and Dexterity, including Resilience and Initiative saving throws, as well as to their AC. In addition, their movement speed is 10' slower.  
 
@@ -39,7 +39,7 @@ Being fatigued has three degrees, with rising severity:
 2. Movement speed decreased by 10', -2 to saving throws, -1 to attack rolls, AC and skill checks.
 3. Movement speed decreased by 15', -2 to all rolls which are not flat checks and AC.
 
-Receiving this condition while already tired increases its magnitude by the applied amount. Then, having this condition alleviated by any of the effects ending decreases it by that magnitude.
+Receiving this condition while already fatigued increases its magnitude by the applied amount. Then, having this condition alleviated by any of the effects ending decreases it by that magnitude.
 #### Toppled
 While toppled, a creature's movement speed is zero, and both the creature and the one who toppled them are prone in the same position. An effect which forces the toppling creature away from the toppled creature ends this condition.
 

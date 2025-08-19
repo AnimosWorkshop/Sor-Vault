@@ -18,11 +18,11 @@ tags:
  
 In order to advance as a metamage, you must meet the following prerequisites:
 
-- **Constitution 13.**
+- **Constitution 13.** To withstand the deteriorating effects of magic upon one's body, a high physical tolerance is required.
 - **Expert with Sorcery.** Metamages do not necessarily specialize in any particular magic type, but they know the theory to all - what drives them, and how to manipulate them.
-- **5th level character.**
+- **5th level character.** Unlocking the true potential of sorcery requires extensive research not only by book, but by foot as well, as metamages deal with applied magic.
 - **3rd level caster (combined).** No matter what magic type the metamage uses, they must be confident enough in their abilities to execute manipulations over traditional casting.
-- **Complete special training.**
+- **Complete special training.** Going around casting spells is one thing, but understanding the hidden depths and nuances is another matter entirely. Some guided perspective, both about the theory and application of this science, is well-needed.
 - - -
 ## Class Properties
 
@@ -63,6 +63,8 @@ You may use this feature a number of times equal to your proficiency modifier. T
 ### Sorcerous Annihilation
  
 At 2nd level, you learn the principle of nullification by applying magic negative to one that affects you. While you are affected by a curse lasting 24 hours or less, you may use your action and spend a spellcasting (for example: resonance, influence, mana, etc.) of the same level as that curse in order to end that curse, and gain temporary hit points equal to five times the curse's level. If that curse was of the same type you had used, you gain temporary hit points equal to ten times the curse's level instead.
+
+In addition, you have a bonus to saving throws against spell effects equal to half your metamage level, rounded up.
  
 ### Attribute Increase
  
