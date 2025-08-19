@@ -9,11 +9,11 @@ tags:
 | -------------------- | ---------------------------------------------------------------------------- |
 | 1st                  | [[#Alchemechanical Infusion]], [[#Makeshift Alchemy]]                        |
 | 2nd                  | [[#Alchemical Affinity]], [[#Martial Techniques]], [[#Attribute Increase]]   |
-| 3rd                  | [[#Opus Creation Specialty]]                                                 |
+| 3rd                  | [[#Opus Creation]]                                                           |
 | 4th                  | [[#Momental Attack]], [[#Martial Techniques]], [[#Attribute Increase]]       |
 | 5th                  | [[#Advanced Infusion]]                                                       |
 | 6th                  | [[#Vitality Transference]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 7th                  | [[#Makeshift Alchemy]], [[#Upgraded Opus Specialty]]                         |
+| 7th                  | [[#Makeshift Alchemy]], [[#Upgraded Opus]]                                   |
 | 8th                  | [[#Martial Techniques]], [[#Attribute Increase]]                             |
 | 9th                  |                                                                              |
 | 10th                 | [[#Martial Techniques]], [[#Attribute Increase]]                             |
