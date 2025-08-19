@@ -25,5 +25,4 @@ _Berserker orcs are regarded by many as “barbaric” and “uncivilized”, bu
 _Nomad orcs get their name from the traveling that is associated with them. As they are able to go from cold to hot areas and vice versa without any problem acclimatizing, their culture revolves around the endless wonder of the world, collecting memories along the path and sharing it with others, who might one day aspire to attempt their own journey too._
  
 **Racial Attribute Bonus:** Your Wisdom score increases by 1.  
-**Acclimatize:** You are naturally adapted to both hot climates and cold climates.  
-**Find the Trail:** You know from experience how to locate trails and scarce places of foraging. You are novice with Nature.
+**Acclimatize:** You are naturally adapted to both hot climates and cold climates. In addition, you are novice with Athletics, and whenever you have to roll an Athletics (Constitution) check against [[Travel and Rest#Travel|fatigue]], you get a +1 bonus.

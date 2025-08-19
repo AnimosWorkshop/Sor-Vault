@@ -25,4 +25,4 @@ When a creature undies, the undead racial features are added to the creature's s
     - Ghost Fortitude - The creature loses 8 maximum hit points and their AC is lowered by 2, but they are resistant to: Slashing, Bludgeoning, Piercing damage, and are resistant 2 to Necrotic damage.
 - Languages - all undead learn Peralian upon their undeath.
  
-While zombies still need to eat, ghosts may feast on surrounding aura passively to maintain themselves. However, all undead still require sleep to not become tired. In addition, all undead continue to age and decay passively, according to their undead race.
+While zombies still need to eat, ghosts may feast on surrounding aura passively to maintain themselves. However, all undead still require [[Travel and Rest#Rest|sleep]] to not become fatigued. In addition, all undead continue to age and decay passively, according to their undead race.

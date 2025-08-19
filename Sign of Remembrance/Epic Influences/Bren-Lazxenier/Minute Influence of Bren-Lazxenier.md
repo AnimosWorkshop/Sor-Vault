@@ -6,4 +6,4 @@ Your Strength and Wisdom scores each increase by 1, and your Intelligence decrea
 * Your base movement speed increases by 5'.
 * You get a +1 bonus to all saving throws.
 
-This state lasts for 10 minutes or until danger has passed. After that, you become [[Conditions#Tired|tired]] until you perform a short or long [[Rest and Hit Dice|rest]].
+This state lasts for 10 minutes or until danger has passed. After that, you become [[Conditions#Fatigued|fatigued 1]] until you perform a short or long [[Travel and Rest|rest]].
