@@ -9,8 +9,8 @@ tags:
 | **Sentinel Level** | **Features**                                                                |
 | ------------------ | --------------------------------------------------------------------------- |
 | 1st                | [[#Harmony within Everything]], [[#Inner Focus]]                            |
-| 2nd                | [[#Deflecting Instinct]], [[#Martial Techniques]], [[#Attribute Increase]]  |
-| 3rd                | [[#Grazing Style]]                                                          |
+| 2nd                | [[#Grazing Style]], [[#Martial Techniques]], [[#Attribute Increase]]        |
+| 3rd                | [[#Keen Observer]]                                                          |
 | 4th                | [[#Enhanced Focus]], [[#Martial Techniques]], [[#Attribute Increase]]       |
 | 5th                | [[#Focus Strikes]]                                                          |
 | 6th                | [[#Stance]], [[#Martial Techniques]], [[#Attribute Increase]]               |
@@ -91,9 +91,9 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
  
 When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
 
-### Keen Observer * (also look at Dodge)
+### Keen Observer
 
-At 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. Up to once per round when you use the [[Action Economy#^047348|assess]] quick action, you may forgo learning up to 2 facts you would as a part of the quick action, and raise your graze range by the same amount.
+At 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. Up to once per round when you use the [[Action Economy#^047348|assess]] quick action, you may forgo learning up to 2 facts you would as a part of the quick action, and raise your graze range by the same amount + 1.
 You also gain 1 proficiency level in any skill of your choice.
 
 ### Enhanced Focus

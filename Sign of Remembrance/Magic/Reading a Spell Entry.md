@@ -37,13 +37,14 @@ Getting caster levels can be done in one of two ways. The common and standard on
 
 There are three types of magic in Sign of Remembrance:
 
-- [Arcana](Arcana.md) - spells which control space using the Arcane Web
-- [Auramancy](Auramancy.md) - spells which control living creatures' biological processes using their aura
+- [Arcana](Arcana.md) - spells which control space using the Arcane Web ^0b3f76
+- [Auramancy](Auramancy.md) - spells which control living creatures' biological processes using their aura ^2a9e7e
 - [Histolecty](Histolecty.md) - spells which control creatures' souls using the bonds between them
 
 To cast a spell of a specific magic type, one must be a caster of that type: either an arcanist, an auramancy or a histolect. More information about these caster types can be found in the appropriate casting page.
  
-><u>Note:</u> If a racial feature or a magic items allow you to cast a spell or use a spell-like ability (indicated by "this feature counts as a … for the purpose of magic detection"), you may only add your proficiency modifier to the spellcasting bonus if you are a 1st level caster or higher of the spell's magic type. For example, a water nymph may only add their proficiency modifier in the Alluring Song racial feature if they are a 1st level histolecty or higher. It also means that they are unable to use that feature without being able to provide the verbal and somatic components.
+>[!note] 
+>If a racial feature or a magic items allow you to cast a spell or use a spell-like ability (indicated by "this feature counts as a … for the purpose of magic detection"), you may only add your proficiency modifier to the spellcasting bonus if you are a 1st level caster or higher of the spell's magic type. For example, a [[Nymph#Water Nymph|water nymph]] may only add their proficiency modifier in the Alluring Song racial feature if they are a 1st level histolecty or higher. It also means that they are unable to use that feature without being able to provide the verbal and somatic components.
  
 ### Spell School
 
