@@ -9,7 +9,7 @@ Alongside the _base classes_, which can be taken starting from 1st level, there 
 
 >[!example] Example - Nullifier Prerequisites
 >![[Nullifier#Prerequisites]]
->Therefore, a character can become nullifier at least when they reach 6th level, and after taking at least 2 levels as a trickster already.
+>Therefore, a character can become nullifier at least when they reach 6th level, and after having taken at least 2 levels as a trickster already.
 
 It is thus clear that there is no requirement for characters to take levels in only one class: each level makes for a separate decision; however, class features do tend to become more powerful at higher levels, so spreading too thin is a risk as well.
 
