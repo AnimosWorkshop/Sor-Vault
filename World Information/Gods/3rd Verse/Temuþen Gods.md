@@ -14,7 +14,15 @@ Vilidin came to the Bronze Archipelago from the Black Dragonland after the Great
 
 >[[Fariste#Scholar Fariste|Scholar]] [[Fariste]]; Puppeteering [[Wizard]] 10th; [[Major Blessing of Curiosity]]
 
-The direct firstborn descendent of the inventor of the school of puppeteering Marga Roid, Alieca now leads her people with great strength. The Puppeteers, Now called _ta Evnieþ_ (the family), used to be spread throughout all dragonlands during the 2V, with only a blood relation and connecting them together, through which they shared 
+The direct firstborn descendent of the inventor of the school of puppeteering Marga Roid, Alieca now leads her [[Urevneþ|people]] with great strength. In the year 1271 2V, while her mother was still the head of the family, Alieca was kidnapped by a group led by [[#Lirika]] from her home in the Silver Dragonland, in the hopes of being able to leverage the Puppeteers into giving her the power sealed within the Roid vault. Her mother, bearing the responsibility of generations past and generations to come, responded by war, during which she was killed a year after.
+
+Alieca managed to flee her captors as they were trying to smuggle her through [[Avsekoper|Copperland]], and hid in the last place where they'd try to find her: the Copperland army. Since Puppeteers refused to join the army, from the will not to face their brethren on the battlefield, she managed to dodge Lirika's eye, as the then-successor was instead focused on quieting rumors about the war and the kidnapping to maintain the appearance of the dragonland as a peaceful nation.
+
+After serving more than the mandatory period in the Copperland army and becoming an officer to adapt a more advanced tactical skill and leadership, she coordinated with [[#Meralien (Meralyn) Martor|Meralien Martor]], a successor at the time and a denounced Puppeteer, to ensure her safe passage from the country to the realm of [[Heliax]]. There, she earned the trust of the goddess Nidora, and pleaded her to aid in gaining the favor of Gharil, a Temuþen god who was sealed within Central Island for the whole of 2V.
+
+After spending years in learning and serving under Nidora, the goddess confided her that Lakien, Gharil's archbishop for over a millenium at that point, proved with time to be primarily a man of words, after having the bulk of his contribution during the first century of his appointment, and expressed her worries for Temuþan if the successors would ever look up to him for guidance. She appreciated Alieca's ambition and will to grow and learn, and knew that she was much more than her impressive family tree. 
+
+With Nidora's metaphorical blessing, Alieca traveled to Central Island and argued her case to Gharil, only a year before the Second Cataclysm. Furious to have been blinded by Lakien due to his inability to know what was happening in the world outside Central Island, and trusting the judgement of his wife, Gharil decided to revoke the successorship of Lakien and grant it instead to Alieca.
 
 ### Meralien (Meralyn) Martor
 ### Þea of Maþak
