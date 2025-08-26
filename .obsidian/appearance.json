@@ -3,7 +3,7 @@
   "baseFontSize": 17,
   "baseFontSizeAction": true,
   "cssTheme": "Ukiyo",
-  "textFontFamily": "Calibri,Georgia",
+  "textFontFamily": "Calibri,Big Caslon,Georgia",
   "monospaceFontFamily": "Sabon Next LT,American Typewriter",
   "interfaceFontFamily": "Sabon Next LT,Calibri,Georgia"
 }

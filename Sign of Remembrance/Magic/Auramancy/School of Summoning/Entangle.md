@@ -10,4 +10,4 @@ The flora wilt if the target succeeds on their saving throw, if they are lowered
  
 **At Higher Levels:** 
 * (+1) While in range, you may use a quick action to strangle the target, dealing in total 1d6 bludgeoning damage for each spell level above 1st. 
-* (+1) The flora also have 6 additional hit points.
+* (+1) The flora have 6 additional hit points.

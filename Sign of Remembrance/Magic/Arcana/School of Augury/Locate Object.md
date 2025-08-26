@@ -4,4 +4,4 @@
 - Range: Self
 - Duration: Concentration, up to 10 minutes  
 
-You focus on one specific item you've personally seen and interacted with. You sense the direction to the object’s location, as long as that object is within 1000' feet of you. If the object is within range and in motion, you also know the direction of its movement.
+You focus on an object you've interacted with at some point during the last year, connecting to its being to sense where it is present today. For the boon's duration, if the object is within 20 miles of you, you become aware of direction of the shortest trajectory from you to it, and it if it is moving you are also aware of its direction of movement relative to itself.

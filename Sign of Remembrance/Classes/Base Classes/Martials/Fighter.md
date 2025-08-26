@@ -148,11 +148,11 @@ At 9th level, you become a master of manipulating every advantage you can muster
 * Add another [[#Dirty Tactics|dirty tactic]] to adopt out of the list.
 * If you already have two dirty tactics, upgrade both into [[#Advanced Dirty Tactics|advanced dirty tactics]].
 * If you already have a singular advanced dirty tactic, upgrade it as following:
-	* Careful Step - Using the disengage action or quick action now allows you to use the [[Action Economy#^1e684d|disorient]] action as a free action. If you disengaged as a quick action, your target has a +2 bonus to their saving throw against it.
-	* Choke - A creature grappled, restrained or toppled by you is pacified 1.
-	* Fan - Add your attribute modifier an additional time for damage rolls for thrown weapons.
-	* Shield Bash - Shields you use have their [[Weapon Rules#Lethal|lethal]] trait increased by 1.
-	* Swift Grab - While grappling, restraining or toppling a creature, you have a +1 bonus to your damage rolls and AC.
+	* _Careful Step_ - Using the disengage action or quick action now allows you to use the [[Action Economy#^1e684d|disorient]] action as a free action. If you disengaged as a quick action, your target has a +2 bonus to their saving throw against it.
+	* _Choke_ - A creature grappled, restrained or toppled by you is pacified 1.
+	* _Fan_ - Add your attribute modifier an additional time for damage rolls for thrown weapons.
+	* _Shield Bash_ - Shields you use have their [[Weapon Rules#Lethal|lethal]] trait increased by 1.
+	* _Swift Grab_ - While grappling, restraining or toppling a creature, you have a +1 bonus to your damage rolls and AC.
 ### Specialty Mastery
  
 At 10th level, you master your arms specialty wholly, allowing you to add twice your proficiency modifier to attack rolls with those weapons and increase the weapon's damage die by 1. In addition, you learn a special move depending on the specialty you chose, which you can attempt when you make a weapon attack with your specialty weapon once per round:
