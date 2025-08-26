@@ -10,7 +10,7 @@
 
 - [[Fey Gods#Sanae|Sanae]] - Goddess of Change
 - -
-- [[Temuþen Gods#Ashe Faranor|Ashe]] - The Charitable
+- [[Temuþen Gods#Ac Farnor|Ac]] - The Charitable
 ### Gharil - God of Confidence
 
 - -
