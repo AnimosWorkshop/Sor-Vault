@@ -4,6 +4,7 @@
 * akelū - to focus / to center
 * alalū - to make noise
 	* alaliul - noisy / loud
+* alū - to bring joy
 * arenū - to follow / to worship
 	* mal-areniene - god
 * arterū - to create
@@ -41,6 +42,8 @@
 * dahrū - to kill
 	* mal-dahrū - to die
 * dalkatū - to reject
+* danrū - to be courageous
+	* danro - courage
 * delnū - to greet
 	* deln - hello
 * dihū - to sell
@@ -100,6 +103,8 @@
 * goblū - to invent
 * gorezū - to happen
 	* goreziera - happening / event
+* gramū - to darken
+	* grama - dark
 * hafalū - to trade
 	* hafalieng - money
 * hafnū - to bestow luck
@@ -158,6 +163,7 @@
 * krenū - to adopt (a habit / something)
 * kumonū - to lose (at something)
 * kū - to be / to exist
+* kxotū - to bite
 * lalabū - to shorten
 * laþū - to beget
 	* laþien - parent
@@ -180,6 +186,9 @@
 * macū - to blind
 	* mac - sand
 	* macklazo - quicksand
+* margū - to lighten
+	* marga - light
+	* margo - spark
 * mazrū - to make (someone) used to
 * meralū - to have mercy
 * mevxū - to plan

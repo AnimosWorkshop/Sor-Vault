@@ -14,7 +14,7 @@
 ### Gharil - God of Confidence
 
 - -
-- [[Temuþen Gods#Alicia Royd|Alicia]] - The Puppeteer
+- [[Temuþen Gods#Alieca Roid|Alieca]] - The Puppeteer
 - -
 - - -
 ## Exala, Architect of Preida

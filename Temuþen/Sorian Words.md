@@ -12,3 +12,7 @@ These are formulated as [[adjectives]] as they describe a feature of a creature.
 * homium - [[human]]
 * orkium - [[orc]]
 * videnium - [[vident]]
+
+### Animals
+
+* [[Non-Player#^624efe|dorkxote]] - a night mammal native to Temuþan

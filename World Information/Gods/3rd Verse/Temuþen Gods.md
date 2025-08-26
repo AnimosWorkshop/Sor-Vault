@@ -10,9 +10,11 @@ Vilidin came to the Bronze Archipelago from the Black Dragonland after the Great
 ### Ashe Faranor
 ### Lirika
 
-### Alicia Royd
+### Alieca Roid
 
 >[[Fariste#Scholar Fariste|Scholar]] [[Fariste]]; Puppeteering [[Wizard]] 10th; [[Major Blessing of Curiosity]]
+
+The direct firstborn descendent of the inventor of the school of puppeteering Marga Roid, Alieca now leads her people with great strength. The Puppeteers, Now called _ta Evnieþ_ (the family), used to be spread throughout all dragonlands during the 2V, with only a blood relation and connecting them together, through which they shared 
 
 ### Meralien (Meralyn) Martor
 ### Þea of Maþak

@@ -19,6 +19,8 @@ Appears to be a tall, quiet woman who often bears a deadpan expression, consider
 ### Renatke
 
 >[[Zirval#Beckoned Zirval|Beckoned]] [[Zirval]]; Protection [[Druid]] 10th
+
+Renatke is of the firm belief that nature provides for those who are willing to provide for nature. She looks at the wondrous world of Preida, with the world itself adapting to each race inhabiting it; and to [[Temuþan]], with the climate adapting to the preference of each elder dragon. It is undeniable for her that remains of the ancient Architects, gods of the First Verse, are still present in the worlds they created and in the will of nature.
 ### Seiran
 
 >[[Gargoyle#Fargo Gargoyle|Fargo]] [[Gargoyle]]

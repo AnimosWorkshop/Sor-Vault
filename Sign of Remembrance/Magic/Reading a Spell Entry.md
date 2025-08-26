@@ -57,7 +57,7 @@ Spells are categorized into 10 schools of magic, each containing spells which ar
 - Decay - relating to death and dangerous substances, such as acid and poison. Specialists of this school are called decayers.
 - Displacement - relating to manipulation of space. Specialists of this school are called displacers, and it is limited to Arcana.
 - Illusion - relating to the manipulation of perception and creating false impressions. Specialists of this school are called illusionists.
-- Puppeteering - relating to the fine manipulation of objects from afar. Specialists of this school are called puppeteers, and it is limited to Arcana. This school was invented by Margaret Royd, who lived during the start of the Second Verse, and has left the specialists of her school as a closed society, allowing study of the school only to those who are related by blood.
+- Puppeteering - relating to the fine manipulation of objects from afar. Specialists of this school are called puppeteers, and it is limited to Arcana. This school was invented by Marga Roid, who lived during the start of the Second Verse, and has left the specialists of her school as a closed society, allowing study of the school only to those who are related by blood.
 - Summoning - relating to the summoning of elementals, which are manifestations of magic in creature form. Specialists of this school are called summoners.
 - Tempest - relating to the aspects of storm, lightning and thunder. Specialists of this school are called tempestists.
  

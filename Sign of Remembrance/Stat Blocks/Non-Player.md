@@ -1,4 +1,30 @@
+-- - -
+## Bestial
+
+>[!danger]- Dorkxote
+>>[!info]- Appearance and General Information
+>>This night predator is a fierce animal native to the mountainous regions of Temuþan, such as Loþano and Estrana. Its jaw can open wide, enabling it to bite and chew big animals relative to its own size.
+>
+>>[!info]- Basics
+>>* Medium Beast
+>>* Attributes - 16 / 13 / 14 / 10 / 4 / 12 / 12
+>>* Saves - +5 / +6 / +3 / +3
+>>* HP - 28, 2d10
+>>* AC - 12 natural (slashing)
+>>* Movement - 30' walking
+>>* Vision - darkvision
+>
+>>[!info]- Specifics
+>>* Skills - Athletics (Strength) +6, Stealth (Dexterity) +5
+>>* Attacks:
+>>	* Claw (light; natural) - 1d6 + 3 slashing damage.
+>>	* Bite (medium; natural, tool (Athletics)) - 1d8 + 3 piercing damage. On a hit, the dorctaze may choose to [[Conditions#Grappled|grapple]] the attacked creature as a quick action.
+>>	* Chew (medium; natural, tool (Athletics)) - can only be used against a bitten and grappled or restrained target, 1d6 + 3 piercing damage. The dorctaze has an advantage on making this attack. On a hit, it may choose to [[Conditions#Restrained|restrain]] the attacked creature as a quick action.
+
+^a42c75
+
 - - -
+
 ## Martial
 
 >[!danger]- Spirit Slime
@@ -19,6 +45,7 @@
 >>	* Unarmed (finesse, light, natural, tool (Athletics)) - 1d6 + 4 bludgeoning, a successful hit allows the slime to make a free [[Action Economy#^b70e3f|brawl action]]
 >>* Necrotic Contact - As a reaction to a melee attack or touch spell being used against this creature, both the enemy and this creature take 1d4 + 2 necrotic damage.
 >>* Necrotic Siphon - Each creature grappled, restrained or toppled by the slime takes 1d10 necrotic damage at the start of their turn.
+
 
 -- - - -
 ## Magical
@@ -46,7 +73,7 @@
 >>	* Stride - As a quick action, the elemental may teleport up to 20' to a point it can see. Creatures within 5' must make an Initiative save, taking 4d4 damage of the chosen element or half on a successful save.
 >>* Emanation - While above half of its maximum HP, the elemental emanates an aura of light, null or dark, depending on its element, in its 5' cube area.
 
->[!danger] Grave Guardian
+>[!danger]- Grave Guardian
 >>[!danger]- Body
 >>>[!info]- Basics
 >>>* Large Construct
