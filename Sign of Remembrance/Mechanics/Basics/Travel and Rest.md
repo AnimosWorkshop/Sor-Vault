@@ -5,6 +5,8 @@ Travel time is dictated by movement speed, and notably as a group, by its slowes
 
 Every 2 hours of travel, creatures walking on foot must take 1 hour of rest. This does not have to be a "short rest", as light activity can still be performed, but it mustn't be travel. If they don't, then at the start of every 2 hours they must make a Constitution save with the DC being 12 + the amount of hours traveled since the last rest. On a fail, their [[Conditions#Fatigued|fatigue]] magnitude is increased by 1 until the next long rest is taken.
 
+In total, a creature can be traveling for 12 hours a day, after which they suffer a level of [[Conditions#Fatigued|fatigue]] which takes 2 long rests to get rid of.
+
 -- - -
 ## Rest
 
