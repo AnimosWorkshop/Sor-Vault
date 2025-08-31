@@ -102,8 +102,8 @@
 - Veila - Goddess of Support; The Directress (Directress of undead)
 - [[Limbani Gods#Ollial|Ollial]] - The Reaper
 - [[Dahrian Gods#Murca|Murca]] - Goddess of Introspection; The Nurturer (Caretaker of undead)
-### Delires - God of Coping
+### Delires - God of Solace
 
 - Sermona - Goddess of Hope (Borderkeeper of Dahrial)
 - Kuzodon - God of Recovery (Manager of the Dahrialian hospital)
-- Carndile - Goddess of Coping (Dahrial's messenger)
+- Carndile - Goddess of Solace (Dahrial's messenger)

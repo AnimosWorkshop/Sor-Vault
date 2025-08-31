@@ -1,4 +1,4 @@
-_Artifact_
+_Relic_
  
 - Weight: 2 lb
 - Magic Type: Arcana

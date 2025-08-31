@@ -1,11 +1,11 @@
 As if the world hasn’t suffered enough in the Second Cataclysm, five of the dragonlands decided to take advantage of the crisis to wage war against the weakened realm. The world has been divided between two main factions:
 
 - Gandecrala (The Dragonlands) – ruled by the chrome dragons and the: gold, brass, blue, black and white dragonflights.
-- Carniules (The Free World) – lead by [[Avsekoper]] which managed to preserve its structure due to its society from before the cataclysm, with the other countries being: [[Urevneþ]] as a new country inhabited by the previously-called Puppeteers, Akelfutes, Breniskal, and the Bronze Archipelago.
+- Carniules (The Free World) – lead by [[Avsekoper]] which managed to preserve its structure due to its society from before the cataclysm, with the other countries being: [[Urevneþ]] as a new country inhabited by the previously-called Puppeteers, [[Akelfutes]], [[Breniskal]], and the [[Bronze Archipelago]].
 
-As the world was divided in twain, large population shifts on both sides ensued, leading to a major humanitarian crisis all over the world. While skepticism from the rest of the worlds grows, a plane at war must somehow take care of the many who have lost their home, and potentially their family as well.
+As the world was divided in twain, large population shifts on both sides ensued, leading to a major humanitarian crisis all over the world. While skepticism from the rest of the worlds grows, a realm at war must somehow take care of the many who have lost their home, and potentially their family as well.
 
-For this reason, two gods who have lost their homes - [[Temuþen Gods#Vilidin|Vilidin]] and [[Temuþen Gods#Ratoki|Ratoki]], both moved into the Bronze Archipelago, and used the support they managed to muster from the locals to create, alongside with Ashe, the Bronze Welfare Service under the umbrella of Temuþan's Divine Alliance to attempt to get a sense of scale of the refugee problem across the Free World and be able to provide first aid solutions to them.
+For this reason, two gods who have lost their homes - [[Temuþen Gods#Vilidin|Vilidin]] and [[Temuþen Gods#Ratoki|Ratoki]], both moved into the Bronze Archipelago, and used the support they managed to muster from the locals to create, alongside with Ac, the Bronze Welfare Service under the umbrella of Temuþan's Divine Alliance to attempt to get a sense of scale of the refugee problem across the Free World and be able to provide first aid solutions to them.
 
 - - -
 ## Third Verse Timeline

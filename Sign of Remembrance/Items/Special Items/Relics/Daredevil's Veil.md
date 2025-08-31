@@ -1,4 +1,4 @@
-_Daredevil Artifact_
+_Daredevil Relic_
  
 - Weight: 1 lb
 - Magic Type: Histolecty

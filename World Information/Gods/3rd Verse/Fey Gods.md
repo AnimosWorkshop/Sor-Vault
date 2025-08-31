@@ -1,6 +1,7 @@
 - - -
 ## Lightseers
 
+### Sanae
 - - -
 ## Darkseers
 
