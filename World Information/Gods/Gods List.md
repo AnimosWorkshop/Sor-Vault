@@ -78,7 +78,7 @@
 - [[Hellenise Gods#Seiran|Seiran]] - Goddess of Assassination
 - [[Temuþen Gods#Meralien (Meralyn) Martor|Meralien]] - God of Secrecy
 
-### Hastur - God of Authority
+### Hastur - God of Leadership
 
 - [[Temuþen Gods#Þea of Maþak|Þea]] - The Nominator
 - [[Limbani Gods#Valeo|Valeo]] - Goddess of the Visionary Leader
