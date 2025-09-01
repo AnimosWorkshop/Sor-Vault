@@ -15,7 +15,7 @@
 
 - [[Limbani Gods#Halvir|Halvir]] - God of Expertise
 - [[Temuþen Gods#Alieca Roid|Alieca]] - Goddess of Growth
-- [[Polerk]] - God of Innovation
+- [[Hellenise Gods#Polerk|Polerk]] - God of Innovation
 - - -
 ## Exala, Architect of Preida
 ### Venandi - God of Curiosity
