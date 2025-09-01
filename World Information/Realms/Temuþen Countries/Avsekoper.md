@@ -1,3 +1,8 @@
+---
+aliases:
+  - Copperoot
+  - Copperland
+---
 - - -
 ## Becoming in the 3rd Verse
 

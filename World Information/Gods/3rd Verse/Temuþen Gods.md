@@ -18,7 +18,15 @@ Ratoki did not wish to destroy the power structure of the Brass Dragonland, nor 
 
 ### Vilidin
 
-Vilidin came to the Bronze Archipelago from the Black Dragonland after the Great Dragon War began. She was betrayed by her country's dragonflight, who felt resentment during these past centuries after Vilidin led a socialist revolution in it, which was what made her rise as a candidate for godhood in the first place. Now, she manages the [[Bronze Welfare Service]] organization alongside [[#Ratoki]] in hope to bring the community of the free world together.
+>[[Dwarf#Dune Dwarf|Dune]] [[Dwarf]]
+
+Vilidin was born in the northern regions of Estrana, in the Black dragon of the 6th century 2V. At the time, the dragonland has evolved beyond the revolutions, and had begun incorporating non-dragon citizens into specialty roles in its army. More than any other country, the Black Dragonland had always considered its natural imitation ability and roaming nature to be its edge over other dragonlands, leading to it becoming an intelligence superpower in the realm. Locked in a war with its southern neighbors in the [[World Information/Realms/Temuþen Countries/Akelfutes|Red Dragonland]], the country chose to make the war effort possible by forcing their enemy to spend more than them on the conflict.
+
+At first, the lass came into the picture as a promising candidate for an intelligence role, but as she considered the role more and more seriously, she looked around at the country she was supposed to focus on less during her service: her home. She noticed how investing so many resources into foreign intelligence often leaves one blind to the troubles at home, which only grew as the main source of social mobility for non-dragons of low status was to join the army for those exact positions.
+
+Vilidin pushed her dragonland to recognize this problem, and move toward a more socialist world view, developing the country's systems without forsaking community. She became invested in [[Gods List#Nidora - Goddess of Cooperation|Nidorian]] worship, and was eventually recognized for her faith and deeds in the form of successorship.
+
+After the Great Dragon War began, Vilidin fled her overtaken home to the [[Bronze Archipelago|Bronze Archipelago]]. She was betrayed by her country's dragonflight, which felt that the revolution she led came to undermine dragon kind. Now, she manages the [[Bronze Welfare Service]] organization alongside [[#Ratoki]] in hope to bring the community of the free world together and manage the many refugees of the war.
 
 ### Niala
 

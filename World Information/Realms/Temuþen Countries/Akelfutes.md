@@ -1,3 +1,8 @@
+---
+aliases:
+  - Redpoint
+  - Red Dragonland
+---
 - - -
 ## Becoming in the 3rd Verse
 

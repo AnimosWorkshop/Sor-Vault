@@ -16,7 +16,7 @@ _Dwarves are a materialistic race, who are taught discipline from young age. Whi
 ## Subraces
 ### Dune Dwarf
  
-_The dune dwarves, uncommon even in the Blue and Brass dragonlands, are a subrace of dwarves who are descendants of explorers, who ventured into the desert lands in before the Sealing. They attempted to stick to their heritage and build their homes close to or under the ground, which proved hard due to the immense heat. As the years have passed, this subrace of dwarves evolved to survive even in these tough environments, and they somewhat opened to the society around them - especially those who live in the Blue dragonland, where hospitality is considered mandatory._
+_The dune dwarves were called this way due to the historical tendency of some to build their homes close to or under the ground, which in the desert proved hard due to the immense heat and the soft soil. As the years have passed, these dwarves adapted to survive even in these tough environments, and they somewhat opened to the society around them - especially those who live in the Blue dragonland, where hospitality is considered mandatory._
  
 **Racial Attribute Bonus:** Your Dexterity score increases by 1.  
 **Desert Adaptation:** You are resistant to fire damage.  
