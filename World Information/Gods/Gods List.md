@@ -13,8 +13,8 @@
 - [[Temuþen Gods#Ac Farnor|Ac]] - The Charitable
 ### Gharil - God of Growth
 
-- -
-- [[Temuþen Gods#Alieca Roid|Alieca]] - The Puppeteer
+- Halvir - God of Expertise
+- [[Temuþen Gods#Alieca Roid|Alieca]] - Goddess of Growth
 - -
 - - -
 ## Exala, Architect of Preida

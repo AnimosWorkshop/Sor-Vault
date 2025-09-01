@@ -81,9 +81,11 @@ Alieca managed to flee her captors as they were trying to smuggle her through [[
 
 After serving more than the mandatory period in the Copperland army and becoming an officer to adapt a more advanced tactical skill and leadership, she coordinated with [[#Meralien (Meralyn) Martor|Meralien Martor]], a successor at the time and a denounced Puppeteer, to ensure her safe passage from the country to the realm of [[Heliax]]. There, she earned the trust of the goddess Nidora, and pleaded her to aid in gaining the favor of [[Gods List#Gharil - God of Confidence|Gharil]], a Temuþen god who was sealed within Central Island for the whole of 2V.
 
-After spending years in learning and serving under [[Gods List#Nidora - Goddess of Collectivity|Nidora]], the goddess confided her that Lakien, Gharil's archangel for over a millenium at that point, proved with time to be primarily a man of words, after having the bulk of his contribution during the first century of his appointment, and expressed her worries for Temuþan if the successors would ever look up to him for guidance. She appreciated Alieca's ambition and will to grow and learn, and knew that she was much more than her impressive family tree. 
+After spending years in learning and serving under [[Gods List#Nidora - Goddess of Collectivity|Nidora]], the goddess confided her that Lakien, Gharil's archangel for over a millenium at that point, proved with time to be primarily a man of words, after having the bulk of his contribution during the first century of his appointment, and expressed her worries for Temuþan if the successors would ever look up to him for guidance. She appreciated Alieca's ambition and will to grow and learn, and knew that she was much more than her impressive family tree.  ^0b9658
 
 With Nidora's metaphorical blessing, Alieca traveled to Central Island and argued her case to Gharil, only a year before the Second Cataclysm. Furious to have been blinded by Lakien due to his inability to know what was happening in the world outside Central Island, and trusting the judgement of his wife, Gharil decided to revoke the successorship of Lakien and grant it instead to Alieca.
+
+More than any of Gharil's other successors, Alieca embodies best what Gharil wished to represent as a god: an force which refuses to die, and demands to grow through all soil, around every obstacle which might come in their way.
 - - -
 ## Gandecrala
 
