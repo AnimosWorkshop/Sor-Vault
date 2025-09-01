@@ -11,14 +11,14 @@
 - [[Fey Gods#Sanae|Sanae]] - Goddess of Change
 - -
 - [[Temuþen Gods#Ac Farnor|Ac]] - The Charitable
-### Gharil - God of Confidence
+### Gharil - God of Growth
 
 - -
 - [[Temuþen Gods#Alieca Roid|Alieca]] - The Puppeteer
 - -
 - - -
 ## Exala, Architect of Preida
-### Venandi - God of Exploration
+### Venandi - God of Curiosity
 
 - -
 - -
@@ -46,7 +46,7 @@
 - [[Hellenise Gods#Verkez|Verkez]] - Goddess of the Crowds
 - [[Fey Gods#Kitas|Kitas]] - God of Rhetoric
 - [[Temuþen Gods#Lirika|Lirika]] - Goddess of Information
-### Armogon - God of Judgement
+### Armogon - God of Justice
 
 - -
 - [[Limbani Gods#Jektel|Jektel]] - The Nullifier
@@ -59,12 +59,12 @@
 - [[Helian Gods#Ildovan|Ildovan]] - God of Trade
 - -
 - [[Renatke]] - Goddess of Nature
-### Nidora - Goddess of Collectivity
+### Nidora - Goddess of Cooperation
 
 - [[Temuþen Gods#Vilidin|Vilidin]] - Goddess of Society
 - -
 - -
-### Alsidia - Goddess of Balance
+### Alsidia - Goddess of Loyalty
 
 - -
 - [[Temuþen Gods#Creno|Creno]] - God of Oaths
@@ -97,9 +97,9 @@
 - [[Dahrian Gods#Hervo|Hervo]] - God of Foresight (Head oracle)
 - Kanasa - Goddess of Acceptance (Fatal passivist)
 - [[Hellenise Gods#Azel|Azel]] - God of Preparation (Fatal activist)
-### Laurien - Goddess of Patience
+### Laurien - Goddess of Peace
 
-- Veila - Goddess of Support; The Directress (Directress of undead)
+- Veila - Goddess of Peace; The Directress (Directress of undead)
 - [[Limbani Gods#Ollial|Ollial]] - The Reaper
 - [[Dahrian Gods#Murca|Murca]] - Goddess of Introspection; The Nurturer (Caretaker of undead)
 ### Delires - God of Solace
