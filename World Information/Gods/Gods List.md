@@ -13,7 +13,7 @@
 - [[Temuþen Gods#Ac Farnor|Ac]] - The Charitable
 ### Gharil - God of Growth
 
-- Halvir - God of Expertise
+- [[Limbani Gods#Halvir|Halvir]] - God of Expertise
 - [[Temuþen Gods#Alieca Roid|Alieca]] - Goddess of Growth
 - -
 - - -
