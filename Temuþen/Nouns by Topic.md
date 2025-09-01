@@ -28,12 +28,12 @@
 * lazhevra - shoulder
 * lazkesa - belly
 * lazkeso - chest
-* lazlobe - head
-* lazrefa - hand
 * lazrefo - arm
 * lazþonso - leg
 * lazseka - back (body part)
 * lazseke - butt
+* rag - head
+* rienga - hand
 ---- ------
 ## Natural Resources
 

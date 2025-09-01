@@ -1,6 +1,8 @@
 -- - - - -
 ## Mountainfolk
 
+### Ardain
+
 ### Ildovan
 ---- ---
 ## Ringfolk

@@ -6,6 +6,16 @@ Until only several dozen years before the Second Cataclysm, the Temuþen gods us
 
 >[[Halfling#Strongheart Halfling|Strongheart]] [[Halfling]]
 
+The oldest living Temuþen god, Ratoki was orphaned from both of her parents at an early age due to the Brass-Blue war of 431 2V. Due to her situation, she was sent to a war orphanage, where a brass dragon by the name of Janalieþ eventually took her as her kid. This was an unusual state of affairs for a non-dragon child, who was exposed to high draconic society and culture at a time when the dragonland was very clearly hierarchical, and after a tough war which made the dragons only clutch more onto their power.
+
+Janalieþ herself was of moderate status, and acknowledging Ratoki as her legal daughter came with some risk to that status, despite her own parents' support for her. However, she intended to keep this difficulty out of Ratoki's sight. This made the child's growth into adolescence conflicted: she was a 'daughter of giants', so to speak, making her high ranking but very different among her peers while not allowing her to fully integrate into the society she was growing in.
+
+As Ratoki came of age, she was introduced to draconic society, which came with its own set of challenges. Some were fascinated by her, some revolted, but it seemed that everyone had some opinion about the daughter of giants; everyone except for the innocent daughter of giants. Confiding with her mother, the seemingly best course of action was to become informed, and become a character worth the interest.
+
+By the time Ratoki was 23 years old, she managed to accumulate a fair share of friends and foes in the Brass society. She presented herself as calm yet inquisitive, matching her own piece into the political puzzle, and making it possible for her non-dragon peers to match their own into the mesh as well. They were closer to the larger portion of the population, which had its own power, as they often sought to remind others.
+
+Ratoki did not wish to destroy the power structure of the Brass Dragonland, nor did she wish to take the dragonflight out of power. Though it might not be obvious to the people of late-2V countries, and to Carniumeu citizens of 3V, at the time non-dragons did not only have less opportunities than dragons, but they were being trialed differently as well. Ratoki simply demanded the social attitude toward all Brass citizens to be equal. With her goals starting to be met in the Brass Dragonland, she started traveling the world as well, presenting her ideas to people across Temuþan, which slowly started the Temuþen revolutions of the 5th century 2V, becoming the basis for the social system of many of the Dragonlands. For this, Ratoki was offered successorship by [[Helian Gods#Ardain|Ardain]], who escorted her to Central Island to meet [[Gods List#Raganda - Goddess of Equality|Raganda]] in person.
+
 ### Vilidin
 
 Vilidin came to the Bronze Archipelago from the Black Dragonland after the Great Dragon War began. She was betrayed by her country's dragonflight, who felt resentment during these past centuries after Vilidin led a socialist revolution in it, which was what made her rise as a candidate for godhood in the first place. Now, she manages the [[Bronze Welfare Service]] organization alongside [[#Ratoki]] in hope to bring the community of the free world together.

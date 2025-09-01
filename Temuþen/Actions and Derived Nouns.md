@@ -74,7 +74,7 @@
 	* evnieþ - family
 	* evnieþ - community
 * fakerū - to forget
-* farisū - to lead
+* farisū - to be bold
 * fasū - to subtract
 * fegū - to succeed (someone)
 * fenirū - to glorify
@@ -236,6 +236,7 @@
 * þratū - to quantify
 * þuvkū - to fly
 	* þuvkiec - sky
+* ragū - to head
 * ragazū - to manage
 * rū - to do
 	* rienga - hand

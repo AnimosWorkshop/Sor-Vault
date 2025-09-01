@@ -1,9 +1,9 @@
 - - -
 ## Areno, Architect of Temuþan
 
-### Ragauda - Goddess of Equality
+### Raganda - Goddess of Equality
 
-- [[Temuþen Gods#Ratoki|Ratoki]] - Goddess of Equality; The Harmonizer
+- [[Temuþen Gods#Ratoki|Ratoki]] - Goddess of Equality
 - [[Helian Gods#Ardain|Ardain]] - God of Balance
 - -
 ### Tezik - God of Change
