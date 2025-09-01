@@ -15,7 +15,7 @@
 
 - [[Limbani Gods#Halvir|Halvir]] - God of Expertise
 - [[Temuþen Gods#Alieca Roid|Alieca]] - Goddess of Growth
-- -
+- [[Polerk]] - God of Innovation
 - - -
 ## Exala, Architect of Preida
 ### Venandi - God of Curiosity
@@ -94,9 +94,9 @@
 
 ### Vorona - Goddess of Fate
 
-- [[Dahrian Gods#Hervo|Hervo]] - God of Foresight (Head oracle)
-- Kanasa - Goddess of Acceptance (Fatal passivist)
-- [[Hellenise Gods#Azel|Azel]] - God of Preparation (Fatal activist)
+- [[Dahrian Gods#Hervo|Hervo]] - God of Foresight
+- Kanasa - Goddess of Acceptance
+- [[Hellenise Gods#Azel|Azel]] - God of Preparation
 ### Laurien - Goddess of Peace
 
 - Veila - Goddess of Peace; The Directress (Directress of undead)

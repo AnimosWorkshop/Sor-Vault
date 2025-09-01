@@ -20,6 +20,10 @@ As a god, Halvir continues to embody and represent the need to hone one's talent
 
 ### Meromia
 
+>Curiosity [[Paragon]] 3rd, [[Druid]] 1st, [[Mentalist]] 1st, [[Metamage]] 5th; [[Minor Blessing of Curiosity]]
+
+A quiet yet decisive woman, Meromia makes for the theory-oriented half of the divine inventor couple, the practical half being her husband [[Hellenise Gods#Polerk|Polerk]]. A master of both the sorcerous and material arts, meromia weaves action into the inanimate, and urges other brilliant minds to do the same.
+
 ### Valeo
 
 ### Ollial
