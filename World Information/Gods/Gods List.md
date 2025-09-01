@@ -72,11 +72,11 @@
 - - -
 ## Delreth, Architect of Limbo
 
-### Kadaran - God of Anonymity
+### Kadaran - God of Secrecy
 
 - [[Limbani Gods|Datson]] - God of Autonomy
 - [[Hellenise Gods#Seiran|Seiran]] - Goddess of Assassination
-- [[Temuþen Gods#Meralien (Meralyn) Martor|Meralien]] - God of Manipulation
+- [[Temuþen Gods#Meralien (Meralyn) Martor|Meralien]] - God of Secrecy
 
 ### Hastur - God of Authority
 
