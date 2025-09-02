@@ -84,13 +84,17 @@ Actions will usually be most things a creature improvises, from picking up items
 Quick actions are things a creature can do which take up little time. Their versatility is lower than that of regular actions, as time is a constraint in this case. Quick actions may also be used if you take your action to use them. Examples for quick actions are:
  
 - **Attack** - if the creature used its action to use the Major Interaction action or the Attack action using a weapon without the Heavy property, it may use this quick action to make an attack using a different light weapon held in a different hand. The attribute modifier for the weapon isn't added to the damage roll. ^941070
-- **Assess** - Make a Nature (Intelligence), a Nature (Wisdom) or an Insight (Wisdom) check. Depending on your roll, understand some facts about a creature. You understand one fact if you pass DC 10, two facts for DC 15, or three for DC 20, and so on. You can learn the following facts: ^047348
-    - Creature type and race
-    - Current health points percentage (out of its maximum)
-    - Damage weaknesses
-    - Damage resistances and immunities
-    - Highest attribute
-    - Lowest attribute
+- **Assess** - Make a Nature (Intelligence), a Nature (Wisdom) or an Insight (Wisdom) check. Depending on your roll, understand some facts about a creature. You understand one fact if you pass DC 10, two facts for DC 15, or three for DC 20, and so on. You can learn the following facts:^047348
+    - 1 fact:
+		- Creature type and race
+		- Damage weakness
+		- Damage resistances and immunities
+    - 2 facts:
+		-  Current health points percentage, in increments of 25%.
+		-  Armor class
+		- Highest or lowest saving throw
+	- 3 facts:
+		- Items held on person for quick draw
 - **Demoralize** - you taunt and scare a creature to the point of doubt. A creature within 30' that can hear you and understands a language you speak makes a Wits saving throw against your basic Intimidation (Charisma) DC or Intimidation (Strength). On a failed save, the first attack or Wits saving throw they make in their next turn is made with a penalty equal to third of your Intimidation modifier. A creature can't be demoralized twice at the same time. ^362ce9
 - **Inspire** - you inspire courage and unity within an ally. A creature within 30' that can hear you and understands a language you talk in gets a bonus to their first attack during their next turn equal to third of your Persuasion (Charisma) or Performance (Charisma) modifier. A creature can't be inspired twice at the same time. ^9bb451
 - **Minor interaction** - the creature interacts with different objects within its reach. Examples: ^359f07
