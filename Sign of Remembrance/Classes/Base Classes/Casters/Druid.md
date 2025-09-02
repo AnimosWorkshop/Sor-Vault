@@ -36,7 +36,7 @@ In order to advance as a druid, you must meet the following prerequisites:
  
 ### Proficiencies
  
-- Weapons: 1 simple or martial weapon style of your choice
+- Weapons: 1 martial weapon style of your choice
 - Armor: Next tier of armor
 - Tools: None
 - Saving Throws: None

@@ -23,10 +23,10 @@ tags:
 In order to advance as a transmuter, you must meet the following prerequisites:
 
 - **Intelligence 13.** You must be able to study both the world and the interactions between materials in order to understand how to extend your abilities to the physical limit.
-- **Proficient with Alchemist.** The principals of compounding and transmuting allow for the transmuter to use their powers.
+- **Expert Alchemist.** The principals of compounding and transmuting allow for the transmuter to use their powers.
 - **Novice with Athletics.** A good transmuter knows the limits of their own body in order to know how to break them without causing injuries to themselves.
 - **Complete special training.** Anyone can be a researcher or an alchemist, but in order to be a true transmuter your alchemy needs to break the limit between
-   
+
 
 # Class Properties
  
@@ -37,7 +37,7 @@ In order to advance as a transmuter, you must meet the following prerequisites:
  
 ## Proficiencies
  
-- Weapons: Flasks, 1 simple or martial weapon style of your choice
+- Weapons: 1 simple and 1 martial weapon style of your choice
 - Armor: Next tier of armor
 - Tools: None
 - Saving Throws: None

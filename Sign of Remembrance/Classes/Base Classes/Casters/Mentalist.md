@@ -37,7 +37,7 @@ In order to advance as a mentalist, you must meet the following prerequisites:
 - Hit Points per Level: 8 + your Constitution modifier + your Willpower modifier per mentalist level
  
 ### Proficiencies
-  - Weapons: 1 simple weapon style of your choice
+- Weapons: 1 simple weapon style of your choice
 - Armor: None
 - Tools: None
 - Saving Throws: None

@@ -1,12 +1,12 @@
-### Professional Tools
+### [[Crafting]] Tools
 
-| **Professional Tool** | **Cost** | **Weight** |
-| --------------------- | -------- | ---------- |
-| Alchemist             | 20 sc    | 4 lb       |
-| Armorer               | 20 sc    | 4 lb       |
-| Runecarver            | 15 sc    | 3 lb       |
-| Provisioner           | 10 sc    | 2 lb       |
-| Weaponsmith           | 20 sc    | 4 lb       |
+| **Crafting Tool** | **Cost** | **Weight** |
+| ----------------- | -------- | ---------- |
+| Alchemist         | 20 sc    | 4 lb       |
+| Armorer           | 20 sc    | 4 lb       |
+| Runecarver        | 15 sc    | 3 lb       |
+| Provisioner       | 10 sc    | 2 lb       |
+| Weaponsmith       | 20 sc    | 4 lb       |
 ### Musical Instruments
 
 | **Musical Instrument** | **Cost** | **Weight** |

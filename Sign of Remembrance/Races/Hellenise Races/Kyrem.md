@@ -37,5 +37,5 @@ _Fiend kyrems are the descendants of ancient kyrems who settled down in the Grea
 **Racial Attribute Bonus:** You may increase an attribute of your choice other than Constitution and Willpower by 1.  
 **Vision:** Nullvision. 
 **Trailblazers:** You may choose either fire or cold, and are resistant to that type of damage. In addition, you are proficient with Nature.
-**Artisan:** You are proficient with a tool of your choice.
+**Artisan:** You are an expert with a tool of your choice.
 **Cleansing:** You are proficient with Resilience saving throws. In addition, once per long rest, you may use your action to end a curse of a level up to third of your total level (minimum of 1st-level, rounded up).

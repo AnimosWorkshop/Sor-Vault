@@ -38,7 +38,7 @@ Attack rolls are used by creatures to attempt to attack another creature. For th
 _Attack Roll = d20 + attribute modifier + proficiency bonus_
 
 - Attribute modifier - each attack roll uses one of the seven [attributes](Attribute%20Scores.md), and the corresponding attribute's modifier is added to the attack roll. Weapons use Strength, though weapons with the Finesse trait can use Dexterity instead, and spell attacks use their corresponding attribute (more information in the magic section).
-- Proficiency bonus - if the creature is proficient with the weapon (in the case of weapon attacks) or with the [[Reading a Spell Entry|magic type]] (in the case of spell attacks), the creature's [proficiency bonus](Proficiency and Downtime) is added to the attack roll.
+- Proficiency bonus - if the creature is [[Proficiency and Downtime#Weapon Style Training|proficient with the weapon style]] (in the case of weapon attacks) or with the [[Reading a Spell Entry|magic type]] (in the case of spell attacks), the creature's [proficiency bonus](Proficiency and Downtime) is added to the attack roll.
 
 The DC of an attack roll is the [[Armor Rules|Armor Class (AC)]] of the defending creature. On a success, the attack hits, and the attacking creature proceeds to roll a damage roll.  
 Attacks can also critically hit or critically miss. The default range of a critical hit is a natural 20 on the attack roll, meaning the result on the d20 is a 20. Similarly, the default range for a critical miss is a natural 1. Traits which augment that range increase the amount of numbers which result in their respective critical, such as the Lethal and Fragile traits.  

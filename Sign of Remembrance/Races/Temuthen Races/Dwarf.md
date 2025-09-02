@@ -10,7 +10,7 @@ _Dwarves are a materialistic race, who are taught discipline from young age. Whi
 **Vision:** Lightvision, tremorsense.  
 **Dwarven Resilience:** You have advantage on saving throws against being weakened, and you have resistance against being poisoned and taking poison damage.  
 **Dwarven Combat Training:** You are proficient with the martial sweeper weapon style.
-**Tool Proficiency:** You are proficient with one tool of your choice.  
+**Tool Expertise:** You are an expert with one tool of your choice.  
 **Languages:** You can speak, read, and write Temuthen.
  - - -
 ## Subraces
@@ -33,4 +33,4 @@ _The hill dwarves are the most common of dwarves, often residing on hills and ne
 _Stubborn and determined, this subrace of dwarves invested its time and effort building and reinforcing itself to outer threats. With a mentality of self-preserving, they mine, forage and craft all they need themselves. They are the most closed to other races, often employing arcane casters such as abjurers and illusionists to prevent disturbance, yet this only means that the intrarelationship of different mountain dwarves is much closer than in other dwarf subraces, and loyalty is at utmost importance._
  
 **Racial Attribute Bonus:** Your Strength score increases by 1.  
-**Dwarven Armor Training:** You are proficient with light armor.
+**Dwarven Armor Training:** You are proficient with light armor, and are novice with Athletics.

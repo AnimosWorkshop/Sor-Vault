@@ -40,7 +40,7 @@ In order to advance as a rogue, you must meet the following prerequisites:
 - Armor: None
 - Tools: None
 - Saving Throws: None
-- Skills: 3 levels of Acrobatics  
+- Skills: 3 levels of Acrobatics, 1 level of any skill of your choice
 ### Equipment
  
 - 1 finesse weapon of your choice

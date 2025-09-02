@@ -26,5 +26,5 @@ _Being taught rhetoric from young age, the exemplar fariste are thought of by ot
 _Having an innate knack for hoarding knowledge, scholar fariste societies became geniocratic, as they created small communities of fariste to promote the learning process using the reliable competitiveness of their residents. Once proving themselves as young adults, most either wander to the cities and become true scholars, become nomads and remain on their never-ending quest for knowledge, or qualify as teachers and tutors._
  
 **Racial Attribute Bonus:** Your Intelligence score increases by 2.  
-**Art of Expression:** Either you are proficient with a tool of your choice, or you can speak, read and write in 2 languages of your choice.  
+**Art of Expression:** Either you are an expert with a tool of your choice, or you can speak, read and write in 2 languages of your choice.  
 **Knowledge Seekers:** Once per long rest, you may activate a long-awaited hunger for knowledge. As a quick action, you awaken that hunger, providing you a bonus equal to half your Intelligence modifier to damage rolls and Willpower saves for reaction checks for 1 minute. This counts as a 1st-level, arcana, boon for the purpose of magic detection.

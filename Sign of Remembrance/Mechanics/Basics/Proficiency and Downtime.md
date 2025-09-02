@@ -17,16 +17,34 @@ Characters have a proficiency bonus determined by level. Monsters also have this
 | 8th       | +4                    |
 | 9th       | +4                    |
 | 10th      | +5                    |
-### Proficiency Ranks
+### Skill Proficiency Ranks
  
-| **Rank**   | **Benefits**                                                 |
-| ---------- | ------------------------------------------------------------ |
-| Untrained  | None                                                         |
-| Novice     | Add half your proficiency bonus, to ability checks           |
-| Proficient | Add your proficiency bonus to ability checks                 |
-| Adept      | Add one and a half your proficiency bonus, to ability checks |
-| Expert     | Add twice your proficiency bonus to ability checks           |
- ### Armor Proficiency
+| **Rank**            | **Benefits**                                                 |
+| ------------------- | ------------------------------------------------------------ |
+| Untrained (default) | None                                                         |
+| Novice              | Add half your proficiency bonus, to ability checks           |
+| Proficient          | Add your proficiency bonus to ability checks                 |
+| Adept               | Add one and a half your proficiency bonus, to ability checks |
+| Expert              | Add twice your proficiency bonus to ability checks           |
+### Tool Proficiency Ranks
+ 
+| **Rank**            | **Benefits**                                                      |
+| ------------------- | ----------------------------------------------------------------- |
+| Untrained (default) | None                                                              |
+| Proficient          | Add your proficiency bonus to knowledge and crafting checks       |
+| Expert              | Add twice your proficiency bonus to knowledge and crafting checks |
+
+### Weapon Style Training
+
+Each weapon is associated with a specific style, as listed in the [[Weaponsmith|weapons table]]. In order add one's proficiency bonus to attack rolls with this weapon group, the character must have the required training degree with them.
+
+| **Degree**          | **Benefits**                                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
+| Untrained (default) | Add your proficiency bonus to attack rolls with all commoners' weapons of this style                    |
+| Simple              | Add your proficiency bonus to attack rolls with all commoners' and simple weapons of this style         |
+| Martial             | Add your proficiency bonus to attack rolls with all commoners', simple or martial weapons of this style |
+
+### Armor Proficiency
 
 | **Armor Type** | **Requirements in order to train** |
 | -------------- | ---------------------------------- |
@@ -42,15 +60,14 @@ The number of things a creature can learn in their life is a finite number. When
  
 _Proficiency Cap_ = 15 + _Intelligence Score_
  
-| **Proficiency Type**        | **Proficiency Points = # towards Cap** |
-| --------------------------- | -------------------------------------- |
-| Each skill proficiency rank | 1                                      |
-| Tools                       | 2                                      |
-| Weapon style - simple       | 1                                      |
-| Weapon style - martial      | 2                                      |
-| Armor (any one type)        | 2                                      |
-| Language                    | 1                                      |
-| Saving throw*               | 2                                      |
+| **Proficiency Type**         | **Proficiency Points = # towards Cap** |
+| ---------------------------- | -------------------------------------- |
+| Any skill's proficiency rank | 1                                      |
+| Any tool's proficiency rank  | 1                                      |
+| Any weapon style's degree    | 1                                      |
+| Armor (any one type)         | 2                                      |
+| Language                     | 1                                      |
+| Saving throw*                | 2                                      |
 >[!note]
 >As mentioned in the table, weapon proficiency is learned for an entire weapon style, as listed in the [[Weaponsmith|weapons table]].
 ### Training
@@ -70,7 +87,7 @@ You may also trade proficiency points gained while adventuring for Downtime Poin
 #### Earn Income
 You may also invest DPs in order to work and earn income. Choose a skill, preferably your most trained one. Over a DP, you earn income equal to:
 _Income = Proficiency Bonus * Chosen Skill Bonus_ (according to GM discretion, and whether it would make sense to earn income with that skill).
-You may also use this in order to craft items if you have a tool proficiency. 
+You may also use this in order to [[Crafting|craft items]] if you have a tool proficiency. 
 Whenever you'd like to craft an item, as long as you possess the right tool proficiency to do so, pay the cost of the item and subtract the following amount from the cost (in silver coins) for each DP used, as long as at least 1 DP was used: 
 _Savings = Proficiency Bonus * Crafting Bonus_
 The crafting bonus may be either Intelligence or the [[Crafting|specific]] attribute mentioned for the tool.

@@ -37,9 +37,9 @@ In order to advance as a sentinel, you must meet the following prerequisites:
 - Hit Points per Level: 10 + your Constitution modifier + your Willpower modifier per sentinel level
 ### Proficiencies
  
-- Weapons: None
+- Weapons: Martial Pugilist weapons
 - Armor: None
-- Tools: Any tool of your choice
+- Tools: None
 - Saving Throws: None
 - Skills: 2 levels of Medicine, 2 level of Athletics
 ### Equipment
@@ -93,7 +93,9 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
 
 ### Keen Observer
 
-At 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. Up to once per round when you use the [[Action Economy#^047348|assess]] quick action, you may forgo learning up to 2 facts you would as a part of the quick action, and raise your graze range by the same amount + 1.
+At 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. You gain the following features, which you may use simultaneously during the same [[Action Economy#^047348|assess]] quick action.
+* When you use the [[Action Economy#^047348|assess]] quick action, you may spend 1 focus to learn 1 additional fact about the creature.
+* Up to once per round when you use the [[Action Economy#^047348|assess]] quick action, you may forgo learning up to 2 facts you would as a part of the quick action, and raise your graze range by the same amount + 1.
 You also gain 1 proficiency level in any skill of your choice.
 
 ### Enhanced Focus

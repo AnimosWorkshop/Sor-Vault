@@ -25,4 +25,4 @@ _Deft goblins are curious subrace, misunderstood by some and idolized by many. T
 _Rough goblins have a greyish-black skin, and are a bit bigger than the deft goblins. They are practical in mind and will, and by and large, they tend to live in or near dwarven villages, often taken as apprentices in dwarven smithies and later in life become smiths themselves. As such, the rough goblin culture adopted dwarven principles such as discipline and artisanship to their core culture._
  
 **Racial Attribute Bonus:** Your Strength score increases by 1 and your Constitution score increases by 1.  
-**Metallurgy:** You are proficient as an armorer. In addition, whenever you make a crafting check with Intelligence to recall knowledge about tools you are proficient with.
+**Metallurgy:** You are a proficient armorer and weaponsmith.

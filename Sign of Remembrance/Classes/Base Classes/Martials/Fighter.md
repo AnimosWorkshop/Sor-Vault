@@ -9,7 +9,7 @@ tags:
 | ----------------- | ----------------------------------------------------------------------------- |
 | 1st               | [[#Dirty Tactics]], [[#Parrying Strike]]                                      |
 | 2nd               | [[#Adrenaline Surge]], [[#Martial Techniques]], [[#Attribute Increase]]       |
-| 3rd               | [[#Arms Specialty]], [[#Weapon Adaptability]]                                 |
+| 3rd               | [[#Arms Specialty]], [[#Arms Lore]]                                           |
 | 4th               | [[#Advanced Dirty Tactics]], [[#Martial Techniques]], [[#Attribute Increase]] |
 | 5th               | [[#Extra Attack]]                                                             |
 | 6th               | [[#On Guard]], [[#Martial Techniques]], [[#Attribute Increase]]               |
@@ -24,8 +24,8 @@ tags:
 In order to advance as a fighter, you must meet the following prerequisites:
 
 - **Strength or Dexterity 13.** Having a fit and able body is important for a fighter, as you maneuver and strike through the battlefield.
-- **Proficient with light armor.** The importance of armor is immense on the battlefield, and can make the difference between a close miss and a fatal blow.
-- **Novice with Athletics.** In addition to natural talent or physical capability, a fighter must also know how to best use their body at peak performance.
+- **Proficient with Athletics.** In addition to natural talent or physical capability, a fighter must be able to use their body's structure to turn the tide of battle.
+- **Proficient armorer or weaponsmith.** A fighter does not simply bear arms; they use them to the peak of their abilities, and which requires knowledge of their structure and form.
 - **Complete special training.** Many people know weapon arts, but not all are prepared for a fighter's training. Those who become fighters learn special techniques and ways of fighting in order to become the skilled people they are.
    
 
@@ -97,9 +97,14 @@ When you reach 3rd level, choose one weapon style to become your specialty. Base
 * _Sweeper_ - You get a +2 bonus to damage rolls with sweeper weapons.
 * _Swiftblade_ - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. Attacks of opportunity taken against you as a part of this movement are made with disadvantage.
  
-### Weapon Adaptability
+### Arms Lore
  
-Also at 3rd level, whenever you attack with a weapon you are not proficient with, you may add half your proficiency modifier to the attack roll.  
+Also at 3rd level, your overall knowledge of arms allows you to intuit information about them, both theoretical and practical:
+* During a short rest, you may examine a weapon or armor, even if they are not practical for use anymore such as due to being destroyed in a battle. Roll a [[Weaponsmith|weaponsmith]] or [[Armorer|armorer]] [[Crafting#^9f7299|knowledge check]] correspondingly and add half your fighter level to it, attempting to learn one of the following facts:
+	* DC 12 - is this object modified or upgraded in any way?
+	* DC 16 - was this weapon made locally, or is it of foreign design?
+	* DC 16 - what was this weapon degree of use, and was it taken care of?
+* Whenever you attack with a weapon you are not proficient with, you may add half your proficiency modifier to the attack roll. 
 You also gain 1 proficiency level in either the Intimidation or Performance.
  
 ### Advanced Dirty Tactics
