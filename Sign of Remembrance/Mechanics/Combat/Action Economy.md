@@ -90,8 +90,8 @@ Quick actions are things a creature can do which take up little time. Their vers
 		- Damage weakness
 		- Damage resistances and immunities
     - 2 facts:
-		-  Current health points percentage, in increments of 25%.
-		-  Armor class
+		- Current health points percentage, in increments of 25%.
+		- Armor class
 		- Highest or lowest saving throw
 	- 3 facts:
 		- Items held on person for quick draw
