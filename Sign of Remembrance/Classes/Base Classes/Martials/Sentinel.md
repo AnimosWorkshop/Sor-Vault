@@ -44,7 +44,7 @@ In order to advance as a sentinel, you must meet the following prerequisites:
 - Skills: 2 levels of Medicine, 2 level of Athletics
 ### Equipment
  
-- 1 tool of your choice
+- Equipment worth up to 25 sc from the [[Provisioner]] and [[Weaponsmith]] tables.
 - - -
 ## Class Features
  

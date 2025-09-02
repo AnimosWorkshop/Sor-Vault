@@ -47,7 +47,7 @@ In order to advance as a fighter, you must meet the following prerequisites:
  
 ### Equipment
  
-- 2 simple or martial weapons of your choice
+- 1 martial weapon of your choice
 
 - - -
 ## Class Features

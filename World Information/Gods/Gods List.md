@@ -58,7 +58,7 @@
 
 - [[Helian Gods#Ildovan|Ildovan]] - God of Trade
 - -
-- [[Renatke]] - Goddess of Nature
+- [[Hellenise Gods#Renatke|Renatke]] - Goddess of Nature
 ### Nidora - Goddess of Cooperation
 
 - [[Temuþen Gods#Vilidin|Vilidin]] - Goddess of Society
