@@ -94,21 +94,10 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
 When you reach 3rd level, you create your major work as a transmuter, granting a fitting object of your choice with newfound powers. Choose one of the following opera, which becomes your opus. If the object is destroyed, you may remake the same opus on another fitting object of your choice during a short rest. You may also remake the opus onto another fitting object of your choice during a short rest, but this disables the opus on whatever it affected before.  
 You also gain 1 proficiency level in either Athletics, Acrobatics or Perception.
  
-### Feather Fall Boots
-
-While wearing these boots, your movement speed increases by 5', and you take half the fall damage you normally would.
- 
-### Heavy Strike Weapon
-
-You modify a light or medium weapon's form and balance by adding 1 lb to its weight and increasing its weight category to the next one. The weapon's damage die is increased by 2.
- 
-### Personalized Fit Weapon
-
-As long as you consciously wield this weapon, you cannot be disarmed from it against your will. As a result, you can also control the weapon better, increasing the weapon's lethal property by 1 while you wield it.
- 
-### Sure Sight Helmet
-
-The helmet can switch between two modes: one according to your [[Vision|vision type]] (whether be it: lightvision, nullvision or darkvision), and one vision type lighter or darker than the one you have. While you put on the helmet, you may switch between these two modes using a quick action.
+* _Feather Fall Boots_ - While wearing these boots, your movement speed increases by 5', and you take half the fall damage you normally would.
+* _Heavy Strike Weapon_ - You modify a light or medium weapon's form and balance by adding 1 lb to its weight and increasing its weight category to the next one. The weapon's damage die is increased by 2.
+* _Personalized Fit Weapon_ - As long as you consciously wield this weapon, you cannot be disarmed from it against your will. As a result, you can also control the weapon better, increasing the weapon's lethal property by 1 while you wield it.
+* _Sure Sight Helmet_ - The helmet can switch between two modes: one according to your [[Vision|vision type]] (whether be it: lightvision, nullvision or darkvision), and one vision type lighter or darker than the one you have. While you put on the helmet, you may switch between these two modes using a quick action.
 ## Advanced Infusion
  
 Starting at 5th level, your infusions become more powerful. Whenever you would be able to use an [[#Alchemechanical Infusion|alchemechanical infusion]], you may use two. You may use the same infusion twice for a doubled effect.
@@ -127,20 +116,9 @@ When you take a long rest, any unused items and supplies deteriorate.
 
 ## Upgraded Opus
  
-Also when you reach 7th level, you upgrade your opus in such a manner which enhances its capabilities to bestow you a greater benefit.
+Also when you reach 7th level, you upgrade your [[#Opus Creation|opus]] in such a manner which enhances its capabilities to bestow you a greater benefit.
  
-### Feather Fall Boots
-
-While wearing these boots, your movement speed increases by an additional 10', and you take only quarter of the fall damage instead of half.
- 
-### Heavy Strike Weapon
-
-The weapon's damage die is increased by an additional 2.
- 
-### Personalized Fit Weapon
-
-The weapon's lethal property by an additional 1 while you wield it.
- 
-### Sure Sight Helmet
-
-You have a +2 bonus for skill checks of the [[Action Economy#^3d44e8|search action]] while wearing the helmet, and you add the last mode to your helmet, allowing you to switch between: lightvision, nullvision and darkvision, using a quick action.
+* _Feather Fall Boots_ - While wearing these boots, your movement speed increases by an additional 10', and you take only quarter of the fall damage instead of half.
+* _Heavy Strike Weapon_ - The weapon's damage die is increased by an additional 2.
+* _Personalized Fit Weapon_ - The weapon's lethal property by an additional 1 while you wield it.
+* _Sure Sight Helmet_ - You have a +2 bonus for skill checks of the [[Action Economy#^3d44e8|search action]] while wearing the helmet, and you add the last mode to your helmet, allowing you to switch between: lightvision, nullvision and darkvision, using a quick action.
