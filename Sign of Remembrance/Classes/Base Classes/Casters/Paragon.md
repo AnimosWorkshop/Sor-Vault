@@ -62,11 +62,12 @@ Becoming a paragon, you start noticing the consequences ideals have on your surr
  
 ### Recovery Meditation
  
-Starting at 2nd level, you have learned to regain some of your magical energy through meditation. Once per day, you may meditate during a short rest in order to get back a magical resource of your paragon spellcasting, lower or equivalent to that of a spell of half your paragon level. For example, a 3rd-level arcane paragon would get a used resonance of up to 2nd-level, while an auramantic paragon of the same level would get back up to 3 used mana. This feature cannot recover unspent resources.
+Starting at 2nd level, you have learned to regain some of your magical energy through meditation. Once per day, you may meditate during a short rest in order to get back a magical resource of your paragon spellcasting, lower or equivalent to that of a spell of half your paragon level. For example, a 3rd-level arcane paragon would get a used resonance of up to 2nd-level, while an auramantic paragon of the same level would get back up to 3 used mana. 
+This feature cannot recover unspent resources, so you cannot have more resources than your caster level allows.
  
 ### Call of Protection
  
-At 2nd level, you learn how to invoke a special prayer. When you or a creature within 30' of you gets critically hit, you may use your reaction to concentrate your will and absorb a part of the hit. The attacking creature rolls damage as if the attack was not a critical hit, and the damage splits evenly between the attacked creature and you. If armor breakage occurs, it applies only to the attacked creature.  
+At 2nd level, you learn how to invoke a special prayer. When you or a creature within 30' of you gets critically hit, you may use 2 reactions to concentrate your will and absorb a part of the hit. The attacking creature rolls damage as if the attack was not a critical hit. Your protected target takes regular damage, and you take half as much. If armor breakage occurs, it applies only to the attacked creature.  
 You may use this feature an amount of times equal to your Willpower modifier, and regain expended uses in the end of a long rest.
  
 ### Attribute Increase
@@ -75,8 +76,8 @@ When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can in
  
 ### Intervention Specialty
  
-At 3rd level, you gain a way to influence creatures around you. Choose one according to the god you serve:
- 
+At 3rd level, you gain a way to influence creatures around you. Choose one according to the [[Paragon Ideals.canvas|ideal]] you hold:
+
 #### Minor Disruption
 Your actions elevate yourself above others, either to further your own goals or even the playing field. When you and another creature compete using a skill (for example: [[Action Economy#^b70e3f|brawl action]] check, disarm check, insight check, stealth check, etc.), you may use this feature to subtract 1d4 from your opponent's roll or DC. You may also aid an ally within 30' this way by using a reaction.  
 You also gain 1 proficiency level in the Deception skill.
@@ -92,7 +93,7 @@ No matter your choice, you cannot invoke karma if one that has already been invo
  
 ### Major Intervention
 
-At 5th level, the influence you have gained from the Minor Intervention feature increases, allowing you to become more powerful and versatile. You gain one of the following, depending on your Minor Intervention feature.
+At 5th level, the influence you have gained from the Minor Intervention feature increases, allowing you to become more powerful and versatile. You gain one of the following, depending on your [[#Minor Intervention]] feature.
  
 #### Major Disruption
 The following options are added to your uses of the feature:
@@ -118,7 +119,7 @@ You inspire those around you, too, granting you and creatures you consider as al
  
 ### Conduit's Intervention
  
-By enhancing the attunement to your ideal, you are able to attune to a piece of history of the land itself, being the influence of the god resonating with your ideal. At 7th level, according to your Ideal Conduit magic type, you get one of the following benefits:
+By enhancing the attunement to your ideal, you are able to attune to a piece of history of the land itself, being the influence of the god resonating with your ideal. At 7th level, according to your [[#Ideal Conduit]] magic type, you get one of the following benefits:
  
 #### Arcana
 You understand that influence can't always derive from people - the world is vast, and as we make our way through the world, we have to rely on external forces. Whenever you use your Major Intervention feature, you may move one of the targeted creatures or yourself up to 5' times half your Willpower modifier in any direction to an unoccupied space.
