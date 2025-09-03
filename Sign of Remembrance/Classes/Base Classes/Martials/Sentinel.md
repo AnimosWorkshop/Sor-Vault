@@ -51,7 +51,7 @@ In order to advance as a sentinel, you must meet the following prerequisites:
 ### Harmony within Everything
  
 As a sentinel, you know how to find peace and be able to concentrate on the world around you and on bettering yourself. During a short rest, you recover additional hit points equal to your sentinel level. In addition, you gain temporary hit points equal to your sentinel level whenever you finish a short or long rest.  
-Furthermore, when a breakage level would apply to your unarmed strikes or natural armor, make a flat check with a DC equal to 11 - your sentinel level. If you succeed, the breakage level doesn't apply.
+Furthermore, when a breakage level would apply to your unarmed strikes, make a flat check with a DC equal to 11 - your sentinel level. If you succeed, the breakage level doesn't apply.
  
 ### Inner Focus
  
@@ -60,8 +60,7 @@ You may use an action and 1 focus to become Focused, using your [[Reading a Spel
 
 - You have a +1 bonus for Perception (Wisdom) checks.
 - Your [[Weaponsmith#Commoners' Melee Weapons|unarmed strikes]] have their damage die increased by 1, and you may use all functional limbs in order to perform unarmed strikes and the [[Action Economy#^5d5dd0|shove]] brawl action. Gauntlet weapons are also affected by this bonus.
-- Your natural armor AC increases by 1.
-- You gain access to the Deflect reaction against an incoming attack, increasing your AC by half your Strength modifier against it. ^843c5c
+- You gain access to the Deflect reaction against an incoming attack, increasing your AC by half your Strength modifier against it (minimum 1). ^843c5c
 - You have a +1 bonus to saving throws.
 
 The focused condition lasts 10 minutes, and your concentration on it cannot end due to taking damage. You may also take a quick action right after the Focus action to make an unarmed strike.
@@ -104,7 +103,7 @@ At 4th level, you have managed to enhance your focus further. While focused, you
 
 ### Focus Strikes
  
-At 5th level level, you can use your focus in a concise strike that delivers a shockwave to the attacked creature. At the start of your turn, you may use 1 focus to empower your weapon attacks for the remainder of the turn, adding 1d6 force to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.
+At 5th level level, you can use your focus in a concise strike that delivers a shockwave to the attacked creature. At the start of your turn, you may use 1 focus to empower your weapon attacks for the remainder of the turn, adding 1d6 force to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength or Dexterity modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.
  
 ### Stance
  
