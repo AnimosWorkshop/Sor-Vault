@@ -58,7 +58,7 @@ In addition, you may use the Dodge reaction as a response to being attacked by a
 >You can't take two turns during the same round of combat, even if you lower your initiative.
 ### Cunning Action
  
-Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The [[Action Economy#^f8a635|dash]], [[Action Economy#^9a6755|disengage]] and [[Action Economy#^284a7e|hide]] actions become quick actions for you.  
+Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The [[Action Economy#^f8a635|dash]] and [[Action Economy#^284a7e|hide]] actions become quick actions for you.  
 When you take the Dash action as a quick action, you may move up to half your speed instead of your full move speed, and when you take the Hide action as a quick action, you have a -2 penalty to your roll.  
 ### Martial Techniques
  

@@ -16,7 +16,7 @@ Using a ranged weapon and being able to move freely across the battlefield, this
 * The main class for this build is the [[fighter]].
 * The first and main [[Fighter#Dirty Tactics|dirty tactic]] chosen will be Careful Step. Other tactics may be chosen at a later point, but this one captures the essence of the build best.
 * At 2nd level, [[Trap Shot]] as a technique allows for a good turn sequence when starting near a melee enemy:
-	* [[Action Economy#^9a6755|Disengage]] as a quick action
+	* [[Action Economy#^665abd|Disengage]] as a quick action
 	* Attack with Trap Shot
 	* Move at least 20' away from the enemy
 	For enemies with 30' movement speed, this implies that over a turn you will get at least 5' further than them, which opens the distance and prevents them from catching up to you.

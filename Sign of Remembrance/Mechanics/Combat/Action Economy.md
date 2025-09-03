@@ -62,7 +62,6 @@ Actions will usually be most things a creature improvises, from picking up items
     - **Restrain** - A creature grappled or toppled by you must make a Resilience saving throw against your basic Athletics (Strength) DC. On a failed save, they are also [[Conditions#Restrained|restrained]]. The conditions to ending the restraining are the same as to ending the grappling or toppling.
 - **Bluff** - you confuse an enemy trying to attack you in order to soften a blow. The next time a creature within 30' attacks you, they must make a Wits saving throw against your basic Deception (Charisma) DC. On a failure, the damage they deal with their attack is reduced by your Deception (Charisma) modifier. The Bluff action must be the last thing you do on your turn to work.
 - **Dash** - the creature can move additional distance equal to its base movement speeds. ^f8a635
-- **Disengage** - the creature may escape another creature's reach without provoking attacks of opportunity for the rest of the turn. ^9a6755
 - **Disorient** - you attempt to throw a creature off-balance using your immediate surroundings, such as kicking dirt into your opponent's eyes, knocking a nearby branch towards their face, etc. The target creature within 5' must make an Initiative saving throw against your basic Sleight of Hand (Dexterity) DC or against your basic Deception (Charisma) DC. On a fail, they are [[Conditions#Pacified|pacified]] 1 until the end of their next turn, or pacified 2 if you have a free hand. ^1e684d
 - **Hide** - the creature makes a Stealth (Dexterity) roll. They are hidden from all creatures whose basic Perception (Wisdom) DC is lower than the roll. ^284a7e
 - **Major interaction** - the creature interacts with different objects in the world within its reach. For example: ^30b3a9
@@ -96,6 +95,7 @@ Quick actions are things a creature can do which take up little time. Their vers
 	- 3 facts:
 		- Items held on person for quick draw
 - **Demoralize** - you taunt and scare a creature to the point of doubt. A creature within 30' that can hear you and understands a language you speak makes a Wits saving throw against your basic Intimidation (Charisma) DC or Intimidation (Strength). On a failed save, the first attack or Wits saving throw they make in their next turn is made with a penalty equal to third of your Intimidation modifier. A creature can't be demoralized twice at the same time. ^362ce9
+- **Disengage** - you attempt to flee any opponent which might be waiting for an opportunity to strike you. Make an Acrobatics (Dexterity) roll. Until the end of your turn, any [[#^dc41f3|opportunity attack]] roll made to hit you automatically misses if it is lower than your roll. ^665abd
 - **Inspire** - you inspire courage and unity within an ally. A creature within 30' that can hear you and understands a language you talk in gets a bonus to their first attack during their next turn equal to third of your Persuasion (Charisma) or Performance (Charisma) modifier. A creature can't be inspired twice at the same time. ^9bb451
 - **Minor interaction** - the creature interacts with different objects within its reach. Examples: ^359f07
     - Pick up a small object (GM's decision for what counts as a small or easy to pick up item)
@@ -108,4 +108,4 @@ Reactions are taken as responses to moves committed by other creatures. Each rea
 - **Attack of opportunity** - when a creature willingly moves away from you out of reach (but doesn't teleport away), you may attempt a single weapon attack against them right before they move out. Each creature may use only one attack of opportunity against each other creature during a turn, meaning that a creature leaving and entering another creature's range multiple times during the same turn is safe from multiple attacks of opportunity.
 	On a critical hit, the creature stops, and may not use their normal movement to move during that turn anymore.
 >[!note]
->This applies to a single turn, not a single round.
+>This applies to a single turn, not a single round. ^dc41f3
