@@ -8,9 +8,9 @@ tags:
  
 | **Sentinel Level** | **Features**                                                                |
 | ------------------ | --------------------------------------------------------------------------- |
-| 1st                | [[#Harmony within Everything]], [[#Inner Focus]]                            |
+| 1st                | [[#Inner Focus]]                                                            |
 | 2nd                | [[#Grazing Style]], [[#Martial Techniques]], [[#Attribute Increase]]        |
-| 3rd                | [[#Keen Observer]]                                                          |
+| 3rd                | [[#Skilled Focus]], [[#Keen Observer]]                                      |
 | 4th                | [[#Enhanced Focus]], [[#Martial Techniques]], [[#Attribute Increase]]       |
 | 5th                | [[#Focus Strikes]]                                                          |
 | 6th                | [[#Stance]], [[#Martial Techniques]], [[#Attribute Increase]]               |
@@ -48,30 +48,26 @@ In order to advance as a sentinel, you must meet the following prerequisites:
 - - -
 ## Class Features
  
-### Harmony within Everything
- 
-As a sentinel, you know how to find peace and be able to concentrate on the world around you and on bettering yourself. During a short rest, you recover additional hit points equal to your sentinel level. In addition, you gain temporary hit points equal to your sentinel level whenever you finish a short or long rest.  
-Furthermore, when a breakage level would apply to your unarmed strikes, make a flat check with a DC equal to 11 - your sentinel level. If you succeed, the breakage level doesn't apply.
- 
 ### Inner Focus
  
-You have trained your mind to enter a state of coordination between body and mind. You have a number of charges called Focus, which you may use for different sentinel features. The maximum amount of focus you have is equal to your sentinel level. Half of this is regained when finishing a short rest, and all is recovered when finishing a long rest.  
-You may use an action and 1 focus to become Focused, using your [[Reading a Spell Entry|concentration]] slot to allow the world around you to become clearer - you can control your senses more easily, focusing on whatever you'd like, your body is honed and prepared to deal with that which threatens it. While focused:
+You were trained to be able to enter a state of coordination between body and mind. You have a number of charges called Focus, which you may use for different sentinel features. The maximum amount of focus you have is equal to twice your sentinel level. Half of your maximum focus is regained when finishing a short rest, and all is recovered when finishing a long rest.  
+You may use a quick action and 1 focus to become _focused_, using your [[Reading a Spell Entry|concentration]] slot. While focused:
 
-- You have a +1 bonus for Perception (Wisdom) checks.
-- Your [[Weaponsmith#Commoners' Melee Weapons|unarmed strikes]] have their damage die increased by 1, and you may use all functional limbs in order to perform unarmed strikes and the [[Action Economy#^5d5dd0|shove]] brawl action. Gauntlet weapons are also affected by this bonus.
-- You gain access to the Deflect reaction against an incoming attack, increasing your AC by half your Strength modifier against it (minimum 1). ^843c5c
 - You have a +1 bonus to saving throws.
+- You have a +1 bonus to [[Action Economy#Opportunity Attacks|opportunity attacks]], and opportunity attacks made against you are made with a -1 penalty.
+- All pugilist weapons you use have their damage die increased by 1, and you may use all functional limbs in order to perform [[Weaponsmith#Commoners' Melee Weapons|unarmed strikes]] and the [[Action Economy#^5d5dd0|shove]] brawl action. This increase affects shove damage as usual.
+- You gain access to the Deflect reaction against an incoming attack, increasing your AC by half your Strength modifier against it (minimum 1). ^843c5c
+- When a breakage level would apply to your unarmed strikes, make a flat check with a DC equal to 11 - your sentinel level. If you succeed, the breakage level doesn't apply.
 
-The focused condition lasts 10 minutes, and your concentration on it cannot end due to taking damage. You may also take a quick action right after the Focus action to make an unarmed strike.
+The focused condition lasts up to 10 minutes, or until your concentration ends.
 
 ### Grazing Style
 
-Starting at 2nd level, you learn how to take advantage of your opponents getting dangerously close to you. An attack is considered _grazing_ whenever it misses you by an amount equal to the bonus AC you would get from using the [[#^843c5c|deflect]] reaction, even while not deflecting. Whenever a feature would increase your grazing range, the amount by which the attack misses can be greater.
+Starting at 2nd level, you learn how to take advantage of your opponents getting dangerously close to you. An attack is considered _grazing_ whenever it misses you by an amount up to your Wisdom modifier. Whenever a feature would increase your grazing range, the amount by which the attack misses can be greater.
 Whenever an attack grazes you, your next [[Action Economy#^43d1b5|attack]] or [[Action Economy#^b70e3f|brawl]] action against the attacker until the end of their next turn only takes a quick action to perform, without any penalty. 
 
 >[!example]
->For a sentinel with 18 Strength and AC 16, the bonus from deflect would be +2. Therefore, grazing range is 2, meaning that without using deflect, attack rolls between 14-15 would be grazing, while with deflect 16-17 would be grazing. If the grazing range is then increased by 1, then attack rolls between 13-15 would be grazing, or 15-17 while deflecting.
+>For a sentinel with 16 Wisdom and AC 16, the bonus from deflect would be +3. Therefore, grazing range is 3, meaning that without using deflect, attack rolls between 13-15 would be grazing, while with deflect 16-17 would be grazing. If the grazing range is then increased by 1, then attack rolls between 12-15 would be grazing, or 15-17 while deflecting.
 >
 >Maneuvers and other traits which would increase the deflect range modify this range as well.
 ### Martial Techniques
@@ -90,16 +86,20 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
  
 When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
 
+### Skilled Focus
+
+Starting at 3rd level, you may use your focus not only on battle, but on the tasks around you. Whenever you go into [[#Inner Focus|focus]], choose any skill. You get a +1 bonus to skill checks with it.
+
 ### Keen Observer
 
-At 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. You gain the following features, which you may use simultaneously during the same [[Action Economy#^047348|assess]] quick action.
+Also at 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. You gain the following features, which you may use simultaneously during the same [[Action Economy#^047348|assess]] quick action.
 * When you use the [[Action Economy#^047348|assess]] quick action, you may spend 1 focus to learn 1 additional fact about the creature.
 * Up to once per round when you use the [[Action Economy#^047348|assess]] quick action, you may forgo learning up to 2 facts you would as a part of the quick action, and raise your graze range by the same amount + 1.
 You also gain 1 proficiency level in any skill of your choice.
 
 ### Enhanced Focus
  
-At 4th level, you have managed to enhance your focus further. While focused, your unarmed strike damage die, the bonus you gain to Perception (Wisdom) checks and your natural armor AC increases by 1, in addition to your movement speed being increased by 5'.
+At 4th level, you have managed to enhance your focus further. While focused, your bonus with Pugilist weapons and [[Action Economy#^5d5dd0|shove]] are increased by 1, and the respective bonus and penalty for [[Action Economy#Opportunity Attacks|opportunity attacks]] you have from focus are increased by 1. In addition, your base movement speed is increased by 5'.
 
 ### Focus Strikes
  
@@ -117,7 +117,7 @@ In addition, you become proficient with Resilience and Initiative saving throws.
  
 ### Watchful Combatant
  
-At 7th level, your mastery over yourselves and others shows in your reflexes and ability to manipulate a dangerous situation to your advantage. You become proficient with Willpower saving throws. In addition, whenever an enemy moves willingly within your reach for the first time each round, you may make an attack of opportunity against them with advantage. Doing this requires you to succeed on a Willpower save equal to your reaction DC just as a reaction would, but does not increase the DC.
+At 7th level, your mastery over yourselves and others shows in your reflexes and ability to manipulate a dangerous situation to your advantage. You become proficient with Willpower saving throws. In addition, whenever an enemy moves willingly within your reach for the first time each round, you may make an [[Action Economy#Opportunity Attacks|opportunity attacks]] against them, even without the enemy being flanked, and you make the attack with advantage. Doing this requires you to succeed on a Willpower save equal to your reaction DC just as a reaction would, but does not increase the DC.
 
 ### Deflection Expertise
  

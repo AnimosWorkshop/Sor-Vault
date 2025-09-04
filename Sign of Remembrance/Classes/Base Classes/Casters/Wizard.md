@@ -121,7 +121,7 @@ Your deduction heightens, allowing you to logically predict the immediate future
 Your body alternates between exuding great heat to great cold. You become resistant to fire, cold and radiant damage, and your fire, cold and radiant damage rolls are made with a +2 bonus.
  
 #### Displacement
-Your body blinks as you move, making it hard to predict your exact location at any moment. You become immune to attacks of opportunity, and your base speed increases by 10'.
+Your body blinks as you move, making it hard to predict your exact location at any moment. You become immune to [[Action Economy#Opportunity Attacks|opportunity attacks]], and your base speed increases by 10'.
  
 #### Puppeteering
 You are able to control one unattended objects within your reach using quick alterations in the web. Once per turn, you may use a minor interaction as a free action, and you may "hold" one object with the arcane web as if you had a third arm.

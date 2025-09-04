@@ -26,8 +26,8 @@ In order to advance as a partisan, you must meet the following prerequisites:
 ## Class Properties
 ### Hit Points
  
-- Hit Dice: 1d12 per partisan level
-- Hit Points per Level: 12 + your Constitution modifier + your Willpower modifier per partisan level  
+- Hit Dice: 1d10 per partisan level
+- Hit Points per Level: 10 + your Constitution modifier + your Willpower modifier per partisan level  
 ### Proficiencies
  
 - Weapons: 1 martial weapon style of your choice

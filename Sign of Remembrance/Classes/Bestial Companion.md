@@ -78,7 +78,7 @@ When the beast reaches 2nd level, and again at: 4th, 6th, 8th and 10th level, yo
 At 3rd level, the beast gains benefits to its natural weapon according to its nature. Choose one of the following:
  
 #### Hunting Dance
-Whenever the beast attacks it jumps from side to side, leaping to its next target. It may move 5' as a part of its attack action. Attacks of opportunity taken against it as a part of this movement are made with disadvantage.
+Whenever the beast attacks it jumps from side to side, leaping to its next target. It may move 5' as a part of its attack action. [[Action Economy#Opportunity Attacks|Opportunity attacks]] taken against it as a part of this movement are made with disadvantage.
  
 #### Sharp Fangs
 When the beast critically hits with its bite, it breaks the defender's armor no matter its type.

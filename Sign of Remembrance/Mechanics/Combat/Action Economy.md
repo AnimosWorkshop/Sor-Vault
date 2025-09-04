@@ -45,6 +45,13 @@ Also, a creature might have the 'phasing' property, meaning that it can go throu
 ### Jumping
 
 Long jump takes a running-start of at least 10' to perform, and takes movement equal to the distance you are planning to jump. In addition, when you jump you must succeed on an Athletics (Strength) check with a DC equal to the number of feet you are attempting to jump. On a fail, you fail your jump, only advancing a number of feet equal to the result of your skill check.
+
+### Opportunity Attacks
+
+In order to introduce this concept, consider the following drawing. The black lines represent the grid, and red "C" a creature's position, and the blue and green "E"s possible positions for that creature's enemies, who stand on opposite sides from him. A creature in this position is considered _flanked_.
+ ![[Pasted image 20250904140501.png]]
+When a creature moves a flanked position, they may choose one enemy to be protected from. All other creatures may use a [[#Reactions|reaction]] to try to make a weapon attack them while they are moving.
+A creature may only attack each other creature once during a round.
  - - -
 ## Action
  
@@ -72,7 +79,7 @@ Actions will usually be most things a creature improvises, from picking up items
     - Search a large inventory for an item and draw it
 - **Prepare** - the creature defines a specific action it will take if a specific condition is met until the start of its next turn. When the condition is met, the creature may use their reaction (will be expanded upon later) to perform the action, using the previous reaction DC used, meaning that if no reactions were yet used the DC is 0, if one reaction was used the DC is 10, and so on, and the reaction DC does not rise by performing the action. If the action was performed, the creature may not use it again, as the prepared action counts as used.
 - **Search** - the creature makes a Perception (Wisdom), Investigation (Intelligence), Nature (Intelligence) or Sorcery (Wisdom) roll, and gets information according to it: ^3d44e8
-    - Perception (Wisdom) - see objects and creatures, etc. Each hidden creature with basic Stealth (Dexterity) DC lower than your roll is not hidden from you.
+    - Perception (Wisdom) - see objects and creatures, etc. Each [[Conditions#Hidden|hidden]] creature with basic Stealth (Dexterity) DC lower than your roll is not hidden from you.
     - Investigation (Intelligence) - understand the form of an item or its purpose, find clues, etc.
     - Sorcery (Wisdom) - sense the quality of magic affecting the area around you. Taking base caster classes ([paragon](Paragon.md), [druid](Druid.md), [mentalist](Mentalist.md), [wizard](Wizard.md)) grants features which extend what is possible to sense using this action.
 - **Medicate** - the creature attempts to aid a [[Damage and Death#Death|fallen creature]] in order to pull them away from death's door. Roll either a Medicine (Intelligence) or a Medicine (Wisdom) check, according to the GM's decision. On DC 15, the fallen creature gets 1 successful death save. On DC 25, the creature gets 2 successful death saves. ^79c113
@@ -95,7 +102,7 @@ Quick actions are things a creature can do which take up little time. Their vers
 	- 3 facts:
 		- Items held on person for quick draw
 - **Demoralize** - you taunt and scare a creature to the point of doubt. A creature within 30' that can hear you and understands a language you speak makes a Wits saving throw against your basic Intimidation (Charisma) DC or Intimidation (Strength). On a failed save, the first attack or Wits saving throw they make in their next turn is made with a penalty equal to third of your Intimidation modifier. A creature can't be demoralized twice at the same time. ^362ce9
-- **Disengage** - you attempt to flee any opponent which might be waiting for an opportunity to strike you. Make an Acrobatics (Dexterity) roll. Until the end of your turn, any [[#^dc41f3|opportunity attack]] roll made to hit you automatically misses if it is lower than your roll. ^665abd
+- **Disengage** - you attempt to flee any opponent which might be waiting for an opportunity to strike you. Make an Acrobatics (Dexterity) roll. Until the end of your turn, any [[#Opportunity Attacks|opportunity attack]] roll made to hit you automatically misses if it is lower than your roll. ^665abd
 - **Inspire** - you inspire courage and unity within an ally. A creature within 30' that can hear you and understands a language you talk in gets a bonus to their first attack during their next turn equal to third of your Persuasion (Charisma) or Performance (Charisma) modifier. A creature can't be inspired twice at the same time. ^9bb451
 - **Minor interaction** - the creature interacts with different objects within its reach. Examples: ^359f07
     - Pick up a small object (GM's decision for what counts as a small or easy to pick up item)
@@ -103,9 +110,4 @@ Quick actions are things a creature can do which take up little time. Their vers
  - - -
 ## Reactions
  
-Reactions are taken as responses to moves committed by other creatures. Each reaction has a condition which has to be met in order to take that reaction, and it occurs before the triggering move resolves. In order to take a reaction, the creature must make a Willpower save, with the DC increasing by 5 for each other reaction they use, starting at 10. If a feature requires you to use up multiple reactions, you roll against the higher DC only. The DC resets at the start of the creature's turn, and goes up after each used reaction, whether the check was successful or not. If multiple reactions can be triggered from the same condition, only one of them may be used. An example for a reaction available for all creatures is:
- 
-- **Attack of opportunity** - when a creature willingly moves away from you out of reach (but doesn't teleport away), you may attempt a single weapon attack against them right before they move out. Each creature may use only one attack of opportunity against each other creature during a turn, meaning that a creature leaving and entering another creature's range multiple times during the same turn is safe from multiple attacks of opportunity.
-	On a critical hit, the creature stops, and may not use their normal movement to move during that turn anymore.
->[!note]
->This applies to a single turn, not a single round. ^dc41f3
+Reactions are taken as responses to moves committed by other creatures. Each reaction has a condition which has to be met in order to take that reaction, and it occurs before the triggering move resolves. In order to take a reaction, the creature must make a Willpower save, with the DC increasing by 5 for each other reaction they use, starting at 10. If a feature requires you to use up multiple reactions, you roll against the higher DC only. The DC resets at the start of the creature's turn, and goes up after each used reaction, whether the check was successful or not. If multiple reactions can be triggered from the same condition, only one of them may be used. An example for a reaction, available for all creatures, is the [[#Opportunity Attacks|opportunity attack]].

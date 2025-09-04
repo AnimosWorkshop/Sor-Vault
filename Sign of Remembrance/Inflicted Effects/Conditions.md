@@ -14,7 +14,7 @@ A creature is usually encumbered while the weight of creatures or items they wea
 While grappled, a creature's movement speed is zero, and the grappler can move at half speed in order to force the grappled creature to move with them. An effect which forces the grappled creature away from the grappler ends this condition.  
 While grappled, the creature may use an action to attempt a saving throw (usually a Resilience save unless stated otherwise) to end this condition, using the original DC for the grapple.
 #### Hidden
-You are hidden from some or all the creatures around you, depending on how you got this condition. You have advantage on attack rolls and Athletics, Deception, Sleight of Hand and Stealth checks against creatures you are hidden from.  
+You are hidden from some or all the creatures around you, depending on how you got this condition. You have advantage on attack rolls and Athletics, Acrobatics, Deception, Sleight of Hand and Stealth checks against creatures you are hidden from.  
 Once you are revealed, such as by performing an action which would expose your location, you cease to be hidden from all creatures who could notice you. For example, if you attack a creature while hidden, you cease to be hidden after the attack is performed.
 #### Incapacitated
 An incapacitated creature can't use their movement or any actions, quick actions or reactions, except for attempting to end this condition if able (varies case by case, for example - a creature with their hands tied in a rope can't simply break free, but they might be able to use a knife in their back pocket to cut it). In addition, they have disadvantage on Strength and Dexterity based rolls, including Resilience and Initiative saves, and have -4 to their AC.

@@ -5,7 +5,7 @@
 - Duration: Instantaneous
 - Exhausts by 1  
 
-You swiftly release an incredible force, pushing nearly anything away from a point in your immediate surrounding. Each creature within a 5' radius from you must make a Resilience saving throw, or be pushed up to 20' away from the point. You may choose to also be pushed in any direction from that point. This movement is not considered voluntary for the purpose of attacks of opportunity.
+You swiftly release an incredible force, pushing nearly anything away from a point in your immediate surrounding. Each creature within a 5' radius from you must make a Resilience saving throw, or be pushed up to 20' away from the point. You may choose to also be pushed in any direction from that point. This movement is not considered voluntary for the purpose of [[Action Economy#Opportunity Attacks|opportunity attacks]].
  
 **At Higher Levels:** 
 * (+1) Each creature is pushed up to 5' further.

@@ -20,15 +20,7 @@ The technique requires advanced knowledge in order to execute correctly. Advance
 
 ### Flanking
  
-The technique requires an ally to provide aid in order to be executed. Both you and the ally are required to be within melee range of the enemy, and you should be standing in opposite sides. The image provided is examples for flanking, with the following legend:
-
- ![[Exported image 20240601180818-0.png]]
-
-- Red - enemy
-- Blue - ally
-- Green - you (potential position)   
-
-You may also use flanking techniques if you are hidden from your target or perform it against a surprised creature.
+You may use this technique against an enemy [[Action Economy#Opportunity Attacks|flanked]] by you. Alternatively, you may also use flanking techniques if you are [[Conditions#Hidden|hidden]] from your target or perform it against a surprised creature.
  
 ### Movement
  

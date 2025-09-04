@@ -80,7 +80,7 @@ As a druid, you commune with all that surrounds you - whether be it the simpler 
  
 #### Travel
 Whether as an adventurer, a nomad or a simple traveler, you explore the world around you in a mindful way, allowing you to utilize simple advantages of your environment and avoid hazards others wouldn't have even noticed. Your base movement speed is increased by 5', and you ignore difficult terrain, whether natural, or of a spell with level up to half your druid level.  
-You may also focus your travel. Going in and out of focus uses your quick action, and while focusing on this feature, you increase your base movement speed by an additional 5', yet this causes your moves to be noticeably more graceful than others', as you get help from the surrounding flora and tread lightly. Doing so gives you a -2 penalty to Concentration checks. In addition, while focusing, you may use 1 mana as you attack to move 5' without provoking attacks of opportunity.  
+You may also focus your travel. Going in and out of focus uses your quick action, and while focusing on this feature, you increase your base movement speed by an additional 5', yet this causes your moves to be noticeably more graceful than others', as you get help from the surrounding flora and tread lightly. Doing so gives you a -2 penalty to Concentration checks. In addition, while focusing, you may use 1 mana as you attack to move 5' without provoking [[Action Economy#Opportunity Attacks|opportunity attacks]].  
 You also gain 1 proficiency level in Perception.
  
 #### Protection
@@ -114,7 +114,7 @@ At 8th level, you learn how to harmonize with an instinct of your choice, feelin
 Attuning to dominance, you strike those who oppose you to become alpha. While you are above half your maximum hit points, you get a +2 bonus to attack and damage rolls against targets below half their maximum hit points.
 #### Fear
 Attuning to fear, you become more agitated. The horror of death, not being exclusive to our soul, but also to our very body, motivates you to be aware of danger and continue on your path. While you are below half your maximum hit points, you have a +2 bonus to saving throws, and your movement speed increases by 10'.  
-In addition, while making a ranged attack you may infuse your attack with your instinct, allowing you to move 5' away from your target. Attacks of opportunity during this movement are made with disadvantage.
+In addition, while making a ranged attack you may infuse your attack with your instinct, allowing you to move 5' away from your target. [[Action Economy#Opportunity Attacks|Opportunity attacks]] during this movement are made with disadvantage.
 #### Growth
 Attuning to growth, your focus shifts to not on what was lost - but on what can be gained. Whenever you spend mana, you recover hit points equal to the amount of mana spent. In addition, whenever you lose at least 7 hit points in one instance, you recover mana equal to the amount of hit points lost divided by 7 (rounded down).
  

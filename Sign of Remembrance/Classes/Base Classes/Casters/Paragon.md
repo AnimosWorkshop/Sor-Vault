@@ -159,7 +159,7 @@ Starting at 9th level, bearing magic manifests your ideal in physical form. When
 Specified bonuses are equal to half the casted spell's level.
 
 * _"Stay vigilant!"_ (reaction) - One creature who senses you within 15' gets a bonus to their next Willpower save until the start of their next turn.
-* _"Light on your feet!"_ (quick action) - One creature who senses you within 15' may move up to 10' according to their normal movement types. Their AC gets a bonus against attacks of opportunity triggered by this movement.
+* _"Light on your feet!"_ (quick action) - One creature who senses you within 15' may move up to 10' according to their normal movement types. Their AC gets a bonus against [[Action Economy#Opportunity Attacks|opportunity attacks]] triggered by this movement.
 * _"Operate as one!"_ (action) - One creature who senses you within 15' may immediately use a utility quick action, out of: [[Action Economy#^9bb451|inspire]], [[Action Economy#^362ce9|demoralize]] or [[Action Economy#^3d44e8|search]] as a reaction. They get a bonus to the quick action's associated skill.
 * _"Save yourselves!"_ (action + quick action) - One creature who senses you within 15' may use a defensive class reaction once, out of: [[Trickster#^26e047|dodge]], [[Fighter#Parrying Strike|parry]], [[Sentinel#Deflecting Instinct|deflect]] or [[Transmuter#Alchemechanical Infusion|defuse]], in order to prompt another creature to make that reaction when it would be triggered by the attacked creature. This reaction cannot be augmented with [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]].
 * _"We cannot be stopped!"_ (channel) - You have a bonus to saves for concentration until you end your channeling.

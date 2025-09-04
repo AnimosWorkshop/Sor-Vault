@@ -7,7 +7,7 @@
 >>* [[Orc#Berserker Orc]]
 >>* Attributes - 18 / 16 / 12 / 12 / 8 / 10 / 13
 >>* Saves - +6 / +3 / +2 / +3
->>* HP - 26, 1d10
+>>* HP - 24, 1d8
 >>* AC - 14 chain shirt (piercing, fire)
 >>* Movement - 30' walking
 >
@@ -85,7 +85,7 @@
 >>* [[Orc#Berserker Orc]]
 >>* Attributes - 19 / 14 / 13 / 10 / 14 / 10 / 14
 >>* Saves - +6 / +3 / +4 / +4
->>* HP - 54, 3d10
+>>* HP - 48, 3d8
 >>* AC - 19 plate (bludgeoning)
 >>* Resistances - elemental sink module (fire 1)
 >>* Movement - 30' walking

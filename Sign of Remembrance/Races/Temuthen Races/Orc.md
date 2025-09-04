@@ -8,7 +8,7 @@ _Orcs are tribal, usually living in traveling clans without clinging too much to
 **Creature Type:** Temuthen.  
 **Speed:** 30' walking.  
 **Vision:** Lightvision.  
-**Skillful Impulses:** When making an attack of opportunity, you gain a +1 bonus to your attack roll, and your weapon damage die increases by 1 for the attack.  
+**Skillful Impulses:** When making an [[Action Economy#Opportunity Attacks|opportunity attack]], you gain a +1 bonus to your attack roll, and your weapon damage die increases by 1 for the attack.  
 **Menacing:** You are proficient with Intimidation.  
 **Languages:** You can speak, read, and write Temuthen.
 - - -

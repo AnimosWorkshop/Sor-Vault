@@ -18,7 +18,7 @@ _Humans don’t have subraces as much as they have people with different learnin
 **Specialist:** Depending on the attributes you choose to increase, you gain one of those attributes' benefit (of your choice). In addition, you are proficient with the saving throw of the attribute you choose:
 
 - Strength - Whenever you critically hit, add double your proficiency modifier to the damage dealt of the same type as the one you deal. If the attack deals multiple damage types, use the one that dealt the most damage.
-- Dexterity - Your walking speed increases to 35', and opportunity attacks are made with disadvantage against you.
+- Dexterity - Your walking speed increases to 35', and [[Action Economy#Opportunity Attacks|opportunity attacks]] are made with disadvantage against you.
 - Constitution - Your maximum hit points increases by a number equal to half of (your level + 1), and have an advantage against being poisoned.
 - Intelligence - Once per short rest, you may choose to get advantage on a saving throw (before rolling).
 - Willpower - Once per short rest, you may choose to succeed on a Willpower save for a reaction check (before rolling).

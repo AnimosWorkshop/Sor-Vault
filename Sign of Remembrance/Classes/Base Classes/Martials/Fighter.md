@@ -34,8 +34,8 @@ In order to advance as a fighter, you must meet the following prerequisites:
  
 ### Hit Points
  
-- Hit Dice: 1d10 per fighter level
-- Hit Points per Level: 10 + your Constitution modifier + your Willpower modifier per fighter level
+- Hit Dice: 1d8 per fighter level
+- Hit Points per Level: 8 + your Constitution modifier + your Willpower modifier per fighter level
  
 ### Proficiencies
  
@@ -56,7 +56,7 @@ In order to advance as a fighter, you must meet the following prerequisites:
 
 When everything goes loose, you must learn to take the reins and stir back to control. At 1st level, you choose a "dirty tactic" to adopt and add to your arsenal, from the following choices:
 
-* _Careful Step_ - While you [[Action Economy#^665abd|disengage]], you may move through the space of unwilling creatures, given you have enough movement to spend to get to their other side. When you do, they may attempt an [[Action Economy#^dc41f3|attack of opportunity]] against you. Unless you are hit by the creature, you succeed in moving through their space. If you are hit, you still expend your movement but do not move, but may try again.
+* _Careful Step_ - While you [[Action Economy#^665abd|disengage]], you may move through the space of unwilling creatures, given you have enough movement to spend to get to their other side. When you do, they may attempt an [[Action Economy#Opportunity Attacks|opportunity attack]] against you. Unless you are hit by the creature, you succeed in moving through their space. If you are hit, you still expend your movement but do not move, but may try again.
 * _Choke_ - While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same.
 * _Fan_ - You may use a [[Action Economy#^359f07|minor interaction]] to draw two light weapons and hold them in one hand.
 	If you have three or less light weapons with the Thrown trait held this way in one hand, you may throw each from this hand with no penalty.
@@ -64,7 +64,7 @@ When everything goes loose, you must learn to take the reins and stir back to co
 * _Swift Grab_ - You may make a [[Action Economy#^b70e3f|brawl action]] as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw. ^a688fd
 ### Parrying Strike
  
-Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do, subtract half your fighter level + your Strength modifier divided by 3 (total minimum of 1) from the damage dealt.  
+Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do, reduce your AC by 1, and subtract half your fighter level + your Strength modifier divided by 3 (rounding up applies to each separately; total minimum of 1) from the damage dealt.  
 If the incoming attack critically hits, breakage is applied to the weapon or shield instead of your armor.
  
 ### Adrenaline Surge
@@ -95,7 +95,7 @@ When you reach 3rd level, choose one weapon style to become your specialty. Base
 * _Sharpshooter_ - You get a +2 bonus to attack rolls with sharpshooter weapons.
 * _Skewer_ - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type.
 * _Sweeper_ - You get a +2 bonus to damage rolls with sweeper weapons.
-* _Swiftblade_ - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. Attacks of opportunity taken against you as a part of this movement are made with disadvantage.
+* _Swiftblade_ - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. [[Action Economy#Opportunity Attacks]] taken against you as a part of this movement are made with disadvantage.
  
 ### Arms Lore
  
@@ -110,7 +110,7 @@ You also gain 1 proficiency level in either the Intimidation or Performance.
 ### Advanced Dirty Tactics
 
 At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tactic]] to your arsenal, or improve your existing one with the following benefits:
-* _Careful Step_ - If you are [[Action Economy#^284a7e|hidden]], you are also considered [[Action Economy#^665abd|disengaging]], and your Stealth (Dexterity) roll is used as the Acrobatics (Dexterity) roll.
+* _Careful Step_ - If you are [[Action Economy#^284a7e|hidden]], you are also considered [[Action Economy#^665abd|disengaging]]. If you became hidden via a dice roll (such as a Stealth (Dexterity) check), then that roll is also used as your Acrobatics (Dexterity) roll.
 * _Choke_ - The size of the weapon's damage die is not reduced as a result of this feature.
 * _Fan_ - The range for weapons you throw is increased by 15' for the first increment and by 30' for the second increment.
 * _Shield Bash_ - The shield's damage die is increased by 1.
@@ -138,7 +138,7 @@ In addition, you become proficient with Resilience and Willpower saving throws.
  
 At 7th level, your mastery over battle allows you to chain your moves, dazing others as you sweep through. When you hit with the second weapon attack or [[Action Economy#^b70e3f|brawl action]] against creatures on your turn, you may use one of the following options as a follow-up free action:
 
-- Move half your base movement speed without provoking attacks of opportunity
+- Move half your base movement speed without provoking [[Action Economy#Opportunity Attacks|opportunity attacks]]
 - Attempt to use a brawl action
 - Increase your AC by 1 (if using a medium weapon) or by 2 (if using a heavy weapon) until the start of your next turn
 - Increase the next attack roll by an ally against an enemy within 5' by your Wisdom or Charisma modifier (if using a light weapon)
