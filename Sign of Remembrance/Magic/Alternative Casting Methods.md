@@ -1,9 +1,3 @@
-## Upcasting
- 
-Upcasting is the act of casting a spell at a level higher than its base one. When using an upcasting of a spell, it usually gains additional effects, indicated by a "**At Higher Levels:**" paragraph in the bottom of the spell's page. If no additional effects are noted, casting the spell is virtually identical to casting it at its base level.
-* If the bullet point says "(X) ...", then the additional effect takes place when the spell is cast at least at level X.
-* If the bullet point says "(+Y) ...", then the additional effect takes place _for each_ Y spell levels above base level.
- - - -
 ## Compound Casting
  
 Compound casting is used for compound spells, which have more than one magic types. The spellcasting ability for compound spells is the highest of the magic types used, and during the casting both spell costs are expended in the same time. All requirements for both magic types must also be fulfilled.  
@@ -22,8 +16,8 @@ Each caster must be at most 15' away from another caster coven casting the same 
  
 ### Coven Upcasting
  
-Upcasting can also be done by coven casting. In order to do that, each caster must use the spell as if from the same level (so for example, of the same resonance). The total number of casters required to upcast is multiplied by 2 for each level above the one used to cast the spell: 2 to raise it by 1, 4 to raise it by 2, 8 to raise it by 3, etc.
+[[Reading a Spell Entry#Upcasting|Upcasting]] can also be done by coven casting. In order to do that, each caster must use the spell as if from the same level (so for example, of the same resonance). The total number of casters required to upcast is multiplied by 2 for each level above the one used to cast the spell: 2 to raise it by 1, 4 to raise it by 2, 8 to raise it by 3, etc.
  
 ### Coven Compound Casting
  
-Coven casting can also be used to cast a compound spell, in which casters of the same or different magic types can use a compound spell together to cast it.
+Coven casting can also be used to cast a [[#Compound Casting|compound spell]], in which casters of the same or different magic types can use a compound spell together to cast it.

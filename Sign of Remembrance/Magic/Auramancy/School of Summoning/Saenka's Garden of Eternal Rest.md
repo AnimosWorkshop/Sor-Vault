@@ -4,7 +4,7 @@
 - Range: 250' feet
 - Duration: 1 week
 
-_After Saenka's sacrifice for the end of the First Cataclysm, her most prized possessions were burried in her stead at the garden of her home, which in time became a temple to the shortly-serving god._
+_After Saenka's sacrifice for the end of the First Cataclysm, her most prized possessions were buried at the garden of her home, which in time became a temple to the shortly-serving god._
  
 You manifest a lush field as a symbol of what can only be considered a plea for the end of conflicts. Overwhelming sensations of pacifying scents engulf the garden, oozed by vibrantly colored flowers springing to life to conquer lands of strife. For the spell's duration:
 

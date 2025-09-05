@@ -6,8 +6,8 @@ Each class which is fully martial gains the Martial Techniques feature every eve
 
 | **Technique Level** | **Cost (sc)** | **Training Duration** |
 | ------------------- | ------------- | --------------------- |
-| Basic               | 20            | 1 DP                  |
-| Advanced            | 60            | 2 DP                  |
+| Basic               | 10            | 1 DP                  |
+| Advanced            | 40            | 2 DP                  |
 - - -
 ## Preparation
  

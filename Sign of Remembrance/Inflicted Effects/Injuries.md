@@ -4,7 +4,7 @@ tags:
 ---
 ### Blinded 
 
-A blinded creature can't see, failing on Perception checks which rely on sight, as well as having disadvantage on attacks and on Initiative saving throws. Attacks against a blinded creature are made with advantage.
+A blinded creature can't see. They automatically fail on Perception checks which rely on sight, and have disadvantage on attacks and on Initiative saving throws. Attacks against a blinded creature are made with advantage.
 ### Broken Bones
 
 You have suffered a traumatic injury from bludgeoning damage, causing your body to bear difficulty even a long time after the initial event.  

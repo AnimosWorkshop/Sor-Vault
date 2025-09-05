@@ -3,7 +3,7 @@
 #### Spell Name
  
 _Spell-level, Magic type, Spell school, (Boon / Curse)_  
-_(Spell Rarity)_
+_(Rarity)_
  
 - Casting Time:
 - Range: 
@@ -61,11 +61,11 @@ Spells are categorized into 10 schools of magic, each containing spells which ar
 - Summoning - relating to the summoning of elementals, which are manifestations of magic in creature form. Specialists of this school are called summoners.
 - Tempest - relating to the aspects of storm, lightning and thunder. Specialists of this school are called tempestists.
  
-### Spell Rarity
+### Rarity
 
 There are three rarities of spells:
 
-- Common - spells are common unless stated otherwise. That means that they are relatively well-spread around the world, and just about any scroll merchant might offer a scroll for them unless they are specialists. It would be logical, then, for even a newly-created character to have already learned those skills.
+- Common - spells are common unless stated otherwise. That means that they are relatively well-spread around the world, and especially for low level spells, most scrolls can be found in large enough settlements with an adequate number of [[Runecarver|runecarvers]]. Therefore, even [[Character Creation.canvas|newly-created characters]] might already know them.
 - Uncommon - denoted by the Uncommon keyword under the spell's normal keywords. The spell is known to individuals around the world, who can share their secrets, but will often choose not to due to religious, social or moral reasons, such with the [Imbue Life](Imbue%20Life.md) spell. Though any character _can_ learn them, it's advised to think of a good reason for why they do, or who taught them - which might lead to interesting plots.
 - Rare - denoted by the Rare keyword under the spell's normal keywords. The spell is known to few, but unlike uncommon spells, it's due to the spell being granted only as a reward from a blessing or another special source. Rare spells cannot be taught to others, nor can they be transcribed onto scrolls or items.
  
@@ -100,6 +100,8 @@ How far a spell can go, or how far the targets be in order to affect them. There
 Similarly to how weapons can break when you critically fail with attacking using them, you can exhaust your magic by misusing it. Whenever you critically fail a spell attack roll, you gain one exhaustion level with that magic type, reducing your spellcasting modifier by 1 with that magic type. At 3 exhaustion levels with any one magic type, you cannot cast spells of that type until you reduce it to at most 2. Whenever you finish a long rest, you may remove 1 exhaustion level from any one magic type.  
 Some spells also inflict exhaustion on the caster (and their coven) of some degree to of the spell's magic types. If so, it is written in the spell's page. You cannot cast a spell which will bring you to above exhaustion level 3.
  
-### At Higher Levels
+### Upcasting
 
-View the Upcasting paragraph under the [Alternative Casting](Alternative%20Casting%20Methods.md) page.
+Upcasting is the act of casting a spell at a level higher than its base one. When using an upcasting of a spell, it usually gains additional effects, as indicated by the "**At Higher Levels:**" paragraph in the bottom of the spell's page. If no additional effects are noted, casting the spell is virtually identical to casting it at its base level.
+* If the bullet point says "(X) ...", then the additional effect takes place when the spell is cast at least at level X.
+* If the bullet point says "(+Y) ...", then the additional effect takes place _for each_ Y spell levels above base level.

@@ -2,7 +2,22 @@
 tags:
   - Profession
 ---
-## [[Spell Foci]]
+## Caster Equipment
+
+### Spell Scrolls
+ 
+Spell scrolls are commonly used to teach mages, both new and old, how to cast a certain spell. While learning a spell can be done by anyone, casting it in practice requires having [[Reading a Spell Entry|caster levels]]. Once a creature attempts to learn a spell from the scroll via [[Proficiency and Downtime#Downtime Points|downtime training]], they must attune to the scroll to complete the process, consuming it. 
+To create a spell scroll, the runecarver must already know the spell beforehand. The costs for [[Reading a Spell Entry#Rarity|non-rare spells]] of a single magic type are as follows:
+ 
+| **Spell Level** | **Cost (sc)** | **Downtime Points Required** |
+| --------------- | ------------- | ---------------------------- |
+| 1st             | 20            | 1                            |
+| 2nd             | 35            | 1                            |
+| 3rd             | 55            | 1                            |
+| 4th             | 80            | 2                            |
+| 5th             | 110           | 2                            |
+For spells of a higher level, follow the above series. For [[Alternative Casting Methods#Compound Casting|compound spells]], reduce the scroll's price by 20% for 2 magic types, or by 40% for 3 magic types.
+### [[Spell Foci]]
 
 | **Item** | **Cost** | **Weight** | **Notes**                                                                                                                                                                                                                                                                 |
 | -------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

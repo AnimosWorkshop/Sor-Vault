@@ -4,13 +4,13 @@ Yet, there is a fourth mental attribute: Willpower. A creature's willpower holds
 - - -
 ## Mechanics
  
-When a creature dies, it must make a Willpower saving throw, with a DC of 20 + the creature's level, without adding any modifiers from spells or status effects. Upon a success, the creature might be able to unlive. They retain their original race, but their unlife begins tainted by an unfulfilled wish they had in life. Depending on their most dominant feeling, they gain a secondary race - their undead race.
+When a creature dies, it must make a Willpower saving throw, with a DC of 20 + the creature's level, without adding any modifiers from spells or status effects. Upon a success, the creature might be able to unlive. They retain their original race, but their unlife begins tainted by an unfulfilled wish they had in life. Depending on their most dominant feeling, they gain a secondary race - their undead race. This race dictates their _undead purpose_ as noted in the race's page, which consumes their mind to the point they must perform it. When the purpose is complete, they return to their normal personality.
 
 - Hopelessness - Culamitus (more often than not being the collective result of mass disasters)
 - Hubris - Advocate
 - Revenge - [Banshee](Banshee.md)
 - Restraint - [Hovler](Hovler.md)
- 
+
 Zombie races perform their undeath in 2d4 days from their death, and Ghost races perform their undeath in 1d4 days from their death. If a creature's body is mutilated dramatically during that period, the creature cannot undie. Careful burial, however, does not count as mutilation.
  
 When a creature undies, the undead racial features are added to the creature's standard racial features. This comes with a few exceptions, which are also common for most, if not all, undead races:
