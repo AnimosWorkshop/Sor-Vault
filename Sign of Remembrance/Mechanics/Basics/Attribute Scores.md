@@ -1,12 +1,12 @@
 The seven abilities provide a quick description of every creature's physical and mental characteristics:
 
 - Strength, measuring physical power
-- Dexterity, measuring agility
 - Constitution, measuring physical endurance
-- Intelligence, measuring reasoning and memory
-- Willpower, measuring mental endurance
+- Dexterity, measuring agility
 - Wisdom, measuring perception and insight
+- Intelligence, measuring reasoning and memory
 - Charisma, measuring influence over others
+- Willpower, measuring mental endurance
 - - -
 ## Scores and Modifiers
  
