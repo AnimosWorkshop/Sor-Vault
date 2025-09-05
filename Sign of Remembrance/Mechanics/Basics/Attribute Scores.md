@@ -19,4 +19,5 @@ Because attribute modifiers affect almost every attack roll, ability check, and 
 
 ### Attribute Increase
  
-When you reach 2nd [[Progression and Levels|level]], and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
+When you reach 2nd [[Progression and Levels|level]], and again at: 4th, 6th, 8th and 10th level, you either increase one attribute score of your choice by 2, or two different attributes by 1.
+At 2nd and 4th level, you may only increase attributes this way up to 18. From 6th level onward, you may increase attributes this way up to 20.
