@@ -16,3 +16,7 @@ A score of 10 or 11 is the normal human average, but adventurers and many monste
  
 Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). To determine an ability modifier, subtract 10 from the ability score and then divide the total by 2 (round down).  
 Because attribute modifiers affect almost every attack roll, ability check, and saving throw, attribute modifiers come up in play more often than their associated scores.
+
+### Attribute Increase
+ 
+When you reach 2nd [[Progression and Levels|level]], and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.

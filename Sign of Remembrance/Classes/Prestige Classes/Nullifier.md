@@ -5,13 +5,13 @@ tags:
 ---
 ## Feature Table
  
-| **Nullifier Level** | **Features**                                                                 |
-| ------------------- | ---------------------------------------------------------------------------- |
-| 1st                 | [[#Discerning Mind]]                                                         |
-| 2nd                 | [[#Preemptive Disruption]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 3rd                 | [[#Silencing Strike]]                                                        |
-| 4th                 | [[#Spell Breaker]], [[#Martial Techniques]], [[#Attribute Increase]]         |
-| 5th                 | [[#Reflexive Analysis]], [[#Silencing Strike]]                               |
+| **Nullifier Level** | **Features**                                        |
+| ------------------- | --------------------------------------------------- |
+| 1st                 | [[#Discerning Mind]]                                |
+| 2nd                 | [[#Preemptive Disruption]], [[#Martial Techniques]] |
+| 3rd                 | [[#Silencing Strike]]                               |
+| 4th                 | [[#Spell Breaker]], [[#Martial Techniques]]         |
+| 5th                 | [[#Reflexive Analysis]], [[#Silencing Strike]]      |
 - - -
 ## Prerequisites
  
@@ -63,11 +63,7 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | ------------------- | -------------------- | ----------------------- |
 | 2nd                 | 1                    | -                       |
 | 4th                 | 1                    | 1                       |
- 
-### Attribute Increase
- 
-When you reach 2nd level, and again at 4th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
- 
+
 ### Silencing Strike
  
 Starting at 3rd level, whenever you successfully hit a creature with a melee attack, you can force the creature to make a Resilience saving throw against a DC of 8 + your Sorcery (Wisdom) modifier. The creature loses the ability to use reactions until the start of their next turn, and takes additional damage equal to your Sorcery (Wisdom) modifier. On a failed save, the creature takes 1 exhaustion level in a magic type of your choice.  

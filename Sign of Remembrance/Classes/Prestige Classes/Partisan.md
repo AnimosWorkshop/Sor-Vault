@@ -5,15 +5,15 @@ tags:
 ---
 ## Feature Table
 
-| **Partisan Level** | **Features**                                                                |
-| ------------------ | --------------------------------------------------------------------------- |
-| 1st                | [[#Battle Trance]], [[#Spree]]                                              |
-| 2nd                | [[#Brutal Strikes]], [[#Martial Techniques]], [[#Attribute Increase]]       |
-| 3rd                | [[#Rejuvenating Flow]]                                                      |
-| 4th                | [[#Determined and Eager]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 5th                | [[#Retaliation]]                                                            |
-| 6th                | [[#Martial Techniques]], [[#Attribute Increase]]                            |
-| 7th                | [[#Ever-Determined Spirit]]                                                 |
+| **Partisan Level** | **Features**                                       |
+| ------------------ | -------------------------------------------------- |
+| 1st                | [[#Battle Trance]], [[#Spree]]                     |
+| 2nd                | [[#Brutal Strikes]], [[#Martial Techniques]]       |
+| 3rd                | [[#Rejuvenating Flow]]                             |
+| 4th                | [[#Determined and Eager]], [[#Martial Techniques]] |
+| 5th                | [[#Retaliation]]                                   |
+| 6th                | [[#Martial Techniques]]                            |
+| 7th                | [[#Ever-Determined Spirit]]                        |
 - - -
 ## Prerequisites
  
@@ -78,9 +78,6 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | 2nd                | 1                    | -                       |
 | 4th                | 2                    | -                       |
 | 6th                | 2                    | 1                       |
-### Attribute Increase
- 
-When you reach 2nd level, and again at 4th and 6th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
 ### Rejuvenating Flow
  
 At 3rd level, you learn how to harness the flow of battle to regain your resolve. Whenever you gain spree, you recover twice as many hit points.

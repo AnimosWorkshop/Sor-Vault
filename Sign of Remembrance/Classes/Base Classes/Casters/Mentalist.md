@@ -5,18 +5,18 @@ tags:
 ---
 ## Feature Table
 
-| **Mentalist Level** | **Features**                                          |
-| ------------------- | ----------------------------------------------------- |
-| 1st                 | [[#Histolect]], [[#Mental Sense]]                     |
-| 2nd                 | [[#Mental Specialty]], [[#Attribute Increase]]        |
-| 3rd                 | [[#Silver Tongue]]                                    |
-| 4th                 | [[#Enhanced Bond Specialty]], [[#Attribute Increase]] |
-| 5th                 | [[#Psychic Tug]]                                      |
-| 6th                 | [[#Danger Sense]], [[#Attribute Increase]]            |
-| 7th                 | [[#Enhanced Bond Heightening]]                        |
-| 8th                 | [[#Performative Casting]], [[#Attribute Increase]]    |
-| 9th                 |                                                       |
-| 10th                | [[#Communal Branching]], [[#Attribute Increase]]      |
+| **Mentalist Level** | **Features**                      |
+| ------------------- | --------------------------------- |
+| 1st                 | [[#Histolect]], [[#Mental Sense]] |
+| 2nd                 | [[#Silver Tongue]]                |
+| 3rd                 | [[#Mental Specialty]]             |
+| 4th                 | [[#Enhanced Bond Specialty]]      |
+| 5th                 | [[#Psychic Tug]]                  |
+| 6th                 | [[#Danger Sense]]                 |
+| 7th                 | [[#Enhanced Bond Heightening]]    |
+| 8th                 | [[#Performative Casting]]         |
+| 9th                 |                                   |
+| 10th                | [[#Communal Branching]]           |
    - - -
 
 ## Prerequisites
@@ -58,27 +58,22 @@ At 1st level, you become a [Histolect](Histolecty.md). For each of your mentalis
 ### Mental Sense
  
 Your knowledge about histolecty, people and their habits allows you to get a good feel for the connections between creatures. Using a [[Action Economy#^3d44e8|search action]] for Sorcery (Wisdom), you are able to sense connections between creatures, both histolectual bonds and even strong friendships or animosity.
+
+### Silver Tongue
  
+At 2nd level, you manage to more easily blend your spells into your performances. You may use this feature while casting a spell with a casting time of an action or quick action during a performance in order to make a Stealth (Charisma) check against any creature's basic Insight (Wisdom) DC. If you pass, they don't suspect you cast a spell until its effects happen. You may also attempt to use this feature while casting a spell with a casting time of an action and a quick action, but your Stealth (Charisma) check is made with disadvantage.  
+If your check passed 10 + twice the spell's level, you may also spend up to 2 influence, and give the spell a +1 modifier to its spellcasting modifier for each influence spent.  
+You also gain 1 proficiency level in either Deception, Persuasion or Perception.
 ### Mental Specialty
- 
-When you reach 2nd level, your preferred method of engagement with other creatures shapes the effects of your histolectual bonds. Choose one of the following:
+
+When you reach 3rd level, your preferred method of engagement with other creatures shapes the effects of your histolectual bonds. Choose one of the following:
  
 #### Charming
 Your bonds enhance your influence over other creatures. While bound to a creature, you have a +2 bonus to Deception (Charisma), Persuasion (Charisma), Intimidation (Charisma) and Performance (Charisma) against them.
  
 #### Investigative
 Your mind becomes more aware of the creatures you are bound to. While bound to a creature, you have a +2 bonus to Insight (Wisdom) and Perception (Wisdom) checks against them, and you may use the Assess quick action on those creatures to learn an additional fact about them.
- 
-### Attribute Increase
- 
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
- 
-### Silver Tongue
- 
-At 3rd level, you manage to more easily blend your spells into your performances. You may use this feature while casting a spell with a casting time of an action or quick action during a performance in order to make a Stealth (Charisma) check against any creature's basic Insight (Wisdom) DC. If you pass, they don't suspect you cast a spell until its effects happen. You may also attempt to use this feature while casting a spell with a casting time of an action and a quick action, but your Stealth (Charisma) check is made with disadvantage.  
-If your check passed 10 + twice the spell's level, you may also spend up to 2 influence, and give the spell a +1 modifier to its spellcasting modifier for each influence spent.  
-You also gain 1 proficiency level in either Deception, Persuasion or Perception.
- 
+  
 ### Enhanced Bond Specialty
  
 Starting at 4th level, you learn a special technique which allows you to manipulate one histolectual bond using a quick action in order to add an additional effect over it using an amount choose to spend at least 1 influence, and up to half your mentalist level. Choose one of the following enhancements to learn. Only one enhancement may be applied at a time, and it lasts until a minute passes, you or the other creature become unconscious, or you switch the bond.

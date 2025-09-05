@@ -5,18 +5,18 @@ tags:
 ---
 ## Feature Table
  
-| **Trickster Level** | **Features**                                                                        |
-| ------------------- | ----------------------------------------------------------------------------------- |
-| 1st                 | [[#Shifting Tempo]]                                                                 |
-| 2nd                 | [[#Cunning Action]], [[#Martial Techniques]], [[#Attribute Increase]]               |
-| 3rd                 | [[#Fast Hands]], [[#Uncanny Prediction]]                                            |
-| 4th                 | [[#All Out]], [[#Shifting Tempo]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 5th                 | [[#Quick Attack]], [[#Uncanny Prediction]]                                          |
-| 6th                 | [[#Alacrity]], [[#Martial Techniques]], [[#Attribute Increase]]                     |
-| 7th                 | [[#Guerilla]]                                                                       |
-| 8th                 | [[#Skillful Technique]], [[#Martial Techniques]], [[#Attribute Increase]]           |
-| 9th                 | [[#Versatile Rotation]]                                                             |
-| 10th                | [[#Perfected Technique]], [[#Martial Techniques]], [[#Attribute Increase]]          |
+| **Trickster Level** | **Features**                                               |
+| ------------------- | ---------------------------------------------------------- |
+| 1st                 | [[#Shifting Tempo]]                                        |
+| 2nd                 | [[#Cunning Action]], [[#Martial Techniques]]               |
+| 3rd                 | [[#Fast Hands]], [[#Uncanny Prediction]]                   |
+| 4th                 | [[#All Out]], [[#Shifting Tempo]], [[#Martial Techniques]] |
+| 5th                 | [[#Quick Attack]], [[#Uncanny Prediction]]                 |
+| 6th                 | [[#Alacrity]]                                              |
+| 7th                 | [[#Guerilla]]                                              |
+| 8th                 | [[#Skillful Technique]], [[#Martial Techniques]]           |
+| 9th                 | [[#Versatile Rotation]]                                    |
+| 10th                | [[#Perfected Technique]], [[#Martial Techniques]]          |
    - - -
 ## Prerequisites
  
@@ -71,11 +71,6 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | 6th                 | 3                    | -                       |
 | 8th                 | 3                    | 1                       |
 | 10th                | 3                    | 2                       |
-
-### Attribute Increase
- 
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
- 
 ### Fast Hands
  
 Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. The [[Action Economy#^30b3a9|major interaction]], [[Action Economy#^1e684d|disorient]] and [[Action Economy#^79c113|medicate]] actions become quick actions for you, and you gain a climbing speed equal to your walking speed.  

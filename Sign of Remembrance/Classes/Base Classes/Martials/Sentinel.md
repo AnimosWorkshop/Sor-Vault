@@ -6,18 +6,18 @@ tags:
 
 ## Feature Table
  
-| **Sentinel Level** | **Features**                                                                |
-| ------------------ | --------------------------------------------------------------------------- |
-| 1st                | [[#Inner Focus]]                                                            |
-| 2nd                | [[#Grazing Style]], [[#Martial Techniques]], [[#Attribute Increase]]        |
-| 3rd                | [[#Skilled Focus]], [[#Keen Observer]]                                      |
-| 4th                | [[#Enhanced Focus]], [[#Martial Techniques]], [[#Attribute Increase]]       |
-| 5th                | [[#Focus Strikes]]                                                          |
-| 6th                | [[#Stance]], [[#Martial Techniques]], [[#Attribute Increase]]               |
-| 7th                | [[#Watchful Combatant]]                                                     |
-| 8th                | [[#Deflection Expertise]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 9th                | [[#Mortal Reminder]]                                                        |
-| 10th               | [[#Martial Techniques]], [[#Attribute Increase]]                            |
+| **Sentinel Level** | **Features**                                       |
+| ------------------ | -------------------------------------------------- |
+| 1st                | [[#Inner Focus]]                                   |
+| 2nd                | [[#Grazing Style]], [[#Martial Techniques]]        |
+| 3rd                | [[#Skilled Focus]], [[#Keen Observer]]             |
+| 4th                | [[#Enhanced Focus]], [[#Martial Techniques]]       |
+| 5th                | [[#Focus Strikes]]                                 |
+| 6th                | [[#Stance]], [[#Martial Techniques]]               |
+| 7th                | [[#Watchful Combatant]]                            |
+| 8th                | [[#Deflection Expertise]], [[#Martial Techniques]] |
+| 9th                | [[#Mortal Reminder]]                               |
+| 10th               | [[#Martial Techniques]]                            |
  - - -
 ## Prerequisites
  
@@ -81,10 +81,6 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | 6th                    | 3                    | -                       |
 | 8th                    | 3                    | 1                       |
 | 10th                   | 3                    | 2                       |
-
-### Attribute Increase
- 
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
 
 ### Skilled Focus
 

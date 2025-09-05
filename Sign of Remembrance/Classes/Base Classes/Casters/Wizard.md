@@ -5,18 +5,18 @@ tags:
 ---
 ## Feature Table
  
-| **Wizard Level** | **Features**                                                              |
-| ---------------- | ------------------------------------------------------------------------- |
-| 1st              | [[#Arcanist]], [[#Spatial Sense]]                                         |
-| 2nd              | [[#Arcane Orb Specialty]], [[#Attribute Increase]]                        |
-| 3rd              | [[#Arcane Eye]]                                                           |
-| 4th              | [[#Arcane Orb Specialty]], [[#Specialty School]], [[#Attribute Increase]] |
-| 5th              | [[#Spatial Deformation]]                                                  |
-| 6th              | [[#Arcane Eye Expertise]], [[#Attribute Increase]]                        |
-| 7th              | [[#Arcane Orb Specialty]], [[#Specialty School]]                          |
-| 8th              | [[#Specialty Transformation]], [[#Attribute Increase]]                    |
-| 9th              | [[#Arcane Deflection]]                                                    |
-| 10th             | [[#Negation]], [[#Attribute Increase]]                                    |
+| **Wizard Level** | **Features**                                     |
+| ---------------- | ------------------------------------------------ |
+| 1st              | [[#Arcanist]], [[#Spatial Sense]]                |
+| 2nd              | [[#Arcane Orb Specialty]]                        |
+| 3rd              | [[#Arcane Eye]]                                  |
+| 4th              | [[#Arcane Orb Specialty]], [[#Specialty School]] |
+| 5th              | [[#Spatial Deformation]]                         |
+| 6th              | [[#Arcane Eye Expertise]]                        |
+| 7th              | [[#Arcane Orb Specialty]], [[#Specialty School]] |
+| 8th              | [[#Specialty Transformation]]                    |
+| 9th              | [[#Arcane Deflection]]                           |
+| 10th             | [[#Negation]]                                    |
    
 - - -
 ## Prerequisites
@@ -77,11 +77,7 @@ This bonus increases by to +2 when you reach 4th level, and to +3 at 7th level.
 ### Orb Storage
  
 Also at 2nd level, you understand how to store energy in your arcane orb in order to become more flexible over a work day. Once every long rest, you may cast an arcana spell in the highest resonance level you have of the school you chose with Arcane Orb if your orb is manifested.
- 
-### Attribute Increase
- 
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
- 
+
 ### Arcane Eye
  
 Starting at 3rd level, when you see a spell being cast within 90' of you, you may use your reaction to make a Sorcery (Intelligence) check against a DC of 10 + the spell's level. On a successful check, you recognize the spell's magic type and level.  

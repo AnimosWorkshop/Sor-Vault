@@ -5,18 +5,18 @@ tags:
 ---
 ## Feature Table
 
-| **Druid Level** | **Features**                                                   |
-| --------------- | -------------------------------------------------------------- |
-| 1st             | [[#Auramancer]], [[#Aura Sense]]                               |
-| 2nd             | [[#Instinct Sense]], [[#Attribute Increase]]                   |
-| 3rd             | [[#Natural Specialty]]                                         |
-| 4th             | [[#Ex Terra]], [[#Attribute Increase]]                         |
-| 5th             | [[#Natural Specialty Focus]]                                   |
-| 6th             | [[#Thorn Ward]], [[#Attribute Increase]]                       |
-| 7th             | [[#Instinct Sense]]                                            |
-| 8th             | [[#Instinct Harmonization Specialty]], [[#Attribute Increase]] |
-| 9th             |                                                                |
-| 10th            | [[#Sanguimancy]], [[#Attribute Increase]]                      |
+| **Druid Level** | **Features**                          |
+| --------------- | ------------------------------------- |
+| 1st             | [[#Auramancer]], [[#Aura Sense]]      |
+| 2nd             | [[#Instinct Sense]]                   |
+| 3rd             | [[#Natural Specialty]]                |
+| 4th             | [[#Ex Terra]]                         |
+| 5th             | [[#Natural Specialty Focus]]          |
+| 6th             | [[#Thorn Ward]]                       |
+| 7th             | [[#Instinct Sense]]                   |
+| 8th             | [[#Instinct Harmonization Specialty]] |
+| 9th             |                                       |
+| 10th            | [[#Sanguimancy]]                      |
 - - -
 ## Prerequisites
  
@@ -69,11 +69,7 @@ Starting at 2nd level, your ability to read aura is improved to the point where 
 - Does the creature feel like they are at a position of advantage or disadvantage right now?
 
 The checked creature does not know they are being inspected, as you don't need to ask these questions to know when checking. Thus the check is made against their basic Deception (Charisma) DC.
- 
-### Attribute Increase
- 
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
- 
+
 ### Natural Specialty
  
 As a druid, you commune with all that surrounds you - whether be it the simpler life forms, hidden beneath the sands or growing to a beautiful canopy, or more complex life forms, leaving its footmark on the land it walks upon. At 3rd level, you are able to choose which one to specialize in - travel through the natural world in all forms, utilizing simpler life forms on your way, or protection of the more complex life forms and assurance of their safety:

@@ -5,18 +5,18 @@ tags:
 ---
 ## Feature Table
 
-| **Paragon Level** | **Features**                                                               |
-| ----------------- | -------------------------------------------------------------------------- |
-| 1st               | [[#Ideal Conduit]], [[#Divine Sense]]                                      |
-| 2nd               | [[#Recovery Meditation]], [[#Call of Protection]], [[#Attribute Increase]] |
-| 3rd               | [[#Intervention Specialty]]                                                |
-| 4th               | [[#Invoke Karma]], [[#Attribute Increase]]                                 |
-| 5th               | [[#Major Intervention]]                                                    |
-| 6th               | [[#Intervening Beacon]], [[#Attribute Increase]]                           |
-| 7th               | [[#Conduit's Intervention]]                                                |
-| 8th               | [[#Conduit of the Realm]], [[#Invoke Karma]], [[#Attribute Increase]]      |
-| 9th               | [[#Herald of Miracles]]                                                    |
-| 10th              | [[#Saving Grace]], [[#Attribute Increase]]                                 |
+| **Paragon Level** | **Features**                                      |
+| ----------------- | ------------------------------------------------- |
+| 1st               | [[#Ideal Conduit]], [[#Divine Sense]]             |
+| 2nd               | [[#Recovery Meditation]], [[#Call of Protection]] |
+| 3rd               | [[#Intervention Specialty]]                       |
+| 4th               | [[#Invoke Karma]]                                 |
+| 5th               | [[#Major Intervention]]                           |
+| 6th               | [[#Intervening Beacon]]                           |
+| 7th               | [[#Conduit's Intervention]]                       |
+| 8th               | [[#Conduit of the Realm]], [[#Invoke Karma]]      |
+| 9th               | [[#Herald of Miracles]]                           |
+| 10th              | [[#Saving Grace]]                                 |
 - - -
 ## Prerequisites
  
@@ -69,11 +69,7 @@ This feature cannot recover unspent resources, so you cannot have more resources
  
 At 2nd level, you learn how to invoke a special prayer. When you or a creature within 30' of you gets critically hit, you may use 2 reactions to concentrate your will and absorb a part of the hit. The attacking creature rolls damage as if the attack was not a critical hit. Your protected target takes regular damage, and you take half as much. If armor breakage occurs, it applies only to the attacked creature.  
 You may use this feature an amount of times equal to your Willpower modifier, and regain expended uses in the end of a long rest.
- 
-### Attribute Increase
- 
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
- 
+
 ### Intervention Specialty
  
 At 3rd level, you gain a way to influence creatures around you. Choose one according to the [[Paragon Ideals.canvas|ideal]] you hold:

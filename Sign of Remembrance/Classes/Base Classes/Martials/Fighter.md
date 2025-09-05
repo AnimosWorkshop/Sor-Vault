@@ -5,18 +5,18 @@ tags:
 ---
 ## Feature Table
  
-| **Fighter Level** | **Features**                                                                  |
-| ----------------- | ----------------------------------------------------------------------------- |
-| 1st               | [[#Dirty Tactics]], [[#Parrying Strike]]                                      |
-| 2nd               | [[#Adrenaline Surge]], [[#Martial Techniques]], [[#Attribute Increase]]       |
-| 3rd               | [[#Arms Specialty]], [[#Arms Lore]]                                           |
-| 4th               | [[#Advanced Dirty Tactics]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 5th               | [[#Extra Attack]]                                                             |
-| 6th               | [[#On Guard]], [[#Martial Techniques]], [[#Attribute Increase]]               |
-| 7th               | [[#Momentum]], [[#Adrenaline Surge]]                                          |
-| 8th               | [[#Arms Adept]], [[#Martial Techniques]], [[#Attribute Increase]]             |
-| 9th               | [[#Dirty Tactics Mastery]]                                                    |
-| 10th              | [[#Specialty Mastery]], [[#Martial Techniques]], [[#Attribute Increase]]      |
+| **Fighter Level** | **Features**                                         |
+| ----------------- | ---------------------------------------------------- |
+| 1st               | [[#Dirty Tactics]], [[#Parrying Strike]]             |
+| 2nd               | [[#Adrenaline Surge]], [[#Martial Techniques]]       |
+| 3rd               | [[#Arms Specialty]], [[#Arms Lore]]                  |
+| 4th               | [[#Advanced Dirty Tactics]], [[#Martial Techniques]] |
+| 5th               | [[#Extra Attack]]                                    |
+| 6th               | [[#On Guard]], [[#Martial Techniques]]               |
+| 7th               | [[#Momentum]], [[#Adrenaline Surge]]                 |
+| 8th               | [[#Arms Adept]], [[#Martial Techniques]]             |
+| 9th               | [[#Dirty Tactics Mastery]]                           |
+| 10th              | [[#Specialty Mastery]], [[#Martial Techniques]]      |
 
 - - -
 ## Prerequisites
@@ -83,9 +83,7 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | 6th               | 3                    | -                       |
 | 8th               | 3                    | 1                       |
 | 10th              | 3                    | 2                       |
-### Attribute Increase
- 
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
+
 ### Arms Specialty
  
 When you reach 3rd level, choose one weapon style to become your specialty. Based on the one you choose, you get a bonus when using these weapons:

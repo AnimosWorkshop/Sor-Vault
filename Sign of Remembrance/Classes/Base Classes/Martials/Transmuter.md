@@ -5,18 +5,18 @@ tags:
 ---
 ## Feature Table
  
-| **Transmuter Level** | **Features**                                                                    |
-| -------------------- | ------------------------------------------------------------------------------- |
-| 1st                  | [[#Alchemechanical Infusion]], [[#Makeshift Alchemy]]                           |
-| 2nd                  | [[#Alchemechanical Infusion]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 3rd                  | [[#Opus Creation]]                                                              |
-| 4th                  | [[#Alchemechanical Infusion]], [[#Martial Techniques]], [[#Attribute Increase]] |
-| 5th                  | [[#Alchemechanical Infusion]], [[#Advanced Infusion]]                           |
-| 6th                  | [[#Vitality Transference]], [[#Martial Techniques]], [[#Attribute Increase]]    |
-| 7th                  | [[#Makeshift Alchemy]], [[#Upgraded Opus]]                                      |
-| 8th                  | [[#Martial Techniques]], [[#Attribute Increase]]                                |
-| 9th                  |                                                                                 |
-| 10th                 | [[#Martial Techniques]], [[#Attribute Increase]]                                |
+| **Transmuter Level** | **Features**                                           |
+| -------------------- | ------------------------------------------------------ |
+| 1st                  | [[#Alchemechanical Infusion]], [[#Makeshift Alchemy]]  |
+| 2nd                  | [[#Alchemechanical Infusion]], [[#Martial Techniques]] |
+| 3rd                  | [[#Opus Creation]]                                     |
+| 4th                  | [[#Alchemechanical Infusion]], [[#Martial Techniques]] |
+| 5th                  | [[#Alchemechanical Infusion]], [[#Advanced Infusion]]  |
+| 6th                  | [[#Vitality Transference]], [[#Martial Techniques]]    |
+| 7th                  | [[#Makeshift Alchemy]], [[#Upgraded Opus]]             |
+| 8th                  | [[#Martial Techniques]]                                |
+| 9th                  |                                                        |
+| 10th                 | [[#Martial Techniques]]                                |
 
 # Prerequisites
  

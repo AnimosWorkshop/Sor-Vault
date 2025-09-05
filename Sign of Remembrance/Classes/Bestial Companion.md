@@ -1,17 +1,17 @@
 ## Feature Table
  
-| **Bestial Companion Level** | **Features**                                              |
-| --------------------------- | --------------------------------------------------------- |
-| 1st                         | Bestial Proportions                                       |
-| 2nd                         | Instinctual Action, Bestial Evolution, Attribute Increase |
-| 3rd                         | Striking Style                                            |
-| 4th                         | Bestial Proportions, Attribute Increase                   |
-| 5th                         | Extra Attack                                              |
-| 6th                         | Attribute Increase                                        |
-| 7th                         |                                                           |
-| 8th                         | Attribute Increase                                        |
-| 9th                         |                                                           |
-| 10th                        | Attribute Increase                                        |
+| **Bestial Companion Level** | **Features**                          |
+| --------------------------- | ------------------------------------- |
+| 1st                         | Bestial Proportions                   |
+| 2nd                         | Instinctual Action, Bestial Evolution |
+| 3rd                         | Striking Style                        |
+| 4th                         | Bestial Proportions                   |
+| 5th                         | Extra Attack                          |
+| 6th                         |                                       |
+| 7th                         |                                       |
+| 8th                         |                                       |
+| 9th                         |                                       |
+| 10th                        |                                       |
    
 - - -
 ## Rulings
@@ -68,10 +68,6 @@ As the companion levels up, it becomes more capable in the actions it can take. 
 ### Instinctual Action
  
 Starting at 2nd level, the beast learns how to use one action faster than usual. Choose one of the following actions, which may be used as a quick action instead: [[Action Economy#^f8a635|dash]], [[Action Economy#^b70e3f|brawl]], [[Action Economy#^1e684d|disorient]] (does not count as having a free hand), [[Action Economy#^284a7e|hide]].
- 
-### Attribute Increase
- 
-When the beast reaches 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ### Striking Style
  
