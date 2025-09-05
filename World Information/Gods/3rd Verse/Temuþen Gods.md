@@ -4,7 +4,7 @@ Until only several dozen years before the Second Cataclysm, the Temuþen gods us
 
 ### Ratoki
 
->[[Halfling#Strongheart Halfling|Strongheart]] [[Halfling]]
+>[[Halfling#Strongheart Halfling|Strongheart]] [[Halfling]]; [[Blessing of Leadership]]
 
 The oldest living Temuþen god, Ratoki was orphaned from both of her parents at an early age due to the Brass-Blue war of 431 2V. Due to her situation, she was sent to a war orphanage, where a brass dragon by the name of Janalieþ eventually took her as her kid. This was an unusual state of affairs for a non-dragon child, who was exposed to high draconic society and culture at a time when the dragonland was very clearly hierarchical, and after a tough war which made the dragons only clutch more onto their power.
 
@@ -43,7 +43,7 @@ Niala herself is the primary god actually fighting the war against Gandecrala, a
 
 ### Lirika
 
->[[Human#Gifted Human|Gifted]] [[Human]] (Intelligence)
+>[[Human#Gifted Human|Gifted]] [[Human]] (Intelligence); [[Blessing of the Bard]]
 
 A rather mysterious god who has gone all the more into the shadows ever since the Second Cataclysm, Lirika used to be an important figure of the bygone Silver Dragonland, with the earliest mentions of her in the year 958 2V. Her rising to power remains a question for the history books, yet it is said within [[Gods List#Aria - Goddess of Knowledge|Arian]] circles that Lirika possesses a unique, almost unorthodox manner of research, being able to delve so deep into a topic as if she has experienced it herself.
 
@@ -81,7 +81,7 @@ As a god, Ac believes that the focus of change should be for the weak, the downt
 
 ### Alieca Roid
 
->[[Fariste#Scholar Fariste|Scholar]] [[Fariste]]; Puppeteering [[Wizard]] 10th; [[Major Blessing of Curiosity]]
+>[[Fariste#Scholar Fariste|Scholar]] [[Fariste]]; Puppeteering [[Wizard]] 10th; [[Major Blessing of Curiosity]], [[Blessing of Leadership]]
 
 The direct firstborn descendent of the inventor of the school of puppeteering Marga Roid, Alieca now leads her [[Urevneþ|people]] with great strength. In the year 1271 2V, while her mother was still the head of the family, Alieca was kidnapped by a group led by [[#Lirika]] from her home in the Silver Dragonland, in the hopes of being able to leverage the Puppeteers into giving her the power sealed within the Roid vault. Her mother, bearing the responsibility of generations past and generations to come, responded by war, during which she was killed a year after.
 

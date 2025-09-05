@@ -1,8 +1,8 @@
 #1st-Level #Histolecty #Alteration
  
-- Casting Time: Action
+- Casting Time: Channel
 - Range: 25'
-- Duration: Concentration, until the end of the target's next turn
+- Duration: Instantaneous
 
 Throughout a short channeling, you invoke the Judge's command to unleash upon a target you can see within range when you cast it. When this spell ends, the target takes an amount of psychic damage equal to 1d10 + half its combat initiative.
  
