@@ -7,6 +7,8 @@ tags:
 >[!note] 
 >Without armor, most races have a base AC of 9 and are weak to Slashing damage.
 
+^0e737f
+
 ### Light Armor
 | **Armor**       | **Cost** | **Weight** | **Base AC** | **Weakness**   |
 | --------------- | -------- | ---------- | ----------- | -------------- |

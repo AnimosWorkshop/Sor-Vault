@@ -57,14 +57,14 @@ If a trigger notes it requires a reaction and you have the [[#Advanced Infusion]
 
 * On making a weapon attack:
 	* Offensive Infusion (1st) - Increase the size of the weapon's damage die by 1.
-	* Rapid Alchemical Enhancement (2nd) - If the weapon is an alchemical bomb or harmful flask, or is enhanced by an alchemical substance such as venoms or a crystallizer, increase the damage die of the substance by 1.
+	* Rapid Alchemical Enhancement (2nd) - If the weapon is an alchemical bomb or harmful flask, or is enhanced by an alchemical substance such as venoms or a crystallizer, increase the damage die of the substance by 1. ^f1731b
 	* Precision Strike (4th) - Increase the attack roll by 1, and by an additional 1 if the enemy is [[Brawling Conditions#Grappled|grappled]], [[Brawling Conditions#Restrained|restrained]] or [[Brawling Conditions#Prone|prone]].
 	* Biomechanical Catapult (4th) - If the weapon is thrown, increase its range by its original range increment (double for the first infusion, triple for the second, etc.)
 * On being attacked by a weapon attack (requires a reaction):
-	* Defensive Diffusion (1st)  - Decrease the size of the weapon's damage die by 1.
+	* Defensive Diffusion (1st)  - Decrease the size of the weapon's damage die by 1. ^3b8f83
 	* Adaptive Mold (5th, \*) - If the attack hits, after damage is dealt, gain resistance 1 against the highest dealt damage type.
 * On being healed by a concoction or alchemical dart:
-	* Alchemical Restoration (2nd) - Increase the size of each healing die by 1.
+	* Alchemical Restoration (2nd) - Increase the size of each healing die by 1. ^3f2ece
 * On being forced to make a saving throw against a non-magical effect (requires a reaction):
 	* Dissipative Force (5th, \*) - If you succeed on your save, the creature which forced you to make that save must use a quick action to recover, or take a -2 penalty to their imposed DC for the same action type for the next minute.
  

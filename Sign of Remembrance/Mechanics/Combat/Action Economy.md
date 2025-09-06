@@ -55,18 +55,25 @@ A creature may only attack each other creature once during a round.
  - - -
 ## Action
  
-Actions are things a creature can do, which take the majority of its turn. These are most often what creatures rely on in order to make their time well-spent, both in combat (as most moves require 1 action) and outside of combat. Moves which take more than 1 round require the creature to invest 1 action during each of those rounds, until the move is finished.  
-Actions will usually be most things a creature improvises, from picking up items to hurling them, be focused and convincing in a conversation and casting the majority of spells. Therefore, a difficulty arises in specifying all the actions a creature may take. The following list contains many of the combat-effective actions:
+Actions are things a creature can do, which take the majority of its turn. These are most often what creatures rely on in order to make their time well-spent, both in combat (as most moves require 1 action) and outside of combat. Moves which take more than 1 round require the creature to invest 1 action during each of those rounds, until the move is finished.
+
+Actions will usually be most things a creature improvises, from picking up items to hurling them, be focused and convincing in a conversation and casting the majority of spells. Therefore, a difficulty arises in specifying all the actions a creature may take. The following list contains many of the combat-effective actions.
+
+>[!note]
+>You may use an action to perform a [[#Quick Action|quick action]], although for the most part it is not turn-efficient.
  
 - **Attack** - the creature makes 1 weapon attack against another creature or object. The creature makes an attack roll. If the result is equal to or higher than the defending creature's AC, the attack hits, allowing the attacking creature to make a damage roll.
 	Readied light weapons (such as a sheathed shortsword) can be drawn and used to attack using 1 Attack action.
 	In addition, a weapon attack can be performed nonlethaly. This subject is elaborated on in the [[Weaponsmith|weaponsmith]] page. ^43d1b5
 - **Brawl** - while using the attack action, you may replace the attack with performing one of the following actions, all of which are considered brawl actions: ^b70e3f
-    - **Grapple** - You use one hand, and a creature of up to your size or 1 higher must make a Resilience save against your basic Athletics (Strength) DC. On a failed save, they are [[Brawling Conditions#Grappled|grappled]] until they break free. Grappling requires you to use an arm to maintain it. That arm can still hold items, but usually cannot use them (such as weapons), except for shields with the Glove trait, which still provide their AC bonus against creatures you do not grapple. The escape DC is the same of your grapple DC.
-		Attempting to grapple a prone creature turns into the Topple action instead.
+    - **Grapple** - By using one hand, you attempt to get a hold of a creature up to 1 size larger than you. The target must make a Resilience save against your basic Athletics (Strength) DC. On a failed save:
+	    - The target is [[Brawling Conditions#Grappled|grappled]] until they break free.
+	    - Grappling requires you to use a hand to maintain your hold. You may still use it to hold items, but cannot use these items other than a [[Armorer#Shields|shield]] with the [[Weapon Rules#Glove|glove trait]], which still provides its AC bonus for creatures other than the grappled. 
+		
+		The escape DC is the same of your grapple DC. Attempting to grapple a prone creature turns it into the Topple action instead.
     - **Shove** - A creature within 5' of you must make a Resilience saving throw against your basic Athletics (Strength) DC, with a -2 penalty if they are mounted. On a failed save, they are either shoved up to 10' in a direction of your choice or fall prone. Shoving a creature into a wall deals 1d4 bludgeoning damage for each 5' the target was moved. This is considered unarmed strike damage, and is enhanced by sources such as [[Sentinel|sentinel features]] and the [[Weaponsmith#Special Weapons|enchanted wrappings]]. ^5d5dd0
     - **Topple** - An unmounted creature within 5' of you must make a Resilience saving throw against your basic Athletics (Strength) DC. The DC is increased by 2 if you are of their size category or larger than them. On a failed save, they become [[Brawling Conditions#Toppled|toppled]]. The escape DC is the same of your topple DC.
-    - **Restrain** - A creature grappled or toppled by you must make a Resilience saving throw against your basic Athletics (Strength) DC. On a failed save, they are also [[Brawling Conditions#Restrained|restrained]] in addition to the other condition. The conditions to ending the restraining are the same as to ending the grappling or toppling.
+    - **Restrain** - A creature physically grappled or toppled by you must make a Resilience saving throw against your basic Athletics (Strength) DC. On a failed save, they are also [[Brawling Conditions#Restrained|restrained]] in addition to the other condition. When the other condition ends, the restraining does too.
 - **Bluff** - you confuse an enemy trying to attack you in order to soften a blow. The next time a creature within 30' attacks you, they must make a Wits saving throw against your basic Deception (Charisma) DC. On a failure, the damage they deal with their attack is reduced by your Deception (Charisma) modifier. The Bluff action must be the last thing you do on your turn to work.
 - **Dash** - the creature can move additional distance equal to its base movement speeds. ^f8a635
 - **Disorient** - you attempt to throw a creature off-balance using your immediate surroundings, such as kicking dirt into your opponent's eyes, knocking a nearby branch towards their face, etc. The target creature within 5' must make an Initiative saving throw against your basic Sleight of Hand (Dexterity) DC or against your basic Deception (Charisma) DC. On a fail, they are [[Conditions#Pacified|pacified]] 1 until the end of their next turn, or pacified 2 if you have a free hand. ^1e684d
@@ -87,9 +94,9 @@ Actions will usually be most things a creature improvises, from picking up items
  - - -
 ## Quick Action
  
-Quick actions are things a creature can do which take up little time. Their versatility is lower than that of regular actions, as time is a constraint in this case. Quick actions may also be used if you take your action to use them. Examples for quick actions are:
+Quick actions are things a creature can do which take up little time. Their versatility is lower than that of regular actions, as time is a constraint in this case. Examples for quick actions are:
  
-- **Attack** - if the creature used its action to use the Major Interaction action or the Attack action using a weapon without the Heavy property, it may use this quick action to make an attack using a different light weapon held in a different hand. The attribute modifier for the weapon isn't added to the damage roll. ^941070
+- **Attack** - if the creature used its action to use a [[#^30b3a9|major Interaction]] or the [[Action Economy#^941070|attack]] action using a weapon without the Heavy property, it may use this quick action to make an attack using a different light weapon held in a different hand. The attribute modifier for the weapon isn't added to the damage roll. ^941070
 - **Assess** - Make a Nature (Intelligence), a Nature (Wisdom) or an Insight (Wisdom) check. Depending on your roll, understand some facts about a creature. You understand one fact if you pass DC 10, two facts for DC 15, or three for DC 20, and so on. You can learn the following facts:^047348
     - 1 fact:
 		- Creature type and race
