@@ -52,7 +52,7 @@ In order to advance as a paragon, you must meet the following prerequisites:
  
 ### Ideal Conduit
  
-Paragons get their magic from attuning to an ideal held by one of the gods, or a leader of a sect whose faith was strong enough to become immortalized in the cultural backbone of Sor. Choose one ideal, as detailed in the diagram; this becomes the source of your paragon class features. You get 1 level in either [Arcanist](Arcana.md), [Auramancer](Auramancy.md) or [Histolect](Histolecty.md), according to the ideal you serve. For each of your paragon levels, your caster level in that magic type increases by 1.
+Paragons get their magic from attuning to an ideal held by one of the gods, or a leader of a sect whose faith was strong enough to become immortalized in the cultural backbone of Sor. Choose one ideal, as detailed in the diagram; this becomes the source of your paragon class features. You get 1 level as either an [[Arcana|arcanist]], [[Auramancy|auramancer]] or [[Histolecty|histolect]], according to the ideal you serve. For each of your paragon levels, your caster level in that magic type increases by 1.
 
 Click on the diagram to see it fully. For additional explanation about the gods, their successors and how they might embody their ideals, refer to the World Information folder.
 ![[Paragon Ideals.canvas]]

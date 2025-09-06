@@ -54,7 +54,7 @@ In order to advance as a druid, you must meet the following prerequisites:
  
 ### Auramancer
  
-Starting at 1st level, you become an [Auramancer](Auramancy.md). For each of your druid levels, your auramancer level increases by 1.
+Starting at 1st level, you become an [[Auramancy|auramancer]]. For each of your druid levels, your auramancer level increases by 1.
  
 ### Aura Sense
  

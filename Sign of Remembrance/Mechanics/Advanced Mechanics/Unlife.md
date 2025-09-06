@@ -8,8 +8,8 @@ When a creature dies, it must make a Willpower saving throw, with a DC of 20 + t
 
 - Hopelessness - Culamitus (more often than not being the collective result of mass disasters)
 - Hubris - Advocate
-- Revenge - [Banshee](Banshee.md)
-- Restraint - [Hovler](Hovler.md)
+- Revenge - [[Banshee]]
+- Restraint - [[Hovler]]
 
 Zombie races perform their undeath in 2d4 days from their death, and Ghost races perform their undeath in 1d4 days from their death. If a creature's body is mutilated dramatically during that period, the creature cannot undie. Careful burial, however, does not count as mutilation.
  

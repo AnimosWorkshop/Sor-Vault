@@ -8,7 +8,7 @@ tags:
 | **Wizard Level** | **Features**                                     |
 | ---------------- | ------------------------------------------------ |
 | 1st              | [[#Arcanist]], [[#Spatial Sense]]                |
-| 2nd              | [[#Arcane Orb Specialty]]                        |
+| 2nd              | [[#Arcane Orb Specialty]], [[#Orb Storage]]      |
 | 3rd              | [[#Arcane Eye]]                                  |
 | 4th              | [[#Arcane Orb Specialty]], [[#Specialty School]] |
 | 5th              | [[#Spatial Deformation]]                         |
@@ -54,7 +54,7 @@ In order to advance as a wizard, you must meet the following prerequisites:
  
 ### Arcanist
  
-As a wizard, you become an [Arcanist](Arcana.md). For each of your wizard levels, your arcanist level increases by 1.
+As a wizard, you become an [[Arcana|arcanist]]. For each of your wizard levels, your arcanist level increases by 1.
  
 ### Spatial Sense
  

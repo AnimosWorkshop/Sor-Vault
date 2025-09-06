@@ -1,7 +1,7 @@
 _Daredevil Relic_
   - Weight: 1 lb
 - Magic Type: Histolecty
-- Requires Attunement: Potency, Functionality, Property (must have the [Corruption of the Daredevil](Minor%20Corruption%20of%20the%20Daredevil.md))
+- Requires Attunement: Potency, Functionality, Property (must have the [[Minor Corruption of the Daredevil|corruption of the daredevil]])
  
 The specially cut and highly-enchanted garnet is able to grant the attuned the ability to live off their own speed, while almost entirely relying on it to perpetuate their life.
  

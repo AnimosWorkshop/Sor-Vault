@@ -37,7 +37,7 @@ If a creature would have an advantage for skill checks but the skill sets a "bas
 Attack rolls are used by creatures to attempt to attack another creature. For the most part, they don't determine how strong an attack hits, since that is determined by damage rolls. Instead, attack rolls determine whether the attack hits in the first place. The roll is made up like so:  
 _Attack Roll = d20 + attribute modifier + proficiency bonus_
 
-- Attribute modifier - each attack roll uses one of the seven [attributes](Attribute%20Scores.md), and the corresponding attribute's modifier is added to the attack roll. Weapons use Strength, though weapons with the Finesse trait can use Dexterity instead, and spell attacks use their corresponding attribute (more information in the magic section).
+- Attribute modifier - each attack roll uses one of the seven [[Attribute Scores|attributes]], and the corresponding attribute's modifier is added to the attack roll. Weapons use Strength, though weapons with the Finesse trait can use Dexterity instead, and spell attacks use their corresponding attribute (more information in the magic section).
 - Proficiency bonus - if the creature is [[Proficiency and Downtime#Weapon Style Training|proficient with the weapon style]] (in the case of weapon attacks) or with the [[Reading a Spell Entry|magic type]] (in the case of spell attacks), the creature's [proficiency bonus](Proficiency and Downtime) is added to the attack roll.
 
 The DC of an attack roll is the [[Armor Rules|Armor Class (AC)]] of the defending creature. On a success, the attack hits, and the attacking creature proceeds to roll a damage roll.  
@@ -49,7 +49,7 @@ Critical hits result in doubling all damage, while critical misses result in eit
 Damage rolls, as the name implies, determine how much damage is dealt to the defending creature or hit object. For weapon attacks, the formula to calculate damage is as follows:  
 _Damage Roll = weapon's damage die + attribute modifier_
 
-- Weapon damage dice - can be found in the [weapons](Weaponsmith.md) page. Note that different upgrades, magic items and class features might modify the weapon's damage dice.
+- Weapon damage dice - can be found in the [[Weaponsmith|weaponsmith]] page. Note that different upgrades, magic items and class features might modify the weapon's damage dice.
 - Attribute modifier - as with the attack roll.
 
 >[!note]
@@ -59,7 +59,7 @@ _Damage Roll = weapon's damage die + attribute modifier_
 ^2da378
 
 For spells and other special cases, the damage dice are noted in the relevant feature's description, though it is important to remember that the spellcasting attribute modifier (for example, Intelligence for Arcana) is added to the damage roll of spell attacks, just as Strength would be added to weapon damage rolls. Any item bonuses to a creature's spellcasting modifier are also added to spell damage rolls.  
-Damage is dealt according to the rules listed in the [Damage and Death](Damage%20and%20Death.md) page.
+Damage is dealt according to the rules listed in the [[Damage and Death|this]] page.
  
 ### Saving Throws
  
@@ -75,7 +75,7 @@ _Saving Throw = d20 + attribute modifier + proficiency bonus_
 - Proficiency bonus - all creatures add their proficiency bonus to saving throws. However, if they are proficient in a particular save (such as from downtime training or class features), they add twice their proficiency bonus instead. 
 
 >[!example]
-> The [leshy](Leshy.md) race gets a racial feature which grants them proficiency with Resilience saving throws.
+> The [[Leshy|leshy]] race gets a racial feature which grants them proficiency with Resilience saving throws.
  
 ### Ability Checks
  
@@ -101,8 +101,8 @@ _Flat Check = d20_
 - - -
 ## Reading the Situation
  
-A lot of times, calling out a DC for a roll is not as simple as first thought of: the scene might contain a lot of variables the system did not specify, from [cover](Cover.md) to creatures being [prone](Conditions.md). While raising or lowering the DC for a task might be a solution for some uses, sometimes a different approach is used, in the form of advantage and disadvantage.
+A lot of times, calling out a DC for a roll is not as simple as first thought of: the scene might contain a lot of variables the system did not specify, from [[Cover|cover]] to creatures being [[Brawling Conditions#Prone|prone]]. While raising or lowering the DC for a task might be a solution for some uses, sometimes a different approach is used, in the form of advantage and disadvantage.
  
-Both terms are used to determine whether a side has a significant lead on the other - for example, an attacker standing tall above a prone creature should surely have advantage on their attack roll, while the prone creature has disadvantage on the saving throw attempting to dodge an incoming [Blood Boil](Blood%20Boil.md) spell.
+Both terms are used to determine whether a side has a significant lead on the other - for example, an attacker standing tall above a prone creature should surely have advantage on their attack roll, while the prone creature has disadvantage on the saving throw attempting to dodge an incoming [[Blood Boil]] spell.
  
 Advantage and disadvantage can be applied to attack rolls, saving throws and ability checks. For each advantage you have, roll another d20, and take only the highest d20 result. For each disadvantage, roll another d20, and take only the lowest d20 result. Advantages and disadvantages cancel each other out, so if you have 2 advantages and 1 disadvantage, you roll only 1 additional d20 and use the highest result.

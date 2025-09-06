@@ -4,7 +4,7 @@ Uncommon
 - Casting Time: 1 minute
 - Range: 60'
 - Duration: 4 hours
-- Material Components: A [soul-deprived](Soul%20Deprivation.md) corpse of a creature up to Medium size.  
+- Material Components: A [[Soul Deprivation|soul deprived]] corpse of a creature up to Medium size.  
 
 Using a rather stable material to cast an elemental into, you create an amalgamation between the obedient soul of an ice elemental, and the body of a once-living creature.
  

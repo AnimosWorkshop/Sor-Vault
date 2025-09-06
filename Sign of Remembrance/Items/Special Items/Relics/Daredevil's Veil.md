@@ -2,7 +2,7 @@ _Daredevil Relic_
  
 - Weight: 1 lb
 - Magic Type: Histolecty
-- Requires Attunement: Potency, Functionality, Property (must have the [Corruption of the Daredevil](Minor%20Corruption%20of%20the%20Daredevil.md))
+- Requires Attunement: Potency, Functionality, Property (must have the [[Minor Corruption of the Daredevil|corruption of the daredevil]])
  
 _You don't have to be bold - you can be a hidden beauty, like a butterfly cowering below the treetops to shield itself from the dropping rain. But when that rain is no more, and the sun shines for you - dance. Dance, I tell you! Bloom like a flower in the spring, eager to show your colors to the world; be a sight they won't ever forget. For when that dance is over, none will be left, save for the memories of those you've impressed, and the satisfaction of being none other than yourself._
  
@@ -16,4 +16,4 @@ While attuned to and wearing the veil, everything becomes more colorful, vivid, 
  
 _Property_  
 While attuned to and wearing the veil, the wearer's confidence in themselves is increased, alleviating their tact somewhat to embolden their image, yet drop their will to lie. Nothing should stop one from being, and acting upon, themselves. The attuned adds half their Charisma modifier to their Persuasion modifier, and reduces their Deception modifier by that amount. 
-In addition, the attuned may cast the [Voice of Authority](Voice%20of%20Authority.md) spell as a 2nd-level spell from the Veil's internal influence pool up to twice per long rest. When using the Voice of Authority spell while attuned to the veil, the charming curse lasts until the end of your next turn instead of until its start.
+In addition, the attuned may cast the [[Voice of Authority]] spell as a 2nd-level spell from the Veil's internal influence pool up to twice per long rest. When using the Voice of Authority spell while attuned to the veil, the charming curse lasts until the end of your next turn instead of until its start.

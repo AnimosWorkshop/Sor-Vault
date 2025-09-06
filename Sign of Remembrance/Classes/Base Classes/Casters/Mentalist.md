@@ -53,7 +53,7 @@ In order to advance as a mentalist, you must meet the following prerequisites:
  
 ### Histolect
  
-At 1st level, you become a [Histolect](Histolecty.md). For each of your mentalist levels, your histolect level increases by 1.
+At 1st level, you become a [[Histolecty|histolect]]. For each of your mentalist levels, your histolect level increases by 1.
  
 ### Mental Sense
  

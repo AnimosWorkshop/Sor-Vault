@@ -4,7 +4,7 @@ Uncommon
 - Casting Time: Action and quick action
 - Range: Touch
 - Duration: 3 hours
-- Material Components: [Soul stone](Runecarver.md) put inside a poppet vessel  
+- Material Components: [[Runecarver#Other Items|Soul stone]] put inside a poppet vessel  
 - Exhausts by 1
 
 You use the primal force of magic to imbue life from an enchanted soul stone into the poppet. The poppet, small in size and consisting usually of organic material, absorbs the soul stone's energy to house the soul in it to become a construct.  

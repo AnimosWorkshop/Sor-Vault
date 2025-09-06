@@ -4,7 +4,7 @@ Uncommon
 - Casting Time: 12 hours
 - Range: Touch
 - Duration: Until dispelled
-- Material Components: [Minor golemancy core](Runecarver.md), golem vessel (up to medium)
+- Material Components: [[Runecarver#Other Items|Minor golemancy core]], golem vessel (up to medium)
 - Exhausts by 3  
 
 Over a long ritual, you manage to place a hyper-responsive arcane engine inside a physical vessel, allowing it to react and move on its own. When you create a golem, you may give it a simple command, which it will attempt to follow until it is unable to. The command may be changed by casting the spell again on the golem, without material components. Only the golem's creator may change its command, unless both the creator and the new master cast the spell as a coven spell together (without material components), which allows ownership to change as the creator wishes.  

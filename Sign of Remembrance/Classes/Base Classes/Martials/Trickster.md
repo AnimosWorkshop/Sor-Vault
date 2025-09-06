@@ -105,7 +105,7 @@ You are proficient with Initiative and Wits saving throws.
  
 ### Guerilla
  
-At 7th level, you learn how to manage to get your attacks through even at tough situations. When you are supposed to attack with disadvantage, such as from being [[Conditions#Prone|prone]] or using a ranged weapon when only 5' away from your target, you may cancel 1 disadvantage to attack with a -2 penalty. This may be used only once per attack.  
+At 7th level, you learn how to manage to get your attacks through even at tough situations. When you are supposed to attack with disadvantage, such as from being [[Brawling Conditions#Prone|prone]] or using a ranged weapon when only 5' away from your target, you may cancel 1 disadvantage to attack with a -2 penalty. This may be used only once per attack.  
 
 In addition, whenever you attack a creature using a weapon without disadvantage, you may add 1d6 piercing damage to your damage roll. This damage die scales from the weapon's potency upgrade, so a +1 weapon would increase this piercing damage to 1d8, and so on. This may be used only once against each creature per round.
  

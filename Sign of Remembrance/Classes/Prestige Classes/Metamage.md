@@ -12,7 +12,7 @@ tags:
 | 3rd                | [[#Sorcerous Overload]]          |
 | 4th                | [[#Magical Tolerance]]           |
 | 5th                | [[#Dynamicist]]                  |
-   
+
 - - -
 ## Prerequisites
  
@@ -45,7 +45,7 @@ In order to advance as a metamage, you must meet the following prerequisites:
  
 ### Mage
  
-You continue your research of sorcery and spellcasting. For each of your metamage levels, you gain a caster level in any one magic type you already have.  
+You continue your research of sorcery and spellcasting. For each of your metamage levels, you gain a caster level in any one magic type you already have.
 >[!example]
 >A druid 3rd / wizard 2nd / metamage 1st can only choose to gain either auramancer or arcanist levels.
  

@@ -11,14 +11,14 @@ tags:
 | 2nd                  | [[#Alchemechanical Infusion]], [[#Martial Techniques]] |
 | 3rd                  | [[#Opus Creation]]                                     |
 | 4th                  | [[#Alchemechanical Infusion]], [[#Martial Techniques]] |
-| 5th                  | [[#Alchemechanical Infusion]], [[#Advanced Infusion]]  |
+| 5th                  | [[#Advanced Infusion]], [[#Alchemechanical Infusion]]  |
 | 6th                  | [[#Vitality Transference]], [[#Martial Techniques]]    |
 | 7th                  | [[#Makeshift Alchemy]], [[#Upgraded Opus]]             |
 | 8th                  | [[#Martial Techniques]]                                |
 | 9th                  |                                                        |
 | 10th                 | [[#Martial Techniques]]                                |
-
-# Prerequisites
+-- -
+## Prerequisites
  
 In order to advance as a transmuter, you must meet the following prerequisites:
 
@@ -58,7 +58,7 @@ If a trigger notes it requires a reaction and you have the [[#Advanced Infusion]
 * On making a weapon attack:
 	* Offensive Infusion (1st) - Increase the size of the weapon's damage die by 1.
 	* Rapid Alchemical Enhancement (2nd) - If the weapon is an alchemical bomb or harmful flask, or is enhanced by an alchemical substance such as venoms or a crystallizer, increase the damage die of the substance by 1.
-	* Precision Strike (4th) - Increase the attack roll by 1, and by an additional 1 if the enemy is [[Conditions#Grappled|grappled]], [[Conditions#Restrained|restrained]] or [[Conditions#Prone|prone]].
+	* Precision Strike (4th) - Increase the attack roll by 1, and by an additional 1 if the enemy is [[Brawling Conditions#Grappled|grappled]], [[Brawling Conditions#Restrained|restrained]] or [[Brawling Conditions#Prone|prone]].
 	* Biomechanical Catapult (4th) - If the weapon is thrown, increase its range by its original range increment (double for the first infusion, triple for the second, etc.)
 * On being attacked by a weapon attack (requires a reaction):
 	* Defensive Diffusion (1st)  - Decrease the size of the weapon's damage die by 1.
@@ -70,7 +70,7 @@ If a trigger notes it requires a reaction and you have the [[#Advanced Infusion]
  
 ## Makeshift Alchemy
  
-As a professional alchemist, you possess the ability to make improvised tools which emulate the effects of other alchemical items. Once per long rest, you may spend half an hour create [alchemical items](Alchemist.md) under the Bombs, Harmful Substances and Concoctions sections which cost up to 16 sc * your transmuter level for free, using materials from your surroundings as ingredients. These items deteriorate once you take your next long rest, or 16 hours pass.
+As a professional alchemist, you possess the ability to make improvised tools which emulate the effects of other alchemical items. Once per long rest, you may spend half an hour create [[Alchemist|alchemical items]] under the Bombs, Harmful Substances and Concoctions sections which cost up to 16 sc * your transmuter level for free, using materials from your surroundings as ingredients. These items deteriorate once you take your next long rest, or 16 hours pass.
  
 ## Martial Techniques
  
@@ -83,10 +83,6 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | 6th                  | 3                    | -                       |
 | 8th                  | 3                    | 1                       |
 | 10th                 | 3                    | 2                       |
- 
-## Attribute Increase
- 
-When you reach 2nd level, and again at: 4th, 6th, 8th and 10th level, you can increase one attribute score of your choice by 1. As normal, you can't increase an attribute score above 20 using this feature.
  
 ## Opus Creation
  

@@ -2,8 +2,6 @@ The world is made up of many different cultures, each with its own smithing and 
  
 While not wearing any armor, your AC is equal to your base AC (default 9) + your Dexterity modifier + half your proficiency modifier (rounded up).  
 Features which change your armor class calculation add another option to calculate it unless stated otherwise, but do not increase your AC when not calculating it using that option.
- 
-While you are incapacitated, your Dexterity modifier and any bonuses you have to your AC from holding weapons or shields do not increase your AC.
  - - -
 ## Armor Types
  

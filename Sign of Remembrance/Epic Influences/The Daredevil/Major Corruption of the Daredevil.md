@@ -1,4 +1,4 @@
-Base Requirement: 7th-level character, access to 2 unique daredevil artifacts, [Minor Corruption of the Daredevil](Minor%20Corruption%20of%20the%20Daredevil.md)
+Base Requirement: 7th-level character, access to 2 unique daredevil artifacts, [[Minor Corruption of the Daredevil]]
  
 Your attunement to the daredevil has grown further due to the connection you have made with their associated artifacts. You can feel impulse and passion calling louder than ever, their ideals flow through you, and your blocked emotions burst out with impulse. 
 

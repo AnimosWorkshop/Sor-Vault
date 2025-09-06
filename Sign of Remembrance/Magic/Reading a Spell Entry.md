@@ -19,7 +19,7 @@ Spell description
 - - -
 ## Spell Components
  
-Spells require two components in order to be cast: a verbal component - a string of words, phrases or syllables that chain together, and a somatic component - a gesture with one's hands that would allow the magic to flow correctly. In a technical sense, that means that the caster must be able to speak audibly throughout the spell's casting and that one of their hands must be free, or holding a [spell focus](Spell%20Foci.md).
+Spells require two components in order to be cast: a verbal component - a string of words, phrases or syllables that chain together, and a somatic component - a gesture with one's hands that would allow the magic to flow correctly. In a technical sense, that means that the caster must be able to speak audibly throughout the spell's casting and that one of their hands must be free, or holding a [[Spell Foci|spell focus]].
  
 ### Material Components
 
@@ -37,9 +37,9 @@ Getting caster levels can be done in one of two ways. The common and standard on
 
 There are three types of magic in Sign of Remembrance:
 
-- [Arcana](Arcana.md) - spells which control space using the Arcane Web ^0b3f76
-- [Auramancy](Auramancy.md) - spells which control living creatures' biological processes using their aura ^2a9e7e
-- [Histolecty](Histolecty.md) - spells which control creatures' souls using the bonds between them
+- [[Arcana]] - spells which control space using the Arcane Web ^0b3f76
+- [[Auramancy]] - spells which control living creatures' biological processes using their aura ^2a9e7e
+- [[Histolecty]] - spells which control creatures' souls using the bonds between them
 
 To cast a spell of a specific magic type, one must be a caster of that type: either an arcanist, an auramancy or a histolect. More information about these caster types can be found in the appropriate casting page.
  
@@ -66,7 +66,7 @@ Spells are categorized into 10 schools of magic, each containing spells which ar
 There are three rarities of spells:
 
 - Common - spells are common unless stated otherwise. That means that they are relatively well-spread around the world, and especially for low level spells, most scrolls can be found in large enough settlements with an adequate number of [[Runecarver|runecarvers]]. Therefore, even [[Character Creation.canvas|newly-created characters]] might already know them.
-- Uncommon - denoted by the Uncommon keyword under the spell's normal keywords. The spell is known to individuals around the world, who can share their secrets, but will often choose not to due to religious, social or moral reasons, such with the [Imbue Life](Imbue%20Life.md) spell. Though any character _can_ learn them, it's advised to think of a good reason for why they do, or who taught them - which might lead to interesting plots.
+- Uncommon - denoted by the Uncommon keyword under the spell's normal keywords. The spell is known to individuals around the world, who can share their secrets, but will often choose not to due to religious, social or moral reasons, such with the [[Imbue Life]] spell. Though any character _can_ learn them, it's advised to think of a good reason for why they do, or who taught them - which might lead to interesting plots.
 - Rare - denoted by the Rare keyword under the spell's normal keywords. The spell is known to few, but unlike uncommon spells, it's due to the spell being granted only as a reward from a blessing or another special source. Rare spells cannot be taught to others, nor can they be transcribed onto scrolls or items.
  
 ### Duration

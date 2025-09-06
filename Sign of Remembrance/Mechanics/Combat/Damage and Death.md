@@ -37,7 +37,7 @@ In contrast to damage, whose numbers can be manipulated, loss of hit points is e
 #### Fall Damage
 
 When finishing to fall, a creature takes 1d8 damage for each 10' of height difference from their original height to the ground, rounded down (e.g. no damage for up to 9' of height difference). Landing on a soft enough material, using special items or class features, may prevent some of this damage.
-In addition, when falling the creature must make an Acrobatics (Dexterity) save with the DC equal to half the falling height in ft., or fall [[Conditions#Prone|prone]].
+In addition, when falling the creature must make an Acrobatics (Dexterity) save with the DC equal to half the falling height in ft., or fall [[Brawling Conditions#Prone|prone]].
 -- -
 ## Death
  

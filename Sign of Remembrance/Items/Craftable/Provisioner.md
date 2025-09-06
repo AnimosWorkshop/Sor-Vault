@@ -40,7 +40,7 @@ tags:
 | Witchfire Band        | 50 sc    | 0.5 lb     | A wooden band with many runes, fit to be worn on one's wrist, or hang about from a hook on one's waist.<br>Anyone who touches the band may ignite or snuff out the band's energy, or switch it from hotflame (light) to coldflame (dark). It provides illumination to up to 15' from the band.                                                                                                                                                                                                                                                      |
 ## Other Items
 
-| **Product**           | **Cost** | **Weight** | **Notes**                                                                                                             |
-| --------------------- | -------- | ---------- | --------------------------------------------------------------------------------------------------------------------- |
-| Death Dealer's Amulet | 4 gc     | 0.25 lb    | See the [Death Dealer's Amulet](Death%20Dealer's%20Amulet.md) page under the Magical Items category.                  |
-| Nega-Empathy Gloves   | 10 gc    | 0.5 lb     | See the [Nega-Empathy Gloves](Nega-Empathy%20Gloves.md) page under the Magical Items category. Starts with 0 charges. |
+| **Product**           | **Cost** | **Weight** | **Notes**                                                                                     |
+| --------------------- | -------- | ---------- | --------------------------------------------------------------------------------------------- |
+| Death Dealer's Amulet | 4 gc     | 0.25 lb    | See the [[Death Dealer's Amulet]] page under the Magical Items category.                      |
+| Nega-Empathy Gloves   | 10 gc    | 0.5 lb     | See the [[Nega-Empathy Gloves]] page under the Magical Items category. Starts with 0 charges. |

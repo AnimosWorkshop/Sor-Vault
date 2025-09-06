@@ -82,7 +82,7 @@ You may retrain features gained from training, investing as much time as it woul
  
 ### Downtime Points
  
-You may also trade proficiency points gained while adventuring for Downtime Points (abbreviated as DP). Those points are used in order to learn [[Runecarver#Spell Scrolls|spells]] and [martial techniques](Sign%20of%20Remembrance/Epic%20Influences/Introduction.md), [[Crafting|craft items]] and [[#Earn Income|earn income]]. 
+You may also trade proficiency points gained while adventuring for Downtime Points (abbreviated as DP). Those points are used in order to learn [[Runecarver#Spell Scrolls|spells]] and [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]], [[Crafting|craft items]] and [[#Earn Income|earn income]].
 Each DP is worth about 2 weeks of training, which means that $1 PP = 4 DP$.
 
 #### Earn Income

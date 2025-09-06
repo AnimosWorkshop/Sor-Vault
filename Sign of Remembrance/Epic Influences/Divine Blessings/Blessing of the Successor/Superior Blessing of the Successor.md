@@ -1,3 +1,3 @@
-Base Requirement: 10th-level character, [Major Blessing of the Successor](Major%20Blessing%20of%20the%20Successor.md)
+Base Requirement: 10th-level character, [[Major Blessing of the Successor]]
  
 As your god passes a third of their remaining power to you, you feel awakened with power more immense than you could have ever imagined, increasing each of your attribute scores by 4 and your Willpower score by an additional 2. The blessing also renders you immortal in regards to aging, magical decay and diseases, and grants you resistance 2 to all damage and a +4 bonus to saving throws. In addition, your caster level in all magic types increases by 7, and your caster level in your god's magic type increases by an additional 3.
