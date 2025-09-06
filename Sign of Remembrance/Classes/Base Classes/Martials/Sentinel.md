@@ -84,7 +84,7 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 
 ### Skilled Focus
 
-Starting at 3rd level, you may use your focus not only on battle, but on the tasks around you. Whenever you go into [[#Inner Focus|focus]], choose any skill. You get a +1 bonus to skill checks with it.
+Starting at 3rd level, you may use your focus not only on battle, but on the tasks around you. Whenever you go into [[#Inner Focus|focus]], you may spend 1 additional focus and choose a skill. You get a +2 bonus to skill checks with it.
 
 ### Keen Observer
 
