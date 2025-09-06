@@ -84,6 +84,7 @@ Actions will usually be most things a creature improvises, from picking up items
     - Switch between different items it holds if neither are heavy
     - Draw or stow a heavy item
     - Search a large inventory for an item and draw it
+    - Apply a [[Alchemist#Substances|substance]] to a weapon a willing creature holds
 - **Prepare** - the creature defines a specific action it will take if a specific condition is met until the start of its next turn. When the condition is met, the creature may use their reaction (will be expanded upon later) to perform the action, using the previous reaction DC used, meaning that if no reactions were yet used the DC is 0, if one reaction was used the DC is 10, and so on, and the reaction DC does not rise by performing the action. If the action was performed, the creature may not use it again, as the prepared action counts as used.
 - **Search** - the creature makes a Perception (Wisdom), Investigation (Intelligence), Nature (Intelligence) or Sorcery (Wisdom) roll, and gets information according to it: ^3d44e8
     - Perception (Wisdom) - see objects and creatures, etc. Each [[Conditions#Hidden|hidden]] creature with basic Stealth (Dexterity) DC lower than your roll is not hidden from you.
@@ -114,6 +115,7 @@ Quick actions are things a creature can do which take up little time. Their vers
 - **Minor interaction** - the creature interacts with different objects within its reach. Examples: ^359f07
     - Pick up a small object (GM's decision for what counts as a small or easy to pick up item)
     - Draw or stow an item without the Heavy property
+    - Apply a [[Alchemist#Substances|substance]] to a weapon they hold
  - - -
 ## Reactions
  

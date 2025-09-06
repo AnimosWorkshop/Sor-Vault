@@ -97,7 +97,7 @@
 >>* Arms:
 >>	* Rondel (light; finesse, pommel, lethal 1) - 1d4 + 4 piercing + 1d4 adder venom
 >>	* Hook (light; tool (Athletics)) - 1d4 + 4 piercing
->>* 2 [[Alchemist#Harmful Substances|adder venom, minor]]
+>>* 2 [[Alchemist#Substances|adder venom, minor]]
 ^d850b7
 -- - - -
 ## 4th Level

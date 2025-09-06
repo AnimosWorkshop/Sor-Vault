@@ -30,5 +30,5 @@ At 4th level onward, the build can diverge onto multiple paths:
 
 ### Key Items
 
-* As both longbows and crossbows are two-handed only while shooting, having a free hand allows using both [[Alchemist#Concoctions|concoctions]] and [[Alchemist#Harmful Substances|venoms]].
+* As both longbows and crossbows are two-handed only while shooting, having a free hand allows using both [[Alchemist#Concoctions|concoctions]] and [[Alchemist#Substances|venoms]].
 * Upgrading ammunition with either [[Weaponsmith#Upgrades|flourish or masterwork]] is relatively cheap, however it is more of a consumable than for melee weapons. Keeping a few at hand is available even at lower levels, and can offer a difference in tough fights.
