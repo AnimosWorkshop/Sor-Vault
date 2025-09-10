@@ -1,6 +1,6 @@
-#Basic #Sentinel #Armed
+#Basic #Sentinel #Armed #Time 
  
-- Performance Time: 1 attack
+- Performance Time: 1 attack and quick action
 - Success DC: Athletics (Strength) with the target's basic Resilience DC
 - Required Weapon: Any combination of gauntlets and unarmed (2-handed)
  
