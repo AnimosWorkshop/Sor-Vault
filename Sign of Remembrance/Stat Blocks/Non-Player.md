@@ -18,8 +18,8 @@
 >>* Skills - Athletics (Strength) +6, Stealth (Dexterity) +5
 >>* Attacks:
 >>	* Claw (light; natural) - 1d6 + 3 slashing damage.
->>	* Bite (medium; natural, tool (Athletics)) - 1d8 + 3 piercing damage. On a hit, the dorctaze may choose to [[Brawling Conditions#Grappled|grapple]] the attacked creature as a quick action.
->>	* Chew (medium; natural, tool (Athletics)) - can only be used against a bitten and grappled or restrained target, 1d6 + 3 piercing damage. The dorctaze has an advantage on making this attack. On a hit, it may choose to [[Brawling Conditions#Restrained|restrain]] the attacked creature as a quick action.
+>>	* Bite (medium; natural, tool (Athletics)) - 1d8 + 3 piercing damage. On a hit, the kxotedor may choose to [[Brawling Conditions#Grappled|grapple]] the attacked creature as a quick action.
+>>	* Chew (medium; natural, tool (Athletics)) - can only be used against a bitten and grappled or restrained target, 1d6 + 3 piercing damage. The kxotedor has an advantage on making this attack. On a hit, it may choose to [[Brawling Conditions#Restrained|restrain]] the attacked creature as a quick action.
 
 ^a42c75
 
