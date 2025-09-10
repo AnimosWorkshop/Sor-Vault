@@ -1,7 +1,7 @@
 -- - -
 ## Bestial
 
->[!danger]- Dorkxote
+>[!danger]- Kxotedor
 >>[!info]- Appearance and General Information
 >>This night predator is a fierce animal native to the mountainous regions of Temuþan, such as Loþano and Estrana. Its jaw can open wide, enabling it to bite and chew big animals relative to its own size.
 >
