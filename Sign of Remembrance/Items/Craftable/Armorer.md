@@ -2,6 +2,11 @@
 tags:
   - Profession
 ---
+Armorer tools cost 20 sc and weigh 0.6 bulk.
+
+>[!cite] [[Armor Rules]]
+
+-- -
 ## Armor Bases
 
 >[!note] 
@@ -10,23 +15,23 @@ tags:
 ^0e737f
 
 ### Light Armor
-| **Armor**       | **Cost** | **Weight** | **Base AC** | **Weakness**   |
-| --------------- | -------- | ---------- | ----------- | -------------- |
-| Leather         | 20 sc    | 10 lb      | 10          | Slashing, Acid |
-| Studded Leather | 45 sc    | 13 lb      | 11          | Piercing, Acid |
+| **Armor**       | **Cost** | **Bulk** | **Base AC** | **Weakness**   |
+| --------------- | -------- | -------- | ----------- | -------------- |
+| Leather         | 20 sc    | 1.5      | 10          | Slashing, Acid |
+| Studded Leather | 45 sc    | 2        | 11          | Piercing, Acid |
 ### Medium Armor
-| **Armor**   | **Cost** | **Weight** | **Base AC** | **Weakness**   |
-| ----------- | -------- | ---------- | ----------- | -------------- |
-| Chain Shirt | 40 sc    | 20 lb      | 12          | Piercing, Fire |
-| Breastplate | 75 sc    | 25 lb      | 13          | Bludgeoning    |
-| Half Plate  | 1 gc     | 35 lb      | 14          | Bludgeoning    |
+| **Armor**   | **Cost** | **Bulk** | **Base AC** | **Weakness**   |
+| ----------- | -------- | -------- | ----------- | -------------- |
+| Chain Shirt | 40 sc    | 3.5 lb   | 12          | Piercing, Fire |
+| Breastplate | 75 sc    | 4 lb     | 13          | Bludgeoning    |
+| Half Plate  | 1 gc     | 5.5 lb   | 14          | Bludgeoning    |
 ### Heavy Armor
-| **Armor**  | **Cost** | **Weight** | **Base AC** | **Weakness**   |
-| ---------- | -------- | ---------- | ----------- | -------------- |
-| Ring Mail  | 25 sc    | 40 lb      | 15          | Piercing, Fire |
-| Chain Mail | 65 sc    | 50 lb      | 16          | Piercing, Fire |
-| Splint     | 130 sc   | 55 lb      | 17          | Bludgeoning    |
-| Plate      | 2 gc     | 65 lb      | 18          | Bludgeoning    |
+| **Armor**  | **Cost** | **Bulk** | **Base AC** | **Weakness**   |
+| ---------- | -------- | -------- | ----------- | -------------- |
+| Ring Mail  | 25 sc    | 6.5 lb   | 15          | Piercing, Fire |
+| Chain Mail | 65 sc    | 8 lb     | 16          | Piercing, Fire |
+| Splint     | 130 sc   | 9 lb     | 17          | Bludgeoning    |
+| Plate      | 2 gc     | 11 lb    | 18          | Bludgeoning    |
 ### Shields
 | **Armor**     | **Cost** | **Weight** | **Base AC** | **Weight Category** | **Weakness**      | **Notes**                                                                                                                               |
 | ------------- | -------- | ---------- | ----------- | ------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |

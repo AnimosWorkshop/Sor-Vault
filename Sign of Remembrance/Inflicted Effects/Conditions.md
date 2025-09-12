@@ -8,8 +8,6 @@ Negative energy flows through your veins, disrupting your healing processes. Any
 >You receive half the healing from concoctions, spells, etc., and also recover only half the difference between your maximum and current hit points during a long rest.
 #### Encumbered
 An encumbered creature has a -2 penalty to all rolls based on Strength and Dexterity, as well as to their AC, and their movement speed is 10' slower. In addition, Resilience and Initiative saves they make must rely on Constitution and Wisdom rather than on Strength and Dexterity, respectively.
-
-A creature is usually encumbered while the weight of creatures or items they wear and carry exceeds a number of lb equal to 6 times their Strength score. If the creature's carried weight exceeds 10 times their Strength score, double the condition's effects.
 #### Fatigued
 Fatigue has three degrees, with rising severity:
 1. Movement speed decreased by 5', -1 to saving throws.

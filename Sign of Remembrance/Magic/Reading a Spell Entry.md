@@ -19,7 +19,7 @@ Spell description
 - - -
 ## Spell Components
  
-Spells require two components in order to be cast: a verbal component - a string of words, phrases or syllables that chain together, and a somatic component - a gesture with one's hands that would allow the magic to flow correctly. In a technical sense, that means that the caster must be able to speak audibly throughout the spell's casting and that one of their hands must be free, or holding a [[Spell Foci|spell focus]].
+Spells require two components in order to be cast: a verbal component - a string of words, phrases or syllables that chain together, and a somatic component - a gesture with one's hands that would allow the magic to flow correctly. In a technical sense, that means that the caster must be able to speak audibly throughout the spell's casting and that one of their hands must be free, or holding a [[Runecarver#Spell Foci|spell focus]].
  
 ### Material Components
 

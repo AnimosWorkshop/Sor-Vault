@@ -90,7 +90,7 @@
 >>* Attributes - 10 / 12 / 16 / 10 / 19 / 14 / 14
 >>* Saves - +3 / +5 / +6 / +4,  +1 against magic
 >>* HP - 36, 3d6
->>* AC - 15 studded leather (piercing, acid) + 1 [[Spell Foci|staff]]
+>>* AC - 15 studded leather (piercing, acid) + 1 [[Runecarver#Spell Foci|staff]]
 >>* Movement - 25' walking
 >
 >>[!info]- Specifics
@@ -129,7 +129,7 @@
 >>* Attributes - 10 / 12 / 16 / 12 / 19 / 12 / 14
 >>* Saves - +3 / +6 / +6 / +4
 >>* HP - 36, 3d6
->>* AC - 15 studded leather (piercing, acid) + 1 [[Spell Foci|scepter]]
+>>* AC - 15 studded leather (piercing, acid) + 1 [[Runecarver#Spell Foci|scepter]]
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics

@@ -6,7 +6,7 @@ _Relic_
  
 _This legendary scepter from the end of the First Verse was crafted by Tezik, the Shifter himself, and was later used as the key to his chamber in his main temple in the center of the Bronze Archipelago. It was traditionally kept in the possession of his most trusted follower, before the Sealing occurred, though an earthquake that ensued during it caused the temple to become ruins, trapping the scepter and its wielder inside._
  
-As a [[Spell Foci|scepter]], Gale is also a [[Weaponsmith#Simple Melee Weapons|mace]], dealing 1d8 bludgeoning damage and having the Tool (Sorcery) weapon property.
+As a [[Runecarver#Spell Foci|scepter]], Gale is also a [[Weaponsmith#Simple Melee Weapons|mace]], dealing 1d8 bludgeoning damage and having the Tool (Sorcery) weapon property.
  
 _Potency_  
 Gale grants the attuned a +3 bonus to their arcana modifier.

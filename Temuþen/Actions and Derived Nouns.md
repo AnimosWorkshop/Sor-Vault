@@ -303,7 +303,7 @@
 * venkehū - to make difficult
 * veserū - to task
 * videnū - to cast (a spell)
-	* videnieng - [[Spell Foci|spell focus]]
+	* videnieng - [[Runecarver#Spell Foci|spell focus]]
 	* videnieþ - spell
 * vifū - to return
 * mal-vifū - to be cyclical
