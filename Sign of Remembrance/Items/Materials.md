@@ -15,33 +15,33 @@ It is also important to note the conversion rate - 100 cc per 1 sc, and 100 sc p
 | Copper       | 300 cc           | 1 cc             |
 ### Preida
 
-| **Material** | **Value / lb** | **Value / coin** | **Notes**                                                                         |
-| ------------ | -------------- | ---------------- | --------------------------------------------------------------------------------- |
-| Ruthenium    | 30 gc          | 10 sc            |                                                                                   |
-| Lirion       | 6 gc           | 2 sc             | Muddy teal in color, it is a rather soft metal used for many delicate art pieces. |
-| Zinc         | 120 cc         | 1 cc             |                                                                                   |
+| **Material** | **Value / Bulk** | **Value / coin** | **Notes**                                                                         |
+| ------------ | ---------------- | ---------------- | --------------------------------------------------------------------------------- |
+| Ruthenium    | 30 gc            | 10 sc            |                                                                                   |
+| Lirion       | 6 gc             | 2 sc             | Muddy teal in color, it is a rather soft metal used for many delicate art pieces. |
+| Zinc         | 120 cc           | 1 cc             |                                                                                   |
 ### Hell
 
-| **Material** | **Value / lb** | **Value / coin** | **Notes**                                                                                                                                                                                                                                                                                                               |
-| ------------ | -------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Incendium    | 600 gc         | 2 gc             | A rare metal from Burning Hell with an orange-beige color, it is able to withstand extreme heat and has a very high melting point. Luckily, with the use of magic in conjunction with the high heats of Burning Hell's volcanos, the [[Ogre#Scaled Ogre\|Worldforges]] managed to tame it in order to easily modify it. |
-| Titanium     | 60 sc          | 2 sc             |                                                                                                                                                                                                                                                                                                                         |
-| Ardene       | 6 sc           | 2 cc             | A common metal in Hell. Brownish-green in color, it is known as an "earth metal" due to its crustiness, and is most often used in a 99:1 ratio with Lirion in order to create a more durable alloy.                                                                                                                     |
+| **Material** | **Value / Bulk** | **Value / coin** | **Notes**                                                                                                                                                                                                                                                                                                               |
+| ------------ | ---------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Incendium    | 600 gc           | 2 gc             | A rare metal from Burning Hell with an orange-beige color, it is able to withstand extreme heat and has a very high melting point. Luckily, with the use of magic in conjunction with the high heats of Burning Hell's volcanos, the [[Ogre#Scaled Ogre\|Worldforges]] managed to tame it in order to easily modify it. |
+| Titanium     | 60 sc            | 2 sc             |                                                                                                                                                                                                                                                                                                                         |
+| Ardene       | 6 sc             | 2 cc             | A common metal in Hell. Brownish-green in color, it is known as an "earth metal" due to its crustiness, and is most often used in a 99:1 ratio with Lirion in order to create a more durable alloy.                                                                                                                     |
 
 ### Heliax
-| **Material** | **Value / lb** | **Value / coin** | **Notes** |
-| ------------ | -------------- | ---------------- | --------- |
-| Gold         | 300 gc         | 1 gc             |           |
-| Ruthenium    | 30 gc          | 10 sc            |           |
-| Silver       | 300 sc         | 1 sc             |           |
-| Iron         | 60 cc          | 1 cc             |           |
+| **Material** | **Value / Bulk** | **Value / coin** | **Notes** |
+| ------------ | ---------------- | ---------------- | --------- |
+| Gold         | 300 gc           | 1 gc             |           |
+| Ruthenium    | 30 gc            | 10 sc            |           |
+| Silver       | 300 sc           | 1 sc             |           |
+| Iron         | 60 cc            | 1 cc             |           |
 ### Limbo
 
-| **Material** | **Value / lb** | **Value / coin** | **Notes** |
-| ------------ | -------------- | ---------------- | --------- |
-| Gold         | 300 gc         | 1 gc             |           |
-| Lirion       | 6 gc           | 2 sc             |           |
-| Tin          | 12 sc          | 4 cc             |           |
+| **Material** | **Value / Bulk** | **Value / coin** | **Notes** |
+| ------------ | ---------------- | ---------------- | --------- |
+| Gold         | 300 gc           | 1 gc             |           |
+| Lirion       | 6 gc             | 2 sc             |           |
+| Tin          | 12 sc            | 4 cc             |           |
 
 -- - -
 ## Other Materials
