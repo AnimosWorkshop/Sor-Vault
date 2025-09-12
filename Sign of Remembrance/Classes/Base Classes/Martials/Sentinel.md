@@ -37,14 +37,8 @@ In order to advance as a sentinel, you must meet the following prerequisites:
 - Hit Points per Level: 10 + your Constitution modifier + your Willpower modifier per sentinel level
 ### Proficiencies
  
-- Weapons: Martial Pugilist weapons
-- Armor: None
-- Tools: None
-- Saving Throws: None
-- Skills: 2 levels of Medicine, 2 level of Athletics
-### Equipment
- 
-- Equipment worth up to 25 sc from the [[Provisioner]] and [[Weaponsmith]] tables.
+- 2 levels of Pugilist weapons
+- 1 level of Athletics
 - - -
 ## Class Features
  

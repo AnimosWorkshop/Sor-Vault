@@ -23,7 +23,7 @@ tags:
 | Ball Bearings     | 10 cc          | 0.1 lb     | 100 units, about 0.1'' in diamet                                                                                                                                                                        |
 | Climbing Rope, 5' | 15 cc          | 1 lb       |                                                                                                                                                                                                         |
 | Elegant Clothes   | 5 sc           | 3.5 lb     | All rules for [[#Starting Gear\|common clothes]] apply here, except that the clothes can be recognized to be of a specific design. Perhaps it is also marked by the craftsman for professional reasons. |
-| Food Ration       | 10 cc          | 2 lb       | Refer to the [[Travel and Rest\|rest rules]] for information about the daily amount of food required. Rations tend to last up to 3 days unless specified otherwise.                                     |
+| Food Ration       | 10 cc          | 1 lb       | Refer to the [[Travel and Rest\|rest rules]] for information about the daily amount of food required. Rations tend to last up to 3 days unless specified otherwise.                                     |
 | Transport         | 70 cc per day  |            | Done by renting a horse carriage and a rider. 40' base movement speed, resulting in 4 miles per hour, or 32 miles per day                                                                               |
 | Fast Transport    | 140 cc per day |            | Done by renting a horse carriage and an auramancer rider casting [Expedite] on their horse. 60' base movement speed, resulting in 6 miles per hour, or 48 miles per day                                 |
 ### Mid-Range Equipment
@@ -43,4 +43,4 @@ tags:
 | **Product**           | **Cost** | **Weight** | **Notes**                                                                                     |
 | --------------------- | -------- | ---------- | --------------------------------------------------------------------------------------------- |
 | Death Dealer's Amulet | 4 gc     | 0.25 lb    | See the [[Death Dealer's Amulet]] page under the Magical Items category.                      |
-| Nega-Empathy Gloves   | 10 gc    | 0.5 lb     | See the [[Nega-Empathy Gloves]] page under the Magical Items category. Starts with 0 charges. |
+| Nega-Empathy Gloves   | 8 gc     | 0.5 lb     | See the [[Nega-Empathy Gloves]] page under the Magical Items category. Starts with 0 charges. |

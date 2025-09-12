@@ -37,16 +37,9 @@ In order to advance as a transmuter, you must meet the following prerequisites:
  
 ## Proficiencies
  
-- Weapons: 1 simple and 1 martial weapon style of your choice
-- Armor: Next tier of armor
-- Tools: None
-- Saving Throws: None
-- Skills: 1 level of Medicine or Nature
- 
-## Equipment
- 
-- Leather Armor
-
+- 2 levels of a weapon style of your choice
+- 1 level of Medicine
+-- - -
 # Class Features
  
 ## Alchemechanical Infusion

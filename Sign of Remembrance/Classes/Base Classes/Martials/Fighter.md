@@ -39,16 +39,8 @@ In order to advance as a fighter, you must meet the following prerequisites:
  
 ### Proficiencies
  
-- Weapons: 2 martial weapon styles of your choice, each of which can be substituted for 2 simple weapon styles
-- Armor: Next tier of armor
-- Tools: None
-- Saving Throws: None
-- Skills: None
- 
-### Equipment
- 
-- 1 martial weapon of your choice
-
+- 1 level of a weapon style of your choice
+- Next tier of armor
 - - -
 ## Class Features
  
@@ -93,7 +85,7 @@ When you reach 3rd level, choose one weapon style to become your specialty. Base
 * _Sharpshooter_ - You get a +2 bonus to attack rolls with sharpshooter weapons.
 * _Skewer_ - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type.
 * _Sweeper_ - You get a +2 bonus to damage rolls with sweeper weapons.
-* _Swiftblade_ - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. [[Action Economy#Opportunity Attacks]] taken against you as a part of this movement are made with disadvantage.
+* _Swiftblade_ - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. [[Action Economy#Opportunity Attacks|Opportunity attacks]] taken against you as a part of this movement are made with disadvantage.
  
 ### Arms Lore
  

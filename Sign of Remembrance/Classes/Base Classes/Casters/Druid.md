@@ -35,19 +35,9 @@ In order to advance as a druid, you must meet the following prerequisites:
 - Hit Points per Level: 8 + your Constitution modifier + your Willpower modifier per druid level
  
 ### Proficiencies
- 
-- Weapons: 1 martial weapon style of your choice
-- Armor: Next tier of armor
-- Tools: None
-- Saving Throws: None
-- Skills: 1 level of Stealth
- 
-### Equipment
- 
-- 2 common 1st-level, auramancy spell scrolls of your choice (already learned as a part of you getting the class)
-- 1 martial weapon of your choice
-- Leather Armor
-- A druidic bauble
+
+* 2 levels of a weapon style of your choice
+* 1 level of Stealth
 - - -
 
 ## Class Features

@@ -37,18 +37,8 @@ In order to advance as a wizard, you must meet the following prerequisites:
  
 ### Proficiencies
  
-- Weapons: 1 simple weapon style of your choice
-- Armor: None
-- Tools: None
-- Saving Throws: None
-- Skills: 2 level of History, 2 level of Perception
- 
-### Equipment
- 
-- 2 common 1st-level, arcana spell scrolls of your choice (already learned as a part of you getting the class)
-- An ink pen, a quill and 10 parchment papers
-- A research book
-   
+- 1 simple weapon style of your choice
+- 2 level of Perception   
 - - -
 ## Class Features
  

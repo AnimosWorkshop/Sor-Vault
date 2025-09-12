@@ -32,16 +32,7 @@ In order to advance as a nullifier, you must meet the following prerequisites:
  
 ### Proficiencies
  
-- Weapons: None
-- Armor: None
-- Tools: None
-- Saving Throws: Wits
-- Skills: None
- 
-### Equipment
- 
-The nullifier class does not grant any special equipment.
-   
+- Wits saving throws
 - - -
 ## Class Features
  

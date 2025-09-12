@@ -36,15 +36,9 @@ In order to advance as a rogue, you must meet the following prerequisites:
 - Hit Points per Level: 6 + your Constitution modifier + your Willpower modifier per trickster level  
 ### Proficiencies
  
-- Weapons: 1 martial weapon style of your choice
-- Armor: None
-- Tools: None
-- Saving Throws: None
-- Skills: 3 levels of Acrobatics, 1 level of any skill of your choice
-### Equipment
- 
-- 1 finesse weapon of your choice
- - - -
+- 2 levels of a weapon style of your choice
+- 1 levels of Acrobatics
+- - -
 ## Class Features
  
 ### Shifting Tempo

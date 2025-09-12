@@ -32,15 +32,8 @@ In order to advance as a metamage, you must meet the following prerequisites:
 - Hit Points per Level: 6 + your Constitution modifier + your Willpower modifier per metamage level  
 ### Proficiencies
  
-- Weapons: 1 simple weapon style of your choice
-- Armor: None
-- Tools: None
-- Saving Throws: None
-- Skills: 1 level of Perception  
-### Equipment
- 
-- 1 simple weapon of your choice
- - - -
+- 2 levels of Perception  
+- - -
 ## Class Features
  
 ### Mage
