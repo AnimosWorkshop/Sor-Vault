@@ -19,7 +19,6 @@
 
 ^cd2b3d
 
-
 >[!danger]- Scout
 >>[!info]- Basics
 >>* [[Elf#Wood Elf]]
@@ -83,20 +82,21 @@
 >[!danger]- Hook Bruiser
 >>[!info]- Basics
 >>* [[Orc#Berserker Orc]]
->>* Attributes - 19 / 14 / 13 / 10 / 14 / 10 / 14
->>* Saves - +6 / +3 / +4 / +4
+>>* Attributes - 18 / 14 / 10 / 14 / 14 / 10 / 14
+>>* Saves - +6 / +4 / +4 / +4
 >>* HP - 48, 3d8
 >>* AC - 19 plate (bludgeoning)
->>* Resistances - elemental sink module (fire 1)
+>>* Resistances - [[Armorer#Upgrades|elemental sink module]] (cold 1)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
 >>* Skills - Athletics (Strength) +9
->>* Classes - [[Fighter#Skewer (dagger, estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)|Skewer]] [[Fighter]] 3rd ([[Fighter#Swift Grab|Swift Grab]])
+>>* Classes - [[Fighter#Skewer (dagger, estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)|Skewer]] [[Fighter]] 3rd
 >>* Martial Techniques - [[Reel In]]
 >>* Arms:
 >>	* Rondel (light; finesse, pommel, lethal 1) - 1d4 + 4 piercing + 1d4 adder venom
 >>	* Hook (light; tool (Athletics)) - 1d4 + 4 piercing
+>>* [[Fighter#^a688fd|Swift Grab]]
 >>* 2 [[Alchemist#Substances|adder venom, minor]]
 ^d850b7
 -- - - -
@@ -105,19 +105,20 @@
  >[!danger]- Wyrmling Assassin
 >>[!info]- Basics
 >>* [[Dragon#Blue]] (Wyrmling)
->>* Attributes - 14 / 14 / 18 / 14 / 14 / 8 / 16
->>* Saves - +5 / +7 / +5 / +6
->>* HP - 60, 4d6
+>>* Attributes - 16 / 14 / 18 / 12 / 14 / 8 / 16
+>>* Saves - +6 / +7 / +5 / +6
+>>* HP - 62, 4d6
 >>* Immunities - lightning
->>* AC - 18 natural (piercing) + 2 [[Trickster#Shifting Tempo|dodge]] + 2 [[roll]]
->>* Movement - 30' walking, 30' flying, [[tumble]]
+>>* AC - 17 natural (piercing) + 2 [[Trickster#Shifting Tempo|dodge]] + 2 [[roll]]
+>>* Movement - 30' walking, 30' flying
 >
 >>[!info]- Specifics
->>* Skills - Acrobatics (Dexterity) +10, Sleight of Hand (Dexterity) +10
+>>* Skills - Acrobatics (Dexterity) +7, Sleight of Hand (Dexterity) +10, Stealth (Dexterity) +10
 >>* Classes - [[Trickster]] 4th
 >>* Arms:
->>	* 2x Shortsword (light) - 1d6 + 6 slashing or piecing
->>* Breath Weapon - 15' cube, DC 16, 3d8 lightning damage or half
->>* [[Trickster#Uncanny Prediction|Uncanny Prediction]]
->>* 1 [[Alchemist#Concoctions|coagulation concoction, minor]]
+>>	* 1x Rapier - 1d8 + 4 piercing
+>>	* 1x Shortsword (light) - 1d6 + 4 slashing or piecing
+>>* [[Dragon#^495098|Breath Weapon]] - 15' cube, DC 16, 3d8 lightning damage or half
+>>* [[Backstab]]
+>>* 2 [[Alchemist#Concoctions|coagulation concoction, minor]]
 ^79a06b

@@ -3,6 +3,7 @@ The following are examples for words and bases from which names are constructed.
 ### Common Names
 
 * Bren - wood
+* Carnier - freedom
 * Danro - courage (also a genus of an animal)
 * Erla - comfort
 * Fori - warmth
@@ -17,4 +18,5 @@ The following are examples for words and bases from which names are constructed.
 
 ### Uncommon Names
 
+* Inien - uniter
 * Janalieþ - joy-seer

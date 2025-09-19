@@ -9,10 +9,10 @@ Uncommon
 **Size:** Wyrmlings are Medium, youngs are Large, adults are Huge and elders are Gargantuan.  
 **Creature Type:** Dragon.  
 **Speed:** 30' walking, 30' flying. Your flying speed increases by 15' for each age category above wyrmling.  
-**Vision:** Lightvision, mistvision.  
+**Vision:** Lightvision, mistvision.
 **Breath Weapon:** Each dragon has their own breath weapon, which they can use with an action to unleashing an element within them in a cube in front of them, 15' as wyrmlings and 5' more for each age category above it. Each creature within that area must make a Dexterity saving throw in the case of fire, cold and lightning, or a Constitution saving throw in the case of poison and acid. The DC is 10 + your Willpower modifier + your proficiency modifier. The breath weapon deals 3d8 of the dragon's element, and 3d8 more damage for each age category above it, or half as much damage if the creature succeeds on the saving throw. You regain the use of this feature once per short or long rest.  
 **Of the Elements:** You are immune to the damage type of your element.
-**Persistent Anatomy:** The starting hit points of dragons changes as they age alongside with their size:
+**Persistent Anatomy:** The starting hit points of dragons changes as they age alongside with their size: ^495098
 - Wyrmlings (medium): 8 starting hit points
 - Youngs (large): 10 starting hit points
 - Adults (huge): 12 starting hit points
@@ -28,7 +28,7 @@ _Each 'dragonflight', or draconic subrace, have a general biological similarity 
  
 ### Chromatic
  
-**Chromatic Scales:** Your natural armor AC is 14, plus 1 for each age category above wyrmling. While using your natural armor, you may only add half your Dexterity modifier for AC calculation instead of your full Dexterity modifier. Your unarmored defense weakness is piercing damage.  
+**Chromatic Scales:** Your natural armor AC is 13, plus 1 for each age category above wyrmling. While using your natural armor, you may only add half your Dexterity modifier for AC calculation instead of your full Dexterity modifier. Your unarmored defense weakness is piercing damage.  
 **Shapeshift:** Once per short rest, you may transform your body into the shape of a creature, in your size or up to two size categories smaller. You may retain this form as long as you are conscious, or until you dismiss it using a quick action. Any items you hold or wear, either in your original form or the transformed form, might either be torn from the pressure of the transformation (in the case of transforming into something larger) or dropped (in the case of held items or transforming into something smaller. The shapeshifting is mostly visual, and so you retain your attribute scores even while transformed.
  
 ### Metallic

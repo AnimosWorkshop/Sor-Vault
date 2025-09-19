@@ -11,7 +11,7 @@ tags:
 | 2nd                 | [[#Cunning Action]], [[#Martial Techniques]]                     |
 | 3rd                 | [[#Fast Hands]]                                                  |
 | 4th                 | [[#Uncanny Tempo]], [[#Shifting Tempo]], [[#Martial Techniques]] |
-| 5th                 | [[#Quick Attack]], [[#Uncanny Prediction]]                       |
+| 5th                 | [[#Quick Attack]]                                                |
 | 6th                 | [[#Alacrity]]                                                    |
 | 7th                 | [[#Guerilla]]                                                    |
 | 8th                 | [[#Skillful Technique]], [[#Martial Techniques]]                 |
@@ -78,7 +78,7 @@ At 4th level, your manipulation of tempo is refined so that you can take advanta
 When you hit an attack against a surprised creature or a creature that rolled a lower combat initiative than you did, you may choose to add a bonus to your damage roll for that attack. Alternatively, when a creature that rolled a higher combat initiative than you did attacks and hits you, you may choose to give them a penalty on the damage roll for that attack.
 If you chose Strength, the bonus and penalty are equal to your Strength modifier. Otherwise, they are equal to half your modifier for the attribute you chose.
 
-You may only use this feature once per round. You may use this feature twice per round starting at 5th level, even on the same trigger.
+You may only use this feature once per round. You may use this feature twice per round starting at 6th level, even on the same trigger.
 
 ### Quick Attack
  
