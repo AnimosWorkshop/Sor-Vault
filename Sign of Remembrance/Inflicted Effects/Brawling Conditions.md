@@ -7,6 +7,8 @@ While grappled, a creature's movement speed is zero, and the movement is control
 
 While grappled, the creature may use an action to attempt a saving throw (usually a Resilience save unless stated otherwise) to end this condition, against either a basic Athletics (Strength) DC imposed by the grappler, or another DC if stated otherwise.
 An effect which forces the grappled creature away from the grappler ends this condition.  
+
+While the two creatures are at most 5' apart, the grappler has [[Cover#^687bf7|cover 1]] from the grappled's side if the grappled is of their size category or higher.
 #### Prone
 The creature is lying on the floor. Melee attacks the creature makes are made with disadvantage, melee attacks against it are made with advantage, and ranged attacks against it from at least 10' away are made with disadvantage. It also has disadvantage on Initiative saving throws. 
 

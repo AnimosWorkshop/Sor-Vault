@@ -107,7 +107,7 @@ At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tacti
 * _Swift Grab_ - The Resilience DC against the quickened [[Action Economy#^b70e3f|brawl action]] does not get a bonus.
 ### Extra Attack
  
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action as an action. Each of those can be swapped for a [[Action Economy#^b70e3f|brawl action]] as per usual.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [[Action Economy#^43d1b5|attack]] action as an action. Each of those can be swapped for a [[Action Economy#^b70e3f|brawl action]] as per usual.
 If both attacks were used as regular (non-[[Action Economy#^b70e3f|brawl]]) attacks, and both hit, the second attack deals only half damage.
 The attacks do not have to be taken together, meaning that if you take the Attack action, the second attack can occur at any time until the end of your turn.
 

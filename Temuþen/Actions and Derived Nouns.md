@@ -38,7 +38,6 @@
 * cugrū - to investigate
 * cucū - to silence
 	* cuciul - silent
-* cuciulū - to whisper
 * dahrū - to kill
 	* mal-dahrū - to die
 * dalkatū - to reject
@@ -58,6 +57,7 @@
 * dudunū - to list
 	* dudunieþ - list
 * dunū - to sit
+* ecfū - to whisper
 * eckū - to oppose
 * edū - to eat
 * ekisū - to hear
