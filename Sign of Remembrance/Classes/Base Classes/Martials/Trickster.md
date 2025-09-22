@@ -82,7 +82,7 @@ You may only use this feature once per round. You may use this feature twice per
 
 ### Quick Attack
  
-Starting at 5th level, the [[Action Economy#^43d1b5|attack]] action becomes a quick action for you. Using a quick action to perform the Attack action does not allow you to use the [[Fighter#Extra Attack|extra attack]] fighter feature on it. 
+Starting at 5th level, the [[Action Economy#^43d1b5|attack]] action becomes a quick action for you, and you add your ability modifier for the damage roll as when attacking as an action. Using a quick action this way does not allow you to use the [[Fighter#Extra Attack|extra attack]] fighter feature for it.
 In addition, your damage rolls with light, finesse and ammunition weapons increase by 1.
  
 ### Alacrity
