@@ -6,7 +6,7 @@
 **Creature Type:** Helian.  
 **Speed:** 35' walking.  
 **Vision:** Lightvision, mistvision.
-**Natural Tint:** You are resistant to radiant damage.  
+**Natural Tint:** You are resistant to sensory damage.  
 **Instinctual Flow:** The first reaction you make in a round does not require you to make a reaction check, although the DC increases as it normally would.  
 **Languages:** You can speak, read, and write Helian. You may also express yourself in Sparksong - a sign language which uses light flares of your body in different colors to note the mood of speech, with low frequencies for calmness or sadness and higher frequencies for excitement or anger.
 - - -
@@ -18,4 +18,4 @@
 ### Flared Sparkling
  
 **Racial Attribute Bonus**: Your Charisma score increases by 1.
-**Irradiating Presence**: Flared sparklings' control over Sparksong is much better than charged's, allowing them to use it in speech to capture the attention of others. You may activate this as a quick action and the use of your [[Reading a Spell Entry#Duration|Concentration]] slot. For the next 10 minutes, you have a +1 bonus to Charisma-based skill checks. While this is active, you may flare your song using an action, ending the effect entirely and dealing 1d4 radiant + 1d4 thunder damage to all other creatures who fail a Resilience save within 10'. Creatures who fail the save are also considered [[Injuries#Blinded|blinded]] against creatures who are further than 45' from them for the next round. This feature counts as a 1st-level, arcana, histolecty, tempest for the purpose of magic detection, and may be used once per long rest.
+**Irradiating Presence**: Flared sparklings' control over Sparksong is much better than charged's, allowing them to use it in speech to capture the attention of others. You may activate this as a quick action and the use of your [[Reading a Spell Entry#Duration|Concentration]] slot. For the next 10 minutes, you have a +1 bonus to Charisma-based skill checks. While this is active, you may flare your song using an action, ending the effect entirely and dealing 1d4 sensory + 1d4 kinetic damage to all other creatures who fail a Resilience save within 10'. Creatures who fail the save are also considered [[Injuries#Blinded|blinded]] against creatures who are further than 45' from them for the next round. This feature counts as a 1st-level, arcana, histolecty, tempest for the purpose of magic detection, and may be used once per long rest.

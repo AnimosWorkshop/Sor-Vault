@@ -1,5 +1,5 @@
 _Daredevil Relic_
-  - Weight: 1 lb
+- Bulk: 0.1
 - Magic Type: Histolecty
 - Requires Attunement: Potency, Functionality, Property (must have the [[Minor Corruption of the Daredevil|corruption of the daredevil]])
  

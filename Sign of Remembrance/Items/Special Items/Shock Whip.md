@@ -1,4 +1,4 @@
-- Weight: 2 lb
+- Bulk: 0.3
 - Magic Type: Arcana
 - Requires Attunement: Property
  

@@ -104,7 +104,7 @@ The arcane web bends around you, causing objects coming fast towards you to temp
 Your deduction heightens, allowing you to logically predict the immediate future of many things around you, but also making you visibly distracted by everything. You may choose to use Intelligence instead of any other attribute for Initiative saves, meaning your Initiative saves are unaffected by conditions such as [[Conditions#Encumbered|encumbered]]. In addition, you add half your Intelligence modifier to Willpower saving throws.
  
 #### Calefaction
-Your body alternates between exuding great heat to great cold. You become resistant to fire, cold and radiant damage, and your fire, cold and radiant damage rolls are made with a +2 bonus.
+Your body alternates between exuding great heat to great cold. You become resistant to fire, cold and sensory damage, and your fire, cold and sensory damage rolls are made with a +2 bonus.
  
 #### Displacement
 Your body blinks as you move, making it hard to predict your exact location at any moment. You become immune to [[Action Economy#Opportunity Attacks|opportunity attacks]], and your base speed increases by 10'.
@@ -113,7 +113,7 @@ Your body blinks as you move, making it hard to predict your exact location at a
 You are able to control one unattended objects within your reach using quick alterations in the web. Once per turn, you may use a minor interaction as a free action, and you may "hold" one object with the arcane web as if you had a third arm.
  
 #### Tempest
-You become able to build up charge around you, crackling lightly whenever you do. Whenever you cast a spell or take at least 5 damage, you build up 1 charge. At the start of your turn, you release all charges - dealing thunder damage equal to quadruple that amount to a creature within 30'. You may also discharge to the air around you, dealing damage to nothing.
+You become able to build up charge around you, crackling lightly whenever you do. Whenever you cast a spell or take at least 5 damage, you build up 1 charge. At the start of your turn, you release all charges, dealing kinetic damage equal to quadruple that amount to a creature within 30'. You may also discharge to the air around you, dealing damage to nothing.
  
 ### Arcane Deflection
  

@@ -1,4 +1,4 @@
-- Weight: 0.25 lb
+- Bulk: -
 - Magic Type: Auramancy
 - Requires Attunement: Property
  

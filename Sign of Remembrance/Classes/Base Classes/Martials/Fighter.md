@@ -61,7 +61,7 @@ If the incoming attack critically hits, breakage is applied to the weapon or shi
  
 ### Adrenaline Surge
  
-Starting at 2nd level, you gain the ability to send a surge of adrenaline through your body. During your turn, you may use your quick action to execute an action, and regain an amount of hit points equal to 1d6 + your fighter level.  
+Starting at 2nd level, you gain the ability to send a surge of adrenaline through your body. You may use your quick action to execute an action, and regain an amount of hit points equal to 1d6 + your fighter level.  
 You may use this feature once, and regain the ability to do so after you finish a short or long rest. You gain another use when you reach 7th level.
  
 ### Martial Techniques

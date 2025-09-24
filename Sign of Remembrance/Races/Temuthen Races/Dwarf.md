@@ -8,7 +8,7 @@ _Dwarves are a materialistic race, who are taught discipline from young age. Whi
 **Creature Type:** Temuthen.  
 **Speed:** 25' walking.  
 **Vision:** Lightvision, tremorsense.  
-**Dwarven Resilience:** You have advantage on saving throws against being weakened, and you have resistance against being poisoned and taking poison damage.  
+**Dwarven Resilience:** You have advantage on saving throws against being weakened, and you are resistant 1 to necrotic damage and against being poisoned.
 **Dwarven Combat Training:** You are proficient with the martial sweeper weapon style.
 **Tool Expertise:** You are an expert with one tool of your choice.  
 **Languages:** You can speak, read, and write Temuthen.

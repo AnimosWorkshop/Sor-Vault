@@ -181,7 +181,6 @@
 * lirikū - to promise
 * likarū - to recall
 * lobū - to raise
-* lublazū - to survive
 * lunū - to lie (down)
 * macū - to blind
 	* mac - sand

@@ -8,7 +8,7 @@
 >>* Attributes - 8 / 14 / 14 / 18 / 12 / 14 / 14
 >>* Saves - +4 / +6 / +4 / +4
 >>* HP - 24
->>* AC - 13 leather (slashing, acid)
+>>* AC - 13 leather (slashing, necrotic)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -22,14 +22,13 @@
 ^57e735
 
 
-
 >[!danger]- Disciple of Freedom
 >>[!info]- Basics
 >>* [[Elf#High Elf]]
 >>* Attributes - 8 / 14 / 14 / 12 / 17 / 8 / 16
 >>* Saves - +4 / +4 / +5 / +5
 >>* HP - 24, 1d6
->>* AC - 13 leather (slashing, acid)
+>>* AC - 13 leather (slashing, necrotic)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -49,8 +48,8 @@
 >>* [[Elf#Wood Elf]]
 >>* Attributes - 8 / 14 / 17 / 18 / 8 / 10 / 14
 >>* Saves - +4 / +6 / +2 / +4
->>* HP - 24, 1d6
->>* AC - 13 leather (slashing, acid)
+>>* HP - 36, 2d8
+>>* AC - 13 leather (slashing, necrotic)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -63,6 +62,25 @@
 
 ^00969f
 
+>[!danger]- Tempestist Auramancer
+>>[!info]- Basics
+>>* [[Dwarf#Hill Dwarf]]
+>>* Attributes - 12 / 16 / 10 / 18 / 14 / 8 / 14
+>>* Saves - +5 / +6 / +4 / +4
+>>* HP - 39, 2d8
+>>* AC - 13 chain shirt (piercing, lightning)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Nature (Wisdom) +7, Insight (Wisdom) +8, 
+>>* Classes - [[Druid]] 2nd
+>>* Auramantic Spells (Bonus +7, DC 17) - 10 Mana:
+>>	* 1st-Level - [[Expedite]], [[Shining Flame]], [[Disarming Shock]], [[Purifying Wind]]
+>>* Arms:
+>>	* [[Runecarver#Spell Foci|Wand]] (light)
+
+^deee37
+
 - - -
 ## 3rd Level
 
@@ -72,7 +90,7 @@
 >>* Attributes - 9 / 14  / 16 / 11 / 19 / 14 / 14
 >>* Saves - +4 / +5 / +6 / +4
 >>* HP - 40, 3d6
->>* AC - 15 studded leather (piercing, acid)
+>>* AC - 15 studded leather (slashing, acid)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -90,7 +108,7 @@
 >>* Attributes - 10 / 12 / 16 / 10 / 19 / 14 / 14
 >>* Saves - +3 / +5 / +6 / +4,  +1 against magic
 >>* HP - 36, 3d6
->>* AC - 15 studded leather (piercing, acid) + 1 [[Runecarver#Spell Foci|staff]]
+>>* AC - 15 studded leather (slashing, acid) + 1 [[Runecarver#Spell Foci|staff]]
 >>* Movement - 25' walking
 >
 >>[!info]- Specifics
@@ -109,7 +127,7 @@
 >>* Attributes - 8 / 14 / 16 / 14 / 12 / 18 / 14
 >>* Saves - +4 / +5 / +6 / +4
 >>* HP - 34, 2d8
->>* AC - 15 studded leather (piercing, acid)
+>>* AC - 15 studded leather (slashing, acid)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -129,7 +147,7 @@
 >>* Attributes - 10 / 12 / 16 / 12 / 19 / 12 / 14
 >>* Saves - +3 / +6 / +6 / +4
 >>* HP - 36, 3d6
->>* AC - 15 studded leather (piercing, acid) + 1 [[Runecarver#Spell Foci|scepter]]
+>>* AC - 15 studded leather (slashing, acid) + 1 [[Runecarver#Spell Foci|scepter]]
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics

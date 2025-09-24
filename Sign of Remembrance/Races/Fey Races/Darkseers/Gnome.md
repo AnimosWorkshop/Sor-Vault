@@ -7,7 +7,7 @@
 **Speed:** 25' walking.  
 **Vision:** Darkvision.  
 **Got an Eye for it:** Due to their special shape, gnomes' eyes glisten with a crystal-like glow, allowing them to notice small details to better evaluate situations. You are proficient with Investigation and Perception.  
-**Biological Deflection:** In order to avoid unwanted sensual stimulation, gnomes' bodies are biologically equipped with filters. You are resistant to radiant and thunder damage.  
+**Biological Deflection:** In order to avoid unwanted sensual stimulation, gnomes' bodies are biologically equipped with filters. You are resistant to sensory and kinetic damage.  
 **Languages:** You can speak, read, and write Sylvan.
 - - -
 ## Subraces

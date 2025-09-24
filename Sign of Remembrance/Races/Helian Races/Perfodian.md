@@ -6,7 +6,7 @@
 **Creature Type:** Helian.  
 **Speed:** 25' walking, 25' burrowing.  
 **Vision:** Lightvision.  
-**Natural Tint:** You are resistant to radiant damage.  
+**Natural Tint:** You are resistant to sensory damage.  
 **All that Glitters:** Perfodians have affinity for magic, and arcana specifically, and are able to biologically transform some of their soul into resonance. Your innate knack for magic makes you novice with Sorcery.  
 **Shining Brilliance:** Regardless of their actual way of speech, sight alone can turn heads to the perfodians' shining visage. The only thing left then, is for the perfodian to be able to leverage it to their advantage. You are adept with Performance, and may use Performance (Intelligence) instead of Performance (Charisma) for the Inspire quick action.  
 **Languages:** You can speak, read, and write Helian.

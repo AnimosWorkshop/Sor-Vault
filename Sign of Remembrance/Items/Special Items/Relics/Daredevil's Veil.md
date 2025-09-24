@@ -1,6 +1,6 @@
 _Daredevil Relic_
  
-- Weight: 1 lb
+- Bulk: 0.2
 - Magic Type: Histolecty
 - Requires Attunement: Potency, Functionality, Property (must have the [[Minor Corruption of the Daredevil|corruption of the daredevil]])
  
@@ -12,7 +12,7 @@ _Potency_
 While attuned to the veil, the attuned gains the [[Halfling|Lucky]] feature, meaning that when they roll a 1 on the d20 for an attack roll, ability check, or saving throw, they can reroll the die and must use the new result. If the attuned already has this feature from the halfling race or by some other mean, instead they may reroll on either a 1 or a 2 on the d20, and so on.
  
 _Functionality_  
-While attuned to and wearing the veil, everything becomes more colorful, vivid, and painful. You have a +1 bonus to your Perception modifier, and whenever you deal damage or are dealt damage, add psychic damage to it equal to your Charisma modifier.
+While attuned to and wearing the veil, everything becomes more colorful, vivid, and painful. You have a +1 bonus to your Perception modifier, and whenever you deal damage or are dealt damage, add sensory damage to it equal to your Charisma modifier.
  
 _Property_  
 While attuned to and wearing the veil, the wearer's confidence in themselves is increased, alleviating their tact somewhat to embolden their image, yet drop their will to lie. Nothing should stop one from being, and acting upon, themselves. The attuned adds half their Charisma modifier to their Persuasion modifier, and reduces their Deception modifier by that amount. 

@@ -1,6 +1,6 @@
 _Relic_
  
-- Weight: 2 lb
+- Bulk: 0.3
 - Magic Type: Auramancy
 - Requires Attunement: Potency, Functionality, Property (must be with Willpower 15)
  

@@ -8,7 +8,7 @@
 >>* Attributes - 18 / 16 / 12 / 12 / 8 / 10 / 13
 >>* Saves - +6 / +3 / +2 / +3
 >>* HP - 24, 1d8
->>* AC - 14 chain shirt (piercing, fire)
+>>* AC - 14 chain shirt (piercing, lightning)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -25,7 +25,7 @@
 >>* Attributes - 8 / 13 / 18 / 18 / 12 / 8 / 14
 >>* Saves - +3 / +6 / +3 / +4
 >>* HP - 20, 1d6
->>* AC - 15 leather (slashing, acid) + 1 buckler (bludgeoning) + 2 [[Trickster#Shifting Tempo|dodge]]
+>>* AC - 15 leather (slashing, acid) + 1 buckler (bludgeoning, lightning) + 2 [[Trickster#Shifting Tempo|dodge]]
 >>* Movement - 35' walking
 >
 >>[!info]- Specifics
@@ -42,17 +42,19 @@
 >[!danger]- Archer
 >>[!info]- Basics
 >>* [[Vident#Inquisitive Vident]]
->>* Attributes - 17 / 16 / 12 / 14 / 12 / 8 / 12
+>>* Attributes - 18 / 16 / 12 / 14 / 12 / 8 / 12
 >>* Saves - +5 / +4 / +3 / +3, +1 focused + 1 lone wolf
 >>* HP - 40, 2d10
->>* AC - 15 studded leather (slashing, acid) + 1 lone wolf
+>>* AC - 16 ring mail (piercing, cold) + 1 lone wolf
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
->>* Skills (+1 from lone wolf) - Athletics (Strength) +7, Intimidation (Charisma) +6
+>>* Skills (+1 from lone wolf) - Athletics (Strength) +8, Intimidation (Strength) +7
 >>* Classes - [[Sentinel]] 2nd
 >>* Arms:
->>	* Bayonet Longbow (heavy; ammunition (100' / 400')) - 1d8 + 3 piercing + 1 lone wolf
+>>	* Bayonet Longbow (medium; ammunition (100'/400')) - 1d8 + 3 piercing + 1 lone wolf
+>>	* Gauntlet (light; glove) - 1d8 + 3 bludgeoning + 1 lone wolf
+>>	* Unarmed (light; natural) - 1d6 + 3 bludgeoning + 1 lone wolf
 >>* Martial Techniques - [[Unbalancing Kick]]
 >>* [[Provisioner#Mid-Range Equipment|Refreshening straw]]
 ^2a16f5
@@ -63,8 +65,8 @@
 >>* Attributes - 10 / 12 / 17 / 10 / 16 / 14 / 16
 >>* Saves - +4 / +5 / +5 / +4
 >>* HP - 36, 2d8
->>* Resistances - hardened weave (piercing 1, slashing 1)
->>* AC - 15 studded leather (piercing, acid) + 2 kite shield
+>>* Resistances - hardened weave (slashing 1)
+>>* AC - 15 studded leather (slashing, acid) + 2 kite shield
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -76,6 +78,29 @@
 
 ^a16c37
 
+>[!danger]- Riddler
+>>>[!info]- Basics
+>>* [[Fariste#Exemplar Fariste]]
+>>* Attributes - 8 / 14 / 18 / 8 / 13 / 18 / 14
+>>* Saves - +4 / +5 / +6 / +4
+>>* HP - 36, 2d8
+>>	* 6 temporary HP (racial feature)
+>>* AC - 16 studded leather (slashing, acid)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Deception (Charisma) +7, Stealth (Dexterity) +8, Acrobatics (Dexterity) +5
+>>* Classes - [[Mentalist]] 1st, [[Transmuter]] 1st
+>>* Histolectual Spells (Bonus +6, DC 16) - 3 Influence:
+>>	* 1st-Level - [[Hole Riddle]], [[Exasperating Glare]]
+>>* Arms:
+>>	* Hand crossbow (light; ammunition (40'/160')) - 1d6 + 3 piercing + 1d4 necrotic (adder venom, minor)
+>>* Belt Pouch:
+>>	* [[Alchemist#Substances|Sticky goo]]
+>>* [[Transmuter#Alchemechanical Infusion]]
+
+^79351e
+
 -- - ---
 ## 3rd Level
 
@@ -85,7 +110,7 @@
 >>* Attributes - 18 / 14 / 10 / 14 / 14 / 10 / 14
 >>* Saves - +6 / +4 / +4 / +4
 >>* HP - 48, 3d8
->>* AC - 19 plate (bludgeoning)
+>>* AC - 19 plate (bludgeoning, sensory)
 >>* Resistances - [[Armorer#Upgrades|elemental sink module]] (cold 1)
 >>* Movement - 30' walking
 >

@@ -7,9 +7,9 @@ _As a culture, halflings developed a nonchalant attitude, trusting the world to 
 **Creature Type:** Temuthen.  
 **Speed:** 25' walking.  
 **Vision:** Lightvision.  
-**Lucky:** When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. This feature may be used a number of times equal to your proficiency modifier per long rest.  
+**Lucky:** When you roll a natural 1 for an attack roll, ability check, or saving throw, you may reroll. If you do, you must use the new roll. This feature may be used a number of times equal to your proficiency modifier per long rest.  
 **Brave:** Whenever an effect would cause you to make a save against Intimidation DC, you have advantage on the saving throw.  
-**Halfling Nimbleness:** You can move through the space of any creature that is of a size larger than yours.  
+**Halfling Nimbleness:** You may move through the space of any willing creature.
 **Languages:** You can speak, read, and write Temuthen.
 - - -
 ## Subraces

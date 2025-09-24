@@ -93,7 +93,7 @@ At 4th level, you have managed to enhance your focus further. While focused, you
 
 ### Focus Strikes
  
-At 5th level level, you can use your focus in a concise strike that delivers a shockwave to the attacked creature. At the start of your turn, you may use 1 focus to empower your weapon attacks for the remainder of the turn, adding 1d6 force to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength or Dexterity modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.
+At 5th level level, you can use your focus in a concise strike that delivers a shockwave to the attacked creature. At the start of your turn, you may use 1 focus to empower your weapon attacks for the remainder of the turn, adding 1d6 kinetic to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength or Dexterity modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.
  
 ### Stance
  

@@ -43,6 +43,9 @@ _Attack Roll = d20 + attribute modifier + proficiency bonus_
 The DC of an attack roll is the [[Armor Rules|Armor Class (AC)]] of the defending creature. On a success, the attack hits, and the attacking creature proceeds to roll a damage roll.  
 Attacks can also critically hit or critically miss. The default range of a critical hit is a natural 20 on the attack roll, meaning the result on the d20 is a 20. Similarly, the default range for a critical miss is a natural 1. Traits which augment that range increase the amount of numbers which result in their respective critical, such as the Lethal and Fragile traits.  
 Critical hits result in doubling all damage, while critical misses result in either breakage (in the case of weapons) or exhaustion (in the case of spells).
+
+* Melee attack rolls can only be performed if the attacked creature is within a 7.5' range (any adjacent square) from the attacker. If the attack has the [[Weapon Rules#Reach|reach]] property, then it can be made if the attacked creature is within a 12.5' range (up to 2 squares away except for double diagonal) from the attacker.
+* Ranged attack rolls can be performed both from melee range or outside of it. If a ranged attack is made within melee range, the attack roll is made with a [[#^936b1c|disadvantage]].
  
 ### Damage Rolls
  
@@ -105,4 +108,4 @@ A lot of times, calling out a DC for a roll is not as simple as first thought of
  
 Both terms are used to determine whether a side has a significant lead on the other - for example, an attacker standing tall above a prone creature should surely have advantage on their attack roll, while the prone creature has disadvantage on the saving throw attempting to dodge an incoming [[Blood Boil]] spell.
  
-Advantage and disadvantage can be applied to attack rolls, saving throws and ability checks. For each advantage you have, roll another d20, and take only the highest d20 result. For each disadvantage, roll another d20, and take only the lowest d20 result. Advantages and disadvantages cancel each other out, so if you have 2 advantages and 1 disadvantage, you roll only 1 additional d20 and use the highest result.
+Advantage and disadvantage can be applied to attack rolls, saving throws and ability checks. For each advantage you have, roll another d20, and take only the highest d20 result. For each disadvantage, roll another d20, and take only the lowest d20 result. Advantages and disadvantages cancel each other out, so if you have 2 advantages and 1 disadvantage, you roll only 1 additional d20 and use the highest result. ^936b1c

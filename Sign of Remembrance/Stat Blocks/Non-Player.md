@@ -33,7 +33,7 @@
 >>* Attributes - 18 / 10 / 12 / 7 / 4 / 8 / 16
 >>* Saves - +7 / +4 / +2 / +6
 >>* HP - 44, 3d8
->>* Resistances - bludgeoning 1, necrotic 2, psychic 1
+>>* Resistances - bludgeoning 1, necrotic 2, sensory 1
 >>* Condition Resistances - prone
 >>* AC - 12 natural (piercing)
 >>* Movement - 20' walking
@@ -61,7 +61,7 @@
 >>* Movement - 30' walking, 30' flying
 >>* Vision - depending on the chosen element:
 >>	* fire - lightvision
->>	* poison, acid, thunder - nullvision
+>>	* necrotic, acid, thunder - nullvision
 >>	* cold - darkvision
 >
 >>[!info]- Specifics
@@ -80,7 +80,7 @@
 >>>* Attributes - 18 / 16 / 8 / 12 / 10 / 10 / 10
 >>>* Saves - +7 / +4 / +3 / +3
 >>>* HP - 72, 5d10
->>>* Resistances - necrotic 1, slashing 1, poison 1
+>>>* Resistances - necrotic 1, slashing 1, necrotic 1
 >>>* AC - 20 natural (piercing)
 >>>* Movement - 25' walking
 >>>* Vision - nullvision

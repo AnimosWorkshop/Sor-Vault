@@ -1,4 +1,4 @@
-- Weight: 5 lb
+- Bulk: 0.8
 - Magic Type: Histolecty
 - Requires Attunement: Potency, Functionality, Property
  

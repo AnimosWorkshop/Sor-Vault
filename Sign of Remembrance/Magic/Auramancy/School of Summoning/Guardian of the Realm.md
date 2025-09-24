@@ -19,7 +19,7 @@ _Gargantuan Elemental_
 **AC:** 12 + mana expended  
 **Vision:** Lightvision, Darkvision  
 **Speed:** 40' walking  
-**Damage Immunities:** Slashing (Temuthan) or Bludgeoning (Preida) or Fire (Burning Hell) or Cold (Freezing Hell) or Poison (Hell's Great Chasm) or Radiant (Heliax) or Piercing (Limbo) or Necrotic (Dahrial)  
+**Damage Immunities:** Slashing (Temuthan) or Bludgeoning (Preida) or Fire (Burning Hell) or Cold (Freezing Hell) or Acid (Hell's Great Chasm) or Sensory (Heliax) or Piercing (Limbo) or Necrotic (Dahrial)  
 **Actions:** _Slam (can be used twice in an action)_, melee natural weapon attack, +5 + mana expended to hit instead of the normal attack roll modifier. Deals 4d8 bludgeoning damage.  
 **Master's Shield:** Whenever you take damage with the guardian within 30' of you, you may use 3 reactions to transfer all damage to it instead.  
 **Active Defenses:** The guardian may use a reaction against incoming damage in order to reduce it by 1d10.  

@@ -6,7 +6,7 @@
 **Creature Type:** Helian.  
 **Speed:** 30' walking.  
 **Vision:** Lightvision.  
-**Natural Tint:** You are resistant to radiant damage.  
+**Natural Tint:** You are resistant to sensory damage.  
 **Languages:** You can speak, read, and write Helian.
 - - -
 ## Subraces

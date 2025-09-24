@@ -10,20 +10,19 @@ Temporary hit points do not stack, and the creature receiving them may choose th
 ## Damage and Loss of Hit Points
  
 While both of these terms results in their current hit points going down, a key difference is that damage can be resisted, while loss of hit points cannot, with the second being that temporary hit points do not protect from loss of hit points. Damage is the more common of the two, and can be caused by almost anything. The damage types are as follows:
- 
-- Acid - chemical damage
-- Bludgeoning - the knocking of a hard material against a creature
-- Cold - a cold change of temperature
-- Fire - a hot change of temperature
-- Force - a hard nonsolid energy most often exerted to move the target
-- Lightning - electrocution damage
-- Necrotic - disintegration of the body
-- Piercing - a sharp focused blow able to go through a target
-- Poison - biotic damage caused by harming the creature's systems
-- Psychic - damage dealt to the mind of the target
-- Radiant - caused by extreme blinding light or dark, causing a sensory overload
-- Slashing - sharp objects cutting through the target
-- Thunder - caused by extreme loud sounds causing a sensory overload
+
+* Physical: ^542f8c
+	* Bludgeoning - the knocking of a hard material against a creature
+	* Piercing - a sharp focused blow able to go through a target
+	* Slashing - sharp objects cutting through the target
+* Elemental: ^af021a
+	* Acid - chemical damage
+	* Cold - a cold change of temperature
+	* Fire - a hot change of temperature
+	* Lightning - electrocution damage
+	* Necrotic - biotic damage caused by harming a creature's systems
+* Kinetic - a strong vibrational force
+* Sensory - overload to the senses of the target, be it sight, hearing or cognition
 
 Creatures can be: weak, resistant or immune to certain damage types, as described in their racial / class / items page or creature stats page.
  
@@ -36,7 +35,7 @@ In contrast to damage, whose numbers can be manipulated, loss of hit points is e
 
 #### Fall Damage
 
-When finishing to fall, a creature takes 1d8 damage for each 10' of height difference from their original height to the ground, rounded down (e.g. no damage for up to 9' of height difference). Landing on a soft enough material, using special items or class features, may prevent some of this damage.
+When finishing to fall, a creature takes 1d8 kinetic damage for each 10' of height difference from their original height to the ground, rounded down (e.g. no damage for up to 9' of height difference). Landing on a soft enough material, using special items or class features, may prevent some of this damage.
 In addition, when falling the creature must make an Acrobatics (Dexterity) save with the DC equal to half the falling height in ft., or fall [[Brawling Conditions#Prone|prone]].
 -- -
 ## Death

@@ -6,4 +6,4 @@
  
 _The master leaned over the miscreant, setting three fingers onto his forehead. After taking a deep breath and pressing them with just a tad more force, he let out a rumble - "Never try me again."_
  
-You use your superior sorcerous abilities in order to overpower a creature, setting them completely vulnerable. The creature must make a Willpower saving throw, taking 6d6 force damage or half on a success, plus 1d6 psychic damage for each total caster level above the target creature's caster level.
+You use your superior sorcerous abilities in order to overpower a creature, setting them completely vulnerable. The creature must make a Willpower saving throw, taking 6d6 kinetic damage or half on a success, plus 1d6 sensory damage for each total caster level above the target creature's caster level.

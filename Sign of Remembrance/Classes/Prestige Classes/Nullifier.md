@@ -43,7 +43,7 @@ In addition, when you use the Dodge reaction against spell attacks, your AC incr
  
 ### Preemptive Disruption
  
-Starting at 2nd level, you are able to distinguish and react quickly to the act of casting spells, in order to prevent threats as soon as they are found. Using 2 reactions against a medium or heavy weapon attack or spell being cast within 5’ of you, you may attempt to disrupt the creature by making a melee weapon attack against them. If you hit, the attack deals 1d6 additional force damage.  
+Starting at 2nd level, you are able to distinguish and react quickly to the act of casting spells, in order to prevent threats as soon as they are found. Using 2 reactions against a medium or heavy weapon attack or spell being cast within 5’ of you, you may attempt to disrupt the creature by making a melee weapon attack against them. If you hit, the attack deals 1d6 additional kinetic damage.  
 Remember that damaging a caster while a spell is being cast provokes a Resilience check to maintain the spell's casting.
  
 ### Martial Techniques

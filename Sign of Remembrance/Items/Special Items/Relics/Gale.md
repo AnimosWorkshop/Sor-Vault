@@ -1,6 +1,6 @@
 _Relic_
  
-- Weight: 2.5 lb
+- Bulk: 0.4
 - Magic Type: Arcana
 - Requires Attunement: Potency, Functionality, Property (must be with Willpower 15)
  

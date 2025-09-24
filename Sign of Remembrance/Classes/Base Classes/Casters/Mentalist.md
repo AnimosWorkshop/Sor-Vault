@@ -71,14 +71,14 @@ Your mind becomes more aware of the creatures you are bound to. While bound to a
 Starting at 4th level, you learn a special technique which allows you to manipulate one histolectual bond using a quick action in order to add an additional effect over it using an amount choose to spend at least 1 influence, and up to half your mentalist level. Choose one of the following enhancements to learn. Only one enhancement may be applied at a time, and it lasts until a minute passes, you or the other creature become unconscious, or you switch the bond.
  
 #### Maddening Bond
-When you damage or scare a bound creature, you may activate the bond to terrorize the target as the whispers of madness creep in, making you deal 1d3 additional psychic damage whenever you damage it or when it fails on its saving throw against your Demoralize quick action. This damage die increases by 1 for each influence spent beyond the first.
+When you damage or scare a bound creature, you may activate the bond to terrorize the target as the whispers of madness creep in, making you deal 1d3 additional sensory damage whenever you damage it or when it fails on its saving throw against your Demoralize quick action. This damage die increases by 1 for each influence spent beyond the first.
  
 #### Encouraging Bond
 When you target an allied creature using a spell, you may activate the bond to inspire the target to move on stronger than before, restoring 1d3 hit points whenever you target it with a spell or when you target it with your Inspire quick action. This healing die increases by 1 for each influence spent beyond the first.
  
 ### Psychic Tug
  
-At 5th level, you learn the ability to violently pull one of your histolectual bonds. As a quick action, you may Tug a creature with whom you are histolectually bound. They take 1d6 psychic damage. This counts as 0th-level, Histolecty for the purpose of magic detection.  
+At 5th level, you learn the ability to violently pull one of your histolectual bonds. As a quick action, you may Tug a creature with whom you are histolectually bound. They take 1d6 sensory damage. This counts as 0th-level, Histolecty for the purpose of magic detection.  
 In addition, the bonus you get for skill checks depending from your mental specialty increases from +2 to +3.
  
 ### Danger Sense

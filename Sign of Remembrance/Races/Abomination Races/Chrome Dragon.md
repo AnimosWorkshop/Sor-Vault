@@ -14,8 +14,8 @@ _The chrome dragons were created as a result of a conspiracy by five dragonfligh
 **Creature Type:** Dragon.  
 **Speed:** 30' walking, 30' flying. Your flying speed increases by 15' for each age category above wyrmling.  
 **Vision:** Lightvision, mistvision.  
-**Breath Weapon:** Each dragon has their own breath weapon, which they can use with an action to unleashing an element within them in a cube in front of them, 15' as wyrmlings and 5' more for each age category above it. Each creature within that area must make a Dexterity saving throw in the case of fire, cold and lightning, or a Constitution saving throw in the case of poison and acid. The DC is 10 + your Willpower modifier + your proficiency modifier. The breath weapon deals 3d8 of the dragon's element, and 3d8 more damage for each age category above it, or half as much damage if the creature succeeds on the saving throw. You regain the use of this feature once per short or long rest.  
-**Of the Elements:** You are immune to the damage type of all elements: acid, cold, fire, lightning and poison.
+**Breath Weapon:** Each dragon has their breath weapon, which they can use with an action to unleashing an element within them in a cube in front of them, 15' as wyrmlings and 5' more for each age category above it. Upon making it, choose an [[Damage and Death#^af021a|elemental damage type]]. Each creature within that area must make a Initiative saving throw in the case of: fire, cold and lightning, or a Resilience saving throw in the case of necrotic and acid. The DC is 10 + your Willpower modifier + your proficiency modifier. The breath weapon deals 3d8 of the dragon's element, and 3d8 more damage for each age category above it, or half as much damage if the creature succeeds on the saving throw. You regain the use of this feature once per short or long rest.  
+**Of the Elements:** You are immune to all [[Damage and Death#^af021a|elemental damage types]].
 **Persistent Anatomy:** The starting hit points of dragons changes as they age alongside with their size:
 - Wyrmlings (medium): 8 starting hit points
 - Youngs (large): 10 starting hit points
