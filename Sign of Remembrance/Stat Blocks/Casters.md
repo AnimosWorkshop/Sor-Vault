@@ -46,19 +46,20 @@
 >[!danger]- Scout Leader
 >>[!info]- Basics
 >>* [[Elf#Wood Elf]]
->>* Attributes - 8 / 14 / 17 / 18 / 8 / 10 / 14
+>>* Attributes - 8 / 14 / 18 / 18 / 8 / 10 / 14
 >>* Saves - +4 / +6 / +2 / +4
 >>* HP - 36, 2d8
 >>* AC - 13 leather (slashing, necrotic)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
->>* Skills - Nature (Wisdom) +8, Stealth (Dexterity) +6, Intimidation (Charisma) +2
+>>* Skills - Nature (Wisdom) +8, Stealth (Dexterity) +7, Intimidation (Charisma) +2
 >>* Classes - [[Druid]] 2nd
 >>* Auramantic Spells (Bonus +6, DC 16) - 10 Mana:
 >>	* 1st-Level - [[Expedite]], [[Kadaran's Obscured Steps]], [[Disarming Shock]], [[Exhaustion Bolt]]
 >>* Arms:
 >>	* [[Runecarver#Spell Foci|Scepter]] (medium)
+>>	* Rondel (light; finesse, lethal 1, pommel) - 1d4 + 4 piercing
 
 ^00969f
 
@@ -78,7 +79,6 @@
 >>	* 1st-Level - [[Expedite]], [[Shining Flame]], [[Disarming Shock]], [[Purifying Wind]]
 >>* Arms:
 >>	* [[Runecarver#Spell Foci|Wand]] (light)
-
 ^deee37
 
 - - -

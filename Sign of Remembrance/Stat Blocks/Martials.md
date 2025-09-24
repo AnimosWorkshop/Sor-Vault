@@ -98,7 +98,6 @@
 >>* Belt Pouch:
 >>	* [[Alchemist#Substances|Sticky goo]]
 >>* [[Transmuter#Alchemechanical Infusion]]
-
 ^79351e
 
 -- - ---
@@ -124,6 +123,29 @@
 >>* [[Fighter#^a688fd|Swift Grab]]
 >>* 2 [[Alchemist#Substances|adder venom, minor]]
 ^d850b7
+
+>[!danger]- Whip Fighter
+>>[!info]- Basics
+>>* [[Orc#Berserker Orc]]
+>>* Attributes - 18 / 14 / 10 / 14 / 10 / 14 / 14
+>>* Saves - +6 / +4 / +4 / +4
+>>* HP - 48, 3d8
+>>* AC - 18 splint (bludgeoning, fire) +2 heater shield (bludgeoning, cold)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Athletics (Strength) +9, Intimidation (Strength) +9
+>>* Classes - [[Fighter#Skewer (dagger, estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)|Skewer]] [[Fighter]] 3rd
+>>* Martial Techniques - [[Reckless Attack]]
+>>* Arms:
+>>	* Chain whip (medium; windup) - 1d8 + 4 bludgeoning
+>>	* Heater shield
+>>* Belt Pouch:
+>>	* [[Alchemist#Concoctions|Coagulation concoction, minor]]
+>>* [[Fighter#^171e67|Choke]]
+
+^3daefa
+
 -- - - -
 ## 4th Level
 
