@@ -20,7 +20,11 @@ A tall, quiet woman who often bears a deadpan expression, considering the world 
 
 >[[Zirval#Beckoned Zirval|Beckoned]] [[Zirval]]; Protection [[Druid]] 10th
 
-Renatke is of the firm belief that nature provides for those who are willing to provide for nature. She looks at the wondrous world of Preida, with the world itself adapting to each race inhabiting it; and to [[Temuþan]], with the climate adapting to the preference of each elder dragon. It is undeniable for her that remains of the ancient Architects, gods of 1V, are still present in the worlds they created and in the will of nature.
+Renatke is of the firm belief that nature provides for those who are willing to provide for nature. She looks at the wondrous world of Preida, with the world itself adapting to every race inhabiting it; and to [[Temuþan]], with the climate adapting to the preference of each elder dragon. As she sees it, it is undeniable that remains of the ancient Architects, gods of 1V, are still present in the worlds they created and in the will of nature. Living is full of give-and-take interactions, with life in different forms and of different times, and it is the shared responsibility to preserve it for those who come after.
+
+Cataclysms, to her, are not some random, evil force with devastating effects; they are an inevitability, set by the rules of the multiverse. They should not be despised or cursed, and doing so is as effective as cursing oil for being dense. It is the responsibility of the gods, but also of every sensible person of their time period, to prepare to contain the cataclysm and let the world rebuild anew, and when the time comes, question whether it should grow toward a healthier configuration.
+
+As a part of the regrowth in 3V, Renatke supports the movement toward a unified Hell, with cooperation rather than competition between its Burning and Freezing parts.
 
 ### Polerk
 
