@@ -28,5 +28,5 @@ _Lightfoot halfling society is more open than of other halfling subraces. They a
 _Strongheart halflings tend to live in clans, feeling a great amount of camaraderie and pride. That is not to say that they are hostile or cold towards other races, but the sense of longing for their clan’s safety often rivals their other allegiances in attempting to understand which is more important. While some decide to challenge that and find out on their own, others avoid the inner conflict by resorting to staying within the clan, which obviously works better for older halflings than the younger generations._
  
 **Racial Attribute Bonus:** Your Constitution score increases by 1 and your Willpower score increases by 1.  
-**Climber:** You have a climbing speed of 25' as long as you are not [[Conditions#Encumbered|encumbered]]. In addition, you are novice with Athletics.  
+**Climber:** You have a climbing speed of 15' as long as you are not [[Conditions#Encumbered|encumbered]]. In addition, you are novice with Athletics.  
 **Heavy Alacrity:** You may use the Major Interaction action in order to draw a light or medium item and make a weapon attack with it for a weapon or cast a spell for a spell focus, similarly to the rules about light items.
