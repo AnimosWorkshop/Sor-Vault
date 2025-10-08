@@ -4,7 +4,7 @@
 **Age:** Mature at early teens, live about 90 years.  
 **Size:** Medium.  
 **Creature Type:** Hellenise.  
-**Speed:** 30' walking, 30' climbing.  
+**Speed:** 30' walking, 15' climbing.  
 **Vision:** Lightvision, mistvision. 
 **Diabolic Resistance:** You are resistant to fire damage.  
 **Scale-Faced:** Cubares' faces are adorned with small, soft scales, which cover an area down to their necks. While they can most times seem beautiful, cubare can make their scales shake lightly in order to make their faces vibrate a bit and emit a menacing noise. You are novice with Intimidation and Performance.  

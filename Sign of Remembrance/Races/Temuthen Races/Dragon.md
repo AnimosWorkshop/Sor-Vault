@@ -88,7 +88,7 @@ _The copper dragons are well-versed with other creatures, even the humanoids the
 **Specialty:** You are novice with Culture.  
 **Draconic Archetype:** Metallic.  
 **Draconic Element:** Lightning.  
-**Additional Movement:** 30' climbing.
+**Additional Movement:** 15' climbing.
  
 ### Gold
  
@@ -117,7 +117,7 @@ _The red dragons are firm believers in non-magical means to display "true" might
 **Specialty:** You are novice with Intimidation.  
 **Draconic Archetype:** Chromatic.  
 **Draconic Element:** Fire.  
-**Additional Movement:** 30' climbing.
+**Additional Movement:** 15' climbing.
  
 ### Silver
  
@@ -127,7 +127,7 @@ _The silver dragons see themselves as superiors to other races in the power thei
 **Specialty:** You are novice with Medicine.  
 **Draconic Archetype:** Metallic.  
 **Draconic Element:** Cold.  
-**Additional Movement:** 30' climbing.
+**Additional Movement:** 15' climbing.
  
 ### White
  
@@ -137,4 +137,4 @@ _The white dragons are firm believers in the growth of oneself without any help 
 **Specialty:** You are novice with Athletics.  
 **Draconic Archetype:** Chromatic.  
 **Draconic Element:** Cold.  
-**Additional Movement:** 30' climbing.
+**Additional Movement:** 15' climbing.
