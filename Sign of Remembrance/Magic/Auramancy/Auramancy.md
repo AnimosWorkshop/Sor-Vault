@@ -58,7 +58,7 @@ Auramancers can be categorized into power levels. Depending on their level, the 
  
 ### Casting a Spell
  
-In order to cast a spell, you must use up resonance equal or higher than that spell's level. The amount of resonance you have of each level is detailed in the auramancer table.
+In order to cast a spell, you must use up mana equal to some spell level's cost, as detailed in the [[#Spells Mana Cost|above table]]. The amount of mana you have of each level is detailed [[#Auramancer Levels|here]].
  
 Next, you will have to determine your auramancy modifier. Use the following simple formula:  
 _Auramancy Modifier_ = _Wisdom Modifier_ + _Proficiency Bonus (if you are a 1st-level or higher auramancer)_

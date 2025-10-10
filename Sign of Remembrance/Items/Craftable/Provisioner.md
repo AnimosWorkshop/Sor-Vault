@@ -2,7 +2,7 @@
 tags:
   - Profession
 ---
-Alchemist tools cost 10 sc and weigh 0.3 bulk.
+Provisioner tools cost 10 sc and weigh 0.3 bulk.
 -- -
 ## Adventuring Gear
 
@@ -27,7 +27,7 @@ Alchemist tools cost 10 sc and weigh 0.3 bulk.
 | Elegant Clothes   | 5 sc           | 0.5      | All rules for [[#Starting Gear\|common clothes]] apply here, except that the clothes can be recognized to be of a specific design. Perhaps it is also marked by the craftsman for professional reasons. |
 | Food Ration       | 10 cc          | 0.2      | Refer to the [[Travel and Rest\|rest rules]] for information about the daily amount of food required. Rations tend to last up to 3 days unless specified otherwise.                                     |
 | Transport         | 70 cc per day  | -        | Done by renting a horse carriage and a rider. 40' base movement speed, resulting in 4 miles per hour, or 32 miles per day                                                                               |
-| Fast Transport    | 140 cc per day | -        | Done by renting a horse carriage and an auramancer rider casting [Expedite] on their horse. 60' base movement speed, resulting in 6 miles per hour, or 48 miles per day                                 |
+| Fast Transport    | 140 cc per day | -        | Done by renting a horse carriage and an auramancer rider casting [[Expedite]] on their horse. 60' base movement speed, resulting in 6 miles per hour, or 48 miles per day                               |
 ### Mid-Range Equipment
 
 | **Product**           | **Cost** | **Bulk** | **Notes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

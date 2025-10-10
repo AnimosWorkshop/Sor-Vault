@@ -65,12 +65,15 @@ The checked creature does not know they are being inspected, as you don't need t
 As a druid, you commune with all that surrounds you - whether be it the simpler life forms, hidden beneath the sands or growing to a beautiful canopy, or more complex life forms, leaving its footmark on the land it walks upon. At 3rd level, you are able to choose which one to specialize in - travel through the natural world in all forms, utilizing simpler life forms on your way, or protection of the more complex life forms and assurance of their safety:
  
 #### Travel
-Whether as an adventurer, a nomad or a simple traveler, you explore the world around you in a mindful way, allowing you to utilize simple advantages of your environment and avoid hazards others wouldn't have even noticed. Your base movement speed is increased by 5', and you ignore difficult terrain, whether natural, or of a spell with level up to half your druid level.  
-You may also focus your travel. Going in and out of focus uses your quick action, and while focusing on this feature, you increase your base movement speed by an additional 5', yet this causes your moves to be noticeably more graceful than others', as you get help from the surrounding flora and tread lightly. Doing so gives you a -2 penalty to Concentration checks. In addition, while focusing, you may use 1 mana as you attack to move 5' without provoking [[Action Economy#Opportunity Attacks|opportunity attacks]].  
+Whether as an adventurer, a nomad or a simple traveler, you explore the world around you in a mindful way, allowing you to utilize simple advantages of your environment and avoid hazards others wouldn't have even noticed. Your base movement speed is increased by 5', and you ignore difficult terrain, whether natural, or of a spell with level up to half your druid level.
+
+You may also focus your travel. Going in and out of focus uses your quick action, and while focusing on this feature, you increase your base movement speed by an additional 5', yet this causes your moves to be noticeably more graceful than others', as you get help from the surrounding flora and tread lightly. Doing so gives you a -2 penalty to Concentration checks. In addition, while focusing, you may use 1 mana as you attack to move 5' without provoking [[Action Economy#Opportunity Attacks|opportunity attacks]].
+
 You also gain 1 proficiency level in Perception.
  
 #### Protection
 Your affinity to life allows you to transport energy efficiently to life forms, allowing you to protect either them, or from them. You may use 1 mana and a quick action to grant another creature within 10' of you an amount of temporary hit points equal to twice your Wisdom modifier for the next hour. Alternatively, you can use your reaction and 1 mana to reduce the amount of damage dealt by a creature within 10' of you by your Wisdom modifier.  
+
 You also gain 1 proficiency level in Medicine.
  
 ### Ex Terra

@@ -19,7 +19,7 @@ _Being taught rhetoric from young age, the exemplar fariste are thought of by ot
  
 **Racial Attribute Bonus:** Your Charisma score increases by 2.  
 **Advanced Rhetoric:** You are proficient with either Persuasion or Deception.  
-**Source of Inspiration:** Once per long rest, you may let out an inspiring shout to send inspiration through your allies. As a quick action, a creature of your choice that can hear you within 120' gains temporary hit points equal to your character level + your Charisma modifier for the next 8 hours. This counts as a 1st-level, histolecty, boon for the purpose of magic detection.
+**Source of Inspiration:** Once per long rest, you may let out an inspiring shout to send inspiration through your allies. As a quick action, 2 creatures of your choice that can hear you within 120' gains temporary hit points equal to your character level + your Charisma modifier for the next 8 hours. This counts as a 1st-level, histolecty, boon for the purpose of magic detection.
  
 ### Scholar Fariste
  
