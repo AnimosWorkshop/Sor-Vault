@@ -21,7 +21,7 @@ Once you are revealed, such as by performing an action which would expose your l
 #### Invisible
 An invisible creature is unable to be perceived using sight, although it can still be traced using touch, smell or sound. An invisible creature has advantage on attacks, and attacks against them are made with disadvantage.
 #### Pacified
-The creature is pacified, reducing its combat capabilities. Their attacks and damage rolls and saving throws are made with a -1 penalty, and their AC is reduced by 1. 
+The creature is pacified, reducing its combat capabilities. Their damage rolls and saving throws are made with a -1 penalty, and their AC is reduced by 1. 
 
 This condition can be given with a certain potency, with the default being 1. The attack and damage roll penalty, the save penalty and AC reduction is equal to that potency.
 #### Stunned

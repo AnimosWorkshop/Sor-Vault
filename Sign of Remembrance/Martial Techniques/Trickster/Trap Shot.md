@@ -1,0 +1,1 @@
+[[Sign of Remembrance/Martial Techniques/Fighter/Trap Shot|Trap Shot]]

@@ -1,7 +1,7 @@
 #Basic #Fighter #Time #Armed 
 
 * Performance Time: 2 reactions
-* Success DC: Sleight of Hand (Dexterity), DC 8
+* Success DC: Sleight of Hand (Dexterity), DC 12
 * Required Weapon: Any non-[[Weapon Rules#Natural|natural]] weapon
 
 Extending your parry reaction, you use the bind as an offensive leverage. On the following turn, you may use your quick action to [[Action Economy#^1e684d|disorient]] the target. The potency on the [[Conditions#Pacified|pacified]] condition is:

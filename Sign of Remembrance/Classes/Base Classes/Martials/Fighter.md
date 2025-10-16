@@ -50,8 +50,7 @@ When everything goes loose, you must learn to take the reins and stir back to co
 
 * _Careful Step_ - While you [[Action Economy#^665abd|disengage]], you may move through the space of unwilling creatures, given you have enough movement to spend to get to their other side. When you do, they may attempt an [[Action Economy#Opportunity Attacks|opportunity attack]] against you. Unless you are hit by the creature, you succeed in moving through their space. If you are hit, you still expend your movement but do not move, but may try again.
 * _Choke_ - While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same. ^171e67
-* _Fan_ - You may use a [[Action Economy#^359f07|minor interaction]] to draw two light weapons and hold them in one hand.
-	If you have three or less light weapons with the Thrown trait held this way in one hand, you may throw each from this hand with no penalty.
+* _Fan_ - If you have not attacked with a medium weapon during your action, when making an [[Action Economy#^941070|attack]] quick action, you may draw a light weapon as a part of your attack.
 * _Shield Bash_ - While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy). Proficiency with shield attacks is gained as part of your shield proficiency, and the weapon is considered of the pugilist style. ^96f2d9
 * _Swift Grab_ - You may make a [[Action Economy#^b70e3f|brawl action]] as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw. ^a688fd
 ### Parrying Strike
@@ -81,7 +80,7 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 When you reach 3rd level, choose one weapon style to become your specialty. Based on the one you choose, you get a bonus when using these weapons:
 
 * _Hurler_ - The [[Weapon Rules#Lethal|lethal]] trait and the damage die for hurler weapons increases by 1 for you.
-* _Pugilist_ - [[#Parrying Strike|Parrying strike]] can be used in conjunction with the [[Sentinel#Deflecting Instinct|deflect reaction]] as a part of the same reaction if you are using a pugilist wewapon. If you don't have the [[Sentinel#Deflecting Instinct|deflect reaction]], you may instead increase your AC by 1 against the attack in addition to the normal effects of [[#Parrying Strike|parrying strike]]
+* _Pugilist_ - [[#Parrying Strike|Parrying strike]] can be used in conjunction with the [[Sentinel#Inner Focus|deflect reaction]] as a part of the same reaction if you are using a pugilist weapon. If you don't have the [[Sentinel#Inner Focus|deflect reaction]], you may instead increase your AC by 1 against the attack in addition to the normal effects of [[#Parrying Strike|parrying strike]].
 * _Sharpshooter_ - You get a +2 bonus to attack rolls with sharpshooter weapons.
 * _Skewer_ - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type.
 * _Sweeper_ - You get a +2 bonus to damage rolls with sweeper weapons.
@@ -102,7 +101,7 @@ You also gain 1 proficiency level in either the Intimidation or Performance.
 At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tactic]] to your arsenal, or improve your existing one with the following benefits:
 * _Careful Step_ - If you are [[Action Economy#^284a7e|hidden]], you are also considered [[Action Economy#^665abd|disengaging]]. If you became hidden via a dice roll (such as a Stealth (Dexterity) check), then that roll is also used as your Acrobatics (Dexterity) roll.
 * _Choke_ - The size of the weapon's damage die is not reduced as a result of this feature.
-* _Fan_ - The range for weapons you throw is increased by 15' for the first increment and by 30' for the second increment.
+* _Fan_ - You may now draw the light weapon as a part of your [[Action Economy#^941070|attack]] quick action even if you attacked with a medium weapon during your action. In addition, the range for weapons you throw is increased by 15' for the first increment and by 30' for the second increment.
 * _Shield Bash_ - The shield's damage die is increased by 1.
 * _Swift Grab_ - The Resilience DC against the quickened [[Action Economy#^b70e3f|brawl action]] does not get a bonus.
 ### Extra Attack

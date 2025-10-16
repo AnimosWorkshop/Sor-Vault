@@ -8,14 +8,14 @@ Using a ranged weapon and being able to move freely across the battlefield, this
 ### Attribute Priorities
 
 * Either _Strength_ or _Dexterity_ are great options as main offensives stats, and each can be used with a corresponding weapon: longbows with Strength and crossbows with Dexterity.
-* _Wisdom_ is important to improve the consistency of [[Trap Shot]]
+* _Wisdom_ is important to improve the consistency of [[Sign of Remembrance/Martial Techniques/Fighter/Trap Shot]]
 
 ### Early Choices
 
 * A race with at least 30' walking speed will be able to better outrun melee enemies.
 * The main class for this build is the [[fighter]].
 * The first and main [[Fighter#Dirty Tactics|dirty tactic]] chosen will be Careful Step. Other tactics may be chosen at a later point, but this one captures the essence of the build best.
-* At 2nd level, [[Trap Shot]] as a technique allows for a good turn sequence when starting near a melee enemy:
+* At 2nd level, [[Sign of Remembrance/Martial Techniques/Fighter/Trap Shot]] as a technique allows for a good turn sequence when starting near a melee enemy:
 	* [[Action Economy#^665abd|Disengage]] as a quick action
 	* Attack with Trap Shot
 	* Move at least 20' away from the enemy

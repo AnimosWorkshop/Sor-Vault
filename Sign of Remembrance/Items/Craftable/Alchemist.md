@@ -10,7 +10,7 @@ Alchemists create many substances which may have some kind of influence over a c
 
 - Ingest - drinking the substance or eating something which contains the substance. A substance in a flask may be consumed using a minor interaction, or a major interaction in order to administer it to a willing or unconscious creature.
 	An dangerous ingested substance is also called a _poison_.
-
+ ^17c511
 - Inhale - breathing the substance for a short or long time (as specified in the specific item's description).
 	A dangerous inhaled substance is usually called a _toxin_.
 

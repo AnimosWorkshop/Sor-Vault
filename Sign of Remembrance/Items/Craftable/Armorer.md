@@ -10,35 +10,35 @@ Armorer tools cost 20 sc and weigh 0.6 bulk.
 ## Armor Bases
 
 >[!note] 
->Without armor, most races have a base AC of 9 and are weak to Slashing damage.
+>Without armor, most races have a base AC of 10 and are weak to Slashing damage.
 
 ^0e737f
 
 ### Light Armor
 | **Armor**       | **Cost** | **Bulk** | **Base AC** | **Weakness**       |
 | --------------- | -------- | -------- | ----------- | ------------------ |
-| Leather         | 20 sc    | 1.5      | 10          | Slashing, Necrotic |
-| Studded Leather | 45 sc    | 2        | 11          | Slashing, Acid     |
+| Leather         | 20 sc    | 1.5      | 11          | Slashing, Necrotic |
+| Studded Leather | 45 sc    | 2        | 12          | Slashing, Acid     |
 ### Medium Armor
 | **Armor**   | **Cost** | **Bulk** | **Base AC** | **Weakness**        |
 | ----------- | -------- | -------- | ----------- | ------------------- |
 | Chain Shirt | 40 sc    | 3.5      | 12          | Piercing, Lightning |
-| Breastplate | 75 sc    | 4        | 13          | Bludgeoning, Cold   |
-| Half Plate  | 1 gc     | 5.5      | 14          | Bludgeoning, Acid   |
+| Breastplate | 70 sc    | 4        | 13          | Bludgeoning, Cold   |
+| Half Plate  | 100 sc   | 5.5      | 14          | Bludgeoning, Acid   |
 ### Heavy Armor
-| **Armor**  | **Cost** | **Bulk** | **Base AC** | **Weakness**         |
-| ---------- | -------- | -------- | ----------- | -------------------- |
-| Ring Mail  | 25 sc    | 6.5      | 15          | Piercing, Cold       |
-| Chain Mail | 65 sc    | 8        | 16          | Piercing, Kinetic    |
-| Splint     | 130 sc   | 9        | 17          | Bludgeoning, Fire    |
-| Plate      | 2 gc     | 11       | 18          | Bludgeoning, Sensory |
+| **Armor**  | **Cost** | **Bulk** | **Base AC** | **Weakness**         | **Notes**          |
+| ---------- | -------- | -------- | ----------- | -------------------- | ------------------ |
+| Ring Mail  | 25 sc    | 6.5      | 15          | Piercing, Cold       |                    |
+| Chain Mail | 65 sc    | 8        | 16          | Piercing, Kinetic    |                    |
+| Splint     | 130 sc   | 9        | 17          | Bludgeoning, Fire    |                    |
+| Plate      | 2 gc     | 11       | 18          | Bludgeoning, Sensory | -5' movement speed |
 ### Shields
-| **Armor**     | **Cost** | **Bulk** | **AC Bonus** | **Weight Category** | **Weakness**           | **Notes**                                                                                                                               |
-| ------------- | -------- | -------- | ------------ | ------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Buckler       | 10 sc    | 2        | +1           | Light               | Bludgeoning, Lightning | Finesse, Glove (while strapped)                                                                                                         |
-| Heater Shield | 20 sc    | 6        | +2           | Medium              | Bludgeoning, Cold      |                                                                                                                                         |
-| Round Shield  | 20 sc    | 6        | +2           | Medium              | Slashing, Fire         |                                                                                                                                         |
-| Kite Shield   | 40 sc    | 12       | +2           | Heavy               | Bludgeoning, Kinetic   | Versatile (+1 to damage die size) if used as a weapon,<br>+1 to Resilience saving throws while held,<br>-5 to movement speed while held |
+| **Armor**     | **Cost** | **Bulk** | **AC Bonus** | **Weight Category** | **Weakness**           | **Notes**                                                                                                                                |
+| ------------- | -------- | -------- | ------------ | ------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Buckler       | 10 sc    | 2        | +1           | Light               | Bludgeoning, Lightning | Finesse, Glove (while strapped)                                                                                                          |
+| Heater Shield | 20 sc    | 6        | +2           | Medium              | Bludgeoning, Cold      |                                                                                                                                          |
+| Round Shield  | 20 sc    | 6        | +2           | Medium              | Slashing, Fire         |                                                                                                                                          |
+| Kite Shield   | 40 sc    | 12       | +2           | Heavy               | Bludgeoning, Kinetic   | Versatile (+1 to damage die size) if used as a weapon,<br>+1 to Resilience saving throws while held,<br>-5' to movement speed while held |
 - - -
 ## Upgrades
 

@@ -67,7 +67,7 @@ As the companion levels up, it becomes more capable in the actions it can take. 
  
 ### Instinctual Action
  
-Starting at 2nd level, the beast learns how to use one action faster than usual. Choose one of the following actions, which may be used as a quick action instead: [[Action Economy#^f8a635|dash]], [[Action Economy#^b70e3f|brawl]], [[Action Economy#^1e684d|disorient]] (does not count as having a free hand), [[Action Economy#^284a7e|hide]].
+Starting at 2nd level, the beast learns how to use one action faster than usual. Choose one of the following actions, which may be used as a quick action instead: [[Action Economy#^f8a635|dash]], [[Action Economy#^b70e3f|brawl]], [[Action Economy#^284a7e|hide]].
  
 ### Striking Style
  

@@ -53,7 +53,7 @@ More ways to accumulate death failures are:
 - Taking damage or losing hit points while dying gives 1 death failure.
 - Taking damage or losing hit points from a critical attack while dying gives 2 death failures.
  
-When a character gains 3 death successes, it stops rolling death checks and is considered stabilized for the next 1d4 hours and its death successes and failures are cleared (go back to 0), in the end of which it wakes up with 1 hit point. Damage taken during stabilization ends it, and the creature goes back to rolling death checks each turn.  
+When a character gains 3 death successes, it stops rolling death checks and is stabilized but unconscious for the next 1d4 hours and its death successes and failures are cleared (go back to 0), in the end of which it wakes up with 1 hit point. Damage taken during stabilization ends it, and the creature goes back to rolling death checks each turn.  
 When a character gains 3 death failures, it dies. Fate has gotten to it, and it can't be saved anymore.
  
 Dropping to a negative amount of hit points equal to or greater than the creature's maximum hit points kills the creature immediately. In contrast, if the character's hit points are restored (via alchemical items or magical effects, etc.) and are raised above 0, the creature returns to consciousness and its death successes and failures are cleared.
