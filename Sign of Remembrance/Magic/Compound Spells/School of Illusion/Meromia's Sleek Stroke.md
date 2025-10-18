@@ -10,7 +10,7 @@ You hold out a weapon or a histolectual spell focus, extending it as if it is a 
 	* Weapon - use the weapon's damage die + 1d8 sensory damage.
 	* Spell focus - deal 2d8 sensory damage.
 	
-	For both cases, add your spellcasting modifier to the damage as usual.
+	For both cases, add your spellcasting attribute to the damage as usual for a spell attack.
 
 **At Higher Levels:**
 * (+1) Deal 1d8 additional sensory damage.
