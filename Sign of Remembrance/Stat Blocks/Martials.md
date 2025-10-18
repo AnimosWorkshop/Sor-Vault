@@ -25,7 +25,7 @@
 >>* Attributes - 8 / 13 / 18 / 18 / 12 / 8 / 14
 >>* Saves - +3 / +6 / +3 / +4
 >>* HP - 20, 1d6
->>* AC - 15 leather (slashing, acid) + 1 buckler (bludgeoning, lightning) + 2 [[Trickster#Shifting Tempo|dodge]]
+>>* AC - 16 leather (slashing, acid) + 1 buckler (bludgeoning, lightning) + 2 [[Trickster#Shifting Tempo|dodge]]
 >>* Movement - 35' walking
 >
 >>[!info]- Specifics
@@ -43,9 +43,9 @@
 >>[!info]- Basics
 >>* [[Vident#Inquisitive Vident]]
 >>* Attributes - 18 / 16 / 12 / 14 / 12 / 8 / 12
->>* Saves - +5 / +4 / +3 / +3, +1 focused + 1 lone wolf
+>>* Saves - +5 / +4 / +3 / +3, +1 focused +1 lone wolf
 >>* HP - 40, 2d10
->>* AC - 16 ring mail (piercing, cold) + 1 lone wolf
+>>* AC - 16 ring mail (piercing, cold). +1 lone wolf
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -66,7 +66,7 @@
 >>* Saves - +4 / +5 / +5 / +4
 >>* HP - 36, 2d8
 >>* Resistances - hardened weave (slashing 1)
->>* AC - 15 studded leather (slashing, acid) + 2 kite shield
+>>* AC - 16 studded leather (slashing, acid) + 2 kite shield
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -85,7 +85,7 @@
 >>* Saves - +4 / +5 / +6 / +4
 >>* HP - 36, 2d8
 >>	* 6 temporary HP (racial feature)
->>* AC - 16 studded leather (slashing, acid)
+>>* AC - 17 studded leather (slashing, acid)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -111,7 +111,7 @@
 >>* HP - 48, 3d8
 >>* AC - 19 plate (bludgeoning, sensory)
 >>* Resistances - [[Armorer#Upgrades|elemental sink module]] (cold 1)
->>* Movement - 30' walking
+>>* Movement - 25' walking
 >
 >>[!info]- Specifics
 >>* Skills - Athletics (Strength) +9
@@ -161,7 +161,7 @@
 >
 >>[!info]- Specifics
 >>* Skills - Acrobatics (Dexterity) +7, Sleight of Hand (Dexterity) +10, Stealth (Dexterity) +10
->>* Classes - [[Trickster]] 4th
+>>* Classes - Skirmisher [[Trickster]] 4th
 >>* Arms:
 >>	* 1x Rapier - 1d8 + 4 piercing
 >>	* 1x Shortsword (light) - 1d6 + 4 slashing or piecing

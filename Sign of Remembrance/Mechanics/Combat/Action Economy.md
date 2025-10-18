@@ -35,7 +35,7 @@ It is important to mention that movement can be used before and after other acti
 - Flying - the creature can move freely mid-air without issue.
     - Default - The creature uses minimal effort to fly, and only [[Damage and Death#Fall Damage|falls]] to the ground when it wishes to or when it becomes unconscious or its movement speed drops to 0.
     - (Levitating) - The creature can't be made to fall without it willing to.
-    - (Active) - The creature falls to the ground in the end of its turn. It may attempt an Acrobatics (Dexterity) check to not fall prone.
+    - (Active) - The creature falls to the ground in the end of its turn. It may attempt an [[Damage and Death#Fall Damage|Acrobatics (Dexterity) check]] to not fall prone.
 - Burrowing - the creature may move through solid ground without issue, and through semi-solid ground as if it were difficult terrain.
 - Climbing - the creature may move on vertical spaces without issue, unless they are slippery or have no gripping points.
 - Swimming - the creature may move through liquids without issue, and through viscous liquids as if they were difficult terrain.
