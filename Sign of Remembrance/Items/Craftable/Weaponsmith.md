@@ -71,7 +71,7 @@ Weaponsmith tools cost 20 sc and weigh 0.6 bulk.
 | **Weapon**     | **Cost** | **Bulk** | **Traits**                |
 | -------------- | -------- | -------- | ------------------------- |
 | Arrows (20)    | 2 sc     | 0.3      | Breaks on contact (DC 11) |
-| Bullets (20)   | 40 sc    | 0.2      | Breaks on contact (DC 5)  |
+| Bullets (20)   | 20 sc    | 0.2      | Breaks on contact (DC 5)  |
 | Bolts (20)     | 250 cc   | 0.3      | Breaks on contact (DC 11) |
 | Blowdarts (20) | 25 cc    | 0.2      | Breaks on contact (DC 11) |
 | Pellets (20)   | 10 cc    | 0.2      | Breaks on contact (DC 11) |
