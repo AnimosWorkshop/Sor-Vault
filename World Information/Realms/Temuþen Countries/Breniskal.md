@@ -3,6 +3,7 @@ aliases:
   - Arborwall
   - Green Dragonland
 ---
+![[Breniskal.png|600]]
 -- - - -
 ## Becoming in the 3rd Verse
 
