@@ -36,7 +36,7 @@ All bombs are simple hurler weapons of light weight, with the [[Weapon Rules#Thr
 | Frostbite Cocktail, Minor | 8 sc     | 0.1      | On a hit, deals 1d8 cold damage.                                                                                                                                            |
 | Frostbite Cocktail, Major | 28 sc    | 0.1      | On a hit, deals triple 1d8 cold damage.                                                                                                                                     |
 | Flash Bomb                | 32 sc    | 0.2      | When the flask breaks, each creature within 10' must make a Resilience saving throw against a DC of 15 or be [[Injuries#Blinded\|blinded]] until the end of your next turn. |
-| Smoke Flask               | 4 sc     | 0.1      | A 15' cube of smoke emerges centered where the flask breaks. It counts as half-cover, and disperses after 1 minute.                                                         |
+| Smoke Flask               | 4 sc     | 0.1      | A 15' cube of smoke emerges centered where the flask breaks. It counts as [[Cover\|cover]] 1, and disperses after 1 minute.                                                 |
 
 - - -
 ## Substances

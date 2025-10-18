@@ -17,7 +17,7 @@
 **Racial Attribute Bonus:** Your Strength score increases by 1.  
 **Crystalline Structure:** Your unarmored defense weakness is piercing damage.  
 **Look for the Beacon:** The crystal perfodians' leaders, called 'beacons', often use lightning tools to shine brighter and makes themselves noticable among the others, so they will be able to look for them easily. Over years, the crystal perfodians developed sense which help them look for those very beacons. You are proficient with Perception.  
-**Radiant Excitement:** Once per long rest, when you use your Shining Brilliance feature to use the Inspire quick action, you may imbue your ally with additional arcane energy to radiate their excitement outwards. The first attack made against that ally in the next minute is made with an additional cover level if the attacker uses vision, as the radiance veils your ally. This feature counts as a 1st-level, arcana, calefaction for the purpose of magic detection.
+**Radiant Excitement:** Once per long rest, when you use your Shining Brilliance feature to use the Inspire quick action, you may imbue your ally with additional arcane energy to radiate their excitement outwards. The first attack made against that ally in the next minute is made with an additional [[cover]] level if the attacker uses vision, as the radiance veils your ally. This feature counts as a 1st-level, arcana, calefaction for the purpose of magic detection.
  
 ### Ore Perfodian
  

@@ -50,7 +50,7 @@ When everything goes loose, you must learn to take the reins and stir back to co
 
 * _Careful Step_ - While you [[Action Economy#^665abd|disengage]], you may move through the space of unwilling creatures, given you have enough movement to spend to get to their other side. When you do, they may attempt an [[Action Economy#Opportunity Attacks|opportunity attack]] against you. Unless you are hit by the creature, you succeed in moving through their space. If you are hit, you still expend your movement but do not move, but may try again.
 * _Choke_ - While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same. ^171e67
-* _Fan_ - If you have not attacked with a medium weapon during your action, when making an [[Action Economy#^941070|attack]] quick action, you may draw a light weapon as a part of your attack.
+* _Mobile Retrieval_ - When within 5' from an unattended piece of ammunition or a thrown weapon you've thrown, you may use 5' of movement to pick it up with a free hand, once per round as a free action on your turn.
 * _Shield Bash_ - While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy). Proficiency with shield attacks is gained as part of your shield proficiency, and the weapon is considered of the pugilist style. ^96f2d9
 * _Swift Grab_ - You may make a [[Action Economy#^b70e3f|brawl action]] as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw. ^a688fd
 ### Parrying Strike
@@ -101,7 +101,7 @@ You also gain 1 proficiency level in either the Intimidation or Performance.
 At 4th level, you may choose to either add a second [[#Dirty Tactics|dirty tactic]] to your arsenal, or improve your existing one with the following benefits:
 * _Careful Step_ - If you are [[Action Economy#^284a7e|hidden]], you are also considered [[Action Economy#^665abd|disengaging]]. If you became hidden via a dice roll (such as a Stealth (Dexterity) check), then that roll is also used as your Acrobatics (Dexterity) roll.
 * _Choke_ - The size of the weapon's damage die is not reduced as a result of this feature.
-* _Fan_ - You may now draw the light weapon as a part of your [[Action Economy#^941070|attack]] quick action even if you attacked with a medium weapon during your action. In addition, the range for weapons you throw is increased by 15' for the first increment and by 30' for the second increment.
+* _Mobile Retrieval_ - Your weapons' damage die is increased by 1 while throwing them. In addition, when missing an attack with a thrown weapon or ammunition, they fall 5' closer to you from the target.
 * _Shield Bash_ - The shield's damage die is increased by 1.
 * _Swift Grab_ - The Resilience DC against the quickened [[Action Economy#^b70e3f|brawl action]] does not get a bonus.
 ### Extra Attack
@@ -145,7 +145,7 @@ At 9th level, you become a master of manipulating every advantage you can muster
 * If you already have a singular advanced dirty tactic, upgrade it as following:
 	* _Careful Step_ - Successfully passing through a creature's space while you [[Action Economy#^665abd|disengage]] makes them pacified 1.
 	* _Choke_ - A creature grappled, restrained or toppled by you is pacified 1.
-	* _Fan_ - Add your attribute modifier an additional time for damage rolls for thrown weapons.
+	* _Mobile Retrieval_ - When within 5' of an enemy who had been hit by a piece of ammunition or thrown weapon, you may use a quick action to draw it from their body. This deals the weapon's damage, including your attribute bonus for an attack, as if you had thrown it.
 	* _Shield Bash_ - Shields you use have their [[Weapon Rules#Lethal|lethal]] trait increased by 1.
 	* _Swift Grab_ - While grappling, restraining or toppling a creature, you have a +1 bonus to your damage rolls and AC.
 ### Specialty Mastery

@@ -86,7 +86,7 @@ When you get this feature at 4th level, your chosen school from Arcane Orb becom
  
 ### Spatial Deformation
  
-At 5th level, you learn a technique which allows you to slightly modify space around you on a whim, making it difficult for creatures and objects to pass through it. Using a quick action, you choose a 15' cube in space, up to 60' away from you. Until the start of your next turn, the area becomes difficult terrain, and counts as giving half-cover if ranged attacks are supposed to pass through the area. The effect doesn't stack with itself. This counts as 0th-level, Arcana for the purpose of magic detection.
+At 5th level, you learn a technique which allows you to slightly modify space around you on a whim, making it difficult for creatures and objects to pass through it. Using a quick action, you choose a 15' cube in space, up to 60' away from you. Until the start of your next turn, the area becomes difficult terrain, and counts as increasing the [[cover]] level by 1 if ranged attacks are supposed to pass through the area. The effect doesn't stack with itself. This counts as 0th-level, Arcana for the purpose of magic detection.
  
 ### Arcane Eye Expertise
  

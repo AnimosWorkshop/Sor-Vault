@@ -9,7 +9,7 @@ tags:
 | ------------------- | ---------------------------------------------------------------- |
 | 1st                 | [[#Shifting Tempo]]                                              |
 | 2nd                 | [[#Cunning Action]], [[#Martial Techniques]]                     |
-| 3rd                 | [[#Fast Hands]]                                                  |
+| 3rd                 | [[#Fast Hands Specialty]]                                        |
 | 4th                 | [[#Uncanny Tempo]], [[#Shifting Tempo]], [[#Martial Techniques]] |
 | 5th                 | [[#Quick Attack]]                                                |
 | 6th                 | [[#Alacrity]]                                                    |
@@ -65,11 +65,24 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | 6th                 | 3                    | -                       |
 | 8th                 | 3                    | 1                       |
 | 10th                | 3                    | 2                       |
-### Fast Hands
- 
-Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. The [[Action Economy#^30b3a9|major interaction]], [[Action Economy#^1e684d|disorient]] and [[Action Economy#^79c113|medicate]] actions become quick actions for you, and you gain a climbing speed equal to half your walking speed.  
-When using the [[Action Economy#^1e684d|disorient action]] as a quick action, the target gets a +2 bonus their saving throw, and using the [[Action Economy#^79c113|medicate action]] as a quick action gives you a -2 penalty to your roll.  
-You also gain 1 proficiency level in either the Sleight of Hand or Medicine.
+### Fast Hands Specialty
+
+Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. Choose one of the following specialties.
+#### Field Surgeon
+
+The [[Action Economy#^79c113|medicate]] action becomes a quick action for you. When you use it, you may choose to instead [[Alchemist#^17c511|administer a concoction]] to willing creatures instead of using a [[Action Economy#^30b3a9|major interaction]] for it.
+In addition, when you [[Action Economy#^79c113|medicate]] an unconscious creature using a (full) action, you may let them spend 1 of their hit dice and recover that many hit points + their Constitution modifier. A creature may benefit from this only once per long rest.
+
+You also gain 1 proficiency level in Medicine.
+
+#### Skirmisher
+
+You gain a 15' climbing speed, and when you fall, you take damage as if you fell up to 20' less as long as you are conscious.
+In addition, once per short or long rest, you may [[Action Economy#^f8a635|dash]] using a (full) action and end it on either a jump or a roll as a free action, depending on whether there are unwilling creatures present on a straight line from where you ended your dash: 
+* Jump - if no unwilling creatures are present, you may jump horizontally a distance equal to half your dash distance.
+* Roll - if there are unwilling creatures present, you may roll past them a distance equal to a third of your dash distance. You may make an Acrobatics (Dexterity) as you do with advantage as a free [[Action Economy#^665abd|disengage]] quick action.
+
+You also gain 1 proficiency level in either Athletics or Acrobatics.
  
 ### Uncanny Tempo
  
@@ -98,7 +111,7 @@ In addition, whenever you attack a creature using a weapon without disadvantage,
  
 ### Skillful Technique
  
-At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. Choose two actions to become your skillful techniques: [[Action Economy#^1e684d|disorient]], [[Action Economy#^284a7e|hide]], [[Action Economy#^30b3a9|major interaction]], and [[Action Economy#^79c113|medicate]].
+At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. Choose two actions to become your skillful techniques: [[Action Economy#^665abd]], [[Action Economy#^1e684d|disorient]], [[Action Economy#^284a7e|hide]], [[Action Economy#^30b3a9|major interaction]], and [[Action Economy#^79c113|medicate]].
 
 Whenever you successfully use one of your skillful techniques as a quick action, you increase your movement speed by 5' and your next damage roll until the end of your next turn by 1, and whenever you successfully use it as an action, including martial techniques which extend it to an action, you increase your speed by 10' and increase your next damage roll until the end of your next turn by 2.
  

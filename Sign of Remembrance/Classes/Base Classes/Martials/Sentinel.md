@@ -50,7 +50,7 @@ You may use a quick action and 1 focus to become _focused_, using your [[Reading
 - You have a +1 bonus to saving throws.
 - You have a +1 bonus to [[Action Economy#Opportunity Attacks|opportunity attacks]], and opportunity attacks made against you are made with a -1 penalty.
 - All pugilist weapons you use have their damage die increased by 1, and you may use all functional limbs in order to perform [[Weaponsmith#Commoners' Melee Weapons|unarmed strikes]] and the [[Action Economy#^5d5dd0|shove]] brawl action. This increase affects shove damage as usual.
-- You gain access to the Deflect reaction against an incoming attack, increasing your AC by half your Strength modifier against it (minimum 1). ^843c5c
+- You gain access to the Deflect reaction against an incoming attack, increasing your AC by a third of your Strength modifier against it (minimum 1). ^843c5c
 - When a breakage level would apply to your unarmed strikes, make a flat check with a DC equal to 11 - your sentinel level. If you succeed, the breakage level doesn't apply.
 
 The focused condition lasts up to 10 minutes, or until your concentration ends.

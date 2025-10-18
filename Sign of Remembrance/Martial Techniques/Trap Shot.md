@@ -1,1 +1,0 @@
-C:/Users/marks/OneDrive/Sign of Remembrance/SoR Vault/Sign of Remembrance/Martial Techniques/Fighter/Trap Shot.md

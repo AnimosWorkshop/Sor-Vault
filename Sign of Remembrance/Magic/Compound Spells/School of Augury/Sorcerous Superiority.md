@@ -1,4 +1,4 @@
-#2nd-Level #Compound #Arcana #Augury #Histolecty #Augury
+#2nd-Level #Compound #Arcana #Auramancy  #Histolecty #Augury
  
 - Casting Time: Action and quick action
 - Range: 15'

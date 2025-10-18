@@ -53,7 +53,7 @@ A weapon that can be used to make a ranged attack has a range in parentheses aft
 This weapon adds 5' to your reach when you attack with it, as well as when determining your reach for [[Action Economy#Opportunity Attacks|opportunity attacks]] with it.
 #### Recourse
 
-A property given to ranged weapons to indicate that they can also be used in melee range. When using them in melee range, the damage dealt is indicated by the number in the parentheses.  
+A property given to ranged weapons to indicate that they can also be used in melee range. When using them in melee range, the damage dealt is indicated by the number in the parentheses. The attribute used for the melee attack is the same that would be used for the ranged attack.
 Note that some weapons need to be loaded while using this property in order to attack, for example - the sling.
 #### Thrown
 

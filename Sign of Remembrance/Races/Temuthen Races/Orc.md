@@ -18,7 +18,7 @@ _Orcs are tribal, usually living in traveling clans without clinging too much to
 _Berserker orcs are regarded by many as “barbaric” and “uncivilized”, but reality proves otherwise - and the berserker orcs’ society is organized very well, with different castes according to one’s inner ability. As they get older, their body turns into that of a fierce fighter, earning more national-leaning orcs a place of honor in militaries._
  
 **Relentless Endurance:** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.  
-**Savage Attacks:** Your hits always find their targets, allowing you to ignore half-cover on attacks. In addition, when you critically hit with an attack, you may reroll up to 2 dice on your damage roll. If you do, you must use the new rolls.
+**Savage Attacks:** Your hits always find their targets, allowing you to ignore 1 level of [[cover]] on attacks. In addition, when you critically hit with an attack, you may reroll up to 2 dice on your damage roll. If you do, you must use the new rolls.
  
 ### Nomad Orc
  
