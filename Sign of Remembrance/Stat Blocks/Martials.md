@@ -1,6 +1,22 @@
 -- - -
 ## 1st Level
 
+> [!danger]- Alley Skirmisher  
+>> [!info]- Basics  
+>> * [[Goblin#Deft Goblin]]
+>> * Attributes - 12 / 14 / 18 / 12 / 14 / 14 / 12
+>> * Saves - +4 / +6 / +4 / +2 
+>> * HP - 20, 1d8  
+>> * AC - 16 leather (slashing, acid) + [[Vident#Inquisitive Vident|Lone Wolf]] +1
+>> * Movement - 35 walking  
+>>  
+> [!info]- Specifics  
+>> * Skills - Acrobatics (Dexterity) +6, Stealth (Dexterity) +6, Perception (Wisdom) +4  
+>> * Classes - [[Fighter]] 1st ([[Fighter#Dirty Tactics|Careful Step]])
+>> * Arms:  
+>> 	* Shortsword (light; finesse, pommel) – 1d6 + 4 slashing or piercing
+>> 	* Dagger (light; finesse, thrown (20'/60'), tool (Sleight of Hand)) – 1d4 + 4 piercing
+>> * [[Goblin|Curious Instinct]]
 
 >[!danger]- Guard
 >>[!info]- Basics

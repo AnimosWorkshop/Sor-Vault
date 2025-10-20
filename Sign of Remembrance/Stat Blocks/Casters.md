@@ -37,7 +37,7 @@
 >>* Arcane Spells (Bonus +5, DC 15):
 >>	* 1st-Level (3) - [[Force Burst]], [[Slowfall]], [[Witch Bolt]]
 >>* Arms:
->>	* [[Runecarver#Functionality Upgrades|Foretelling Scepter]] (medium)
+>>	* [[Runecarver#Scepter Functionality Upgrades|Foretelling Scepter]] (medium)
 ^feda12
 
 -- - -
@@ -63,7 +63,7 @@
 
 ^00969f
 
->[!danger] Street Calefactor
+>[!danger]- Street Calefactor
 >> [!info]- Basics
 >>* [[Vident#Inquisitive Vident]]
 >>* Attributes - 8 / 14 / 14 / 16 / 18 / 14 / 12
@@ -122,7 +122,7 @@
 >>	* 1st-Level (4) - [[Enhanced Magic Sight]], [[Impedance]]
 >>	* 2nd-Level (2) - [[Anticipated Oblivion]], [[Locate Object]]
 >>* Arms:
->>	* [[Runecarver#Functionality Upgrades|Foretelling Scepter]] (medium)
+>>	* [[Runecarver#Scepter Functionality Upgrades|Foretelling Scepter]] (medium)
 
 >[!danger]- Tempestist Arcanist
 >>[!info]- Basics
@@ -140,7 +140,7 @@
 >>	* 1st-Level (4) - [[Witch Bolt]], [[Shocking Grasp]]
 >>	* 2nd-Level (2) - [[Misty Step]], [[Warding Wind]]
 >>* Arms:
->>	* [[Runecarver#Functionality Upgrades|Staff of Balance]] (medium)
+>>	* [[Runecarver#Staff Functionality Upgrades|Staff of Balance]] (medium)
 ^ee8f5f
 
 >[!danger]- Calefactor Histolect
@@ -179,7 +179,7 @@
 >>	* 1st-Level (3) - [[Aria's Snow Globe]], [[Flame Bolt]]
 >>	* 2nd-Level (4) - [[Flame Darts]], [[Grelleyal's Shattering Grasp]], [[Misty Step]]
 >>* Arms:
->>	* [[Runecarver#Functionality Upgrades|Flaming Arc Wand]] +1 (light)
+>>	* [[Runecarver#Wand Functionality Upgrades|Flaming Arc Wand]] +1 (light)
 >>* Pouch:
 >>	* 2x [[Alchemist#Concoctions|Coagulation Concoction, Minor]]
 >>	* 1x [[Alchemist#Concoctions|Recovery Concoction, Minor]]
