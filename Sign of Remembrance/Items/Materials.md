@@ -1,4 +1,3 @@
--- - -
 ## Currency
 
 Currency is made of metals, from the low cost copper to the highly coveted platinum. Those who fancy themselves a coin collection might pay metalworkers to refine their coins and decorate them, making them worth more as they rival pieces of art, yet most people settle for not very clear-cut or refined pieces of metal. 
@@ -29,19 +28,20 @@ It is also important to note the conversion rate - 100 cc per 1 sc, and 100 sc p
 | Ardene       | 6 sc             | 2 cc             | A common metal in Hell. Brownish-green in color, it is known as an "earth metal" due to its crustiness, and is most often used in a 99:1 ratio with Lirion in order to create a more durable alloy.                                                                                                                     |
 
 ### Heliax
-| **Material** | **Value / Bulk** | **Value / coin** | **Notes** |
-| ------------ | ---------------- | ---------------- | --------- |
-| Gold         | 300 gc           | 1 gc             |           |
-| Ruthenium    | 30 gc            | 10 sc            |           |
-| Silver       | 300 sc           | 1 sc             |           |
-| Iron         | 60 cc            | 1 cc             |           |
+| **Material** | **Value / Bulk** | **Value / coin** |
+| ------------ | ---------------- | ---------------- |
+| Gold         | 300 gc           | 1 gc             |
+| Ruthenium    | 30 gc            | 10 sc            |
+| Silver       | 300 sc           | 1 sc             |
+| Iron         | 60 cc            | 1 cc             |
+
 ### Limbo
 
-| **Material** | **Value / Bulk** | **Value / coin** | **Notes** |
-| ------------ | ---------------- | ---------------- | --------- |
-| Gold         | 300 gc           | 1 gc             |           |
-| Lirion       | 6 gc             | 2 sc             |           |
-| Tin          | 12 sc            | 4 cc             |           |
+| **Material** | **Value / Bulk** | **Value / coin** |
+| ------------ | ---------------- | ---------------- |
+| Gold         | 300 gc           | 1 gc             |
+| Lirion       | 6 gc             | 2 sc             |
+| Tin          | 12 sc            | 4 cc             |
 
 -- - -
 ## Other Materials
@@ -51,6 +51,7 @@ It is also important to note the conversion rate - 100 cc per 1 sc, and 100 sc p
 | ----------------- | ---------------- | --------------------------------- |
 | Brass (Standard)  | 360 cc           | Composition: 70% copper, 30% zinc |
 | Bronze (Standard) | 6 sc             | Composition: 85% copper, 15% tin  |
+| Iron              | 60 cc            |                                   |
 | Tin               | 12 sc            |                                   |
 ### Preida
 
