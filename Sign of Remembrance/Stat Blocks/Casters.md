@@ -18,9 +18,7 @@
 >>	* 1st-Level - [[Expedite]], [[Mend Wounds]]
 >>* Arms:
 >>	* Staff (medium)
-
 ^57e735
-
 
 >[!danger]- Disciple of Freedom
 >>[!info]- Basics
@@ -43,6 +41,26 @@
 -- - -
 ## 2nd Level
 
+>[!danger]- Earthly Displacer
+>> [!info]- Basics
+>>* [[Dwarf#Hill Dwarf]]
+>>* Attributes - 14 / 16 / 12 / 12 / 18 / 8 / 15
+>> * Saves - +4 / +5 / +6 / +3, +1 lone wolf
+>> * HP - 38, 2d6
+>> * AC - 14 chain shirt (piercing, lightning)
+>> * Resistances - necrotic 1
+>> * Movement - 30' walking
+> 
+>>[!info]- Specifics
+>> * Skills - Sorcery (Intelligence) +7, Insight (Wisdom) +7, Athletics (Strength) +5, Acrobatics (Dexterity) +3
+>> * Classes - Calefaction [[Wizard]] 2nd
+>> * Arcane Spells (Bonus +7, DC 17):
+>>	* 1st-Level (5) - [[Earth Scatter]], [[Depressurize]], [[Force Burst]], [[Shining Flame]]
+>> * Arms:
+>> 	* [[Runecarver#Spell Foci|Scepter]] (medium) - 1d8 + 2 bludgeoning damage
+
+^26bc75
+
 >[!danger]- Scout Leader
 >>[!info]- Basics
 >>* [[Elf#Wood Elf]]
@@ -58,9 +76,8 @@
 >>* Auramantic Spells (Bonus +6, DC 16) - 10 Mana:
 >>	* 1st-Level - [[Expedite]], [[Kadaran's Obscured Steps]], [[Disarming Shock]], [[Exhaustion Bolt]]
 >>* Arms:
->>	* [[Runecarver#Spell Foci|Scepter]] (medium)
+>>	* [[Runecarver#Spell Foci|Scepter]] (medium) - 1d8 - 2 bludgeoning damage
 >>	* Rondel (light; finesse, lethal 1, pommel) - 1d4 + 4 piercing
-
 ^00969f
 
 >[!danger]- Street Calefactor

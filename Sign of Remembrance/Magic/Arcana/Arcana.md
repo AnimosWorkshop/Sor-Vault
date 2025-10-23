@@ -54,6 +54,6 @@ _Arcana Save DC_ = 10 + _Arcana Modifier_
  
 After a long rest, your resonance resets to the amount noted in the arcanist table.
  
-### Arcana Field
+### Arcane Field
  
-As arcana is a magic type bound in physical space, different arcana fields may enhance or diminish an arcanist's abilities while they are within them. Different arcana fields stack with each other, but each presents either an upper or a lower limit on how much the field can increase or reduce the caster's arcana modifier while inside them.
+As arcana is a magic type bound in physical space, arcane fields may enhance or diminish an arcanist's abilities while they are within them. Different arcane fields stack with each other, but each presents either an upper or a lower limit on how much the field can increase or reduce the caster's arcana modifier while inside them.

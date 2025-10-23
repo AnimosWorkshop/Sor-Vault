@@ -1,4 +1,4 @@
-#3rd-Level #Compound #Arcana #Auramancy #Puppeteering
+#3rd-Level #Compound #Arcana #Auramancy #Puppetry
 Uncommon
  
 - Casting Time: 12 hours

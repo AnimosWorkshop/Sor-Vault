@@ -53,11 +53,11 @@ Spells are categorized into 10 schools of magic, each containing spells which ar
 - Alteration - relating to the changing of matter, and body. Specialists of this school are called alterers.
 - Augury - relating to fate and foresight. Specialists of this school are called augurs. This school was invented by Vorona, the Oracle, who lived since the beginning of the First Verse, and became a god of the Second Verse.
 - Calefaction - relating to extreme heat and cold. Specialists of this school are called calefactor. This school was invented by Doeth, the Cold King, who lived during the First Verse.
-- Coaxing - relating to the changing of mind in a forcing manner. Specialists of this school are called coaxers, and it is limited to histolecty.
+- Compulsion - relating to the changing of mind in a forcing manner. Specialists of this school are called compulsors, and it is limited to histolecty.
 - Decay - relating to death and dangerous substances, such as acid and poisons. Specialists of this school are called decayers.
 - Displacement - relating to manipulation of space. Specialists of this school are called displacers, and it is limited to Arcana.
 - Illusion - relating to the manipulation of perception and creating false impressions. Specialists of this school are called illusionists.
-- Puppeteering - relating to the fine manipulation of objects from afar. Specialists of this school are called puppeteers, and it is limited to Arcana. This school was invented by Marga Roid, who lived during the start of the Second Verse, and has left the specialists of her school as a closed society, allowing study of the school only to those who are related by blood.
+- Puppetry - relating to the fine manipulation of objects from afar. Specialists of this school are called puppeteers, and it is limited to Arcana. This school was invented by Marga Roid, who lived during the start of the Second Verse, and has left the specialists of her school as a closed society, allowing study of the school only to those who are related by blood.
 - Summoning - relating to the summoning of elementals, which are manifestations of magic in creature form. Specialists of this school are called summoners.
 - Tempest - relating to the aspects of storm, lightning and thunder. Specialists of this school are called tempestists.
  
