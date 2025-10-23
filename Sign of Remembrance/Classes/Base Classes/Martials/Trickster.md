@@ -111,7 +111,7 @@ In addition, whenever you attack a creature using a weapon without disadvantage,
  
 ### Skillful Technique
  
-At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. Choose two actions to become your skillful techniques: [[Action Economy#^665abd]], [[Action Economy#^1e684d|disorient]], [[Action Economy#^284a7e|hide]], [[Action Economy#^30b3a9|major interaction]], and [[Action Economy#^79c113|medicate]].
+At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. Choose two actions to become your skillful techniques: [[Action Economy#^665abd|disengage]], [[Action Economy#^1e684d|disorient]], [[Action Economy#^284a7e|hide]], [[Action Economy#^30b3a9|major interaction]], and [[Action Economy#^79c113|medicate]].
 
 Whenever you successfully use one of your skillful techniques as a quick action, you increase your movement speed by 5' and your next damage roll until the end of your next turn by 1, and whenever you successfully use it as an action, including martial techniques which extend it to an action, you increase your speed by 10' and increase your next damage roll until the end of your next turn by 2.
  

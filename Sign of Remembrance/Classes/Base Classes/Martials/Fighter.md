@@ -8,8 +8,8 @@ tags:
 | **Fighter Level** | **Features**                                         |
 | ----------------- | ---------------------------------------------------- |
 | 1st               | [[#Dirty Tactics]], [[#Parrying Strike]]             |
-| 2nd               | [[#Adrenaline Surge]], [[#Martial Techniques]]       |
-| 3rd               | [[#Arms Specialty]], [[#Arms Lore]]                  |
+| 2nd               | [[#Arms Specialty]], [[#Martial Techniques]]         |
+| 3rd               | [[#Adrenaline Surge]], [[#Arms Lore]]                |
 | 4th               | [[#Advanced Dirty Tactics]], [[#Martial Techniques]] |
 | 5th               | [[#Extra Attack]]                                    |
 | 6th               | [[#On Guard]], [[#Martial Techniques]]               |
@@ -55,13 +55,21 @@ When everything goes loose, you must learn to take the reins and stir back to co
 * _Swift Grab_ - You may make a [[Action Economy#^b70e3f|brawl action]] as a quick action, but doing so gives the target a +2 bonus to their Resilience saving throw. ^a688fd
 ### Parrying Strike
  
-Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do, reduce your AC by 1, and subtract half your fighter level + your Strength modifier divided by 3 (rounding up applies to each separately; total minimum of 1) from the damage dealt.  
-If the incoming attack critically hits, breakage is applied to the weapon or shield instead of your armor.
+Starting at 1st level, your knowledge of the battlefield allows you to defend without fear. When you are attacked, you may use a parry reaction using a weapon or a shield. When you do:
+* Your AC is increased (or reduced) against the attack by $\frac{\text{Dex mod.}}3-1$
+* If the attack hits, subtract $\frac{\text{Fighter lvl.}}{2} + \frac{\text{Str mod.}}{3}$ (each of which is rounded up separately) from the damage dealt.
+
+If the incoming attack critically hits, breakage is applied to the weapon or shield rather than to your armor.
+### Arms Specialty
  
-### Adrenaline Surge
- 
-Starting at 2nd level, you gain the ability to send a surge of adrenaline through your body. You may use your quick action to execute an action, and regain an amount of hit points equal to 1d6 + your fighter level.  
-You may use this feature once, and regain the ability to do so after you finish a short or long rest. You gain another use when you reach 7th level.
+When you reach 2nd level, choose one weapon style to become your specialty. Based on the one you choose, you get a bonus when using these weapons:
+
+* _Hurler_ - The [[Weapon Rules#Lethal|lethal]] trait and the damage die for hurler weapons increases by 1 for you.
+* _Pugilist_ - [[#Parrying Strike|Parrying strike]] can be used in conjunction with the [[Sentinel#Inner Focus|deflect reaction]] as a part of the same reaction if you are using a pugilist weapon. If you don't have the [[Sentinel#Inner Focus|deflect reaction]], you may instead increase your AC by 1 against the attack in addition to the normal effects of [[#Parrying Strike|parrying strike]].
+* _Sharpshooter_ - You get a +2 bonus to attack rolls with sharpshooter weapons.
+* _Skewer_ - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type.
+* _Sweeper_ - You get a +2 bonus to damage rolls with sweeper weapons.
+* _Swiftblade_ - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. [[Action Economy#Opportunity Attacks|Opportunity attacks]] taken against you as a part of this movement are made with disadvantage.
  
 ### Martial Techniques
  
@@ -74,17 +82,10 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 | 6th               | 3                    | -                       |
 | 8th               | 3                    | 1                       |
 | 10th              | 3                    | 2                       |
-
-### Arms Specialty
+### Adrenaline Surge
  
-When you reach 3rd level, choose one weapon style to become your specialty. Based on the one you choose, you get a bonus when using these weapons:
-
-* _Hurler_ - The [[Weapon Rules#Lethal|lethal]] trait and the damage die for hurler weapons increases by 1 for you.
-* _Pugilist_ - [[#Parrying Strike|Parrying strike]] can be used in conjunction with the [[Sentinel#Inner Focus|deflect reaction]] as a part of the same reaction if you are using a pugilist weapon. If you don't have the [[Sentinel#Inner Focus|deflect reaction]], you may instead increase your AC by 1 against the attack in addition to the normal effects of [[#Parrying Strike|parrying strike]].
-* _Sharpshooter_ - You get a +2 bonus to attack rolls with sharpshooter weapons.
-* _Skewer_ - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type.
-* _Sweeper_ - You get a +2 bonus to damage rolls with sweeper weapons.
-* _Swiftblade_ - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. [[Action Economy#Opportunity Attacks|Opportunity attacks]] taken against you as a part of this movement are made with disadvantage.
+At 3rd level, you gain the ability to send a surge of adrenaline through your body. You may use your quick action to execute an action, and regain an amount of hit points equal to 1d6 + your fighter level.  
+You may use this feature once, and regain the ability to do so after you finish a short or long rest. You gain another use when you reach 7th level.
  
 ### Arms Lore
  

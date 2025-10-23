@@ -18,7 +18,7 @@ tags:
 ## Prerequisites
  
 In order to advance as a partisan, you must meet the following prerequisites:
-- **Willpower 15.** Partisans are warriors of pure will, fully immersing themselves in combat and letting the thrill engulf them.
+- **Willpower 13.** Partisans are warriors of pure will, fully immersing themselves in combat and letting the thrill engulf them.
 - **3rd level character.** Becoming a partisan requires an already-present combat experience, in order to learn from that and advance in their training.
 - **Adept with Insight.** Without much time to think, partisans are often forced to make quick choices and assess their enemies in order to find an opportunity to turn the corner and become victorious.
 - **Complete special training.** Although many try, few actually succeed in finding their rhythm and becoming one with the thrill of battle. If often requires training and controlling in order to finally awaken this spark, making the reward are well-deserved.

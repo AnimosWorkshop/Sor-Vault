@@ -38,7 +38,7 @@ In order to advance as a nullifier, you must meet the following prerequisites:
  
 ### Discerning Mind
  
-Your experience and keen mind help you deal more efficiently with illusion and coaxing magic. You gain the ability to use the Repel reaction as a response to being subjected to make a saving throw. If you succeed, you get a bonus to your saving throw equal to your Wisdom modifier divided by 3.  
+Your experience and keen mind help you deal more efficiently with magic. You gain the ability to use the Repel reaction as a response to being subjected to make a saving throw. If you succeed, you get a bonus to your saving throw equal to your Wisdom modifier divided by 3.  
 In addition, when you use the Dodge reaction against spell attacks, your AC increases by an additional 1 against the attack.
  
 ### Preemptive Disruption

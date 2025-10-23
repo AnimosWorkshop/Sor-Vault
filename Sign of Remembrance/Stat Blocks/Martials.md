@@ -140,6 +140,29 @@
 >>* 2 [[Alchemist#Substances|adder venom, minor]]
 ^d850b7
 
+>[!danger]- Multitool Miner
+>>[!info]- Basics
+>>* [[Orc#Berserker Orc]]
+>>* Attributes - 18 / 14 / 10 / 14 / 14 / 10 / 14
+>>* Saves - +6 / +4 / +4 / +4
+>>* HP - 48, 3d8
+>>* AC - 18 splint (bludgeoning, fire)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Athletics (Strength) +9
+>>* Classes - [[Transmuter]] 3rd ([[Transmuter#^9b47b0|Sure Sight Helmet]])
+>>* Martial Techniques - [[Wrist Shock]]
+>>* Arms:
+>>	* War Pickaxe (medium; versatile (1d10 bludgeoning or piercing)) - 1d8 + 4 bludgeoning or piercing
+>>* Pouch:
+>>	* [[Alchemist#Substances|Crystallizer, major]]
+>>	* [[Alchemist#Concoctions|Coagulation concoction, minor]] x2
+>>	* [[Alchemist#Other Items|Snuffing Stick Light]] x2
+>>	* [[Alchemist#Other Items|Snuffing Stick Dark]] x2
+>>* [[Transmuter#Alchemechanical Infusion]]
+^d4ae6d
+
 >[!danger]- Whip Fighter
 >>[!info]- Basics
 >>* [[Orc#Berserker Orc]]
@@ -159,7 +182,6 @@
 >>* Belt Pouch:
 >>	* [[Alchemist#Concoctions|Coagulation concoction, minor]]
 >>* [[Fighter#^171e67|Choke]]
-
 ^3daefa
 
 -- - - -

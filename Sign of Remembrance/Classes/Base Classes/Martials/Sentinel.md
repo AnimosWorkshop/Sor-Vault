@@ -3,7 +3,6 @@ tags:
   - Class
   - Martial
 ---
-
 ## Feature Table
  
 | **Sentinel Level** | **Features**                                       |

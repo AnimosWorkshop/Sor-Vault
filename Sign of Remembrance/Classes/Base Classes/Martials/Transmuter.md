@@ -63,7 +63,7 @@ If a trigger notes it requires a reaction and you have the [[#Advanced Infusion]
  
 ## Makeshift Alchemy
  
-As a professional alchemist, you possess the ability to make improvised tools which emulate the effects of other alchemical items. Once per long rest, you may spend half an hour create [[Alchemist|alchemical items]] under the [[Alchemist#Bombs|bombs]], [[Alchemist#Substances|substances]] and [[Alchemist#Concoctions|concoctions]] sections which cost up to 16 sc * your transmuter level for free, using materials from your surroundings as ingredients. These items deteriorate once you take your next long rest, or 16 hours pass.
+As a professional alchemist, you possess the ability to make improvised tools which emulate the effects of other alchemical items. Once per long rest, if you have [[Alchemist|alchemist's tools]] on you or are in an appropriate workshop, you may spend half an hour create [[Alchemist|alchemical items]] under the [[Alchemist#Bombs|bombs]], [[Alchemist#Substances|substances]] and [[Alchemist#Concoctions|concoctions]] sections which cost up to 16 sc * your transmuter level for free, using materials from your surroundings as ingredients. These items deteriorate once you take your next long rest, or 16 hours pass.
  
 ## Martial Techniques
  
@@ -84,8 +84,8 @@ You also gain 1 proficiency level in either Athletics, Acrobatics or Perception.
  
 * _Feather Fall Boots_ - While wearing these boots, your movement speed increases by 5', and you take half the fall damage you normally would.
 * _Heavy Strike Weapon_ - You modify a light or medium weapon's form and balance by adding 1 lb to its weight and increasing its weight category to the next one. The weapon's damage die is increased by 2.
-* _Personalized Fit Weapon_ - As long as you consciously wield this weapon, you cannot be disarmed from it against your will. As a result, you can also control the weapon better, increasing the weapon's lethal property by 1 while you wield it.
-* _Sure Sight Helmet_ - The helmet can switch between two modes: one according to your [[Vision|vision type]] (whether be it: lightvision, nullvision or darkvision), and one vision type lighter or darker than the one you have. While you put on the helmet, you may switch between these two modes using a quick action.
+* _Personalized Fit Weapon_ - As long as you consciously wield this weapon, you cannot be disarmed from it against your will. As a result, you can also control the weapon better, increasing the weapon's lethal property by 1 while you wield it. ^76d6b6
+* _Sure Sight Helmet_ - The helmet can switch between two modes: one according to your [[Vision|vision type]] (whether be it: lightvision, nullvision or darkvision), and one vision type lighter or darker than the one you have. While you put on the helmet, you may switch between these two modes using a quick action. ^9b47b0
 ## Advanced Infusion
  
 Starting at 5th level, your infusions become more powerful. Whenever you would be able to use an [[#Alchemechanical Infusion|alchemechanical infusion]], you may use two. You may use the same infusion twice for a doubled effect.
