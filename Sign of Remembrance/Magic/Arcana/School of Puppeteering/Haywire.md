@@ -1,4 +1,4 @@
-#2nd-Level #Arcana #Puppeteering
+#2nd-Level #Arcana #Puppetry
  
 - Casting Time: Channel
 - Range: 45'

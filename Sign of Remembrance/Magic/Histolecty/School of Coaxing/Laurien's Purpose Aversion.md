@@ -1,4 +1,4 @@
-#2nd-Level #Histolecty #Coaxing #Boon
+#2nd-Level #Histolecty #Compulsion #Boon
 Uncommon
  
 - Casting Time: Action and quick action

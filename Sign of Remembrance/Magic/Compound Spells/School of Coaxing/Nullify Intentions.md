@@ -1,4 +1,4 @@
-#1st-Level #Compound #Auramancy #Histolecty #Coaxing
+#1st-Level #Compound #Auramancy #Histolecty #Compulsion
  
 - Casting Time: 1 reaction to a creature taking an action, quick action or attempting to move within range
 - Range: Touch

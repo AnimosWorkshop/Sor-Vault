@@ -1,4 +1,4 @@
-#3rd-Level #Arcana #Puppeteering
+#3rd-Level #Arcana #Puppetry
  
 - Casting Time: Action
 - Range: 20'

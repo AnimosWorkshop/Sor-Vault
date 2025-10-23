@@ -1,4 +1,4 @@
-#1st-Level #Arcana #Puppeteering
+#1st-Level #Arcana #Puppetry
  
 - Casting Time: Quick action
 - Range: Touch

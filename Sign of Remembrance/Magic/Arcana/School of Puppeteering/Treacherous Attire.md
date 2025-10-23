@@ -1,4 +1,4 @@
-#4th-Level #Arcana #Puppeteering
+#4th-Level #Arcana #Puppetry
  
 - Casting Time: Action and quick action
 - Range: 40'

@@ -1,4 +1,4 @@
-#4th-Level #Arcana #Puppeteering
+#4th-Level #Arcana #Puppetry
  
 - Casting Time: Action
 - Range: 60' cone

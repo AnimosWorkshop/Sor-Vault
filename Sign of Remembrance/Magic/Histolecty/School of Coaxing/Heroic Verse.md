@@ -1,4 +1,4 @@
-#1st-Level #Histolecty #Coaxing #Boon
+#1st-Level #Histolecty #Compulsion #Boon
  
 - Casting Time: Action
 - Range: 30'

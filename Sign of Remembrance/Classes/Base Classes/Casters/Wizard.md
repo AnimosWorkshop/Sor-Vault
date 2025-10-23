@@ -59,7 +59,7 @@ As you gain this feature, choose 1 school of magic, which becomes your chosen sc
 - Augury - enhancing your deduction and understanding flow of events, you get a bonus to Investigation
 - Calefaction - revealing more of the world with your magic, you get a bonus to Perception
 - Displacement - understanding the dynamics of objects in the world, you get a bonus to Acrobatics
-- Puppeteering - changing the Arcane Web to create precise yet powerful movements through space, you get a bonus to Sleight of Hand
+- Puppetry - changing the Arcane Web to create precise yet powerful movements through space, you get a bonus to Sleight of Hand
 - Tempest - harnessing power common with weather and nature, you get a bonus to Intimidation
 
 This bonus increases by to +2 when you reach 4th level, and to +3 at 7th level.
@@ -109,7 +109,7 @@ Your body alternates between exuding great heat to great cold. You become resist
 #### Displacement
 Your body blinks as you move, making it hard to predict your exact location at any moment. You become immune to [[Action Economy#Opportunity Attacks|opportunity attacks]], and your base speed increases by 10'.
  
-#### Puppeteering
+#### Puppetry
 You are able to control one unattended objects within your reach using quick alterations in the web. Once per turn, you may use a minor interaction as a free action, and you may "hold" one object with the arcane web as if you had a third arm.
  
 #### Tempest

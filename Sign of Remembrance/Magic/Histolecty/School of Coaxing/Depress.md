@@ -1,4 +1,4 @@
-#3rd-Level #Histolecty #Coaxing #Curse 
+#3rd-Level #Histolecty #Compulsion #Curse 
 
 - Casting Time: Action
 - Range: 45'
