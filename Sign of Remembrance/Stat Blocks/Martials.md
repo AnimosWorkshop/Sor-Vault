@@ -192,8 +192,8 @@
 >>* [[Dragon#Blue]] (Wyrmling)
 >>* Attributes - 16 / 14 / 18 / 12 / 14 / 8 / 16
 >>* Saves - +6 / +7 / +5 / +6
->>* HP - 62, 4d6
->>* Immunities - lightning
+>>* HP - 57, 4d6
+>>* Resistances - lightning 1
 >>* AC - 17 natural (piercing) + 2 [[Trickster#Shifting Tempo|dodge]] + 2 [[roll]]
 >>* Movement - 30' walking, 30' flying
 >

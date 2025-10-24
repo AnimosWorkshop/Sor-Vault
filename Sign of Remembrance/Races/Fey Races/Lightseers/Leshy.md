@@ -1,7 +1,7 @@
 #Race #Fey
 - - -
 **Racial Attribute Bonus:** Your Constitution score increases by 2.  
-**Age:** Mature at late 50s, live about 270 years.  
+**Age:** Mature at late 50s, live about 190 years.  
 **Size:** Medium.  
 **Creature Type:** Fey.  
 **Speed:** 25' walking.  

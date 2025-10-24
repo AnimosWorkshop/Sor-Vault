@@ -5,19 +5,18 @@ Uncommon
 >Dragons are a lot stronger than traditional player characters. This page serves as a consistent guideline to how to create dragons, but the use of them in parties is generally discouraged because of their imbalance relative to the other players. Despite this, wyrmlings are the closest in power level to regular player characters, and can be used if taken into account.
  
 **Racial Attribute Bonus:** Your Willpower score increases by 2. If your dragonflight stat increases are going to pass 20, you may choose another stat to increase instead.  
-**Age:** Wyrmlings (akin to children-adolescents) until their 50s, then youngs (akin to young adults and adults) until 120s, and adults (akin to middle-age and elderly) until their 240s. Elders can live up to the age of 650, but usually die sooner due to blood wars or direct inheritance.  
+**Age:** Wyrmlings (akin to children-adolescents) until their 40s, then youngs (akin to young adults and adults) until 90s, and adults (akin to middle-age and elderly) until their 160s. Elders can live up to the age of 400, but usually die sooner due to blood wars or direct inheritance.  
 **Size:** Wyrmlings are Medium, youngs are Large, adults are Huge and elders are Gargantuan.  
 **Creature Type:** Dragon.  
-**Speed:** 30' walking, 30' flying. Your flying speed increases by 15' for each age category above wyrmling.  
+**Speed:** 30' walking, 20' flying. Your flying speed increases by 10' for each age category above wyrmling.  
 **Vision:** Lightvision, mistvision.
 **Breath Weapon:** Each dragon has their own breath weapon, which they can use with an action to unleashing an element within them in a cube in front of them, 15' as wyrmlings and 5' more for each age category above it. Each creature within that area must make a Initiative saving throw in the case of: fire, cold and lightning, or a Resilience saving throw in the case of necrotic and acid. The DC is 10 + your Willpower modifier + your proficiency modifier. The breath weapon deals 3d8 of the dragon's element, and 3d8 more damage for each age category above it, or half as much damage if the creature succeeds on the saving throw. You regain the use of this feature once per short or long rest.  
-**Of the Elements:** You are immune to the damage type of your element.
+**Of the Elements:** Wyrmlings are resistant 1 to their element; youngs are resistant 2, and adult and elder dragons are immune to the damage type of their element.
 **Persistent Anatomy:** The starting hit points of dragons changes as they age alongside with their size: ^495098
 - Wyrmlings (medium): 8 starting hit points
 - Youngs (large): 10 starting hit points
 - Adults (huge): 12 starting hit points
 - Elders (gargantuan): 20 starting hit points
-In addition, your hit point maximum increases by 1, and by an additional 1 every time you gain a level.
 
 **Languages:** You can speak, read, and write Temuthen.
    
@@ -29,7 +28,7 @@ _Each 'dragonflight', or draconic subrace, have a general biological similarity 
 ### Chromatic
  
 **Chromatic Scales:** Your natural armor AC is 13, plus 1 for each age category above wyrmling. While using your natural armor, you may only add half your Dexterity modifier for AC calculation instead of your full Dexterity modifier. Your unarmored defense weakness is piercing damage.  
-**Shapeshift:** Once per short rest, you may transform your body into the shape of a creature, in your size or up to two size categories smaller. You may retain this form as long as you are conscious, or until you dismiss it using a quick action. Any items you hold or wear, either in your original form or the transformed form, might either be torn from the pressure of the transformation (in the case of transforming into something larger) or dropped (in the case of held items or transforming into something smaller. The shapeshifting is mostly visual, and so you retain your attribute scores even while transformed.
+**Shapeshift:** Once per short rest, you may transform your body into the shape of a creature, of your size or up to two size categories smaller. You may retain this form as long as you are conscious, or until you dismiss it using a quick action. Any items you hold or wear, either in your original form or the transformed form, might either be torn from the pressure of the transformation (in the case of transforming into something larger) or dropped (in the case of held items or transforming into something smaller. The shapeshifting is mostly visual, and so you retain your attribute scores even while transformed.
  
 ### Metallic
  
@@ -106,8 +105,8 @@ _The green dragons have great curiosity, and even greater suspicion. Their tende
 **Racial Attribute Bonus:** Your Dexterity and Intelligence scores each increase by 1, plus 1 for each age category above wyrmling, up to 20.  
 **Specialty:** You are novice with Insight.  
 **Draconic Archetype:** Chromatic.  
-**Draconic Element:** Noison.  
-**Additional Movement:** 30' burrowing.
+**Draconic Element:** Necrotic.  
+**Additional Movement:** 20' burrowing.
  
 ### Red
  
