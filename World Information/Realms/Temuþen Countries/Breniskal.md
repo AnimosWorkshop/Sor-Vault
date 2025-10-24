@@ -19,10 +19,10 @@ The country changed its name to Breniskal - "Arborwall", which only further soli
 ### Structure and Rule
 
 Breniskal is unique in that it preserved its eldress dragon, currently Dimresa, as head of the national council and ruler of Breniskal. 
-The council itself is made up of both dragons and non-dragons, with each region having three seats. The remaining five seats are reserved to the eldress and the Claw: her four most trusted companions, each taking the title of a Talon. Within the walls of the court, all must [[Dragon#Chromatic|assume forms]] of small or medium creatures, except for the eldress who assumes a large non-dragon form. This is so all will talk within the walls as equals.
+The Breniume council itself is made up of both dragons and non-dragons, with each region having three seats. The remaining five seats are reserved to the eldress and the Claw: her four most trusted companions, each taking the title of a Talon. Within the walls of the court, all must [[Dragon#Chromatic|assume forms]] of small or medium creatures, except for the eldress who assumes a large non-dragon form. This is so all will talk within the walls as equals.
 The Claw's members show at the council covered; and since they are not chosen by the people but by the eldress, their true appearance, or even whether they are dragons or not, is unknown to the public.
 
-For each region, including the capital of Zdarbel, there is a regional council. Though it is decided by the people of the region, the Claw may veto and persecute the candidates if they see fit, though the event is rare.
+For each region, including the capital of Zdarbel, there is a regional council. Though it is decided by the people of the region, the Claw may veto and persecute the candidates if they see fit, though the event is rare. The regional council votes on the regional representatives in the Breniume council every five years. The members of the regional councils, however, are chosen from the regional elites: religious figures, scholars and important traders who have proven their merit, and more importantly their loyalty, to the region and the country at large. Although the regional council is chosen by the region's population, the status of nobility is decided by the Breniume council; and while having been born to a noble family can give one an edge, they must retain that approval as well when the time comes.
 --- - -
 ## Regions
 ### Gezrier
