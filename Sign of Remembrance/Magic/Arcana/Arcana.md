@@ -21,9 +21,9 @@ Arcanists can be categorized into power levels. Depending on their level, the ca
 | 3rd                | 4                       | 2                       | -                       | -                       | -                       |
 | 4th                | 3                       | 4                       | -                       | -                       | -                       |
 | 5th                | 3                       | 4                       | 2                       | -                       | -                       |
-| 6th                | 2                       | 4                       | 3                       | -                       | -                       |
-| 7th                | 1                       | 3                       | 3                       | 2                       | -                       |
-| 8th                | 1                       | 3                       | 3                       | 3                       | -                       |
+| 6th                | 3                       | 4                       | 3                       | -                       | -                       |
+| 7th                | 2                       | 3                       | 3                       | 2                       | -                       |
+| 8th                | 2                       | 3                       | 3                       | 3                       | -                       |
 | 9th                | 1                       | 2                       | 3                       | 3                       | 2                       |
 | 10th               | 1                       | 2                       | 3                       | 3                       | 3                       |
  
