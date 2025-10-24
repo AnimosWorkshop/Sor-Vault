@@ -15,4 +15,5 @@ These are formulated as [[adjectives]] as they describe a feature of a creature.
 
 ### Animals
 
-* [[Non-Player#^a42c75|kxotedor]] - a night mammal native to Temuþan
+* [[Non-Player#^d147fa|cupane]] - a wooly animal living in plains regions
+* [[Non-Player#^a42c75|kxotedor]] - a nocturnal mammal native to Temuþan

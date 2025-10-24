@@ -38,6 +38,7 @@
 * cugrū - to investigate
 * cucū - to silence
 	* cuciul - silent
+* cupanū - to cuddle
 * dahrū - to kill
 	* mal-dahrū - to die
 * dalkatū - to reject
@@ -46,6 +47,7 @@
 * delnū - to greet
 	* deln - hello
 * dihū - to sell
+* dimū - to caress
 * ditanū - to make important
 * dorfū - to build
 	* dorf - building

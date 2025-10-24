@@ -1,6 +1,26 @@
 -- - -
 ## Bestial
 
+>[!danger]- Cupane
+>>[!info]- Appearance and General Information
+>>A very wooly animal with four small horns protruding out of its head: two on the forehead, and two near the chin. Even so, its  wool usually obscures them unless trimmed. Can become aggressive if provoked, but otherwise a good herd animal.
+>>Tends to live in packs, in plains areas. Grazes often and prefers the sun, refraining from shaded regions.
+>
+>>[!info]- Basics
+>>* Medium Beast
+>>* Attributes - 12 / 10 / 14 / 12 / 4 / 12 / 10
+>>* Saves - +3 / +4 / +3 / +2
+>>* HP - 16, 1d8
+>>* AC - 13 natural (slashing, cold)
+>>* Movement - 25' walking
+>>* Vision - lightvision
+>
+>>[!info]- Specifics
+>>* Skills - Persuasion (Charisma) +2, Stealth (Dexterity) +3
+>>* Attacks:
+>>	* Horn (medium; finesse, natural) - 1d6 + 2 piercing damage.
+^d147fa
+
 >[!danger]- Kxotedor
 >>[!info]- Appearance and General Information
 >>This night predator is a fierce animal native to the mountainous regions of Temuþan, such as Loþano and Estrana. Its jaw can open wide, enabling it to bite and chew big animals relative to its own size.
@@ -10,7 +30,7 @@
 >>* Attributes - 16 / 13 / 14 / 10 / 4 / 12 / 12
 >>* Saves - +5 / +6 / +3 / +3
 >>* HP - 28, 2d10
->>* AC - 12 natural (slashing)
+>>* AC - 13 natural (slashing)
 >>* Movement - 30' walking
 >>* Vision - darkvision
 >
@@ -20,11 +40,9 @@
 >>	* Claw (light; natural) - 1d6 + 3 slashing damage.
 >>	* Bite (medium; natural, tool (Athletics)) - 1d8 + 3 piercing damage. On a hit, the kxotedor may choose to [[Brawling Conditions#Grappled|grapple]] the attacked creature as a quick action.
 >>	* Chew (medium; natural, tool (Athletics)) - can only be used against a bitten and grappled or restrained target, 1d6 + 3 piercing damage. The kxotedor has an advantage on making this attack. On a hit, it may choose to [[Brawling Conditions#Restrained|restrain]] the attacked creature as a quick action.
-
 ^a42c75
 
 - - -
-
 ## Martial
 
 >[!danger]- Spirit Slime
