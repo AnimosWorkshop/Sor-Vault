@@ -1,13 +1,10 @@
 ## Theory
  
 Each living thing has within it a mind, weak as it may be, which manifests the abstruse "soul". Souls are connected between people - those we know have stronger connections, and the ones we hold dearest, or think the most passionately about, have even stronger ones. Histolects are mages which use and manipulate these very tethers between creatures to either influence their own mind and feelings, or others', to great effect.
-   
-- - -
-## Measurement
+### Measurement
  
 A histolect's extent of powers is measured with Influence, with the casting approach of binding. One's influence can be used over the day to influence both the life of oneself and the lives of others, but of course that inspiration can only get you so far before refreshment. As the day progresses and the caster calls for more and more power and magic, their influence is reduced until eventually they exhaust it, and turn unable to cast spells until the following day, as they rejuvenate their influence overnight.
-   
-- - -
+- -- -
 ## Mechanics
  
 Histolects can be categorized into power levels. Depending on their level, the caster's influence is higher, allowing for more spells to be cast during a day. Different spells have a different influence cost, and might require a higher level histolect in order to invoke.

@@ -1,12 +1,10 @@
 ## Theory
  
 The origins of auramancy are as old as the first creature, as an aura engulfing and swirling inside its body was, itself, sufficient to create the thing we call "life". This aura causes a creature to feel physical sensations, act upon instincts, and do whatever the body needs to be more than an object - but a living creature. All creatures, from the lowliest insect to the mightiest god possess such aura, even [[Unlife|undead]].
-   
-- - -
-## Measurement
+### Measurement
  
 The power of auramancy is measured by mana. Auramancers each have their spare mana, which is the amount of mana they may use while remaining stable. Pushing beyond one's limit is an art known only by few, and is obviously considered dangerous to the one using it.
-   - - -
+- - -
 ## Mechanics
  
 Auramancers can be categorized into power levels. Depending on their level, the caster's maximum amount of mana is higher, allowing for more spells to be cast during a day. Different spells have a different mana cost, and might require a higher level auramancer in order to invoke.

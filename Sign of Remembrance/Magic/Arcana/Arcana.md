@@ -1,13 +1,11 @@
 ## Theory
  
 Almost every inch of the multiverse contains magic, the fabric of our very reality interwoven with glands and strings of arcane magic. Like spider webs, arcane contains both symmetry and elegance, and it encompasses so much to the point of being inescapable, which earned it the name: the "Arcane Web". Arcanists - the users of arcana, emit vibrations through the web to amplitudes of great magical effects, which can be sensed, seen and felt in the various worlds.
-   
-- - -
-## Measurement
+
+### Measurement
  
 Arcana is measured by resonance, which is related to the intensity of the vibrations sent through the Web. The larger the amount resonance an arcanist can control, the stronger and more frequent their spells are. Many aspire to control greater resonance, and be able to bring upon great effects.
-   
- - - -
+- - -
 ## Mechanics
  
 Arcanists can be categorized into power levels. Depending on their level, the caster's resonance amount and strength is higher, allowing for more spells to be cast during a day. Different spells have a different minimal resonance, although spells can be cast using a higher resonance.

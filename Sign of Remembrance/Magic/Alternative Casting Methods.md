@@ -5,7 +5,8 @@ Compound casting is used for compound spells, which have more than one magic typ
 >[!example] 
 >In order to cast Nullify Intentions at 1st level, one must both use a 1st-level resonance and 2 mana.  
 >It should be noted that spell currencies used must be equal, and determine the spell level in which the spell is cast.
- - - -
+
+- - -
 ## Coven Casting
  
 Not all mages work alone, which turns out to be a good thing, as magic can be amplified using sheer numbers. The sorcerous term to describe this is called "coven casting", and it is fairly common in magic-reliant societies and organizations.
