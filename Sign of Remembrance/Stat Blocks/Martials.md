@@ -78,20 +78,23 @@
 >[!danger]- Leatherworker
 >>[!info]- Basics
 >>* [[Fariste#Scholar Fariste]]
->>* Attributes - 10 / 12 / 17 / 10 / 16 / 14 / 16
->>* Saves - +4 / +5 / +5 / +4
+>>* Attributes - 10 / 12 / 18 / 10 / 16 / 14 / 16
+>>* Saves - +4 / +6 / +5 / +4
 >>* HP - 36, 2d8
 >>* Resistances - hardened weave (slashing 1)
->>* AC - 16 studded leather (slashing, acid) + 2 kite shield
+>>* AC - 17 studded leather (slashing, acid) + 2 kite shield
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
 >>* Classes - [[Transmuter]] 2nd
 >>* Martial Techniques - [[Precise Strike]]
 >>* Arms:
->>	* Rapier (medium; finesse, tool (Deception)) - 1d10 + 3 piercing + 1d6 adder venom
->>	* Kite Shield
-
+>>	* Rapier (medium; finesse, tool (Deception)) - 1d8 + 4 piercing
+>>	* Buckler
+>>* Pouch:
+>>	* [[Alchemist#Substances|Adder venom, minor]] x2
+>>	* [[Alchemist#Concoctions|Coagulation concoction, minor]]
+>>* [[Transmuter#Alchemechanical Infusion]]
 ^a16c37
 
 >[!danger]- Riddler

@@ -10,6 +10,7 @@ The following are examples for words and bases from which names are constructed.
 * Gharo - faith
 * Hom - hope
 * Kaniero - wisdom
+* Lazo - life
 * Lirika - promise
 * Marga - light
 * Mocien - causer
@@ -18,5 +19,6 @@ The following are examples for words and bases from which names are constructed.
 
 ### Uncommon Names
 
+* Faris - bold one
 * Inien - uniter
 * Janalieþ - joy-seer
