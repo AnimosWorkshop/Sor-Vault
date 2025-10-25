@@ -11,6 +11,7 @@ Attachments/Pasted image 20240601185115.png
 .obsidian/plugins/tags-overview/data.json
 .obsidian/plugins/generic-initiative-tracker/*
 .obsidian/plugins/obsidian-dice-roller/*
+.git_backup/
 
 # Ignore Mac system files
 *.DS_Store
