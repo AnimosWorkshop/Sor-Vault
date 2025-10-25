@@ -25,11 +25,11 @@
 * celū - to open
 * cerfekū - to age / to cause wear
 * cilū - to extinguish
-* ciokū - to demand
 * cirū - to sing
 	* cirier - singing
 	* ciriera - song
 	* cirieþ - music
+* cokū - to demand
 * conū - to taste
 * crū - to ease
 * cralū - to rule over
