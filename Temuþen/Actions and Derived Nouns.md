@@ -139,7 +139,6 @@
 * jaþū - to answer / to reply
 * jecinū - to be must
 * jelfū - to implore
-* jetū - to cause
 * jezenū - to submit
 * jilū - to condition
 * jirenū - to become
@@ -263,7 +262,8 @@
 * savusū - to be able to
 	* savusiere - ability / skill
 * satū - to touch
-* shelū - to sense
+* selū - to flow
+	* sel - water
 * skalū - to defend / to protect
 	* skalieng - shield / armor / wall
 * soknū - to attempt / to try

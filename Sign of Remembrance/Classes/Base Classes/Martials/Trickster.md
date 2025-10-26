@@ -53,7 +53,7 @@ In addition, you may use the Dodge reaction as a response to being attacked by a
 ### Cunning Action
  
 Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The [[Action Economy#^f8a635|dash]] and [[Action Economy#^284a7e|hide]] actions become quick actions for you.  
-When you take the Dash action as a quick action, you may move up to half your speed instead of your full move speed, and when you take the Hide action as a quick action, you have a -2 penalty to your roll.  
+When you take the Dash action as a quick action, you may move up to half your speed instead of your full move speed, and when you take the Hide action as a quick action, you have a -3 penalty to your roll.  
 ### Martial Techniques
  
 At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.
@@ -70,7 +70,7 @@ At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Intr
 Starting at 3rd level, your deftness and speed allows you to perform gentle tasks with great speed. Choose one of the following specialties.
 #### Field Surgeon
 
-The [[Action Economy#^79c113|medicate]] action becomes a quick action for you. When you use it, you may choose to instead [[Alchemist#^17c511|administer a concoction]] to willing creatures instead of using a [[Action Economy#^30b3a9|major interaction]] for it.
+The [[Action Economy#^79c113|medicate]] action becomes a quick action for you, but using it this way gives you a -3 penalty to your Medicine check. Also, instead of applying the original effect of [[Action Economy#^79c113|medicate]], you may choose to instead [[Alchemist#^17c511|administer a concoction]] to willing creatures, even as a quick action.
 In addition, when you [[Action Economy#^79c113|medicate]] an unconscious creature using a (full) action, you may let them spend 1 of their hit dice and recover that many hit points + their Constitution modifier. A creature may benefit from this only once per long rest.
 
 You also gain 1 proficiency level in Medicine.

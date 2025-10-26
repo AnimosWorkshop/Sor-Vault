@@ -15,6 +15,7 @@ The following are examples for words and bases from which names are constructed.
 * Marga - light
 * Mocien - causer
 * Retiene - maker
+* Sel - water
 * Virxa - flower
 
 ### Uncommon Names
