@@ -87,6 +87,7 @@
 * fikanū - to notice
 * fivū - to imagine / to wonder
 * forū - to heat
+	* forbolū - to melt
 * foxū - to start / to begin
 * frodū - to dismantle
 * frodrū - to disperse
@@ -154,6 +155,7 @@
 * kefrecū - to renew
 * kenþū - to expect
 * ketū - to write
+	* ketcimū - to message
 	* ketieþo - book
 * kfatū - to reconcile
 * klazū - to accelerate

@@ -18,7 +18,7 @@
 - [[Hellenise Gods#Polerk|Polerk]] - God of Innovation
 - - -
 ## Exala, Architect of Preida
-### Venandi - God of Curiosity
+### Venandi - God of Travel
 
 - -
 - -

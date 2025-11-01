@@ -41,6 +41,26 @@
 -- - -
 ## 2nd Level
 
+
+>[!danger]- Calefactor Histolect
+>>[!info]- Basics
+>>* [[Halfling#Lightfoot Halfling]]
+>>* Attributes - 8 / 14 / 16 / 14 / 12 / 18 / 14
+>>* Saves - +4 / +5 / +6 / +4
+>>* HP - 34, 2d8
+>>* AC - 16 studded leather (slashing, acid)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Intimidation (Charisma) +10, Insight (Wisdom) +5, Sorcery (Wisdom) +7
+>>* Classes - Charming [[Mentalist]] 2nd
+>>* Histolectual Spells (Bonus +6, DC 16) - 5 influence:
+>>	* 1st-Level - [[Doeth's Deathly Chill]], [[Light Up]], [[Poisonous Words]], [[Minor Relief]]
+>>* Arms:
+>>	* [[Runecarver#Spell Foci|Scepter]] (medium)
+
+^8bb739
+
 >[!danger]- Earthly Displacer
 >> [!info]- Basics
 >>* [[Dwarf#Hill Dwarf]]
@@ -54,7 +74,7 @@
 >>[!info]- Specifics
 >> * Skills - Sorcery (Intelligence) +7, Insight (Wisdom) +7, Athletics (Strength) +5, Acrobatics (Dexterity) +3
 >> * Classes - Calefaction [[Wizard]] 2nd
->> * Arcane Spells (Bonus +7, DC 17):
+>> * Arcane Spells (Bonus +6, DC 16):
 >>	* 1st-Level (5) - [[Earth Scatter]], [[Depressurize]], [[Force Burst]], [[Shining Flame]]
 >> * Arms:
 >> 	* [[Runecarver#Spell Foci|Scepter]] (medium) - 1d8 + 2 bludgeoning damage
@@ -73,33 +93,36 @@
 >>[!info]- Specifics
 >>* Skills - Nature (Wisdom) +8, Stealth (Dexterity) +7, Intimidation (Charisma) +2
 >>* Classes - [[Druid]] 2nd
->>* Auramantic Spells (Bonus +6, DC 16) - 10 Mana:
+>>* Auramantic Spells (Bonus +6, DC 16) - 10 mana:
 >>	* 1st-Level - [[Expedite]], [[Kadaran's Obscured Steps]], [[Disarming Shock]], [[Exhaustion Bolt]]
 >>* Arms:
 >>	* [[Runecarver#Spell Foci|Scepter]] (medium) - 1d8 - 2 bludgeoning damage
 >>	* Rondel (light; finesse, lethal 1, pommel) - 1d4 + 4 piercing
+
 ^00969f
 
 >[!danger]- Street Calefactor
 >> [!info]- Basics
->>* [[Vident#Inquisitive Vident]]
->>* Attributes - 8 / 14 / 14 / 16 / 18 / 14 / 12
->> * Saves - +4 / +5 / +6 / +3, +1 lone wolf
->> * HP - 29, 2d6
->> * AC - 14 leather (slashing, necrotic), +1 lone wolf
->> * Movement - 30' walking
+>>- [[Vident#Inquisitive Vident]]
+>>- Attributes - 8 / 14 / 14 / 16 / 18 / 14 / 12
+>>- Saves - +4 / +5 / +6 / +3, +1 lone wolf
+>>- HP - 29, 2d6
+>>- AC - 14 leather (slashing, necrotic), +1 lone wolf
+>>- Movement - 30' walking
 > 
 >>[!info]- Specifics
->> * Skills - Sorcery (Intelligence) +7, Insight (Wisdom) +7, Sleight of Hand (Dexterity) +5, Deception (Charisma) +4
->> * Classes - Calefaction [[Wizard]] 2nd
->> * Arcane Spells (Bonus +7, DC 17):
->>	* 1st-Level (5) - [[Flame Bolt]], [[Depressurize]], [[Fahren's Reactive Ward]]
->> * Arms:
->> 	* [[Runecarver#Spell Foci|Wand]] (light)
->> Pouch: 
->> 	* 1x [[Alchemist#Concoctions|Coagulation Concoction, Minor]]
->> * [[Vident|Instinctive Insight]] / [[Vident#Inquisitive Vident|Combative Insight]]
->> * [[Vident#Inquisitive Vident|Lone Wolf]]
+>>- Skills - Sorcery (Intelligence) +7, Insight (Wisdom) +7, Sleight of Hand (Dexterity) +5, Deception (Charisma) +4
+>>- Classes - Calefaction [[Wizard]] 2nd
+>>- Arcane Spells (Bonus +7, DC 17):
+>>- 1st-Level (5) - [[Flame Bolt]], [[Depressurize]], [[Fahren's Reactive Ward]]
+>>- Arms:
+>>	- [[Runecarver#Spell Foci|Wand]] (light)
+>>
+>>- Pouch: 
+>>	- 1x [[Alchemist#Concoctions|Coagulation Concoction, Minor]]
+>>
+>>- [[Vident|Instinctive Insight]] / [[Vident#Inquisitive Vident|Combative Insight]]
+>>- [[Vident#Inquisitive Vident|Lone Wolf]]
 
 
 >[!danger]- Tempestist Auramancer
@@ -114,10 +137,11 @@
 >>[!info]- Specifics
 >>* Skills - Nature (Wisdom) +7, Insight (Wisdom) +8, 
 >>* Classes - [[Druid]] 2nd
->>* Auramantic Spells (Bonus +7, DC 17) - 10 Mana:
+>>* Auramantic Spells (Bonus +7, DC 17) - 10 mana:
 >>	* 1st-Level - [[Expedite]], [[Shining Flame]], [[Disarming Shock]], [[Purifying Wind]]
 >>* Arms:
 >>	* [[Runecarver#Spell Foci|Wand]] (light)
+
 ^deee37
 
 - - -
@@ -125,8 +149,8 @@
 
 >[!danger]- Augur Arcanist
 >>[!info]- Basics
->>* [[Human#Learner Human]]]]
->>* Attributes - 9 / 14  / 16 / 11 / 19 / 14 / 14
+>>* [[Human#Learner Human]]
+>>* Attributes - 9 / 14 / 16 / 11 / 19 / 14 / 14
 >>* Saves - +4 / +5 / +6 / +4
 >>* HP - 40, 3d6
 >>* AC - 16 studded leather (slashing, acid)
@@ -140,6 +164,46 @@
 >>	* 2nd-Level (2) - [[Anticipated Oblivion]], [[Locate Object]]
 >>* Arms:
 >>	* [[Runecarver#Scepter Functionality Upgrades|Foretelling Scepter]] (medium)
+
+>[!danger]- Ildovan Follower
+>>[!info]- Basics
+>>* [[Vident#Grove Vident]]
+>>* Attributes - 14 / 12 / 8 / 18 / 14 / 10 / 16
+>>* Saves - +4 / +5 / +6 / +4
+>>* HP - 40, 3d6
+>>* AC - 13 chain shirt (piercing, lightning)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Insight (Wisdom) +8, Athletics (Strength) +8
+>>* Classes - Yezikol [[Paragon]] 3rd
+>>* Auramantic Spells (Bonus +6, DC 16) - 10 mana:
+>>	* 1st-Level - [[Mend Wounds]], [[Spirit Claws]]
+>>	* 2nd-Level - [[Grasping Vines]], [[Saenka's Healing Sprite]]
+>>* Arms:
+>>	* [[Runecarver#Spell Foci|Staff]]
+
+^8bf938
+
+>[!danger]- Messenger
+>>[!info]- Basics
+>>* [[Halfling#Lightfoot Halfling]]
+>>* Attributes - 10 / 14 / 16 / 12 / 12 / 18 / 14
+>>* Saves - +4 / +5 / +6 / +4
+>>* HP - 46, 3d8
+>>* AC - 16 studded leather (slashing, acid)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Sorcery (Intelligence) +3, Deception (Charisma) +8, Performance (Charisma) +8
+>>* Classes - [[Mentalist#Charming|Charming]] [[Mentalist]] 3rd
+>>* Histolectual Spells (Bonus +7, DC 17) - 8 influence:
+>>	* 1st-Level - [[Heroic Verse]], [[Lullaby]]
+>>	* 2nd-Level - [[Message]], [[Voice of Authority]]
+>>* Arms:
+>>	* [[Runecarver#Wand Functionality Upgrades|Dazing Wand]] (light)
+
+^c199ec
 
 >[!danger]- Tempestist Arcanist
 >>[!info]- Basics
@@ -158,25 +222,9 @@
 >>	* 2nd-Level (2) - [[Misty Step]], [[Warding Wind]]
 >>* Arms:
 >>	* [[Runecarver#Staff Functionality Upgrades|Staff of Balance]] (medium)
+
 ^ee8f5f
 
->[!danger]- Calefactor Histolect
->>[!info]- Basics
->>* [[Halfling#Lightfoot Halfling]]
->>* Attributes - 8 / 14 / 16 / 14 / 12 / 18 / 14
->>* Saves - +4 / +5 / +6 / +4
->>* HP - 34, 2d8
->>* AC - 16 studded leather (slashing, acid)
->>* Movement - 30' walking
->
->>[!info]- Specifics
->>* Skills - Intimidation (Charisma) +10, Insight (Wisdom) +5, Sorcery (Wisdom) +7
->>* Classes - Charming [[Mentalist]] 2nd
->>* Histolectual Spells (Bonus +6, DC 16) - 5 Influence:
->>	* 1st-Level - [[Doeth's Deathly Chill]], [[Light Up]], [[Poisonous Words]], [[Minor Relief]]
->>* Arms:
->>	* [[Runecarver#Spell Foci|Scepter]] (medium)
-^8bb739
 -- - -
 ## 4th Level
 

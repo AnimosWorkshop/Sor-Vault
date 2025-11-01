@@ -6,14 +6,15 @@ Many types of vision exist across the worlds. In order to understand it, we must
 
 Magic can cause light or dark energy to appear. Magical light and dark cancel each other just as non-magical light and dark do, but they overpower their non-magical counterpart. In time, as the magical effects end, the magical light and dark turn into non-magical light and dark.  
 
-><u>Note:</u> Flames can be either hotflames (emitting light) or coldflames (emitting dark), and there are torches corresponding to both.
+>[!note] 
+>Flames can be either hotflames (emitting light) or coldflames (emitting dark), and there are [[Provisioner#Cheap Equipment and Services|torches]] corresponding to both.
 
 - - -
 ## Vision Types
 
 ### Sight-Based Vision
 
-The following table lists the different vision types and the level of cover creatures and objects have against creatures with such vision types. If a creature has mistvision, then the cover penalties for mistvision in mist and fog overrule the cover penalties for the other vision types they have.
+The following table lists the different vision types and the level of [[Cover|cover]] creatures and objects have against creatures with such vision types. If a creature has mistvision, then the cover penalties for mistvision in mist and fog overrule the cover penalties for the other vision types they have.
 
 | Vision Type | Lightness         | Nullness          | Darkness          | Mist, Smoke, etc. | Fog |
 | ----------- | ----------------- | ----------------- | ----------------- | ----------------- | --- |

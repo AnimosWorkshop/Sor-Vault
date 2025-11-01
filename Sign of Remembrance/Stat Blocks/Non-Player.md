@@ -40,6 +40,9 @@
 >>	* Claw (light; natural) - 1d6 + 3 slashing damage.
 >>	* Bite (medium; natural, tool (Athletics)) - 1d8 + 3 piercing damage. On a hit, the kxotedor may choose to [[Brawling Conditions#Grappled|grapple]] the attacked creature as a quick action.
 >>	* Chew (medium; natural, tool (Athletics)) - can only be used against a bitten and grappled or restrained target, 1d6 + 3 piercing damage. The kxotedor has an advantage on making this attack. On a hit, it may choose to [[Brawling Conditions#Restrained|restrain]] the attacked creature as a quick action.
+>>* Reactions:
+>>	* Chew Projectile (2) - If not currently grappling someone with a bite, can be taken as a reaction to being attacked with a projectile. On a success, reduce the damage by $\text{Str mod.}$.
+
 ^a42c75
 
 - - -

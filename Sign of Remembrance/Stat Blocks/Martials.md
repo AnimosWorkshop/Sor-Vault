@@ -98,7 +98,7 @@
 ^a16c37
 
 >[!danger]- Riddler
->>>[!info]- Basics
+>>[!info]- Basics
 >>* [[Fariste#Exemplar Fariste]]
 >>* Attributes - 8 / 14 / 18 / 8 / 13 / 18 / 14
 >>* Saves - +4 / +5 / +6 / +4
