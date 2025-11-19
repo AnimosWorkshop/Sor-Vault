@@ -1,11 +1,12 @@
 -- - -
 ## Bestial
 
->[!danger]- Cupane
->>[!info]- Appearance and General Information
->>A very wooly animal with four small horns protruding out of its head: two on the forehead, and two near the chin. Even so, its  wool usually obscures them unless trimmed. Can become aggressive if provoked, but otherwise a good herd animal.
->>Tends to live in packs, in plains areas. Grazes often and prefers the sun, refraining from shaded regions.
+>[!info]- Cupane
+>A very wooly animal with four small horns protruding out of its head: two on the forehead, and two near the chin. Even so, its  wool usually obscures them unless trimmed. Can become aggressive if provoked, but otherwise a good herd animal.
 >
+>Tends to live in packs, in plains areas. Grazes often and prefers the sun, refraining from shaded regions.
+
+>[!danger]- Cupane
 >>[!info]- Basics
 >>* Medium Beast
 >>* Attributes - 12 / 10 / 14 / 12 / 4 / 12 / 10
@@ -21,25 +22,27 @@
 >>	* Horn (medium; finesse, natural) - 1d6 + 2 piercing damage.
 ^d147fa
 
->[!danger]- Kxotedor
->>[!info]- Appearance and General Information
->>This night predator is a fierce animal native to the mountainous regions of Temuþan, such as Loþano and Estrana. Its jaw can open wide, enabling it to bite and chew big animals relative to its own size. It communicates with its mouth open, making the sounds which come out sound like low wheezes: loud and clear for those with ears honed for such frequencies such as itself, but relatively quiet for most. Kxotedor packs are small, ranging from 3 to 5 adults, with each female giving birth to one cub at a time, of whom the pack takes care until adulthood.
->
+>[!info]- Kxotedor
+>This night predator is a fierce animal native to the mountainous regions of Temuþan, such as Loþano and Estrana. Its jaw can open wide, enabling it to bite and chew big animals relative to its own size. It communicates with its mouth open, making the sounds which come out sound like low wheezes: loud and clear for those with ears honed for such frequencies such as itself, but relatively quiet for most. Kxotedor packs are small, ranging from 3 to 5 adults, with each female giving birth to one cub at a time, of whom the pack takes care until adulthood.
+
+^f15bf3
+
+>[!danger]- Adult Kxotedor
 >>[!info]- Basics
 >>* Medium Beast
->>* Attributes - 16 / 14 / 14 / 12 / 7 / 12 / 12
->>* Saves - +5 / +6 / +3 / +3
->>* HP - 33, 2d8
+>>* Attributes - 18 / 14 / 14 / 12 / 7 / 12 / 12
+>>* Saves - +6 / +6 / +3 / +3
+>>* HP - 44, 3d8
 >>* AC - 13 natural (slashing)
 >>* Movement - 30' walking
 >>* Vision - darkvision
 >
 >>[!info]- Specifics
->>* Skills - Athletics (Strength) +6, Stealth (Dexterity) +5
+>>* Skills - Athletics (Strength) +7, Stealth (Dexterity) +5
 >>* Attacks:
->>	* Claw (light; natural) - 1d6 + 3 slashing damage.
->>	* Bite (medium; natural, tool (Athletics)) - 1d8 + 3 piercing damage. On a hit, the kxotedor may choose to [[Brawling Conditions#Grappled|grapple]] the attacked creature as a quick action.
->>	* Chew (medium; natural, tool (Athletics)) - can only be used against a bitten and grappled or restrained target, 1d6 + 3 piercing damage. The kxotedor has an advantage on making this attack. On a hit, it may choose to [[Brawling Conditions#Restrained|restrain]] the attacked creature as a quick action.
+>>	* Claw (light; natural) - 1d6 + 4 slashing damage.
+>>	* Bite (medium; natural, tool (Athletics)) - 1d8 + 4 piercing damage. On a hit, the kxotedor may choose to [[Brawling Conditions#Grappled|grapple]] the attacked creature as a quick action.
+>>	* Chew (medium; natural, tool (Athletics)) - can only be used against a bitten and grappled or restrained target, 1d6 + 4 piercing damage. The kxotedor has an advantage on making this attack. On a hit, it may choose to [[Brawling Conditions#Restrained|restrain]] the attacked creature as a quick action.
 >>* Reactions:
 >>	* Chew Projectile (2) - If not currently grappling someone with a bite, can be taken as a reaction to being attacked with a projectile. On a success, reduce the damage by $\text{Str mod.}$.
 
