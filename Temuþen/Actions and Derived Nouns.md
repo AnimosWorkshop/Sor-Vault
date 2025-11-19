@@ -34,7 +34,7 @@
 * crū - to ease
 * cralū - to rule over
 	* cralieca - country
-* ctazū - to hunt
+* ctazū - to hunt (a broad term, also used for fishing)
 * cugrū - to investigate
 * cucū - to silence
 	* cuciul - silent
@@ -117,7 +117,7 @@
 * hemaxū - to interest
 * hertezū - to tile
 	* hertez - floor
-* heskū - to order
+* heskū - to order (as in a list)
 * hevrū - to carry / to bear
 	* hevrieng - bag / pouch
 * hidū - to buy
@@ -285,7 +285,7 @@
 * tomirū - to rain
 * traxtū - to complicate
 * trū - to drink
-* tuarū - to include
+* turū - to include
 * tuxfū - to visit
 * txakū - to continue / to resume
 * ufelū - to fear
@@ -322,7 +322,7 @@
 	* vleteþ - degree / title
 * voctū - to lean
 * volanū - to fight
-* voronū - to hide
+* voronū - to hide (oneself)
 	* vorona - secret
 * vranū - to make happy / to cheer
 * vralū - to restore

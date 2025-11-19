@@ -168,7 +168,7 @@
 >[!danger]- Ildovan Follower
 >>[!info]- Basics
 >>* [[Vident#Grove Vident]]
->>* Attributes - 14 / 12 / 8 / 18 / 14 / 10 / 16
+>>* Attributes - 18 / 14 / 8 / 18 / 11 / 10 / 16
 >>* Saves - +4 / +5 / +6 / +4
 >>* HP - 40, 3d6
 >>* AC - 13 chain shirt (piercing, lightning)
@@ -176,9 +176,9 @@
 >
 >>[!info]- Specifics
 >>* Skills - Insight (Wisdom) +8, Athletics (Strength) +8
->>* Classes - Yezikol [[Paragon]] 3rd
->>* Auramantic Spells (Bonus +6, DC 16) - 10 mana:
->>	* 1st-Level - [[Mend Wounds]], [[Spirit Claws]]
+>>* Classes - Trade [[Paragon]] 3rd
+>>* Auramantic Spells (Bonus +6, DC 16) - 14 mana:
+>>	* 1st-Level - [[Mend Wounds]], [[Primordial Flame]], [[Spirit Claws]]
 >>	* 2nd-Level - [[Grasping Vines]], [[Saenka's Healing Sprite]]
 >>* Arms:
 >>	* [[Runecarver#Spell Foci|Staff]]
@@ -198,10 +198,15 @@
 >>* Skills - Sorcery (Intelligence) +3, Deception (Charisma) +8, Performance (Charisma) +8
 >>* Classes - [[Mentalist#Charming|Charming]] [[Mentalist]] 3rd
 >>* Histolectual Spells (Bonus +7, DC 17) - 8 influence:
->>	* 1st-Level - [[Heroic Verse]], [[Lullaby]]
+>>	* 1st-Level - [[Heroic Verse]], [[Exasperating Glare]], [[Lullaby]]
 >>	* 2nd-Level - [[Message]], [[Voice of Authority]]
 >>* Arms:
 >>	* [[Runecarver#Wand Functionality Upgrades|Dazing Wand]] (light)
+>>	* Dagger (light; finesse, thrown (20'/60'), tool (Sleight of Hand)) – 1d4 + 4 piercing
+>>
+>>* Pouch:
+>>	* [[Alchemist#Concoctions|Coagulation concoction, minor]]
+>>	* [[Alchemist#Bombs|Smoke bomb]]
 
 ^c199ec
 

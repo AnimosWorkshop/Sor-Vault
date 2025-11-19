@@ -134,7 +134,7 @@
 >
 >>[!info]- Specifics
 >>* Skills - Athletics (Strength) +9
->>* Classes - [[Fighter#Skewer (dagger, estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)|Skewer]] [[Fighter]] 3rd
+>>* Classes - [[Fighter#Arms Specialty|Skewer]] [[Fighter]] 3rd
 >>* Martial Techniques - [[Reel In]]
 >>* Arms:
 >>	* Rondel (light; finesse, pommel, lethal 1) - 1d4 + 4 piercing + 1d4 adder venom
@@ -177,7 +177,7 @@
 >
 >>[!info]- Specifics
 >>* Skills - Athletics (Strength) +9, Intimidation (Strength) +9
->>* Classes - [[Fighter#Skewer (dagger, estoc, hook, javelin, knife, pike, rapier, rondel, shortsword, spear)|Skewer]] [[Fighter]] 3rd
+>>* Classes - [[Fighter#Arms Specialty|Hurler]] [[Fighter]] 3rd
 >>* Martial Techniques - [[Reckless Attack]]
 >>* Arms:
 >>	* Chain whip (medium; windup) - 1d8 + 4 bludgeoning

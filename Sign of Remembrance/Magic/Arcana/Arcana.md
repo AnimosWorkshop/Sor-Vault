@@ -1,6 +1,7 @@
 ## Theory
  
 Almost every inch of the multiverse contains magic, the fabric of our very reality interwoven with glands and strings of arcane magic. Like spider webs, arcane contains both symmetry and elegance, and it encompasses so much to the point of being inescapable, which earned it the name: the "Arcane Web". Arcanists - the users of arcana, emit vibrations through the web to amplitudes of great magical effects, which can be sensed, seen and felt in the various worlds.
+In some places, the arcane web might be strongly imbued with magic, creating [[Arcane Field|arcane fields]].
 
 ### Measurement
  
@@ -51,7 +52,3 @@ You may also notice that some arcana spells and magical effects require a creatu
 _Arcana Save DC_ = 10 + _Arcana Modifier_
  
 After a long rest, your resonance resets to the amount noted in the arcanist table.
- 
-### Arcane Field
- 
-As arcana is a magic type bound in physical space, arcane fields may enhance or diminish an arcanist's abilities while they are within them. Different arcane fields stack with each other, but each presents either an upper or a lower limit on how much the field can increase or reduce the caster's arcana modifier while inside them.

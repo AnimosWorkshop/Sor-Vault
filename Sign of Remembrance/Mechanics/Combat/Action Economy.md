@@ -101,7 +101,7 @@ Quick actions are things a creature can do which take up little time. Their vers
 - **Attack** - if the creature used its action to use a [[#^30b3a9|major Interaction]] or the [[Action Economy#^941070|attack]] action using a light or medium weapon, it may use this quick action to make an attack using a different light weapon held in a different hand. The attribute modifier for the weapon isn't added to the damage roll. ^941070
 - **Assess** - Make a Nature (Intelligence), a Nature (Wisdom) or an Insight (Wisdom) check. Depending on your roll, understand some facts about a creature. You understand one fact if you pass DC 10, two facts for DC 15, or three for DC 20, and so on. You can learn the following facts: ^047348
     - 1 fact:
-		- Creature type and race
+		- Creature type and race / genus
 		- Damage weakness
 		- Damage resistances and immunities
     - 2 facts:

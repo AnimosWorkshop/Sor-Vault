@@ -23,13 +23,13 @@
 
 >[!danger]- Kxotedor
 >>[!info]- Appearance and General Information
->>This night predator is a fierce animal native to the mountainous regions of Temuþan, such as Loþano and Estrana. Its jaw can open wide, enabling it to bite and chew big animals relative to its own size.
+>>This night predator is a fierce animal native to the mountainous regions of Temuþan, such as Loþano and Estrana. Its jaw can open wide, enabling it to bite and chew big animals relative to its own size. It communicates with its mouth open, making the sounds which come out sound like low wheezes: loud and clear for those with ears honed for such frequencies such as itself, but relatively quiet for most. Kxotedor packs are small, ranging from 3 to 5 adults, with each female giving birth to one cub at a time, of whom the pack takes care until adulthood.
 >
 >>[!info]- Basics
 >>* Medium Beast
->>* Attributes - 16 / 13 / 14 / 10 / 4 / 12 / 12
+>>* Attributes - 16 / 14 / 14 / 12 / 7 / 12 / 12
 >>* Saves - +5 / +6 / +3 / +3
->>* HP - 28, 2d10
+>>* HP - 33, 2d8
 >>* AC - 13 natural (slashing)
 >>* Movement - 30' walking
 >>* Vision - darkvision

@@ -47,7 +47,7 @@ Niala herself is the primary god actually fighting the war against Gandecrala, a
 
 A rather mysterious god who has gone all the more into the shadows ever since the Second Cataclysm, Lirika used to be an important figure of the bygone Silver Dragonland, with the earliest mentions of her in the year 958 2V. Her rising to power remains a question for the history books, yet it is said within [[Gods List#Aria - Goddess of Knowledge|Arian]] circles that Lirika possesses a unique, almost unorthodox manner of research, being able to delve so deep into a topic as if she has experienced it herself.
 
-In 1271 2V, Lirika attempted her most dangerous and fatal gambit yet, attempting to kidnap the heir of the Puppeteer clan, [[#Alieca Roid]] from her mother, which set off a war whose consequences only truly ended with the demise of the Silver Dragonland in the year 21 3V. Lirika has not been accepted as a full citizen of any country in Temuþan, aside from [[Breniskal]], where she can stay but not take any political role, as her people were annexed into it.
+In 1271 2V, Lirika attempted her most dangerous and fatal gambit yet, attempting to kidnap the heir of the Puppeteer clan, [[#Alieca Roid]] from her mother, which set off a war whose consequences only truly ended with the demise of the Silver Dragonland in the year 21 3V. Lirika has not been accepted as a full citizen of any country in Temuþan, aside from [[World Information/Realms/Temuþen Countries/Breniskal]], where she can stay but not take any political role, as her people were annexed into it.
 
 ### Þea of Maþak
 
@@ -73,11 +73,11 @@ Meralien's position and relationship with many of the gods of Temuþan and beyon
 
 ### Ac Farnor
 
-Ac grew to become the second heir of the noble Farnor family in the [[Breniskal|Green Dragonland]]. However, dissatisfied with the way his father was handling the family business, and by extension the influence of his family over society, he fled home at an early age and decided that whatever growth and influence he'd gather would be on his own terms.
+Ac grew to become the second heir of the noble Farnor family in the [[World Information/Realms/Temuþen Countries/Breniskal|Green Dragonland]]. However, dissatisfied with the way his father was handling the family business, and by extension the influence of his family over society, he fled home at an early age and decided that whatever growth and influence he'd gather would be on his own terms.
 
 In 1274 2V, when [[Fey Gods#Sanae|Sanae]] came to Temuþan after years of solitude in search for an archmissionary for [[Gods List#Tezik - God of Change|Tezik]], she came into Ac as he and his peers have found a sealed cave in northern Loþano. The explorers managed to recover [[Gale]] from the cave, which used to be Tezik's oldest temple, and Ac declared his servitude to the god after his findings.
 
-As a god, Ac believes that the focus of change should be for the weak, the downtrodden who often don't find it possible to look beyond their current reality and even dream of a better future. He is a driving force behind TDA's welfare service, while keeping his place as a figure in [[Breniskal]] despite his choosing being very close toward the end of 2V, a planner who thinks best for the short term; a self-contradictory man which believes in and does what's best for his people.
+As a god, Ac believes that the focus of change should be for the weak, the downtrodden who often don't find it possible to look beyond their current reality and even dream of a better future. He is a driving force behind TDA's welfare service, while keeping his place as a figure in [[World Information/Realms/Temuþen Countries/Breniskal]] despite his choosing being very close toward the end of 2V, a planner who thinks best for the short term; a self-contradictory man which believes in and does what's best for his people.
 
 ### Alieca Roid
 

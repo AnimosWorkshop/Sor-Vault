@@ -16,6 +16,7 @@ The following are examples for words and bases from which names are constructed.
 * Mocien - causer
 * Retiene - maker
 * Sel - water
+* Skalien - protector
 * Virxa - flower
 
 ### Uncommon Names
@@ -23,3 +24,4 @@ The following are examples for words and bases from which names are constructed.
 * Faris - bold one
 * Inien - uniter
 * Janalieþ - joy-seer
+* Þaj - riddle
