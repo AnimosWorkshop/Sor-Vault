@@ -6,9 +6,9 @@
 >>[!info]- Basics
 >>* [[Vident#Grove Vident|Grove]] [[Vident]]
 >>* Attributes - 8 / 14 / 14 / 18 / 12 / 14 / 14
->>* Saves - +4 / +6 / +4 / +4
+>>* Saves - +4 / +6 / +4 / +4, +1 against spells (staff)
 >>* HP - 24
->>* AC - 14 leather (slashing, necrotic)
+>>* AC - 14 leather (slashing, necrotic) + 1 against spells (staff)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -160,30 +160,13 @@
 >>* Skills - Sorcery (Intelligence) +9, 
 >>* Classes - Augury [[Wizard]] 3rd
 >>* Arcane Spells (Bonus +6, DC 16):
->>	* 1st-Level (4) - [[Enhanced Magic Sight]], [[Impedance]]
+>>	* 1st-Level (4) - [[Admittance]], [[Enhanced Magic Sight]], [[Impedance]]
 >>	* 2nd-Level (2) - [[Anticipated Oblivion]], [[Locate Object]]
 >>* Arms:
 >>	* [[Runecarver#Scepter Functionality Upgrades|Foretelling Scepter]] (medium)
 
->[!danger]- Ildovan Follower
->>[!info]- Basics
->>* [[Vident#Grove Vident]]
->>* Attributes - 18 / 14 / 8 / 18 / 11 / 10 / 16
->>* Saves - +4 / +5 / +6 / +4
->>* HP - 40, 3d6
->>* AC - 13 chain shirt (piercing, lightning)
->>* Movement - 30' walking
->
->>[!info]- Specifics
->>* Skills - Insight (Wisdom) +8, Athletics (Strength) +8
->>* Classes - Trade [[Paragon]] 3rd
->>* Auramantic Spells (Bonus +6, DC 16) - 14 mana:
->>	* 1st-Level - [[Mend Wounds]], [[Primordial Flame]], [[Spirit Claws]]
->>	* 2nd-Level - [[Grasping Vines]], [[Saenka's Healing Sprite]]
->>* Arms:
->>	* [[Runecarver#Spell Foci|Staff]]
+^552eea
 
-^8bf938
 
 >[!danger]- Messenger
 >>[!info]- Basics
@@ -214,9 +197,9 @@
 >>[!info]- Basics
 >>* [[Goblin#Deft Goblin]]
 >>* Attributes - 10 / 12 / 16 / 10 / 19 / 14 / 14
->>* Saves - +3 / +5 / +6 / +4,  +1 against magic
+>>* Saves - +3 / +5 / +6 / +4, +1 against spells (staff)
 >>* HP - 36, 3d6
->>* AC - 16 studded leather (slashing, acid) + 1 [[Runecarver#Spell Foci|staff]]
+>>* AC - 16 studded leather (slashing, acid) + 1 against spells (staff)
 >>* Movement - 25' walking
 >
 >>[!info]- Specifics
@@ -255,3 +238,23 @@
 >>	* 1x [[Alchemist#Concoctions|Recovery Concoction, Minor]]
 
 ^1c1710
+
+>[!danger]- Ildovan Follower
+>>[!info]- Basics
+>>* [[Vident#Grove Vident]]
+>>* Attributes - 18 / 14 / 8 / 18 / 11 / 10 / 18
+>>* Saves - +5 / +6 / +7 / +5, +1 against spells (staff)
+>>* HP - 56, 4d6
+>>* AC - 13 chain shirt (piercing, lightning) + 1 against spells (staff)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Insight (Wisdom) +10, Athletics (Strength) +10
+>>* Classes - Trade [[Paragon]] 3rd
+>>* Auramantic Spells (Bonus +7, DC 17) - 17 mana:
+>>	* 1st-Level - [[Mend Wounds]], [[Primordial Flame]], [[Spirit Claws]]
+>>	* 2nd-Level - [[Fiery Infusion]], [[Grasping Vines]], [[Saenka's Healing Sprite]]
+>>* Arms:
+>>	* +1 [[Runecarver#Spell Foci|Staff]]
+
+^8bf938

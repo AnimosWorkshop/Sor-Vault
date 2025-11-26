@@ -48,7 +48,7 @@ In order to advance as a fighter, you must meet the following prerequisites:
 
 When everything goes loose, you must learn to take the reins and stir back to control. At 1st level, you choose a "dirty tactic" to adopt and add to your arsenal, from the following choices:
 
-* _Careful Step_ - While you [[Action Economy#^665abd|disengage]], you may move through the space of unwilling creatures, given you have enough movement to spend to get to their other side. When you do, they may attempt an [[Action Economy#Opportunity Attacks|opportunity attack]] against you. Unless you are hit by the creature, you succeed in moving through their space. If you are hit, you still expend your movement but do not move, but may try again.
+* _Careful Step_ - While you [[Action Economy#^665abd|disengage]], you may move through the space of unwilling creatures, given you have enough movement to spend to get to their other side. When you do, they may attempt an [[Action Economy#Opportunity Attacks|opportunity attack]] against you. Unless you are hit by the creature, you succeed in moving through their space. If you are hit, you still expend your movement but do not move, but may try again. ^641c18
 * _Choke_ - While grappling, restraining or toppling another creature, you may still use your weapon to make an attack with it with advantage, as you grapple the creature using your weapon. The attack's damage die has its size reduced by 1, but the weapon's traits remain the same. ^171e67
 * _Mobile Retrieval_ - When within 5' from an unattended piece of ammunition or a thrown weapon you've thrown, you may use 5' of movement to pick it up with a free hand, once per round as a free action on your turn.
 * _Shield Bash_ - While wielding a shield, you may use it as a weapon. It deals bludgeoning damage according to the shield's weight category (1d4 for light, 1d6 for medium, 1d8 for heavy). Proficiency with shield attacks is gained as part of your shield proficiency, and the weapon is considered of the pugilist style. ^96f2d9
@@ -67,7 +67,7 @@ When you reach 2nd level, choose one weapon style to become your specialty. Base
 * _Hurler_ - The [[Weapon Rules#Lethal|lethal]] trait and the damage die for hurler weapons increases by 1 for you.
 * _Pugilist_ - [[#Parrying Strike|Parrying strike]] can be used in conjunction with the [[Sentinel#Inner Focus|deflect reaction]] as a part of the same reaction if you are using a pugilist weapon. If you don't have the [[Sentinel#Inner Focus|deflect reaction]], you may instead increase your AC by 1 against the attack in addition to the normal effects of [[#Parrying Strike|parrying strike]].
 * _Sharpshooter_ - You get a +2 bonus to attack rolls with sharpshooter weapons.
-* _Skewer_ - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type.
+* _Skewer_ - When you critically hit with a skewer weapon, it breaks the defender's armor no matter its type. If they wear an armor patch, you apply breakage regardless, and the patch breaks.
 * _Sweeper_ - You get a +2 bonus to damage rolls with sweeper weapons.
 * _Swiftblade_ - Whenever you attack with a swiftblade weapon, you may move 5' as a part of your attack action. [[Action Economy#Opportunity Attacks|Opportunity attacks]] taken against you as a part of this movement are made with disadvantage.
  
