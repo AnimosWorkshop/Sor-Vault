@@ -68,9 +68,9 @@
 >>* Skills (+1 from lone wolf) - Athletics (Strength) +8, Intimidation (Strength) +7
 >>* Classes - [[Sentinel]] 2nd
 >>* Arms:
->>	* Bayonet Longbow (medium; ammunition (100'/400')) - 1d8 + 3 piercing + 1 lone wolf
->>	* Gauntlet (light; glove) - 1d8 + 3 bludgeoning + 1 lone wolf
->>	* Unarmed (light; natural) - 1d6 + 3 bludgeoning + 1 lone wolf
+>>	* Bayonet Longbow (medium; ammunition (100'/400')) - 1d8 + 4 piercing, + 1 lone wolf
+>>	* Gauntlet (light; glove) - 1d8 + 4 bludgeoning, + 1 lone wolf
+>>	* Unarmed (light; natural) - 1d6 + 4 bludgeoning, + 1 lone wolf
 >>* Martial Techniques - [[Unbalancing Kick]]
 >>* [[Provisioner#Mid-Range Equipment|Refreshening straw]]
 ^2a16f5
@@ -78,19 +78,19 @@
 >[!danger]- Duelist
 >>[!info]- Basics
 >>* [[Vident#Inquisitive Vident]]
->>* Attributes - 12 / 16 / 18 / 14 / 12 / 8 / 12
+>>* Attributes - 12 / 16 / 18 / 14 / 10 / 8 / 14
 >>* Saves - +5 / +6 / +3 / +3, +1 lone wolf
->>* HP - 36, 2d8
+>>* HP - 39, 2d8
 >>* AC - 16 studded leather (slashing, necrotic) +1 lone wolf
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
 >>* Skills (+1 from lone wolf) - Acrobatics (Dexterity) +8, Stealth (Dexterity) +5, Deception (Charisma) +4
->>* Classes - [[Fighter]] 2nd
+>>* Classes - Skewer [[Fighter]] 2nd
 >>* Arms:
->>	* Bayonet Longbow (medium; ammunition (100'/400')) - 1d8 + 3 piercing + 1 lone wolf
->>	* Gauntlet (light; glove) - 1d8 + 3 bludgeoning + 1 lone wolf
->>* Martial Techniques - [[Unbalancing Kick]]
+>>	* Rapier (medium; finesse, tool (Deception)) - 1d8 + 4 piercing, + 1 lone wolf
+>>	* Shortsword (light; finesse, pommel) - 1d6 + 4 piercing, + 1 lone wolf
+>>* Martial Techniques - [[Bind Break]]
 >>* [[Fighter#^641c18|Careful Step]]
 
 ^b8dd29
