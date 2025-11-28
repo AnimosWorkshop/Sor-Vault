@@ -81,17 +81,16 @@
 >>* Attributes - 12 / 16 / 18 / 14 / 10 / 8 / 14
 >>* Saves - +5 / +6 / +3 / +3, +1 lone wolf
 >>* HP - 39, 2d8
->>* AC - 16 studded leather (slashing, necrotic) +1 lone wolf
+>>* AC - 17 studded leather (slashing, necrotic) +1 lone wolf
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
 >>* Skills (+1 from lone wolf) - Acrobatics (Dexterity) +8, Stealth (Dexterity) +5, Deception (Charisma) +4
->>* Classes - Skewer [[Fighter]] 2nd
+>>* Classes - Skewer [[Fighter]] 2nd ([[Fighter#^641c18|Careful Step]])
 >>* Arms:
 >>	* Rapier (medium; finesse, tool (Deception)) - 1d8 + 4 piercing, + 1 lone wolf
 >>	* Shortsword (light; finesse, pommel) - 1d6 + 4 piercing, + 1 lone wolf
 >>* Martial Techniques - [[Bind Break]]
->>* [[Fighter#^641c18|Careful Step]]
 
 ^b8dd29
 

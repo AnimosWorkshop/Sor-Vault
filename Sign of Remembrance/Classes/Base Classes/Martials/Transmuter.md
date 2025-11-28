@@ -84,7 +84,7 @@ You also gain 1 proficiency level in either Athletics, Acrobatics or Perception.
  
 * _Feather Fall Boots_ - While wearing these boots, your movement speed increases by 5', and you take half the fall damage you normally would.
 * _Heavy Strike Weapon_ - You modify a light or medium weapon's form and balance by adding 1 lb to its weight and increasing its weight category to the next one. The weapon's damage die is increased by 2.
-* _Personalized Fit Weapon_ - As long as you consciously wield this weapon, you cannot be disarmed from it against your will. As a result, you can also control the weapon better, increasing the weapon's lethal property by 1 while you wield it. ^76d6b6
+* _Personalized Fit Weapon_ - As long as you consciously wield this weapon, your control over the weapon allows you to use either Strength or Dexterity as its attribute, and increasing its [[Weapon Rules#Lethal|lethal]] trait by 1 while you wield it. ^76d6b6
 * _Sure Sight Helmet_ - The helmet can switch between two modes: one according to your [[Vision|vision type]] (whether be it: lightvision, nullvision or darkvision), and one vision type lighter or darker than the one you have. While you put on the helmet, you may switch between these two modes using a quick action. ^9b47b0
 ## Advanced Infusion
  
