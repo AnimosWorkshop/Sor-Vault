@@ -11,7 +11,7 @@ As a [[Runecarver#Spell Foci|scepter]], Gale is also a [[Weaponsmith#Simple Mele
 _Potency_  
 Gale grants the attuned a +3 bonus to their arcana modifier.
  
-_Functionality_  
+_Major Functionality_  
 After casting a spell with a casting time of an action, the attuned may use their quick action to attack with Gale as if their action was used on the Attack action.
  
 _Property_  

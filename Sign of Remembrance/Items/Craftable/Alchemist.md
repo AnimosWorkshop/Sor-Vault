@@ -70,9 +70,9 @@ All bombs are simple hurler weapons of light weight, with the [[Weapon Rules#Thr
 - - -
 ## Upgrades
 
-| **Product**             | **Cost** | **Bulk** | **Description**                                                                                                                                                                   |
-| ----------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Null-Emitting Inventory | 75 sc    | -        | _Functionality_  <br>Coating an inventory from the inside with magic-nullifying substances, you manage to hide items contained inside the inventory from Sorcery (Wisdom) checks. |
+| **Product**             | **Cost** | **Bulk** | **Description**                                                                                                                                                                         |
+| ----------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Null-Emitting Inventory | 75 sc    | -        | _Minor Functionality_  <br>Coating an inventory from the inside with magic-nullifying substances, you manage to hide items contained inside the inventory from Sorcery (Wisdom) checks. |
 - - -
 ## Other Items
 | **Product**          | **Cost** | **Bulk** | **Description**                                                                                                                                                                                                                                                                                                                                                         |

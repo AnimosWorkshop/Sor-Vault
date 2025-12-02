@@ -8,7 +8,7 @@ The specially cut and highly-enchanted garnet is able to grant the attuned the a
 _Potency_  
 While attuned to the veil, the attuned's Lucky potency is increased by 1, meaning that when they roll a 1 on the d20 for an attack roll, ability check, or saving throw, they can reroll the die and must use the new result. If the attuned already has the Lucky feature from the halfling race or by some other mean, instead they may reroll on either a 1 or a 2 on the d20, and so on.
  
-_Functionality_  
+_Major Functionality_  
 While attuned to the garnet, the attuned's hit points maximum is affected by their Dexterity modifier in addition to their regular Constitution and Willpower bonuses. This applies for short rest hit points recovery, too. Due to the major usage of momentum as a part of survival, the attuned requires 2 less death fails in order to die.
  
 _Property_  

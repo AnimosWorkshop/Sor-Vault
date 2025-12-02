@@ -11,7 +11,7 @@ This relatively light veil made out of large metallic scales bears a piece of th
 _Potency_  
 While attuned to the veil, the attuned gains the [[Halfling|Lucky]] feature, meaning that when they roll a 1 on the d20 for an attack roll, ability check, or saving throw, they can reroll the die and must use the new result. If the attuned already has this feature from the halfling race or by some other mean, instead they may reroll on either a 1 or a 2 on the d20, and so on.
  
-_Functionality_  
+_Major Functionality_  
 While attuned to and wearing the veil, everything becomes more colorful, vivid, and painful. You have a +1 bonus to your Perception modifier, and whenever you deal damage or are dealt damage, add sensory damage to it equal to your Charisma modifier.
  
 _Property_  

@@ -9,7 +9,7 @@ This special [[Weaponsmith#Martial Melee Weapons|rapier]] was crafted by Tezik, 
 _Potency_  
 While being held by the attuned, Gale provides a +3 bonus to attack rolls with it.
  
-_Functionality_  
+_Major Functionality_  
 Flutter uses the wielder's momentum as they strike, dealing 1 additional damage for each 5' moved previously on the current turn since the last attack performed with the weapon.
  
 _Property_  
