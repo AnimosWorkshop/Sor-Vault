@@ -85,10 +85,10 @@ Actions will usually be most things a creature improvises, from picking up items
     - Search a large inventory for an item and draw it
     - Apply a [[Alchemist#Substances|substance]] to a weapon a willing creature holds
 - **Prepare** - the creature defines a specific action it will take if a specific condition is met until the start of its next turn. When the condition is met, the creature may use their reaction (will be expanded upon later) to perform the action, using the previous reaction DC used, meaning that if no reactions were yet used the DC is 0, if one reaction was used the DC is 10, and so on, and the reaction DC does not rise by performing the action. If the action was performed, the creature may not use it again, as the prepared action counts as used.
-- **Search** - the creature makes a Perception (Wisdom), Investigation (Intelligence), Nature (Intelligence) or Sorcery (Wisdom) roll, and gets information according to it: ^3d44e8
-    - Perception (Wisdom) - see objects and creatures, etc. Each [[Conditions#Hidden|hidden]] creature with basic Stealth (Dexterity) DC lower than your roll is not hidden from you.
-    - Investigation (Intelligence) - understand the form of an item or its purpose, find clues, etc.
-    - Sorcery (Wisdom) - sense the quality of magic affecting the area around you. Taking base [[Class Summary#Caster Classes|caster classes]] grants features which extend what is possible to sense using this action.
+- **Search** - the creature makes a Perception (Wisdom), Investigation (Intelligence) or Sorcery (Wisdom) roll, and gets information according to it: ^3d44e8
+    - Perception (Wisdom) - perceive objects and creatures using your senses. Each [[Conditions#Hidden|hidden]] creature with basic Stealth (Dexterity) DC lower than your roll is not hidden from you.
+    - Investigation (Intelligence) - attempt to predict the near future or purpose of an object. If focused on a creature, and your check is higher than their basic Deception (Charisma) DC, you deduce what action a creature will most probably do on their next turn.
+    - Sorcery (Wisdom) - sense the type and quality of magic affecting the area around you. Taking base [[Class Summary#Caster Classes|caster classes]] grants features which extend what is possible to sense using this action.
 - **Medicate** - the creature attempts to aid a [[Damage and Death#Death|fallen creature]] in order to pull them away from death's door. Roll either a Medicine (Intelligence) or a Medicine (Wisdom) check, according to the GM's decision. On DC 15, the fallen creature gets 1 successful death save. On DC 25, the creature gets 2 successful death saves. ^79c113
 - **Wake up** - choose one of the following options:
 	- One creature with 0 hit points within 5' of you, who has *already succeeded* on all 3 of their [[Damage and Death#Death|death saves]], wakes up.
@@ -102,12 +102,12 @@ Quick actions are things a creature can do which take up little time. Their vers
 - **Assess** - Make a Nature (Intelligence), a Nature (Wisdom) or an Insight (Wisdom) check. Depending on your roll, understand some facts about a creature. You understand one fact if you pass DC 10, two facts for DC 15, or three for DC 20, and so on. You can learn the following facts: ^047348
     - 1 fact:
 		- Creature type and race / genus
-		- Damage weakness
+		- Damage weaknesses and armor weakness
 		- Damage resistances and immunities
     - 2 facts:
 		- Current health points percentage, in increments of 25%.
 		- Armor class
-		- Highest or lowest saving throw
+		- Highest and lowest saving throw
 	- 3 facts:
 		- Items held on person for quick draw
 - **Demoralize** - you taunt and scare a creature to the point of doubt. A creature within 30' that can hear you and understands a language you speak makes a Wits saving throw against your basic Intimidation (Charisma) DC or Intimidation (Strength). On a failed save, the first attack or Wits saving throw they make in their next turn is made with a penalty equal to third of your Intimidation modifier. A creature can't be demoralized twice at the same time. ^362ce9

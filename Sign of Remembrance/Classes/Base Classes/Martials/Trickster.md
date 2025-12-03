@@ -71,9 +71,15 @@ Starting at 3rd level, your deftness and speed allows you to perform gentle task
 #### Field Surgeon
 
 The [[Action Economy#^79c113|medicate]] action becomes a quick action for you, but using it this way gives you a -3 penalty to your Medicine check. Also, instead of applying the original effect of [[Action Economy#^79c113|medicate]], you may choose to instead [[Alchemist#^17c511|administer a concoction]] to willing creatures, even as a quick action.
-In addition, when you [[Action Economy#^79c113|medicate]] an unconscious creature using a (full) action, you may let them spend 1 of their hit dice and recover that many hit points + their Constitution modifier. A creature may benefit from this only once per long rest.
+In addition, when you [[Action Economy#^79c113|medicate]] an unconscious creature using a (full) action, you may let them spend 1 of their hit dice and recover that many hit points + their Constitution modifier. Each creature may benefit from this only once per long rest.
 
 You also gain 1 proficiency level in Medicine.
+
+#### Investigator
+
+The [[Action Economy#^3d44e8|search]] action becomes a quick action for you, but using it this way gives you a -3 penalty to your skill check.
+In addition, your ability to track and focus down trackers is enhanced. Whenever you successfully [[Action Economy#^3d44e8|search]] against a creature, you get 2 clues against them, and whenever you [[Action Economy#^047348|assess]] against a target, you get 1 clue against them for each fact you may learn (regardless of the options you choose).
+When you find at least 4 clues against a creature, your understanding of them is clearer - giving you a +2 bonus for attack rolls and skill checks against them for the next 10 minutes.
 
 #### Skirmisher
 
@@ -111,7 +117,7 @@ In addition, whenever you attack a creature using a weapon without disadvantage,
  
 ### Skillful Technique
  
-At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. Choose two actions to become your skillful techniques: [[Action Economy#^665abd|disengage]], [[Action Economy#^1e684d|disorient]], [[Action Economy#^284a7e|hide]], [[Action Economy#^30b3a9|major interaction]], and [[Action Economy#^79c113|medicate]].
+At 8th level, you choose one technique out of your cunning actions which you stride with towards perfection. Choose two actions to become your skillful techniques: [[Action Economy#^047348|assess]], [[Action Economy#^665abd|disengage]], [[Action Economy#^1e684d|disorient]], [[Action Economy#^284a7e|hide]], [[Action Economy#^30b3a9|major interaction]], [[Action Economy#^79c113|medicate]] and [[Action Economy#^3d44e8|search]].
 
 Whenever you successfully use one of your skillful techniques as a quick action, you increase your movement speed by 5' and your next damage roll until the end of your next turn by 1, and whenever you successfully use it as an action, including martial techniques which extend it to an action, you increase your speed by 10' and increase your next damage roll until the end of your next turn by 2.
  
