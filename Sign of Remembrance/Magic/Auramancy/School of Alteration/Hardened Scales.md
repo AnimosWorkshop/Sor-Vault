@@ -1,6 +1,6 @@
 #1st-Level #Auramancy #Alteration #Boon
  
-- Casting Time: Action
+- Casting Time: Quick action
 - Range: Touch
 - Duration: Concentration, up to 8 hours  
 

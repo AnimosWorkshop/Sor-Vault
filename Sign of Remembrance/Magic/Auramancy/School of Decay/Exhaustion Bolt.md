@@ -8,3 +8,4 @@ You send a bolt carrying overbearing energy towards a creature within range. Mak
  
 **At Higher Levels:** 
 * (+1) The target takes 1d4 additional necrotic damage.
+* (+2) The [[Conditions#Fatigued|fatigued]] condition is increased by 1.

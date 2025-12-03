@@ -1,4 +1,4 @@
-A lot of times during play, it isn't always obvious whether an action attempted by a character is bound to succeed. Though basic actions, like walking down the stairs or paying for a room in an inn, are almost guaranteed to work, more difficult or complicated actions - such as hitting an enemy, bartering with a shopkeeper or avoiding a deadly trap, have a chance to fail. Dice rolls are a way to introduce the element of randomness into the game, while keeping everyone in the table on their toes to see whether their actions fail or succeed.
+A lot of times during play, it isn't always obvious whether an action attempted by a character is bound to succeed. Though basic actions, like walking down the stairs or paying for a room in an inn, are almost guaranteed to work, more difficult or complicated actions - such as hitting an enemy, bartering with a shopkeeper or avoiding a deadly trap, have a chance to fail. Dice rolls are a way to introduce the element of randomness into the game, while keeping everyone in the table on their toes to see whether their actions fail or succeed. ^dc6ec4
 - - -
 ## The Dice
  
@@ -26,7 +26,7 @@ And so on.
  
 All dice rolls can be categorized into five main categories, being: the attack roll, the damage roll, the saving throw, the attribute check and the flat check.  
 The common property almost all rolls have is their need to meet a certain minimum in order to succeed. Such minimum is often called a Difficulty Class, or DC for short. A "basic DC" is the standard formula for calculating the DC for an action against another creature. The basic DC is usually defined with a skill in mind, and is equal to 10 + the creature's bonus for that skill.  
-If a creature would have an advantage for skill checks but the skill sets a "basic DC", then this DC is increased by 5. Conversely, if they would have a disadvantage, the DC is lowered by 5.
+If a creature would have an advantage for skill checks but the skill sets a "basic DC", then this DC is increased by 5. Conversely, if they would have a disadvantage, the DC is lowered by 5. ^ec0c90
 
 >[!example] 
 >A basic Athletics (Strength) DC will be equal to 10 + the creature's Strength modifier + the creature's proficiency bonus with the Athletics skill.
@@ -95,7 +95,15 @@ The DC for an ability check is either noted in whatever required the check (for 
 
 >[!example] Examples
 >Deception is usually thought of as more offensive than Insight, and Perception more offensive than Stealth.
- 
+
+#### Mixed Checks
+At specific times, notably for some spells, it is required from a character to perform a mixed check. This uses a combined bonus originating from two sources, most often being the spellcasting modifier and an ability check modifier. The bonus for these is:
+
+_Mixed Checks = d20 + \[bonus A / 2 (rounded up)\]+ \[bonus B / 2 (rounded up)\]_
+
+>[!example]
+>The [[Arcane Flurry]] spell calls for mixed check DC whenever a [[Action Economy#^1e684d|disorient]] action is being made, since it is a magic-based skill action. Therefore, the DC of those is $10+\frac{\text{Arcana mod.}}{2}+\frac{\text{Sleight of Hand (Dexterity) mod.}}{2}$.
+
 ### Flat Checks
  
 Flat checks are rarely used, and mostly correspond to pure luck, since they use no modifiers to be calculated:  
