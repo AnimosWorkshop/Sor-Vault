@@ -3,7 +3,6 @@ tags:
   - 1st-Level
   - Arcana
   - Alteration
-  - 1st-Verse-Middle
 Invention: 1V middle
 ---
 - Casting Time: Quick action

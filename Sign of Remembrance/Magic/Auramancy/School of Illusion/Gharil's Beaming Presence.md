@@ -1,5 +1,11 @@
-#4th-Level #Auramancy #Illusion #Boon
- 
+---
+tags:
+  - 4th-Level
+  - Auramancy
+  - Illusion
+  - Boon
+Invention: 1V end
+---
 - Casting Time: Action
 - Range: Self
 - Duration: 1 hour

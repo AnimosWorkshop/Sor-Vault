@@ -1,5 +1,11 @@
-#4th-Level #Auramancy #Alteration #Boon
- 
+---
+tags:
+  - 4th-Level
+  - Auramancy
+  - Alteration
+  - Boon
+Invention: 1V start
+---
 - Casting Time: Quick action
 - Range: Self (20')
 - Duration: 2 rounds  

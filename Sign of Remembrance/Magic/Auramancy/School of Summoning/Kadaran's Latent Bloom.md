@@ -1,5 +1,10 @@
-#4th-Level #Auramancy #Summoning
- 
+---
+tags:
+  - 4th-Level
+  - Auramancy
+  - Summoning
+Invention: 2V start
+---
 - Casting Time: Channel
 - Range: Touch
 - Duration: Instantaneous  

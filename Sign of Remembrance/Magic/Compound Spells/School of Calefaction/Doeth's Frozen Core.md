@@ -1,5 +1,14 @@
-#1st-Level #Compound #Arcana #Auramancy #Histolecty #Calefaction #Boon
- 
+---
+tags:
+  - 1st-Level
+  - Compound
+  - Arcana
+  - Auramancy
+  - Histolecty
+  - Calefaction
+  - Boon
+Invention: 1V middle
+---
 - Casting Time: Action and quick action
 - Range: Self
 - Duration: 10 minutes

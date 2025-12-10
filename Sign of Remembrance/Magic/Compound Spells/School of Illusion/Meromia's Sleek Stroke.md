@@ -1,5 +1,11 @@
-#1st-Level #Arcana #Histolecty #Alteration 
-
+---
+tags:
+  - 1st-Level
+  - Arcana
+  - Histolecty
+  - Alteration
+Invention: 2V end
+---
 - Casting Time: Channel
 - Range: 20'
 - Duration: Instantaneous

@@ -3,6 +3,7 @@ tags:
   - 3rd-Level
   - Auramancy
   - Summoning
+Invention: 3V start
 ---
 
 - Casting Time: Action

@@ -1,5 +1,10 @@
-#5th-Level #Auramancy #Summoning
- 
+---
+tags:
+  - 5th-Level
+  - Auramancy
+  - Summoning
+Invention: 2V start
+---
 - Casting Time: 4 hours
 - Range: 250' feet
 - Duration: 1 week

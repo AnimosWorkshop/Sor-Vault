@@ -1,5 +1,10 @@
-#2nd-Level #Auramancy #Summoning
- 
+---
+tags:
+  - 2nd-Level
+  - Auramancy
+  - Summoning
+Invention: 1V end
+---
 - Casting Time: Action
 - Range: Touch
 - Duration: 1 minute  

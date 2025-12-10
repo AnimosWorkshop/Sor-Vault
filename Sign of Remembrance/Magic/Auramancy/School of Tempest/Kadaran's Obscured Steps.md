@@ -1,5 +1,11 @@
-#1st-Level #Auramancy #Tempest #Boon
- 
+---
+tags:
+  - 1st-Level
+  - Auramancy
+  - Tempest
+  - Boon
+Invention: 1V start
+---
 - Casting time: Channel
 - Range: 30'
 - Duration: 1 hour  

@@ -4,6 +4,7 @@ tags:
   - Auramancy
   - Illusion
   - Boon
+Invention: 2V middle
 ---
 - Casting Time: 1 minute
 - Range: Self

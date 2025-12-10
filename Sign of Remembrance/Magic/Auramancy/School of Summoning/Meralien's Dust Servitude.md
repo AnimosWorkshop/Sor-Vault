@@ -3,6 +3,7 @@ tags:
   - 1st-Level
   - Auramancy
   - Summoning
+Invention: 3V start
 ---
 - Casting Time: Action
 - Range: 60'
