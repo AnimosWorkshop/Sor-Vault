@@ -1,5 +1,11 @@
-#4th-Level #Histolecty #Illusion #Boon
- 
+---
+tags:
+  - 4th-Level
+  - Histolecty
+  - Illusion
+  - Boon
+Invention: 1V end
+---
 - Casting Time: Action
 - Range: 120'
 - Duration: 10 minutes  

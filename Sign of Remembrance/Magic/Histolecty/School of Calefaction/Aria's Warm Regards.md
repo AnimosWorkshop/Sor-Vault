@@ -1,5 +1,10 @@
-#4th-Level #Histolecty #Calefaction
- 
+---
+tags:
+  - 4th-Level
+  - Histolecty
+  - Calefaction
+Invention: 2V start
+---
 - Casting Time: Action
 - Range: 45'
 - Duration: Instantaneous  

@@ -1,5 +1,10 @@
-#1st-Level #Histolecty #Calefaction
- 
+---
+tags:
+  - 1st-Level
+  - Histolecty
+  - Calefaction
+Invention: 1V middle
+---
 - Casting Time: Action
 - Range: 40'/120'
 - Duration: Instantaneous

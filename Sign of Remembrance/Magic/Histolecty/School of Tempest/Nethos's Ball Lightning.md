@@ -1,5 +1,10 @@
-#3rd-Level #Histolecty #Tempest
- 
+---
+tags:
+  - 3rd-Level
+  - Histolecty
+  - Tempest
+Invention: 2V end
+---
 - Casting Time: Action
 - Range: Self
 - Duration: Instantaneous

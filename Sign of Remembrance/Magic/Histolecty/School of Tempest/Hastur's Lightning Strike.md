@@ -1,5 +1,10 @@
-#3rd-Level #Histolecty #Tempest
- 
+---
+tags:
+  - 3rd-Level
+  - Histolecty
+  - Tempest
+Invention: 1V middle
+---
 - Casting Time: Action
 - Range: 180'
 - Duration: Instantaneous  

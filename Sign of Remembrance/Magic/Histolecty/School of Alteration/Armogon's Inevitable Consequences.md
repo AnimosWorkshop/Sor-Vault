@@ -1,5 +1,10 @@
-#1st-Level #Histolecty #Alteration
- 
+---
+tags:
+  - 1st-Level
+  - Histolecty
+  - Alteration
+Invention: 1V middle
+---
 - Casting Time: Channel
 - Range: 25'
 - Duration: Instantaneous

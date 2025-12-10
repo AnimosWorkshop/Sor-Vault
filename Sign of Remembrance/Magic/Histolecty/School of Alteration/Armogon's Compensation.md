@@ -1,5 +1,11 @@
-#4th-Level #Histolecty #Alteration #Boon
- 
+---
+tags:
+  - 4th-Level
+  - Histolecty
+  - Alteration
+  - Boon
+Invention: 1V middle
+---
 - Casting Time: Action and quick action
 - Range: 30'
 - Duration: 10 minutes

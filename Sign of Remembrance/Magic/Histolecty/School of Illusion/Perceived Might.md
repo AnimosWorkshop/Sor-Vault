@@ -1,6 +1,12 @@
-#1st-Level #Histolecty #Illusion #Curse
-Rare (Source - [[Blessing of the Bard]])
- 
+---
+tags:
+  - 1st-Level
+  - Histolecty
+  - Illusion
+  - Curse
+Rarity: Rare
+Source: "[[Blessing of the Bard]]"
+---
 - Casting Time: Action
 - Range: 60'
 - Duration: Concentration, up to 1 hour  

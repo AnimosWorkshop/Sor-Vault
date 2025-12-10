@@ -1,5 +1,11 @@
-#2nd-Level #Histolecty #Calefaction #Boon
- 
+---
+tags:
+  - 2nd-Level
+  - Histolecty
+  - Calefaction
+  - Boon
+Invention: 1V middle
+---
 - Casting Time: Action and quick action
 - Range: 60'
 - Duration: Concentration, up to 1 hour  

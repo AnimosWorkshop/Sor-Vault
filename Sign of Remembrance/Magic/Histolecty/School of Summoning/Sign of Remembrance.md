@@ -3,9 +3,8 @@ tags:
   - 5th-Level
   - Histolecty
   - Summoning
+Rarity: Uncommon
 ---
-Uncommon
-
 - Casting Time: Action and quick action
 - Range: Touch
 - Duration: 12 hours  

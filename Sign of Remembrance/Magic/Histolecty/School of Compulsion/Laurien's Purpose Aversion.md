@@ -1,6 +1,11 @@
-#2nd-Level #Histolecty #Compulsion #Boon
-Uncommon
- 
+---
+tags:
+  - 2nd-Level
+  - Histolecty
+  - Compulsion
+  - Boon
+Rarity: Uncommon
+---
 - Casting Time: Action and quick action
 - Range: 10'
 - Duration: 10 minutes  

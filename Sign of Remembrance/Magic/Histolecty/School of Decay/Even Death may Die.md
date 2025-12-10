@@ -1,5 +1,10 @@
-#3rd-Level #Histolecty #Decay
- 
+---
+tags:
+  - 3rd-Level
+  - Histolecty
+  - Decay
+Invention: 2V end
+---
 - Casting Time: Action
 - Range: 60'
 - Duration: Instantaneous

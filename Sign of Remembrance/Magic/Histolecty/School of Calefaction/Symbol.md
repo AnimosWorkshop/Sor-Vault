@@ -1,6 +1,13 @@
-#2nd-Level #Histolecty #Calefaction #Boon / #Curse
-Rare (Source - [[Blessing of Leadership]])
- 
+---
+tags:
+  - 2nd-Level
+  - Histolecty
+  - Calefaction
+  - Boon
+  - Curse
+Rarity: Rare
+Source: "[[Blessing of Leadership]]"
+---
 - Casting Time: Action
 - Range: 60'
 - Duration: 1 minute
