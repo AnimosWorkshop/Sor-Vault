@@ -1,5 +1,10 @@
-#2nd-Level #Arcana #Puppetry
- 
+---
+tags:
+  - 2nd-Level
+  - Arcana
+  - Puppetry
+Invention: 1V end
+---
 - Casting Time: Action and quick action
 - Range: 30'
 - Duration: Instantaneous

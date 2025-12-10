@@ -1,5 +1,10 @@
-#4th-Level #Arcana #Calefaction
- 
+---
+tags:
+  - 4th-Level
+  - Arcana
+  - Calefaction
+Invention: 1V middle
+---
 - Casting Time: Action and quick action
 - Range: 120'
 - Duration: Instantaneous  

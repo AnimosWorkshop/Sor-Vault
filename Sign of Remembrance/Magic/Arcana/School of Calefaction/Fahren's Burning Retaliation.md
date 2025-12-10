@@ -1,5 +1,11 @@
-#4th-Level #Arcana #Calefaction #Boon
- 
+---
+tags:
+  - 4th-Level
+  - Arcana
+  - Calefaction
+  - Boon
+Invention: 1V end
+---
 - Casting Time: Action
 - Range: Touch
 - Duration: Concentration, up to 1 minute  

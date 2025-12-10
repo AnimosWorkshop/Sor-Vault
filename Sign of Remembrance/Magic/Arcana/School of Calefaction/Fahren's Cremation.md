@@ -1,6 +1,11 @@
-#2nd-Level #Arcana #Calefaction
-Uncommon
- 
+---
+tags:
+  - 2nd-Level
+  - Arcana
+  - Calefaction
+Invention: 2V start
+Rarity: Uncommon
+---
 - Casting Time: Action
 - Range: 45' (10' sphere)
 - Duration: Instantaneous  

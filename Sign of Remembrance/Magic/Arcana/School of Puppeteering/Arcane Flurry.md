@@ -1,3 +1,10 @@
+---
+tags:
+  - 3rd-Level
+  - Arcana
+  - Puppetry
+Invention: 1V end
+---
 #3rd-Level #Arcana #Puppetry
  
 - Casting Time: Action

@@ -1,5 +1,10 @@
-#1st-Level #Arcana #Puppetry
- 
+---
+tags:
+  - 1st-Level
+  - Arcana
+  - Puppetry
+Invention: 1V end
+---
 - Casting Time: Quick action
 - Range: Touch
 - Duration: 10 minutes  

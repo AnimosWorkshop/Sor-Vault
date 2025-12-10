@@ -3,6 +3,7 @@ tags:
   - 4th-Level
   - Arcana
   - Displacement
+Invention: 2V start
 ---
 - Casting Time: Action
 - Range: Self (40' sphere)

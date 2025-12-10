@@ -1,5 +1,10 @@
-#4th-Level #Arcana #Puppetry
- 
+---
+tags:
+  - 4th-Level
+  - Arcana
+  - Puppetry
+Invention: 2V start
+---
 - Casting Time: Action and quick action
 - Range: 40'
 - Duration: Concentration, up to 10 minutes  

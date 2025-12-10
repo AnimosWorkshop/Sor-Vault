@@ -1,5 +1,10 @@
-#1st-Level #Arcana #Calefaction
- 
+---
+tags:
+  - 1st-Level
+  - Arcana
+  - Calefaction
+Invention: 1V middle
+---
 - Casting time: Action
 - Range: 30' (15' sphere)
 - Duration: Concentration, up to 1 minute

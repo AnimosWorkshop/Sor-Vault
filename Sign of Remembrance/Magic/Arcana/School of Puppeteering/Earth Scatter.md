@@ -1,5 +1,10 @@
-#1st-Level #Arcana #Puppetry
- 
+---
+tags:
+  - 1st-Level
+  - Arcana
+  - Puppetry
+Invention: 1V end
+---
 - Casting Time: Action
 - Range: 25' cone
 - Duration: Instantaneous

@@ -1,5 +1,11 @@
-#3rd-Level #Arcana #Tempest #Boon
- 
+---
+tags:
+  - 3rd-Level
+  - Arcana
+  - Tempest
+  - Boon
+Invention: 1V end
+---
 - Casting Time: Quick action
 - Range: Touch
 - Duration: Concentration, up to 1 hour  

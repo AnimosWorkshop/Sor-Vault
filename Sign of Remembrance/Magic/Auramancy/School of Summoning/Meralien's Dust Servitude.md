@@ -1,5 +1,9 @@
-#1st-Level #Auramancy #Summoning
- 
+---
+tags:
+  - 1st-Level
+  - Auramancy
+  - Summoning
+---
 - Casting Time: Action
 - Range: 60'
 - Duration: 1 hour  

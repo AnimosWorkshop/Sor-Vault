@@ -1,5 +1,11 @@
-#2nd-Level #Arcana #Alteration
- 
+---
+tags:
+  - 2nd-Level
+  - Arcana
+  - Alteration
+  - 1st-Verse-End
+Invention: 1V end
+---
 - Casting Time: Action
 - Range: Touch
 - Duration: Instantaneous

@@ -1,5 +1,11 @@
-#4th-Level #Arcana #Displacement #Boon
- 
+---
+tags:
+  - 4th-Level
+  - Arcana
+  - Displacement
+  - Boon
+Invention: 1V end
+---
 - Casting Time: Action
 - Range: Self
 - Duration: Until the end of your next turn

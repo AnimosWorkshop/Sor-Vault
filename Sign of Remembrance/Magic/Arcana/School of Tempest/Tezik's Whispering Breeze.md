@@ -1,5 +1,10 @@
-#3rd-Level #Arcana #Tempest
- 
+---
+tags:
+  - 3rd-Level
+  - Arcana
+  - Tempest
+Invention: 1V end
+---
 - Casting Time: Action
 - Range: 1 mile
 - Duration: Instantaneous

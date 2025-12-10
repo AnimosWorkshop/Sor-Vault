@@ -1,5 +1,11 @@
-#2nd-Level #Arcana #Augury #Boon 
- 
+---
+tags:
+  - 2nd-Level
+  - Arcana
+  - Augury
+  - Boon
+Invention: 1V start
+---
 - Casting Time: 10 minutes
 - Range: Self
 - Duration: 1 hour 

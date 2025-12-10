@@ -1,6 +1,12 @@
-#1st-Level #Arcana #Alteration #Boon
-Rare (Source - [[Minor Blessing of Curiosity|Blessing of Curiosity]])
- 
+---
+tags:
+  - 1st-Level
+  - Arcana
+  - Alteration
+  - Boon
+Rarity: Rare
+Source: "[[Minor Blessing of Curiosity]]"
+---
 - Casting Time: Action or 3 reactions to you or a creature you can perceive within range being damaged
 - Range: 10'
 - Duration: Until the end of your next turn 

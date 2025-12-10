@@ -1,5 +1,10 @@
-#4th-Level #Arcana #Puppetry
- 
+---
+tags:
+  - 4th-Level
+  - Arcana
+  - Puppetry
+Invention: 1V end
+---
 - Casting Time: Action
 - Range: 60' cone
 - Duration: Instantaneous  

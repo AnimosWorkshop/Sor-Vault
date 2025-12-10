@@ -1,5 +1,10 @@
-#3rd-Level #Auramancy #Summoning
- 
+---
+tags:
+  - 3rd-Level
+  - Auramancy
+  - Summoning
+---
+
 - Casting Time: Action
 - Range: Touch
 - Duration: 2 hours
