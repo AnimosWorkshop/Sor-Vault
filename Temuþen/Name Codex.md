@@ -8,6 +8,7 @@ The following are examples for words and bases from which names are constructed.
 * Erla - comfort
 * Fori - warmth
 * Gharo - faith
+* Hekdor - calm
 * Hom - hope
 * Kaniero - wisdom
 * Lazo - life

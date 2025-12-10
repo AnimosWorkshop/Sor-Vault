@@ -114,6 +114,7 @@
 * hanū - to solve
 * hefū - to lift
 * hekū - to make easy
+* hekdorū - to be calm (lit. "sleep easy")
 * hemaxū - to interest
 * hertezū - to tile
 	* hertez - floor

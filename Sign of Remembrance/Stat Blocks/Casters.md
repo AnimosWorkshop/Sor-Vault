@@ -222,7 +222,7 @@
 >>* Attributes - 10 / 12 / 16 / 12 / 19 / 12 / 14
 >>* Saves - +3 / +6 / +6 / +4
 >>* HP - 36, 3d6
->>* AC - 16 studded leather (slashing, acid) + 1 [[Runecarver#Spell Foci|scepter]]
+>>* AC - 17 studded leather (slashing, acid) + 1 [[Runecarver#Spell Foci|scepter]]
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -245,7 +245,7 @@
 >>* Attributes - 18 / 14 / 8 / 18 / 11 / 10 / 18
 >>* Saves - +5 / +6 / +7 / +5, +1 against spells (staff)
 >>* HP - 56, 4d6
->>* AC - 13 chain shirt (piercing, lightning) + 1 against spells (staff)
+>>* AC - 14 chain shirt (piercing, lightning) + 1 against spells (staff)
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
@@ -258,3 +258,29 @@
 >>	* +1 [[Runecarver#Spell Foci|Staff]]
 
 ^8bf938
+
+>[!danger]- Adept Illusionist
+>>[!info]- Basics
+>>* [[Halfling#Lightfoot Halfling]]
+>>* Attributes - 8 / 12 / 16 / 12 / 13 / 18 / 18
+>>* Saves - +4 / +6 / +7 / +10 (Wil. proficiency)
+>>* HP - 58, 4d8
+>>* AC - 17 studded leather (slashing, acid)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Sorcery (Intelligence) +3, Deception (Charisma) +10, Performance (Charisma) +7, Stealth (Charisma) +10
+>>* Classes - [[Mentalist#Charming|Charming]] [[Mentalist]] 4th ([[Mentalist#Maddening Bond|Maddening]])
+>>* Histolectual Spells (Bonus +8, DC 18) - 11 influence:
+>>	* 1st-Level - [[Doeth's Deathly Chill]], [[Heroic Verse]], [[Lullaby]]
+>>	* 2nd-Level - [[Convincing Disguise]], [[Message]], [[Voice of Authority]]
+>>* Arms:
+>>	* [[Runecarver#Wand Functionality Upgrades|Dazing Wand]] (light)
+>>	* Dagger (light; finesse, thrown (20'/60'), tool (Sleight of Hand)) – 1d4 + 4 piercing
+>>
+>>* Pouch:
+>>	* 2x [[Alchemist#Concoctions|Coagulation concoction, minor]]
+>>	* 1x [[Alchemist#Concoctions|Recovery Concoction, Minor]]
+
+^cec92f
+

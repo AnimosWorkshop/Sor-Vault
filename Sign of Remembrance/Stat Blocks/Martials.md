@@ -217,7 +217,7 @@
 >>* Saves - +6 / +7 / +5 / +6
 >>* HP - 57, 4d6
 >>* Resistances - lightning 1
->>* AC - 17 natural (piercing) + 2 [[Trickster#Shifting Tempo|dodge]] + 2 [[roll]]
+>>* AC - 19 natural (piercing) + 2 [[Trickster#Shifting Tempo|dodge]] + 2 [[roll]]
 >>* Movement - 30' walking, 30' flying
 >
 >>[!info]- Specifics

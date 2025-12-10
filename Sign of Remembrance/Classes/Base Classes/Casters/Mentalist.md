@@ -61,7 +61,7 @@ You also gain 1 proficiency level in either Deception, Persuasion or Perception.
 When you reach 3rd level, your preferred method of engagement with other creatures shapes the effects of your histolectual bonds. Choose one of the following:
  
 #### Charming
-Your bonds enhance your influence over other creatures. While bound to a creature, you have a +2 bonus to Deception (Charisma), Persuasion (Charisma), Intimidation (Charisma) and Performance (Charisma) against them.
+Your bonds enhance your influence over other creatures. While bound to a creature, you have a +2 bonus to Deception (Charisma), Persuasion (Charisma), Intimidation (Charisma), Performance (Charisma) and Stealth (Charisma) against them.
  
 #### Investigative
 Your mind becomes more aware of the creatures you are bound to. While bound to a creature, you have a +2 bonus to Insight (Wisdom) and Perception (Wisdom) checks against them, and you may use the Assess quick action on those creatures to learn an additional fact about them.
@@ -97,7 +97,7 @@ You learn how to use the second [[#Enhanced Bond Specialty|enhanced bond]]. You 
 If you currently maintain only one enhanced bond, you can choose to either:
 
 - Maintain another enhanced bond of the type you have learned.
-- Use a quick action and the same amount of influence used for your previous enhanced bond to share the effect with another creature you have histolectually bound, allowing them to trigger the same effect on your enhanced bond for as long as both are bound.
+- Use a quick action and the same amount of influence used for your learned enhanced bond to share the effect with another creature you have histolectually bound, allowing them to trigger the same effect on your enhanced bond for as long as both are bound.
  
 ### Performative Casting
  
