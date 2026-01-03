@@ -10,6 +10,7 @@ The following are examples for words and bases from which names are constructed.
 * Gharo - faith
 * Hekdor - calm
 * Hom - hope
+* Ikra - pride
 * Kaniero - wisdom
 * Lazo - life
 * Lirika - promise

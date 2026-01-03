@@ -1,7 +1,7 @@
 As if the world hasn’t suffered enough in the Second Cataclysm, five of the dragonlands decided to take advantage of the crisis to wage war against the weakened realm. The world has been divided between two main factions:
 
 - Gandecrala (The Dragonlands) – ruled by the chrome dragons and the: gold, brass, blue, black and white dragonflights.
-- Carniules (The Free World) – lead by [[Avsekoper]] which managed to preserve its structure due to its society from before the cataclysm, with the other countries being: [[Urevneþ]] as a new country inhabited by the previously-called Puppeteers, [[Akelfutes]], [[World Information/Realms/Temuþen Countries/Breniskal]], and the [[Bronze Archipelago]].
+- Carniules (The Free World) – lead by [[Avsekoper]] which managed to preserve its structure due to its society from before the cataclysm, with the other countries being: [[Urevneþ]] as a new country inhabited by the previously-called Puppeteers, [[Akelfutes]], [[World Information/Realms/Temuþen Countries/Breniskal]], and the [[Bronze Archipelago]]. ^7032ca
 
 As the world was divided in twain, large population shifts on both sides ensued, leading to a major humanitarian crisis all over the world. While skepticism from the rest of the worlds grows, a realm at war must somehow take care of the many who have lost their home, and potentially their family as well.
 
