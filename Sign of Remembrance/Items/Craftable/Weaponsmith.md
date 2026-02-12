@@ -94,11 +94,10 @@ Weaponsmith tools cost 20 sc and weigh 0.6 bulk.
 | Reckless Weapon | 180 sc   | -        | _Major Functionality_  <br>Increases the enchanted weapon's Fragile trait by 1 and its Lethal trait potency by 1. It is said that such weapons were first made to taunt Vorona.                                                                                                                                                                   |
 ### Weapon Seals
 
-A weaponsmith may use a short rest to create a seal to fix broken weapons, which also functions as reinforcement against potential breakage. Once the number of hits against a seal is reached, or if breakage would occur to the weapon, the seal is destroyed and the weapon returns to its no-seal state, but does not receive additional breakage. 
-Aside from the reinforcement seal, all seals effectively reduce the breakage value of the weapon, which affects the effectiveness of the weapon and allows another seal to be placed on top. Stacked seals take damage at the same time, breaking when the most critical one fails (e.g. the emergency seal); however, if breakage would occur, only the top seal is destroyed.
+A weaponsmith may use a short rest to create a seal to reinforce a weapon against potential breakage. Once breakage occurs to the weapon, the seal is destroyed and the weapon returns to its no-seal state, but does not receive additional breakage. If the weapon would get additional breakage after that, the broken seal does not help, and so re-application in case of breaking is very important.
 
-| Name               | Cost (% of weapon's price) | Works up to # breakage | Effective Hit Number |
-| ------------------ | -------------------------- | ---------------------- | -------------------- |
-| Reinforcement Seal | 2                          | 0                      | 6                    |
-| Safeguard Seal     | 4                          | 1                      | 5                    |
-| Emergency Seal     | 6                          | 2                      | 4                    |
+| Name               | Cost (% of weapon's price) | Works up to # breakage |
+| ------------------ | -------------------------- | ---------------------- |
+| Reinforcement Seal | 2                          | 0                      |
+| Safeguard Seal     | 4                          | 1                      |
+| Emergency Seal     | 6                          | 2                      |

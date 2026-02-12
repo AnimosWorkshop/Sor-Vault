@@ -78,9 +78,10 @@ How long a spell's effects last.
 
 How much time is required to cast the spell.
 
-- Just like any action, spells can be held until a specific thing happens - triggering using the caster's reaction, but holding a spell requires you to maintain concentration until it is cast. If a creature readies a spell but does not use it, the magic is not spent as the spell was not cast.
-- If the caster of the spell is dealt damage while casting it, they must make a Resilience save for concentration on the spell as if they were concentrating on it. On a fail, the spellcasting resources are spent but the spell does not take effect.
-- Spells with a casting time of "channel" require two actions to be used: one to start the channel, and another one to finish the channel, casting the spell. Between the two actions, the caster must maintain concentration, similar to casting spells over multiple turns (for example, with casting time of 1 minute).
+* Just like any action, spells can be held until a specific thing happens - triggering using the caster's reaction, but holding a spell requires you to maintain concentration until it is cast. If a creature readies a spell but does not use it, the magic is not spent as the spell was not cast.
+* If the caster of the spell is dealt damage while casting it, they must make a Resilience save for concentration on the spell as if they were concentrating on it. On a fail, the spellcasting resources are spent but the spell does not take effect.
+* Spells with a casting time of "as a part of a weapon attack" are made in conjunction with the attack. The spell's effect occurs as the attack is made, so spellcasting resources (e.g. mana for an auramantic spell) are expended _before_ the attack roll is made.
+* Spells with a casting time of "channel" require two actions to be used: one to start the channel, and another one to finish the channel, casting the spell. Between the two actions, the caster must maintain concentration, similar to casting spells over multiple turns (for example, with casting time of 1 minute).
 
 Note that the two actions don't have to be on consecutive turns: they can be in the same turn (with the use of [[Fighter#Adrenaline Surge|adrenaline surge]]) or up to a whole minute after the first casting action.  
 The duration of a spell with channel casting starts only from when the channeling is finished.

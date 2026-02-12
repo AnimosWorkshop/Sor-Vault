@@ -52,7 +52,8 @@ Studying arcana and the effects magic has on the physical world allows you to no
  
 ### Arcane Orb Specialty
  
-At 2nd level, you learn the technique of manifesting a sliver of your arcane energy as a tiny orb, which hovers close to you. You can manifest the orb or make it dissipate using a quick action, and control its movement with your thought, though it can't go further than 5' from you.  
+At 2nd level, you learn the technique of manifesting a sliver of your arcane energy as a tiny immaterial orb, which hovers close to you. The orb sheds either dim light or dim dark, depending on your choice, up to 2' from it. You can manifest the orb or make it dissipate using a quick action, and control its movement with your thought, though it can't go further than 5' from you.  
+
 As you gain this feature, choose 1 school of magic, which becomes your chosen school for both this feature, and other wizard features which will come up at later levels. Depending on the school you choose, while the orb is manifested, you gain a +1 bonus to skill checks and DC's of one the following skills:
 
 - Alteration - pressing on and manipulating the structure of objects, you get a bonus to Athletics

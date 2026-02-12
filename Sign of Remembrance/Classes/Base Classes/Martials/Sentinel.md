@@ -81,18 +81,21 @@ Starting at 3rd level, you may use your focus not only on battle, but on the tas
 
 ### Keen Observer
 
-Also at 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. You gain the following features, which you may use simultaneously during the same [[Action Economy#^047348|assess]] quick action.
+Also at 3rd level, your ability to study the battlefield allows you to take calculated risks, be it cognizant or instinctual. You get the following features, which you may use simultaneously during the same [[Action Economy#^047348|assess]] quick action.
 * When you use the [[Action Economy#^047348|assess]] quick action, you may spend 1 focus to learn 1 additional fact about the creature.
 * Up to once per round when you use the [[Action Economy#^047348|assess]] quick action, you may forgo learning up to 2 facts you would as a part of the quick action, and raise your graze range by the same amount + 1.
 You also gain 1 proficiency level in any skill of your choice.
 
 ### Enhanced Focus
  
-At 4th level, you have managed to enhance your focus further. While focused, your bonus with Pugilist weapons and [[Action Economy#^5d5dd0|shove]] are increased by 1, and the respective bonus and penalty for [[Action Economy#Opportunity Attacks|opportunity attacks]] you have from focus are increased by 1. In addition, your base movement speed is increased by 5'.
+At 4th level, you have managed to enhance your focus further. While focused, your bonus with Pugilist weapons and [[Action Economy#^5d5dd0|shove]] are increased by 1, and the respective bonus and penalty for [[Action Economy#Opportunity Attacks|opportunity attacks]] you have from focus are increased by 1. 
+In addition, your base movement speed is increased by 5'.
 
 ### Focus Strikes
  
-At 5th level level, you can use your focus in a concise strike that delivers a shockwave to the attacked creature. At the start of your turn, you may use 1 focus to empower your weapon attacks for the remainder of the turn, adding 1d6 kinetic to your damage rolls. If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength or Dexterity modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.
+At 5th level level, you can use your focus in a concise strike that delivers a shockwave to the attacked creature. At the start of your turn, you may use 1 focus to empower your weapon attacks for the remainder of the turn, adding 1d4 kinetic to your damage rolls. 
+* If you hit with only one focus strike by the end of your turn, the struck creature then takes an additional 1d4 kinetic damage.
+* If you manage to hit with two focus strikes against the same creature during a turn, and they are of one size category above yours or lower, it must succeed on a Resilience saving throw against a DC equal to 10 + your Strength or Dexterity modifier + your Wisdom modifier + your proficiency modifier, or become stunned until the end of their next turn.
  
 ### Stance
  

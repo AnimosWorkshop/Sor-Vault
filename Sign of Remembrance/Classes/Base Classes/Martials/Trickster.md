@@ -53,7 +53,8 @@ In addition, you may use the Dodge reaction as a response to being attacked by a
 ### Cunning Action
  
 Starting at 2nd level, you understand how some basic actions can be done in a much quicker manner using your speed. The [[Action Economy#^f8a635|dash]] and [[Action Economy#^284a7e|hide]] actions become quick actions for you.  
-When you take the Dash action as a quick action, you may move up to half your speed instead of your full move speed, and when you take the Hide action as a quick action, you have a -3 penalty to your roll.  
+When you take the Dash action as a quick action, you may move up to half your speed instead of your full move speed, and when you take the Hide action as a quick action, you have a -3 penalty to your roll.
+
 ### Martial Techniques
  
 At 2nd level, you learn the use of [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]]. Whenever you gain this feature, you may use its preparation slots to prepare either techniques of this class or a general technique. You may choose to prepare a basic technique instead of an advanced technique if you fulfill its class requirements.

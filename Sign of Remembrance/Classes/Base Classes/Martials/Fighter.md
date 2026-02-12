@@ -138,6 +138,7 @@ You may only use this feature once per round.
  
 Starting at 8th level, your knowledge about weapons expands to the point that you can wield any weapon. You add your full proficiency modifier to attacks with weapons you are not proficient with instead of half, and you add one and a half times your proficiency modifier instead of once to attacks with weapons of your specialty if you are proficient with them.  
 In addition, you increase the damage die of weapons from your arms specialty weapon category by 1.
+
 ### Dirty Tactics Mastery
 
 At 9th level, you become a master of manipulating every advantage you can muster. Choose one of the following:
