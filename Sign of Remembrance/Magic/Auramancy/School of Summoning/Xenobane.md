@@ -2,7 +2,7 @@
  
 - Casting Time: 10 minutes
 - Range: Touch
-- Duration: 4 hours  
+- Duration: Restbound
 
 _The dragons stepped forward, maul in hand, ready to deal with the pests who invaded their home. Their differences might have been some which could be settled, but today was not the day for that; their weapons, hate-fueled, were held forth as a challenge to those dared to step in._
  

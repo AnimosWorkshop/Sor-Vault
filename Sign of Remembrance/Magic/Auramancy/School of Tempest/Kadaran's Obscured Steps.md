@@ -14,3 +14,4 @@ You alter the aura of up to 4 creatures you choose within range, rearranging the
 
 **At Higher Levels:**
 * (+1) You may choose another creature within range.
+* (+2) The spell lasts for twice as long.

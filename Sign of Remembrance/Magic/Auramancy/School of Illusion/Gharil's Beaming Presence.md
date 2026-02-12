@@ -8,7 +8,7 @@ Invention: 1V end
 ---
 - Casting Time: Action
 - Range: Self
-- Duration: 1 hour
+- Duration: Restbound
  
 _"Size is not an obstacle, but rather a feature of life, which you may either take to heart or dismiss entirely. In my case, it simply means that my success is denser than most's."_  
 _- Gharil, the August._

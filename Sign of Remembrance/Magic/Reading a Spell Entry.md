@@ -74,6 +74,7 @@ There are three rarities of spells:
 How long a spell's effects last.
 
 - Concentration - Some spells and features require you to maintain your concentration on them. You can only concentrate on one spell or feature at a time, and breaking your concentration will end it. Whenever you take damage, make a Resilience save with a DC of either 10 or half the damage taken to your hit points (whichever is higher). You may also use a reaction at any time to end your concentration early, and if you do, the spell ends as normal. ^01869f
+- Restbound - The spell lasts until the caster has _finished_ a long rest, or until 16 hours have passed.
 ### Casting Time
 
 How much time is required to cast the spell.

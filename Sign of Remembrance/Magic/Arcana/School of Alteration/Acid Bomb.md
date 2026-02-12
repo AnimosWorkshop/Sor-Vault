@@ -2,7 +2,7 @@
  
 - Casting Time: Quick action
 - Range: 10'
-- Duration: 8 hours
+- Duration: Restbound
 - Material Components: 1 pint of water
 
 You draw water from within range and magically alter its composition to create a thin membrane around it, and taint the water to make it more acidic. The created bomb, weighing 0.1 bulk, is considered a [[Weaponsmith#Simple Thrown Weapons|Simple Thrown weapon (Hurler, Light)]], which deals [[Alchemist#^40dc6a|quintuple]] 1d6 acid damage and has the Thrown (20'/60'), Lethal 1, and Breaks on contact (100%) [[Weapon Rules|weapon traits]].

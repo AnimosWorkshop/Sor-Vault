@@ -2,7 +2,7 @@
  
 - Casting Time: 10 minutes
 - Range: Self
-- Duration: 8 hours  
+- Duration: Restbound
 
 You designate your immediate surroundings within 20' from your location as you cast the spell as an area of utmost attention. For the duration, your senses heighten as long as you are within the designated area, allowing you to subconsciously notice minute details. You get a +2 bonus to Perception (Wisdom) and Investigation (Intelligence) checks when looking for objects or creatures within the selected area while you are in it.  
 
