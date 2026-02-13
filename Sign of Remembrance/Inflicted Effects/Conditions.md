@@ -6,6 +6,8 @@ tags:
 Negative energy flows through your veins, disrupting your healing processes. Any form of healing you receive recovers only half the hit points it should have, rounded down.  
 >[!example]
 >You receive half the healing from concoctions, spells, etc., and also recover only half the difference between your maximum and current hit points during a long rest.
+#### Drowning
+The creature cannot breathe, and must expel liquids out of their lungs in order to not suffocate. Until this condition ends, the creature is [[#Stunned|stunned]] and loses 1d8 hit points on the start of each of its turns.
 #### Encumbered
 An encumbered creature has a -2 penalty to all rolls based on Strength and Dexterity, as well as to their AC, and their movement speed is 10' slower. In addition, Resilience and Initiative saves they make must rely on Constitution and Wisdom rather than on Strength and Dexterity, respectively.
 #### Fatigued
