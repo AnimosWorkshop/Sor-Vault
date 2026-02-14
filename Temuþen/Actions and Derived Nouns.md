@@ -273,6 +273,8 @@
 	* soknuvū - to experiment
 * stilū - to smell (something)
 * surū - to meet
+* tacrū - to puncture
+	* laztac - claw / talon
 * tafū - to transport
 * takladū - to accept
 * talarū - to enjoy

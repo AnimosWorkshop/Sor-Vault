@@ -207,7 +207,7 @@
 >>* Classes - Tempest [[Wizard]] 3rd
 >>* Arcane Spells (Bonus +6, DC 16):
 >>	* 1st-Level (4) - [[Witch Bolt]], [[Shocking Grasp]]
->>	* 2nd-Level (2) - [[Misty Step]], [[Warding Wind]]
+>>	* 2nd-Level (2) - [[Condensation]], [[Misty Step]], [[Warding Wind]]
 >>* Arms:
 >>	* [[Runecarver#Staff Functionality Upgrades|Staff of Balance]] (medium)
 

@@ -153,7 +153,7 @@
 >>* Movement - 25' walking
 >
 >>[!info]- Specifics
->>* Skills - Athletics (Strength) +9
+>>* Skills - Athletics (Strength) +8
 >>* Classes - [[Fighter#Arms Specialty|Skewer]] [[Fighter]] 3rd
 >>* Martial Techniques - [[Reel In]]
 >>* Arms:
@@ -173,7 +173,7 @@
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics
->>* Skills - Athletics (Strength) +9
+>>* Skills - Athletics (Strength) +8
 >>* Classes - [[Transmuter]] 3rd ([[Transmuter#^9b47b0|Sure Sight Helmet]])
 >>* Martial Techniques - [[Wrist Shock]]
 >>* Arms:
@@ -185,6 +185,27 @@
 >>	* [[Alchemist#Other Items|Snuffing Stick Dark]] x2
 >>* [[Transmuter#Alchemechanical Infusion]]
 ^d4ae6d
+
+>[!danger]- Border Investigator
+>>[!info]- Basics
+>>* [[Vident#Inquisitive Vident]]
+>>* Attributes - 8 / 12 / 18 / 18 / 12 / 10 / 14
+>>* Saves - +4 / +6 / +3 / +4
+>>* HP - 38, 3d8
+>>* AC - 17 studded leather (slashing, necrotic) +1 lone wolf
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Stealth (Dexterity) +7, Perception (Wisdom) +6, Insight (Wisdom) +8 
+>>* Classes - [[Trickster#Investigator|Investigator]] [[Trickster]] 3rd
+>>* Martial Techniques - [[Backstab]]
+>>* Arms:
+>>	* Flourish Rapier (medium; finesse) - 1d12 + 4 piercing.
+>>* Belt Pouch:
+>>	* [[Alchemist#Substances|Adder venom, minor]]. This might be already applied to the rapier if the opportunity allows it.
+>>	* [[Alchemist#Bombs|Smoke flask]]
+>>	* [[Alchemist#Substances|Rush juice]]
+^e65791
 
 >[!danger]- Whip Fighter
 >>[!info]- Basics
@@ -222,7 +243,7 @@
 >
 >>[!info]- Specifics
 >>* Skills - Acrobatics (Dexterity) +7, Sleight of Hand (Dexterity) +10, Stealth (Dexterity) +10
->>* Classes - Skirmisher [[Trickster]] 4th
+>>* Classes - [[Trickster#Skirmisher|Skirmisher]] [[Trickster]] 4th
 >>* Arms:
 >>	* 1x Rapier - 1d8 + 4 piercing
 >>	* 1x Shortsword (light) - 1d6 + 4 slashing or piecing
