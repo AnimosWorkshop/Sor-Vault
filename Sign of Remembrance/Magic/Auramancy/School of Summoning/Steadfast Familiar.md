@@ -2,7 +2,7 @@
  
 - Casting time: Action
 - Range: 30'
-- Duration: 1 day  
+- Duration: Restbound
 
 You use up aura from nearby and transmute it into a familiar that spawns in a point you can see within range. This familiar lasts for the duration, in the end of which it dissolves back into the surrounding area.
  

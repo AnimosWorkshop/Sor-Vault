@@ -39,7 +39,7 @@
 ### Fahren - God of Protection
 
 - [[Hellenise Gods#Custodem|Custodem]] - God of Protection
-- [[Helian Gods#Ethalia|Ethalia]] - Sickle of the People
+- [[Helian Gods#Ethalia|Ethalia]] - Sickle of the People ^e54244
 - -
 ### Aria - Goddess of Knowledge
 
@@ -87,7 +87,7 @@
 ### Grelleyal - God of Creativity
 
 - [[Limbani Gods#Meromia|Meromia]] - Goddess of Innovation
-- -
+- [[Helian Gods|Ivolios]] - God of Arts ^3737f0
 - -
 - - -
 ## Wesnis, Architect of Dahrial

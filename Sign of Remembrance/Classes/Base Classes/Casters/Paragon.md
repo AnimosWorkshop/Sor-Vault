@@ -66,11 +66,11 @@ You may use this feature an amount of times equal to your Willpower modifier, an
 At 3rd level, you gain a way to influence creatures around you. Choose one according to the [[Paragon Ideals.canvas|ideal]] you hold:
 
 #### Minor Disruption
-Your actions elevate yourself above others, either to further your own goals or even the playing field. When you and another creature compete using a skill (for example: [[Action Economy#^b70e3f|brawl action]] check, disarm check, insight check, stealth check, etc.), you may use this feature to subtract 1d4 from your opponent's roll or DC. You may also aid an ally within 30' this way by using a reaction.  
+Your actions elevate yourself above others, either to further your own goals or even the playing field. When you and another creature compete using a skill (for example: [[Action Economy#^b70e3f|brawl]] check, insight check, [[Action Economy#^284a7e|hide]] check, etc.), you may use this feature to subtract 1d4 from your opponent's roll or DC. You may also aid an ally within 20' this way by using a reaction.  
 You also gain 1 proficiency level in the Deception skill.
  
 #### Minor Guidance
-Your actions lead and guide others. When you and an ally within 30' roll to complete the same task, you may use this feature to subtract 1d4 from the result you rolled, and add the same amount + your Willpower modifier to your ally's roll.  
+Your actions lead and guide others. When you and an ally within 20' roll to complete the same task, you may use this feature to subtract 1d4 from the result you rolled, and add the same amount + your Willpower modifier to your ally's roll.  
 You also gain 1 proficiency level in the Persuasion skill.
  
 ### Invoke Karma
@@ -106,18 +106,17 @@ You inspire those around you, too, granting you and creatures you consider as al
  
 ### Conduit's Intervention
  
-By enhancing the attunement to your ideal, you are able to attune to a piece of history of the land itself, being the influence of the god resonating with your ideal. At 7th level, according to your [[#Ideal Conduit]] magic type, you get one of the following benefits:
- 
+By enhancing the attunement to your ideal, you are able to attune to a piece of history of the land itself, being the influence of the god resonating with your ideal. At 7th level, according to your [[#Ideal Conduit]] magic type, you get one of the following benefits. 
+
 #### Arcana
-You understand that influence can't always derive from people - the world is vast, and as we make our way through the world, we have to rely on external forces. Whenever you use your Major Intervention feature, you may move one of the targeted creatures or yourself up to 5' times half your Willpower modifier in any direction to an unoccupied space.
+You understand that influence can't always derive from people - the world is vast, and as we make our way through the world, we have to rely on external forces. Whenever you use your Major Intervention feature, you may move one of the targeted creatures or yourself up to 5' times half your Willpower modifier in any direction to an unoccupied space. If this targets an unwilling creature, they may roll a Willpower saving throw against your ideal's spellcasting modifier.
  
 #### Auramancy
 You understand that sometimes it's not only what people say and communicate that matters - each has their own features which they are born with, and it is that set of parameters which influences their ways. Whenever you use your Major Intervention feature, you may bolster one of the targeted creatures or yourself to reduce the next instance of damage they are dealt until the next time you use your Major Intervention feature or for the next minute, whichever ends sooner, by half your Willpower modifier.
  
 #### Histolecty
 You understand that self-reliance cannot always be done - in the end, manipulations of bonds, for better or worse, is the key for success. Whenever you use your Major Intervention feature, you may enhance the result of the targeted creature for better or worse by half your Willpower modifier.
-All effects last up to the start of your next turn unless specified otherwise.
- 
+
 ### Conduit of the Realm
  
 At 8th level, you achieve a whole enough understanding of the fundamentals of ideals that you can some channel the energy of the world itself. Choose a realm, either your own or the the one of your ideal's bearer. You gain the ability to channel that world onto a focused expression of power, using a free action once per turn. Either you or a willing or unconscious creature you touch gain the benefit. The benefit does not stack with itself.
@@ -150,7 +149,7 @@ Specified bonuses are equal to half the casted spell's level.
 * _"Operate as one!"_ (action) - One creature who senses you within 15' may immediately use a utility quick action, out of: [[Action Economy#^9bb451|inspire]], [[Action Economy#^362ce9|demoralize]] or [[Action Economy#^3d44e8|search]] as a reaction. They get a bonus to the quick action's associated skill.
 * _"Save yourselves!"_ (action + quick action) - One creature who senses you within 15' may use a defensive class reaction once, out of: [[Trickster#^26e047|dodge]], [[Fighter#Parrying Strike|parry]], [[Sentinel#Deflecting Instinct|deflect]] or [[Transmuter#Alchemechanical Infusion|defuse]], in order to prompt another creature to make that reaction when it would be triggered by the attacked creature. This reaction cannot be augmented with [[Sign of Remembrance/Martial Techniques/Introduction|martial techniques]].
 * _"We cannot be stopped!"_ (channel) - You have a bonus to saves for concentration until you end your channeling.
-* _"Patience is key!"_ (> 1 minute) - One creature who senses you gets a bonus to any d20 rolls taken a part of a prepared action for as long as you cast the spell. 
+* _"Patience is key!"_ (at least 1 minute) - One creature who senses you gets a bonus to any d20 rolls taken a part of a prepared action for as long as you cast the spell. 
 ### Saving Grace
- 
+
 At 10th level, you become a true embodiment of your ideal - a full conduit. When you are reduced to 0 hit points for the first time after a long rest, roll a d20. You regain thrice that many hit points. If you were brought prone, you now float standing in place until the start of your next turn, after which you may land safely.

@@ -74,7 +74,7 @@
 * esfolū - to report
 * evnū - to create a community
 	* evnieþ - family
-	* evnieþ - community
+	* evnieþa - community
 * fakerū - to forget
 * farisū - to be bold
 * fasū - to subtract
