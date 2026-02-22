@@ -1,17 +1,17 @@
-#Race #Temuthen
+#Race #Temuþen
 - - -
 _Dwarves are a materialistic race, who are taught discipline from young age. While many, such as halflings, might deny the method, it nonetheless works, and dwarven society as a whole is filled with many artisans and craftsmen. As their heritage suggests, they stay close to the ground, and most attempt to harness nature around them in a non-casting manner to the best of their abilities. For this reason, mages within the dwarves are rare, but not nonexistent, which makes for a different conception of magic's role in everyday lives._
  
 **Racial Attribute Bonus:** Your Constitution increases by 2.  
 **Age:** Mature at late 20s, live about 160 years.  
 **Size:** Medium.  
-**Creature Type:** Temuthen.  
+**Creature Type:** Temuþen.  
 **Speed:** 25' walking.  
 **Vision:** Lightvision, tremorsense.  
 **Dwarven Resilience:** You have advantage on saving throws against being weakened, and you are resistant 1 to necrotic damage and against being poisoned.
 **Dwarven Combat Training:** You are proficient with the martial sweeper weapon style.
 **Tool Expertise:** You are an expert with one tool of your choice.  
-**Languages:** You can speak, read, and write Temuthen.
+**Languages:** You can speak, read, and write Temuþen.
  - - -
 ## Subraces
 ### Dune Dwarf

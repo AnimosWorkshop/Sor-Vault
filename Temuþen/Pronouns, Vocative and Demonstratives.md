@@ -1,6 +1,6 @@
 ### Pronouns
 
-In Temuthen, pronouns are divided into first, second and third person, each taking the appropriate [[Grammatical Gender|suffix]] according to the person's gender. Note that for a neuter singular form, the 'e' is always added for pronouns.
+In Temuþen, pronouns are divided into first, second and third person, each taking the appropriate [[Grammatical Gender|suffix]] according to the person's gender. Note that for a neuter singular form, the 'e' is always added for pronouns.
 
 * First person - IIþ
 * Second person - IIx

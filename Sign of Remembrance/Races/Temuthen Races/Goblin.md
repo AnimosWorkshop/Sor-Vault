@@ -1,16 +1,16 @@
-#Race #Temuthen
+#Race #Temuþen
 - - -
 _Goblins are known for their unique curiosity at any cost. They are quick learners, using their their knack for learning to travel and gather more and more knowledge. There are many famous goblin inventors and researchers, but that doesn't suck fun out of their lives: contrary, many goblins' lives are full of thrill and action, and some goblins even got famous for joining the army as ruthless tacticians._
  
 **Racial Attribute Bonus:** Your Intelligence score increases by 2.  
 **Age:** Mature at early teens, live about 70 years.
 **Size:** Small.  
-**Creature Type:** Temuthen.  
+**Creature Type:** Temuþen.  
 **Speed:** 25' walking.  
 **Vision:** Lightvision.  
 **Curious Instinct:** You are proficient with Investigation. In addition, when you use the Dash action and are able to move, you can walk additional 10'. If you use the Dash action as a quick action using a special feature, the speed bonus is 5' instead.  
 **Make It Big Quick:** On each of your level ups, you may use up 1 proficiency point in whatever way you'd like. Using it to gain proficiencies does count towards your maximum.  
-**Languages:** You can speak, read, and write Temuthen and another language of your choice.
+**Languages:** You can speak, read, and write Temuþen and another language of your choice.
 - - -
 ## Subraces
 ### Deft Goblin

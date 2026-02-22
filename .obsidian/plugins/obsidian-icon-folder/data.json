@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 18,
+    "emojiStyle": "native",
+    "iconColor": "#2e00ad",
+    "recentlyUsedIcons": [
+      "LiPenBox",
+      "LiTag",
+      "LiDna",
+      "LiCrown",
+      "LiBug"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "World Information": "LiGlobe",
+  "Temuþen": "LiLetterText",
+  "Sign of Remembrance": "LiGamepad2",
+  "Sign of Remembrance/Items": "LiShoppingBag",
+  "Sign of Remembrance/Magic": "LiWand",
+  "Sign of Remembrance/Martial Techniques": "LiSword",
+  "Sign of Remembrance/Mechanics": "LiCog",
+  "Sign of Remembrance/Races": "LiDna",
+  "Sign of Remembrance/Inflicted Effects": "LiBug",
+  "Sign of Remembrance/Epic Influences": "LiCrown",
+  "Sign of Remembrance/Classes": "LiTag",
+  "Sessions": "LiPenBox"
+}

@@ -1,4 +1,4 @@
-#Race #Temuthen
+#Race #Temuþen
 - - -
 _Vidents are considered to be folks of knowledge, able to assess situations with impeccable wisdom. Worldly myths surround them, some linking them to the ancient Vorona who was born of the same race, calling them 'seeing ones'. Many settlements welcome vidents, hoping that their knowledge will improve their well-being, and so they are spread far and wide all across Temuthan._
  
@@ -6,11 +6,11 @@ _Vidents are considered to be folks of knowledge, able to assess situations with
 **Age:** Mature at early teens, live about 180 years.  
 **Size:** Medium.  
 **Appearance:** Vidents are on average a bit shorter than humans. Their skin color ranges from leathery beige in inquisitive vidents to smoother green in grove vidents, with two very small blunt horns which come out of their foreheads. Their appetite often makes them thinner than humans, although this is cultural, and can be nurtured otherwise.  
-**Creature Type:** Temuthen.  
+**Creature Type:** Temuþen.  
 **Speed:** 30' walking.  
 **Vision:** Lightvision.  
 **Instinctive Insight:** You are adept with Insight. In addition, once per short or long rest, as a reaction to being attacked, after the roll is declared but before damage is dealt, you may make a reaction check. If you succeed, make an Insight (Wisdom) check. The result becomes your AC against that attack.  
-**Languages:** You can speak, read, and write Temuthen.
+**Languages:** You can speak, read, and write Temuþen.
 - - -
 ## Subraces
 ### Grove Vident

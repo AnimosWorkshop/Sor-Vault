@@ -7,7 +7,7 @@ The multiverse has many types of creatures, from the giants of Temuthan to the u
 - Elementals - Creatures primarily 
 - Fey - Sentient creatures native to Preida of small to medium size. They are more connected to nature than humanoids are, which results in a myriad of adaptations of a specific races to the environment.
 - Helians - Sentient creatures native to Mt. Heliax, they populate both the mountain and its rings, and as the verses go by the mountain's foot as well.  
-- Temuthen - Sentient creatures native to [[Temuþan]], up to medium size. For historical reasons, starting from the Second Verse this excludes the dragons.
+- Temuþen - Sentient creatures native to [[Temuþan]], up to medium size. For historical reasons, starting from the Second Verse this excludes the dragons.
 - Hellenise - Sentient creatures native to Hell of small to medium size. Most have a tougher build than humanoids do, although they might not improve and train it due to the lack of need to.
     - Demons - Hellenise native to Frozen Hell. Their body is suited to life there due to their biological cold resistance.
     - Devils - Hellenise native to Burning Hell. Their body is suited to life there due to their biological fire resistance.

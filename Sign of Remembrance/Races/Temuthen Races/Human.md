@@ -1,15 +1,15 @@
-#Race #Temuthen
+#Race #Temuþen
 - - -
 _There is not much to say about humans - they are usually a part of any population, and adapt to the local cultures of most of the mixed settlements. They are usually loyal to authority while trying to break free as much as they can, and just, well - be humans, as humans usually are._  
 _Humans don’t have subraces as much as they have people with different learning capabilities - and the separation of the two allows that both flavorfully, as well as mechanically._
  
 **Age:** Mature at late teens, live about 120 years.  
 **Size:** Medium.  
-**Creature Type:** Temuthen.  
+**Creature Type:** Temuþen.  
 **Speed:** 30' walking.  
 **Vision:** Lightvision.  
 **Skilled:** You are proficient with one skill of your choice, or are an expert with a tool of your choice.
-**Languages:** You can speak, read, and write Temuthen.
+**Languages:** You can speak, read, and write Temuþen.
 - - -
 ## Subraces
 ### Gifted Human

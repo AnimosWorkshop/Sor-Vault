@@ -1,16 +1,21 @@
+---
+tags:
+  - Race
+  - Temuþen
+---
 - - -
 _As a culture, halflings developed a nonchalant attitude, trusting the world to fix itself for them, and so many become adventurers, yet not all seek gold and glory - and many live humble lives in small villages, seizing the day with relaxation._
  
 **Racial Attribute Bonus:** Your Dexterity score increases by 2.  
 **Age:** Mature at early 20s, live about 150 years.  
 **Size:** Small.  
-**Creature Type:** Temuthen.  
+**Creature Type:** Temuþen.  
 **Speed:** 25' walking.  
 **Vision:** Lightvision.  
 **Lucky:** When you roll a natural 1 for an attack roll, ability check, or saving throw, you may reroll. If you do, you must use the new roll. This feature may be used a number of times equal to your proficiency modifier per long rest.  
 **Brave:** Whenever an effect would cause you to make a save against Intimidation DC, you have advantage on the saving throw.  
 **Halfling Nimbleness:** You may move through the space of any willing creature.
-**Languages:** You can speak, read, and write Temuthen.
+**Languages:** You can speak, read, and write Temuþen.
 - - -
 ## Subraces
 ### Lightfoot Halfling

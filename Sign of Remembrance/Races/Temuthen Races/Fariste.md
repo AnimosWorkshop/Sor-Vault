@@ -1,4 +1,4 @@
-#Race #Temuthen
+#Race #Temuþen
 - - -
 _Faristes stand tall and proud of their legacy and consider themselves to be bulwarks of wisdom, attempting to prove it as they use their competitive nature to compete in the social ladder of any society. Although most faristes wouldn’t surround themselves with other fariste, fearing that the competitive aura might generate only toxicity, they tend to be kindly with other races and surround themselves with friends and rivals._
  
@@ -6,11 +6,11 @@ _Faristes stand tall and proud of their legacy and consider themselves to be bul
 **Age:** Mature at early 20s, live about 140 years.  
 **Size:** Medium.  
 **Appearance:** Faristes are taller than humans on average, with lean faces and bodies that are wider in the shoulder area and get thinner towards the bottom. They have more sunken features, small ears and nose and a pale skin.  
-**Creature Type:** Temuthen.  
+**Creature Type:** Temuþen.  
 **Speed:** 30' walking.  
 **Vision:** Lightvision.  
 **Unyielding Determination:** Once per short or long rest, whenever you roll a natural 2 to 10 on an: ability check, attack roll or saving throw, you may add your Willpower modifier to the natural roll.  
-**Languages:** You can speak, read, and write Temuthen.
+**Languages:** You can speak, read, and write Temuþen.
  - - -
 ## Subraces
 ### Exemplar Fariste

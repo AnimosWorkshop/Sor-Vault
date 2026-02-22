@@ -1,4 +1,4 @@
-#Race #Temuthen
+#Race #Temuþen
 Uncommon
 - - -
 >[!note]
@@ -18,7 +18,7 @@ Uncommon
 - Adults (huge): 12 starting hit points
 - Elders (gargantuan): 20 starting hit points
 
-**Languages:** You can speak, read, and write Temuthen.
+**Languages:** You can speak, read, and write Temuþen.
    
 - - -
 ## Draconic Archetypes
