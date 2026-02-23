@@ -3,6 +3,8 @@
 
 ### Custodem
 
+![[Custodem.png|150]]
+
 >[[Ogre#Mystic Ogre|Mystic]] [[Ogre]]
 ### Verkez
 
