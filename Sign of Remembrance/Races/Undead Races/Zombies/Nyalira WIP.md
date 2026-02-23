@@ -2,7 +2,7 @@
 - - -
 **Racial Attribute Bonus:**  
 **Age:**  
-**Size:** Medium.  
+**Size:** As you were in life.  
 **Creature Type:**  
 **Speed:**  
 **Vision:**  

@@ -3,7 +3,7 @@
 **Racial Attribute Bonus:** Your Wisdom score decreases by 1, and your Strength score increases by 1.  
 **Age:** Decay around 70 years after their undeath.  
 **Size:** As you were in life.  
-**Creature Type:** Undead  
+**Creature Type:** Undead
 **Speed**: 5' less than you had in life.  
 **Vision:** Nullvision, mistvision.  
 **Zombie Fortitude:** You lose 4 maximum hit points and your natural armor's base AC is lowered by 1, but are resistant to Necrotic damage.  

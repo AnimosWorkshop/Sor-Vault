@@ -21,7 +21,7 @@
 ### Venandi - God of Travel
 
 - -
-- -
+- [[Peralian Gods#Horais|Horias]] - The Trailblazer
 - -
 ### Gweldyn - God of Freedom
 
@@ -94,14 +94,14 @@
 
 ### Vorona - Goddess of Fate
 
-- [[Dahrian Gods#Hervo|Hervo]] - God of Foresight
+- [[Peralian Gods#Hervo|Hervo]] - God of Foresight
 - Kanasa - Goddess of Acceptance
 - [[Hellenise Gods#Azel|Azel]] - God of Preparation
 ### Laurien - Goddess of Peace
 
 - Veila - Goddess of Peace; The Directress (Directress of undead)
 - [[Limbani Gods#Ollial|Ollial]] - The Reaper
-- [[Dahrian Gods#Murca|Murca]] - Goddess of Introspection; The Nurturer (Caretaker of undead)
+- [[Peralian Gods#Murca|Murca]] - Goddess of Introspection; The Nurturer (Caretaker of undead)
 ### Delires - God of Solace
 
 - Sermona - Goddess of Hope (Borderkeeper of Dahrial)
