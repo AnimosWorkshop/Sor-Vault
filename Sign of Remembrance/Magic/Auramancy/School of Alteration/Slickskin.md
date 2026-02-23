@@ -2,11 +2,11 @@
  
 - Casting Time: Action
 - Range: Touch
-- Duration: 1 hour  
+- Duration: Restbound
 
-Trading power for mobility, your magic is channeled through a creature's skin, making it slippery to the touch. For the boon's duration, the creature is affected by the following changes:
+Trading power for mobility, your magic is channeled through a willing creature's skin, making it slippery to the touch. For the boon's duration, the creature is affected by the following changes:
 
-- The creature is resistant against bludgeoning damage.
+- The creature is resistant against kinetic damage.
 - The creature's movement speed is increased by 10'.
 - The creature has a +2 bonus to saving throws against the Grapple, Restrain or Topple actions, but a -2 penalty against the Shove action.
 - The creature's AC increases by 1.

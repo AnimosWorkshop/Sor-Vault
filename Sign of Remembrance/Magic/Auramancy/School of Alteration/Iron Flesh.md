@@ -2,9 +2,9 @@
  
 - Casting Time: Action
 - Range: Touch
-- Duration: 1 hour  
+- Duration: Restbound
 
-Trading mobility for power, your magic is channeled through a creature's flesh, hardening it into a metal-like substance. The affected creature is able to perform actions as it normally would, with the following changes:
+Trading mobility for power, your magic is channeled through a willing creature's flesh, hardening it into a metal-like substance. The affected creature is able to perform actions as it normally would, with the following changes:
 
 - The creature is resistant 1 against necrotic damage.
 - The creature's movement speed is reduced by 5'.

@@ -13,7 +13,7 @@ tags:
 | 4th             | [[#Ex Terra]]                         |
 | 5th             | [[#Natural Specialty Focus]]          |
 | 6th             | [[#Thorn Ward]]                       |
-| 7th             | [[#Instinct Sense]]                   |
+| 7th             |                                       |
 | 8th             | [[#Instinct Harmonization Specialty]] |
 | 9th             |                                       |
 | 10th            | [[#Sanguimancy]]                      |
@@ -109,5 +109,5 @@ Attuning to growth, your focus shifts to not on what was lost - but on what can 
  
 ### Sanguimancy
  
-As many know, the highest form of auramancy entails using one's own life force in order to exceed the limits of normal casting, but it comes in the form of expending the vitality of the mage's aura instead of their physical blood. At 10th level, you may use this knowledge to your advantage. When you cast a spell, you may use up your hit dice in order to upcast the spell. Each hit die you spend raises the spell's level and the auramancy modifier for that spell by 1, and you lose 1d8 hit points for each level. The affected spells act as if they were supplied an amount of mana equal to their appropriate spell level.  
+As many know, the highest form of auramancy entails using one's own life force in order to exceed the limits of normal casting, but it comes in the form of expending the vitality of the mage's aura instead of their physical blood. At 10th level, you may use this knowledge to your advantage. When you cast a spell, you may use up your hit dice in order to upcast the spell. Each hit die you spend raises the effective amount of mana spent spent for the spell, being able to exceed your permitted limit, and the auramancy modifier for that spell by 1; however, you lose 1d8 hit points for each additional spell level.
 Hit dice used this way are replenished as they normally would during long rests.

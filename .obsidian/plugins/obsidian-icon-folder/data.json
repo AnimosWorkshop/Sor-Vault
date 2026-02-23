@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#2e00ad",
     "recentlyUsedIcons": [
-      "LiPenBox",
-      "LiTag",
-      "LiDna",
-      "LiCrown",
-      "LiBug"
+      "LiBrain",
+      "LiListTree",
+      "LiHourglass",
+      "LiLeaf",
+      "LiPartyPopper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,16 @@
   "Sign of Remembrance/Inflicted Effects": "LiBug",
   "Sign of Remembrance/Epic Influences": "LiCrown",
   "Sign of Remembrance/Classes": "LiTag",
-  "Sessions": "LiPenBox"
+  "Sessions": "LiPenBox",
+  "Sign of Remembrance/Build Examples": "LiFileSpreadsheet",
+  "Sign of Remembrance/Stat Blocks": "LiBlocks",
+  "Sessions/Survivors Campaign": "LiTreePine",
+  "Sessions/Regional Information": "LiMap",
+  "Sessions/Survivors Campaign/Campaign Sessions": "LiBook",
+  "Sessions/Survivors Campaign/Non-Player Characters": "LiBookUser",
+  "Sessions/Survivors Campaign/The Party.md": "LiPartyPopper",
+  "Sign of Remembrance/Magic/Auramancy": "LiLeaf",
+  "Sign of Remembrance/Magic/Arcana": "LiHourglass",
+  "Sign of Remembrance/Magic/Compound Spells": "LiListTree",
+  "Sign of Remembrance/Magic/Histolecty": "LiBrain"
 }
