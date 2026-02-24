@@ -10,7 +10,7 @@ If arcane fields of the same type overlap, they merge and become one, meaning th
 -- - - -
 ## Arcane Field Effects
 
-### "The Earth's Answer"
+### The Earth's Answer
 
 #Fated #Excitable
 
@@ -21,7 +21,7 @@ Upon unraveling, the field directs some of the flow of magic down toward to the 
 * 11-19 - You coalesce the dust and manage to repel it in a direction of your choice. Make an arcane spell attack, with a 1d4 damage die.
 * 20 - You manage not only to coalesce the dust, but maintain it. If you see a ranged attack being made within 20' of you, you may use a reaction and make an arcane spell attack with a 1d4 damage die, and the DC being the opposing attack roll. On a hit, you reduce the attack's roll by 2, and it deals less damage equal to your damage roll.
 
-### "Swords to Plowshares"
+### Swords to Plowshares
 
 #Volatile
 
