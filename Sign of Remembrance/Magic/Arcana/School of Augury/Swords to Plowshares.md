@@ -3,10 +3,9 @@
 - Casting Time: 1 hour
 - Range: 150' sphere
 - Duration: 1 day
-- Exhausts by 1  
+- Exhausts by 1
 
-You manifest a vision of peace, rendering attacks ineffective. The area within a sphere around your current position becomes a peace zone for the duration, granting all creatures -4 to attack and damage rolls, and increasing their attacks' Fragile property by 4, while they are within the zone.  
-The zone persists even if you don't stay within it.
- 
-**At Higher Levels:** 
-* (+1) The attack and damage roll reduction and the Fragile property potency increase by an additional 1.
+You manifest a vision of peace, rendering attacks ineffective. The area within a sphere around your current position is infused with the field [[Arcane Field#"Swords to Plowshares"|"Swords to Plowshares"]]. The field lasts for the duration.
+
+**At Higher Levels:**
+* (+1) The field's radius is increased by 50'.
