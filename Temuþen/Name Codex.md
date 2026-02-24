@@ -19,11 +19,13 @@ The following are examples for words and bases from which names are constructed.
 * Retiene - maker
 * Sel - water
 * Skalien - protector
+* Tomire - rain
 * Virxa - flower
 
 ### Uncommon Names
 
 * Faris - bold one
+* Fenir - glorious one
 * Inien - uniter
 * Janalieþ - joy-seer
 * Þaj - riddle

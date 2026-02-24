@@ -286,6 +286,7 @@
 * tilkū - to place in space
 * tilkcimū - to locate
 * tomirū - to rain
+	* tomire - rain
 * traxtū - to complicate
 * trū - to drink
 * turū - to include
