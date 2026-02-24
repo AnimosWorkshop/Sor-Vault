@@ -56,7 +56,7 @@ You may use this feature a number of times equal to your proficiency modifier. T
  
 ### Sorcerous Annihilation
  
-At 2nd level, you learn the principle of nullification by applying magic negative to one that affects you. While you are affected by a curse lasting 24 hours or less, you may use your action and spend a spellcasting (for example: resonance, influence, mana, etc.) of the same level as that curse in order to end that curse, and gain temporary hit points equal to five times the curse's level. If that curse was of the same type you had used, you gain temporary hit points equal to ten times the curse's level instead.
+At 2nd level, you learn the principle of nullification by applying magic negative to one that affects you. While you are affected by a curse lasting 1 day or less, you may use your action and spend a spellcasting (for example: resonance, influence, mana, etc.) of the same level as that curse in order to end that curse, and gain temporary hit points equal to five times the curse's level. If that curse was of the same type you had used, you gain temporary hit points equal to ten times the curse's level instead.
 
 In addition, you have a bonus to saving throws against spell effects equal to half your metamage level, rounded up.
 

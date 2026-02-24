@@ -1,8 +1,8 @@
 #4th-Level #Arcana #Augury
  
-- Casting Time: 10 minutes
+- Casting Time: 1 hour
 - Range: 150' sphere
-- Duration: 24 hours
+- Duration: 1 day
 - Exhausts by 1  
 
 You manifest a vision of peace, rendering attacks ineffective. The area within a sphere around your current position becomes a peace zone for the duration, granting all creatures -4 to attack and damage rolls, and increasing their attacks' Fragile property by 4, while they are within the zone.  

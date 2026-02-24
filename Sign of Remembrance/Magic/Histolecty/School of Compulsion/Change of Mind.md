@@ -2,7 +2,7 @@
 
 - Casting Time: 1 hour
 - Range: Touch
-- Duration: 24 hours
+- Duration: 1 day
 - Exhausts by 3 
 
 You touch an unconscious creature, using their state as leverage to take ahold of their mind. The target must make a Willpower save, or have their mind be controlled over by the caster. The target becomes receptive for simple instructions, which it will attempt to do for the curse's duration. The target is still affected by its natural instincts, such as sleep or hunger, and will attempt to take care of them within the limitations of the instructions even if not instructed to do so, especially their survival instincts and fear of danger.  

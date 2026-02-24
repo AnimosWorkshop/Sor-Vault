@@ -8,6 +8,7 @@ Invention: 2V start
 - Casting Time: 4 hours
 - Range: 250' feet
 - Duration: 1 week
+- Exhausts by 2
 
 _After Saenka's sacrifice for the end of the First Cataclysm, her most prized possessions were buried at the garden of her home, which in time became a temple to the shortly-serving god._
  
