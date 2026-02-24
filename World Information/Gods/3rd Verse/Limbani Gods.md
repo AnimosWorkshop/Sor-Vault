@@ -4,6 +4,12 @@ In Limbo, the gods have long used an organized system of communication and polic
 
 ### Datson
 
+Datson is one of the oldest gods of 3V. Having proved his mettle to his god Kadaran in the Second Cataclysm, serving as his loyal advisor, Datson was quick to become a successor at a time when it was not yet clear what the new gods and successors are to do so long before the Cataclysm. How should they be chosen? Should the decision ever be final? How are the new gods supposed to help the surviving population, and spread their influence in the new era?
+
+[[Jektel]] was quick to draw lines about what the gods should _not_ do, but the opposite question was much tougher to answer. Datson was determined to not only answer that question, but motivate the gods to act: remind them that this was a new age, with new opportunities to aid the world. He wanted to encourage a new type of autonomy, both of the gods and of the people, and by that help the world recover from the trauma of losing so many lives, and the effective freedom of the [[Gods List#Areno, Architect of Temuþan|Temuþen gods]]. 
+
+Later in 2V, after the gods have aged more and refined their dominance and faith, Jektel divided the attention of his bishops and his own to other aspects of autonomy, encouraging both individual research of theology and sociology, but also in helping small aspiring communities to act in their own interests, all while staying within the shadows and pulling the strings from afar - just as Kadaran did so long ago.
+
 ### Halvir
 
 Halvir gained his name as an expert navigator in both Limbo and the other realms, as he lived at a time where gods experimented with creating more stable portals to send small-scale expeditions through the different realms. Originally a follower of [[Gods List#Venandi - God of Curiosity|Venandi]], "You are what you seek" is a common saying of the god. Yet what stands as the passion of Halvir is not the thrill of discovering a new place; it does not have to be a new place. What Halvir seeks is knowing that his talent and craft improve, feeling the thrill of knowing that a planned journey has been successfully completed and that his crew is safe because of him.
