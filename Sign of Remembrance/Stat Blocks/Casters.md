@@ -284,3 +284,27 @@
 
 ^cec92f
 
+-- - -
+## 5th Level
+
+>[!danger]- Loner Druid
+>>[!info]- Basics
+>>* [[Orc#Nomad Orc|Nomad]] [[Orc]]
+>>* Attributes - 18 / 16 / 8 / 18 / 11 / 10 / 16
+>>* Saves - +5 / +6 / +7 / +5, +1 against spells (staff)
+>>* HP - 56, 4d8
+>>* AC - 14 chain shirt (piercing, lightning) + 1 against spells (staff)
+>>* Movement - 30' walking
+>
+>>[!info]- Specifics
+>>* Skills - Nature (Wisdom) +10, Athletics (Strength) +8
+>>* Classes - [[Druid#Protection|Protection]] [[Druid]]
+>>	* [[Druid#Ex Terra]]
+>>* Auramantic Spells (Bonus +7, DC 17) - 17 mana:
+>>	* 1st-Level - [[Mend Wounds]], [[Disarming Shock]], [[Purifying Wind]]
+>>	* 2nd-Level - [[Grasping Vines]], [[Minor Familiar]]
+>>	* 3rd-Level - [[Agitate]], [[Iron Flesh]]
+>>* Arms:
+>>	* [[Runecarver#Spell Foci|Staff]]
+
+^2ea803

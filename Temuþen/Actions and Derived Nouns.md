@@ -189,6 +189,7 @@
 * macū - to blind
 	* mac - sand
 	* macklazo - quicksand
+* maflū - to run
 * margū - to lighten
 	* marga - light
 	* margo - spark

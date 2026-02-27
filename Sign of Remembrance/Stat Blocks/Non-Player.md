@@ -22,6 +22,28 @@
 >>	* Horn (medium; finesse, natural) - 1d6 + 2 piercing damage.
 ^d147fa
 
+>[!danger]- Edcral
+>>[!info]- Basics
+>>- Large Beast
+>>- Attributes - 20 / 14 / 14 / 10 / 6 / 10 / 12
+>>- Saves - +8 / +5 / +3 / +4
+>>- HP - 65, 4d10
+>>- Resistances - slashing 1, piercing 1
+>>- AC - 15 natural (bludgeoning, kinetic)
+>>- Movement - 30' walking, 10' climbing
+>>- Vision - lightvision
+>
+>>[!info]- Specifics
+>>- Skills - Athletics (Strength) +9, Intimidation (Strength) +8, Perception (Wisdom) +4
+>>- Arms:
+>>	- Claw (light; natural) - 1d6 + 5 slashing damage.
+>>	- Bite (medium; natural) - 1d8 + 5 piercing damage. On a hit, the bear may choose to grapple the target as a bonus action.
+>>- Roar - As an action, the bear lets out a roar. All enemies of the Edcral within 15 feet must succeed on a Willpower against the bear's basic Intimidation (Strength) DC, or lose their quick action, and have to use at least half of their movement on their next turn to get away from the bear if possible.
+>>- Reactions:
+>>	- Defensive Swipe - When hit by a melee attack, the bear can make a Claw attack against the attacker as a reaction. On a successful hit, the attacker takes the claw damage and the bear gains temporary HP equal to the damage dealt.
+
+^00b0d0
+
 >[!info]- Kxotedor
 >This night predator is a fierce animal native to the mountainous regions of Temuþan, such as Loþano and Estrana. Its jaw can open wide, enabling it to bite and chew big animals relative to its own size. It communicates with its mouth open, making the sounds which come out sound like low wheezes: loud and clear for those with ears honed for such frequencies such as itself, but relatively quiet for most. Kxotedor packs are small, ranging from 3 to 5 adults, with each female giving birth to one cub at a time, of whom the pack takes care until adulthood.
 
@@ -97,7 +119,7 @@
 >>	* Stride - As a quick action, the elemental may teleport up to 20' to a point it can see. Creatures within 5' must make an Initiative save, taking 4d4 damage of the chosen element or half on a successful save.
 >>* Emanation - While above half of its maximum HP, the elemental emanates an aura of light, null or dark, depending on its element, in its 5' cube area.
 
->[!danger]- Grave Guardian
+>[!danger]- Grave Guardian WIP
 >>[!danger]- Body
 >>>[!info]- Basics
 >>>* Large Construct
@@ -115,7 +137,7 @@
 >>>	* Kick (heavy, natural) +1 - 2d6 + 4 bludgeoning, hit enemies must make a Resilience save against natural Athletics (Strength) or be shoved.
 >>>	* Stomp (heavy, natural) +1 - 1d6 + 4 in a 5' sphere, hit enemies must make an Initiative save against natural Athletics (Strength) or fall prone.
 >
->>[!danger]- Arms (Right is Cold, Left is Fire)
+>>[!danger]- Arms (Right is Cold, Left is Fire) WIP
 >>>[!info]- Basics
 >>>* Small Elemental
 >>>* Attributes - 16 / 14 / 14 / 14 / 14 / 8 / 10
