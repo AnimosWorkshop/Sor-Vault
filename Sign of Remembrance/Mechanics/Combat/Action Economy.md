@@ -36,7 +36,7 @@ It is important to mention that movement can be used before and after other acti
     - Default - The creature uses minimal effort to fly, and only [[Damage and Death#Fall Damage|falls]] to the ground when it wishes to or when it becomes unconscious or its movement speed drops to 0.
     - (Active) - The creature falls to the ground in the end of its turn. It may attempt an [[Damage and Death#Fall Damage|Acrobatics (Dexterity) check]] to not fall prone.
     - (Levitating) - The creature actively chooses their direction of movement, not restricted to an unstable mechanical mechanism such as wings. They can't be made to fall without willing to, unless the levitation effect needs to be maintained consciously.
-    For non-levitation flight, mechanical instability causes ranged attacks to be made with a -2 penalty to the attack roll. 
+    For non-levitation flight, mechanical instability causes ranged attacks to be made with a -1 penalty to the attack roll. 
 - Burrowing - the creature may move through solid ground without issue, and through semi-solid ground as if it were difficult terrain.
 - Climbing - the creature may move on vertical spaces without issue, unless they are slippery or have no gripping points.
 - Swimming - the creature may move through liquids without issue, and through viscous liquids as if they were difficult terrain.
@@ -115,7 +115,7 @@ Quick actions are things a creature can do which take up little time. Their vers
 - **Disengage** - you attempt to flee any opponent which might be waiting for an opportunity to strike you. Make an Acrobatics (Dexterity) roll. Until the end of your turn, any [[#Opportunity Attacks|opportunity attack]] roll made to hit you automatically misses if it is lower than your roll. ^665abd
 - **Disorient** - you attempt to throw a creature off-balance using your immediate surroundings, such as kicking dirt into your opponent's eyes, knocking a nearby branch towards their face, etc. The target creature within 5' must make an Initiative saving throw against your basic Sleight of Hand (Dexterity) DC or against your basic Deception (Charisma) DC. On a fail, they are [[Conditions#Pacified|pacified]] 1 until the end of their next turn, or pacified 2 if you have a free hand. ^1e684d
 - **Inspire** - you inspire courage and unity within an ally. A creature within 30' that can hear you and understands a language you talk in gets a bonus to their first attack during their next turn equal to third of your Persuasion (Charisma) or Performance (Charisma) modifier. A creature can't be inspired twice at the same time. ^9bb451
-- **Minor interaction** - the creature interacts with different objects within its reach. Examples: ^359f07
+- **Minor interaction** - the creature interacts with different objects within its reach. Examples include: ^359f07
     - Pick up a small object (GM's decision for what counts as a small or easy to pick up item)
     - Draw or stow an item without the Heavy property
     - Apply a [[Alchemist#Substances|substance]] to a weapon they hold

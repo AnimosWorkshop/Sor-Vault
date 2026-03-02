@@ -82,6 +82,9 @@ The [[Action Economy#^3d44e8|search]] action becomes a quick action for you, but
 In addition, your ability to track and focus down trackers is enhanced. Whenever you successfully [[Action Economy#^3d44e8|search]] against a creature, you get 2 clues against them, and whenever you [[Action Economy#^047348|assess]] against a target, you get 1 clue against them for each fact you may learn (regardless of the options you choose).
 When you find at least 4 clues against a creature, your understanding of them is clearer - giving you a +2 bonus for attack rolls and skill checks against them for the next 10 minutes.
 
+
+You also gain 1 proficiency level in either Investigation, Perception or Insight.
+
 #### Skirmisher
 
 You gain a 15' climbing speed, and when you fall, you take damage as if you fell up to 20' less as long as you are conscious.

@@ -68,10 +68,11 @@ Your mind becomes more aware of the creatures you are bound to. While bound to a
   
 ### Enhanced Bond Specialty
  
-Starting at 4th level, you learn a special technique which allows you to manipulate one histolectual bond using a quick action in order to add an additional effect over it using an amount choose to spend at least 1 influence, and up to half your mentalist level. Choose one of the following enhancements to learn. Only one enhancement may be applied at a time, and it lasts until a minute passes, you or the other creature become unconscious, or you switch the bond.
+Starting at 4th level, you learn a special manipulation of bonds, allowing you to modify one histolectual bond in order to add an additional effect over it. This uses an amount of influence of your choice, at a minimum of 1 and up to half your mentalist level. 
+Choose one of the following enhancements to learn. Only one bond may be manipulated so at a time, and it lasts until you or the other creature become unconscious, or until you switch the bond.
  
 #### Maddening Bond
-When you damage or scare a bound creature, you may activate the bond to terrorize the target as the whispers of madness creep in, making you deal 1d3 additional sensory damage whenever you damage it or when it fails on its saving throw against your Demoralize quick action. This damage die increases by 1 for each influence spent beyond the first.
+When you damage or scare a bound creature, you may activate the bond to terrorize the target as the whispers of madness creep in, making you deal 1d3 additional sensory damage whenever you damage it or when it fails on its saving throw against your spells or Demoralize quick action. This damage die increases by 1 for each influence spent beyond the first.
  
 #### Encouraging Bond
 When you target an allied creature using a spell, you may activate the bond to inspire the target to move on stronger than before, restoring 1d3 hit points whenever you target it with a spell or when you target it with your Inspire quick action. This healing die increases by 1 for each influence spent beyond the first.
@@ -88,16 +89,13 @@ In addition, you become proficient with Wits and Willpower saving throws.
 
 ### Enhanced Bond Heightening
 
-At 7th level, your expertise over enhanced bonds allows you to become more versatile in how you apply them. Choose one of the following features:
+At 7th level, your expertise over enhanced bonds allows you to become more versatile in how you apply them. When enhancing a bond, 1 influence is fulfilled automatically without you needing to spend it. In addition, choose one of the following features:
 #### Bond Versatility
 
 You learn how to use the second [[#Enhanced Bond Specialty|enhanced bond]]. You may still maintain only one enhanced bond in total at a time, according to the rules detailed above.
 #### Communal Enhanced Bond
  
-If you currently maintain only one enhanced bond, you can choose to either:
-
-- Maintain another enhanced bond of the type you have learned.
-- Use a quick action and the same amount of influence used for your learned enhanced bond to share the effect with another creature you have histolectually bound, allowing them to trigger the same effect on your enhanced bond for as long as both are bound.
+You are able to sustain two [[#Enhanced Bond Specialty|enhanced bonds]] of the type you have learned.
  
 ### Performative Casting
  
@@ -106,7 +104,7 @@ You may only use this feature once per round.
 
 ### Communal Branching
 
-Constantly sustaining connections to the creatures around you not only allows you to influence your surroundings, but to be aware of it. Starting at 10th level, the creatures you bond via your [[#Enhanced Bond Specialty|enhanced bond]] share information with you constantly about the creatures they are aware of.
+Constantly sustaining connections to the creatures around you not only allows you to influence your surroundings, but to be aware of it. Starting at 10th level, you may sustain 1 additional [[#Enhanced Bond Specialty|enhanced bond]]. In addition, the creatures you bond via your enhanced bond share information with you constantly about the creatures they are aware of.
 * You are aware to creatures they are histolectually bound to, and when they use the [[Histolecty#^8e3f1d|bind quick action]] you may use 1 reaction to switch some of your bonds to these creatures.
-* You have advantage for Perception (Wisdom) checks against creatures attempting to hide while one of your enhanced bond creatures are aware of them.
+* You have advantage for Perception (Wisdom) checks against creatures attempting to hide while one of your enhanced bond creatures are aware of them, including themselves.
 * You have advantage on Willpower saves for reactions triggered by your enhanced bond creatures.
