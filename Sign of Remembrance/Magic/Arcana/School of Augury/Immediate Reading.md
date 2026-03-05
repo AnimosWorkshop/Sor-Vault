@@ -4,7 +4,6 @@ tags:
   - Arcana
   - Augury
 ---
-
 * Casting Time: Action
 * Range: 45'
 * Duration: Instantaneous
