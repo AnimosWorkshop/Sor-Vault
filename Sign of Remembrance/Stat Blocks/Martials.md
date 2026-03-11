@@ -102,7 +102,7 @@
 >>* Saves - +4 / +6 / +5 / +4
 >>* HP - 36, 2d8
 >>* Resistances - hardened weave (slashing 1)
->>* AC - 17 studded leather (slashing, acid) + 2 kite shield
+>>* AC - 17 studded leather (slashing, acid) + 1 buckler
 >>* Movement - 30' walking
 >
 >>[!info]- Specifics

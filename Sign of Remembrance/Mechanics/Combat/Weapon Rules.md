@@ -6,7 +6,7 @@ Many features refer to either increasing or decreasing damage dice. Damage dice 
  
 It is easy to tell that as damage dice increase, they eventually get to a hard stop with 24 maximum damage. What increases, then, is consistency, as rolling more than 1 die results in rolls skewed more towards the middle, meaning they are more consistent.
  
-As a creature and their weapons, increase in size, the amount of damage dice they roll increase with them. For each size category above Medium, the creature gains an additional damage die. For example, a large greatsword wielded by a large creature deals 4d6 base damage.
+As a creature and their weapons, increase in size, the amount of damage dice they roll increase with them. For each size category above Medium, the damage die increases by 2. For example, a large greatsword wielded by a large creature deals 2d10 base damage.
 ### Nonlethal Attacks
  
 Weapons can also be used to use nonlethal attacks, meaning that if it reduces the creature's health to 0, they will render the creature stable, instead of dead or in need to roll death saving throws. In order to do so, the weapon must deal bludgeoning damage.

@@ -2,6 +2,7 @@ The following are examples for words and bases from which names are constructed.
 
 ### Common Names
 
+* Aren - worship (here in a religious sense)
 * Bren - wood
 * Carnier - freedom
 * Danro - courage (also a genus of an animal)
@@ -16,6 +17,7 @@ The following are examples for words and bases from which names are constructed.
 * Lirika - promise
 * Marga - light
 * Mocien - causer
+* Nivas - servitude (here in a religious sense)
 * Retiene - maker
 * Sel - water
 * Skalien - protector

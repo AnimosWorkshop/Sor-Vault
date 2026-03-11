@@ -288,6 +288,8 @@
 * tilkcimū - to locate
 * tomirū - to rain
 	* tomire - rain
+* tonkū - to mine
+	* tonk - rock
 * traxtū - to complicate
 * trū - to drink
 * turū - to include

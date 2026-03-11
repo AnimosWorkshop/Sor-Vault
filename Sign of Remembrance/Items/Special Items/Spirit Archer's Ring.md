@@ -9,4 +9,5 @@ When making an attack, the wearer may use their other hand in order to "draw" fr
 
 If the attuned used the martial bonus, the damage roll is increased by their Charisma modifier. If they used the histolectual bonus, the damage roll is increased by their Dexterity modifier.
  
-><u>Note:</u> The ring does not have the Propulsive property, and the ammunition needed is by default provided by the ring itself.
+>[!note]
+>The ring does not have the Propulsive property, and the ammunition needed is by default provided by the ring itself.

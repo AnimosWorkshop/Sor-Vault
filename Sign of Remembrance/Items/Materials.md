@@ -53,6 +53,7 @@ It is also important to note the conversion rate - 100 cc per 1 sc, and 100 sc p
 | Bronze (Standard) | 6 sc             | Composition: 85% copper, 15% tin  |
 | Iron              | 60 cc            |                                   |
 | Tin               | 12 sc            |                                   |
+
 ### Preida
 
 | **Material** | **Value / Bulk** | **Notes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

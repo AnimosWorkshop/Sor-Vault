@@ -22,25 +22,31 @@
 >>	* Horn (medium; finesse, natural) - 1d6 + 2 piercing damage.
 ^d147fa
 
->[!danger]- Edcral
+
+>[!info]- Tonkcral
+>A large animal, with its name meaning 'stone monarch'. It tends to leave in forests, the core of its body large and without any fur. Its skin is light gray, its texture solid, almost resembling an inorganic object; but do not let its stationary appearance fool you. Tonkcrals hunt by pretending to be ordinary rocks in the forest, being able to compact their limbs in a tight fashion to look like creases in the rock. Then, at a moment's notice, their body is shot up, giving them time momentum to attack while their prey is in shock.
+
+>[!danger]- Tonkcral
 >>[!info]- Basics
 >>- Large Beast
->>- Attributes - 20 / 14 / 14 / 10 / 6 / 10 / 12
->>- Saves - +8 / +5 / +3 / +4
->>- HP - 65, 4d10
+>>- Attributes - 20 / 14 / 14 / 10 / 12 / 8 / 14
+>>- Saves - +8 / +5 / +4 / +5
+>>- HP - 70, 4d10
 >>- Resistances - slashing 1, piercing 1
 >>- AC - 15 natural (bludgeoning, kinetic)
->>- Movement - 30' walking, 10' climbing
+>>- Movement - 30' walking
+>>	- Bushes shorter than half the height of the tonkcral count as difficult terrain.
 >>- Vision - lightvision
 >
 >>[!info]- Specifics
 >>- Skills - Athletics (Strength) +9, Intimidation (Strength) +8, Perception (Wisdom) +4
 >>- Arms:
->>	- Claw (light; natural) - 1d6 + 5 slashing damage.
->>	- Bite (medium; natural) - 1d8 + 5 piercing damage. On a hit, the bear may choose to grapple the target as a bonus action.
->>- Roar - As an action, the bear lets out a roar. All enemies of the Edcral within 15 feet must succeed on a Willpower against the bear's basic Intimidation (Strength) DC, or lose their quick action, and have to use at least half of their movement on their next turn to get away from the bear if possible.
+>>	- Claw (light; natural, reach) - 1d8 + 5 slashing damage.
+>>	- Bite (medium; natural) - 1d12 + 5 piercing damage. If the damage rolled exceeds the average (normally 11.5), the target must make a Resilience save or lose 1d4 life from bleeding.
+>>- Sudden Thrashing - As an action, the tonkcral gets up and displays its massive size. All enemies within 25' of it must succeed on a Willpower against the tonkcral's basic Intimidation (Strength) DC, or lose their quick action, deal 2 less damage to it until the start of its next turn, and have to use at least half of their movement on their next turn to get away from it if possible. If this is the first action the tonkcral performs to leave its Natural Camoflague state, this is made with disadvantage.
 >>- Reactions:
->>	- Defensive Swipe - When hit by a melee attack, the bear can make a Claw attack against the attacker as a reaction. On a successful hit, the attacker takes the claw damage and the bear gains temporary HP equal to the damage dealt.
+>>	- The Best Defense - When hit by a melee attack, the tonkcral can make a Claw attack against the attacker by using 2 reactions.
+>>- Natural Camoflague - The tonkcral may disguise itself as a large rock if it stays stationary in a location for over a minute. While disguised this way, it has a +10 bonus to Stealth (Dexterity) checks and Deception (Charisma) checks.
 
 ^00b0d0
 
