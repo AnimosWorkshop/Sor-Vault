@@ -11,18 +11,18 @@ When a creature dies, it must make a Willpower saving throw, with a DC of 20 + t
 - Revenge - [[Banshee]]
 - Restraint - [[Hovler]]
 
-Zombie races perform their undeath in 2d4 days from their death, and Ghost races perform their undeath in 1d4 days from their death. If a creature's body is mutilated dramatically during that period, the creature cannot undie. Careful burial, however, does not count as mutilation.
+Zombie races perform their undeath in 2d4 days from their death, and Ghoul races perform their undeath in 1d4 days from their death. If a creature's body is mutilated dramatically during that period, the creature cannot undie. Careful burial, however, does not count as mutilation.
  
 When a creature undies, the undead racial features are added to the creature's standard racial features. This comes with a few exceptions, which are also common for most, if not all, undead races:
 - Size - the creature's original size remains.
 - Creature Type - the creature becomes Undead in addition to its original creature type.
 - Speed:
     - Zombies tend to have 5' less movement speed than the creature's original speeds.
-    - Ghosts tend to preserve the creature's original speeds.
+    - Ghouls tend to preserve the creature's original speeds.
 - Vision - the creature's original vision is replaced with nullvision and mistvision.
 - Fortitude:
     - Zombie Fortitude - The creature loses 4 maximum hit points and their natural armor's base AC is lowered by 1, but they are resistant to Necrotic damage.
-    - Ghost Fortitude - The creature loses 8 maximum hit points and their AC is lowered by 2, but they are resistant to: Slashing, Bludgeoning, Piercing damage, and are resistant 2 to Necrotic damage.
-- Languages - all undead learn Peralian upon their undeath.
+    - Ghoul Fortitude - The creature loses 8 maximum hit points and their natural armor's base AC is lowered by 1, but are resistant to kinetic damage.
+- Languages - all undead automatically learn Peralian upon their undeath.
  
-While zombies still need to eat, ghosts may feast on surrounding aura passively to maintain themselves. However, all undead still require [[Travel and Rest#Rest|sleep]] to not become fatigued. In addition, all undead continue to age and decay passively, according to their undead race.
+While zombies still need to eat, ghouls may feast on surrounding aura passively to maintain themselves. However, all undead still require [[Travel and Rest#Rest|sleep]] to not become fatigued. In addition, all undead continue to age and decay passively, according to their undead race.
