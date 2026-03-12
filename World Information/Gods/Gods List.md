@@ -45,7 +45,7 @@
 
 - [[Hellenise Gods#Verkez|Verkez]] - Goddess of the Crowds
 - [[Fey Gods#Kitas|Kitas]] - God of Rhetoric
-- [[Temuþen Gods#Lirika|Lirika]] - Goddess of Information
+- [[Temuþen Gods#Lirika|Lirika]] - The Truthseeker
 ### Armogon - God of Justice
 
 - -

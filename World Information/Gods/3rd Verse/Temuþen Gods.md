@@ -49,6 +49,8 @@ A rather mysterious god who has gone all the more into the shadows ever since th
 
 In 1271 2V, Lirika attempted her most dangerous and fatal gambit yet, attempting to kidnap the heir of the Puppeteer clan, [[#Alieca Roid]] from her mother, which set off a war whose consequences only truly ended with the demise of the Silver Dragonland in the year 21 3V. Lirika has not been accepted as a full citizen of any country in Temuþan, aside from [[World Information/Realms/Temuþen Countries/Breniskal|Breniskal]], where she can stay but not take any political role, as her people were annexed into it.
 
+As an idealist god, Lirika believes in the need to uncover the truth of the interweaving nature of reality, and deny any distortion of the truth for any cause. For this reason, she assumes the title of Truthseeker.
+
 ### Þea of Maþak
 
 >[[Cubare#Protector Cubare|Protector]] [[Cubare]]; Leadership [[Paragon]] 2nd, [[Trickster]] 3rd, [[Nullifier]] 5th

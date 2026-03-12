@@ -83,9 +83,10 @@
 * feznū - to befriend
 	* feznien - friend
 	* feznieþ - friendship
-* flexū - to pull / to draw (from something)
 * fikanū - to notice
 * fivū - to imagine / to wonder
+* flasū - to dress / to put on
+* flexū - to pull / to draw (from something)
 * forū - to heat
 	* forbolū - to melt
 * foxū - to start / to begin
@@ -268,6 +269,8 @@
 * satū - to touch
 * selū - to flow
 	* sel - water
+* septū - to verify
+	* septieþ - truth
 * skalū - to defend / to protect
 	* skalieng - shield / armor / wall
 * soknū - to attempt / to try
@@ -279,6 +282,7 @@
 * tafū - to transport
 * takladū - to accept
 * talarū - to enjoy
+* tarpū - to uncover / to reveal
 * tasrū - to celebrate
 * tatū - to simplify
 * tegū - to refer (to someone)
@@ -355,5 +359,7 @@
 * zefū - to liken
 * mal-zefū - to be alike
 * zinevū - to give up
+* zortū - to help
+	* zorta - help
 * zormū - to place in time
 	* zorma - time
