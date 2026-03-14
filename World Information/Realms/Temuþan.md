@@ -17,6 +17,6 @@ For this reason, two gods who have lost their homes - [[Temuþen Gods#Vilidin|Vi
 * 18 - Foundation of [[Avsekoper]] (Copperoot) as a country in place of Copperland, and [[Sessions/Survivors Campaign/Non-Player Characters/Akelfutes|Akelfutes]] (Redpoint) in place of the Red Dragonland
 * 20 - Dissolution of the White Dragonland and division of land between Urevneþ and Avsekoper
 * 21 - Dissolution of the Silver Dragonland
-* 22 - Foundation of [[World Information/Realms/Temuþen Countries/Breniskal]] in place of the Green Dragonland and the [[Bronze Archipelago]] in place of the Bronze Dragonland
+* 22 - Foundation of [[World Information/Realms/Temuþen Countries/Breniskal|Breniskal]] in place of the Green Dragonland and the [[Bronze Archipelago]] in place of the Bronze Dragonland
 
 ![[Temuþan.png]]

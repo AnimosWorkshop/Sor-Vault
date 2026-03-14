@@ -212,6 +212,7 @@
 * nirū - to release
 * nivasū - to serve
 * nomū - to rest
+* nukalū - to ride
 * ogenū - to insist
 * oparsū - to curl
 * orkū - to travel

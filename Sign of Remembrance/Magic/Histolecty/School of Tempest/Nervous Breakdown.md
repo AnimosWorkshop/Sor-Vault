@@ -1,7 +1,12 @@
-#4th-Level #Histolecty #Tempest #Curse
-Uncommon
- 
-- Casting Time: Channel
+---
+tags:
+  - 4th-Level
+  - Histolecty
+  - Tempest
+  - Curse
+Rarity: Uncommon
+---
+ - Casting Time: Channel
 - Range: 30'
 - Duration: Concentration, up to 1 minute  
 
