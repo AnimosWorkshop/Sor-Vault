@@ -54,7 +54,6 @@
 	* dorfpram - settlement
 * dorū - to sleep
 	* dor - night
-	* dora - dark
 * drobū - to weaken
 * dudunū - to list
 	* dudunieþ - list
