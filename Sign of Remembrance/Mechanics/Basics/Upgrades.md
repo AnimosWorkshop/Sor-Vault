@@ -2,9 +2,9 @@
  
 Each piece of equipment may be enchanted with one of each of the upgrade types. These types include: potency, functionality and property upgrades.
 
-- **Potency** upgrades (mostly in the form of runes) increase the raw power of the equipment by the specified modifier (for example, +1). Potency runes can be upgraded from one to the next by paying the price difference.
+- **Potency** upgrades (mostly in the form of runes) increase the raw power of the equipment by the specified modifier (e.g. +1). Potency runes can be upgraded from one to the next by paying the price difference. Potency upgrades of different types (e.g. +1 spell focus and +1 weapon for a [[Runecarver#Spell Foci|scepter]]) stack on the same item.
 - **Functionality** upgrades (mostly in the form of physical alteration of the item) change how the equipment behaves or reacts based on its natural function. Each item may have one _minor_ and one _major_ functionality upgrade. In order to add more, it costs an additional 140 sc for a minor upgrade or 280 sc for a major upgrade. ^c655c3
-- **Property** upgrades (mostly in the form of runes) are upgrades which don't change an item's raw potency or natural functional use. This upgrades may be added without a restriction.
+- **Property** upgrades (mostly in the form of runes) are upgrades which don't change an item's raw potency or natural functional use. These upgrades may be added without a restriction.
  
 In the items section, many upgrade recipes are written with a category of items in parentheses. The category refers to which items can be enhanced using these upgrades, for example:
 
