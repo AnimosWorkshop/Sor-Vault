@@ -261,6 +261,7 @@
 * safū - to add
 	* safes - also / too
 	* safieren - additionally
+* satekū - to empathize
 * savū - to work
 * savecū - to task
 * savikū - to think
@@ -341,6 +342,7 @@
 * vū - to let / to allow
 * xabilū - to gather
 * xalū - to improve
+* xandonū - to regard
 * xedanū - to unlock
 * xelfū - to discard
 * xofū - to finish
