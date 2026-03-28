@@ -49,7 +49,7 @@ A rather mysterious god who has gone all the more into the shadows ever since th
 
 In 1271 2V, Lirika attempted her most dangerous and fatal gambit yet, attempting to kidnap the heir of the Puppeteer clan, [[#Alieca Roid]] from her mother, which set off a war whose consequences only truly ended with the demise of the Silver Dragonland in the year 21 3V. Currently, Lirika has not set up any known permanent residence, including in [[World Information/Realms/Temuþen Countries/Breniskal|Breniskal]], who implore her to have station in the country with the caveat of refusing to taking any political role. Lirika never responded to this offer, as it seems to her to only serve the appearance of the country to the others.
 
-As an idealist god, Lirika believes in the need to uncover the truth of the interweaving nature of reality, and deny any distortion of the truth for any cause. For this reason, she assumes the title of Truthseeker.
+As an idealist goddess, Lirika believes in the need to uncover the truth of the interweaving nature of reality, and deny any distortion of the truth for any cause. For this reason, she assumes the title of Truthseeker.
 
 ### Þea of Maþak
 
@@ -59,9 +59,9 @@ As an idealist god, Lirika believes in the need to uncover the truth of the inte
 
 This act has been the first of its kind, as no mortal had ever killed a god prior to this point. This proved that the act was possible, and a danger to the position of the gods. However, the Limbani council of gods decided to elevate Þea instead of punishing her, recognizing both her case against Nil, and the national case against one god putting an entire dragonland under his thumb.
 
-Þea herself acts very differently to Nil in her position, and her first act was to appoint local leaders from throughout her country to rule over the people, whereas she only served as an ideological beacon. This worked well and earned her the favor of the northern half of the country, whereas the southern half remained loyal to Nil's spiritual successor, until the south's uprising by Loznia in the year 1276 2V, which brought peace to the dragonland right until the Great Dragon War.
+Þea herself acts very differently to Nil in her position, and her first act was to appoint local leaders from throughout her country to rule over the people, whereas she only served as an ideological beacon. This worked well and earned her the favor of the northern half of the country, whereas the southern half remained loyal to Nil's spiritual successor, until the south's uprising by Loznia in the year 1276 2V, which brought peace to the dragonland right until the Great Dragon War. The new war forced Þea and her people flee en masse to [[Avsekoper]], the country of her [[#Meralien (Meralyn) Martor|husband]], where she keeps her ideology and takes care of both her people and the greater geopolitical entity of Carniules. 
 
-The new war forced Þea and her people flee en masse to [[Avsekoper]], the country of her [[#Meralien (Meralyn) Martor|husband]], where she keeps her ideology and takes care of both her people and the greater geopolitical entity of Carniules.
+Þea is a very active goddess, especially throughout Temuþan but also in other worlds. She supports leaders which head either self-governed communities, or communities which they are personally, intimately familiar with. It is of her belief that leaders can often times be too outreaching, without understanding the consequences of their decisions. In the worse cases, leaders can even ignore the suffering under their rule altogether, using their unfamiliarity as a strength.
 
 ### Meralien (Meralyn) Martor
 
@@ -79,7 +79,7 @@ Ac grew to become the second heir of the noble Farnor family in the [[World Info
 
 In 1274 2V, when [[Fey Gods#Sanae|Sanae]] came to Temuþan after years of solitude in search for an archmissionary for [[Gods List#Tezik - God of Change|Tezik]], she came into Ac as he and his peers have found a sealed cave in northern Loþano. The explorers managed to recover [[Gale]] from the cave, which used to be Tezik's oldest temple, and Ac declared his servitude to the god after his findings.
 
-As a god, Ac believes that the focus of change should be for the weak, the downtrodden who often don't find it possible to look beyond their current reality and even dream of a better future. He is a driving force behind TDA's welfare service, while keeping his place as a figure in [[World Information/Realms/Temuþen Countries/Breniskal]] despite his choosing being very close toward the end of 2V, a planner who thinks best for the short term; a self-contradictory man which believes in and does what's best for his people.
+As a god, Ac believes that the focus of change should be for the weak, the downtrodden who often don't find it possible to look beyond their current reality and even dream of a better future. He is a driving force behind TDA's welfare service, while keeping his place as a figure in [[World Information/Realms/Temuþen Countries/Breniskal|Breniskal]] despite his choosing being very close toward the end of 2V, a planner who thinks best for the short term; a self-contradictory man which believes in and does what's best for his people.
 
 ### Alieca Roid
 
