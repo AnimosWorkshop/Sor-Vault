@@ -41,11 +41,11 @@
 >>[!info]- Specifics
 >>- Skills - Athletics (Strength) +9, Intimidation (Strength) +8, Perception (Wisdom) +4
 >>- Arms:
->>	- Claw (light; natural, reach) - 1d8 + 5 slashing damage.
+>>	- Slam (light; natural, reach) - 1d8 + 5 slashing damage.
 >>	- Bite (medium; natural) - 1d12 + 5 piercing damage. If the damage rolled exceeds the average (normally 11.5), the target must make a Resilience save or lose 1d4 life from bleeding.
->>- Sudden Thrashing - As an action, the tonkcral gets up and displays its massive size. All enemies within 25' of it must succeed on a Willpower against the tonkcral's basic Intimidation (Strength) DC, or lose their quick action, deal 2 less damage to it until the start of its next turn, and have to use at least half of their movement on their next turn to get away from it if possible. If this is the first action the tonkcral performs to leave its Natural Camoflague state, this is made with disadvantage.
+>>- Sudden Thrashing - As an action, the tonkcral gets up and displays its massive size. All enemies within 25' of it must succeed on a Willpower save against the tonkcral's basic Intimidation (Strength) DC, or lose their quick action, deal 2 less damage to it until the start of its next turn, and have to use at least half of their movement on their next turn to get away from it if possible. If this is the first action the tonkcral performs to leave its Natural Camoflague state, this is made with disadvantage.
 >>- Reactions:
->>	- The Best Defense - When hit by a melee attack, the tonkcral can make a Claw attack against the attacker by using 2 reactions.
+>>	- The Best Defense - When hit by a melee attack, the tonkcral can make a Slam attack against the attacker by using 2 reactions.
 >>- Natural Camoflague - The tonkcral may disguise itself as a large rock if it stays stationary in a location for over a minute. While disguised this way, it has a +10 bonus to Stealth (Dexterity) checks and Deception (Charisma) checks.
 
 ^00b0d0

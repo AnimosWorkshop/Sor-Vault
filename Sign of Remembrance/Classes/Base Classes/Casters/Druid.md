@@ -88,7 +88,7 @@ At 5th level, your specialization improves, allowing you to focus it to a greate
 You master the environment even further, allowing you to travel far, and leave your foes in the dust. Your base movement speed increases by an additional 5', and while focusing your travel, attack rolls you make against anyone who is not a travel druid are made with a +1 bonus, and you have a +1 bonus to your AC against attacks made by anyone who is not a travel druid.
  
 #### Protection
-Your affinity goes stronger and is able to connect to any life form efficiently, even those who have only a fragment left. Your specialty feature has both the amount of temporary hit points and the amount of damaged reduced increased by your proficiency modifier.
+Your affinity goes stronger and is able to connect to any life form efficiently, even those who have only a fragment left. Your specialty feature has both the amount of temporary hit points and the amount of damaged reduced increased by your proficiency modifier if you choose to use 2 mana instead of 1.
  
 ### Thorn Ward
  

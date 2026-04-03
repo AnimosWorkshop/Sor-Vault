@@ -95,6 +95,7 @@ Also at 3rd level, your overall knowledge of arms allows you to intuit informati
 	* DC 16 - was this weapon made locally, or is it of foreign design?
 	* DC 16 - what was this weapon degree of use, and was it taken care of?
 * Whenever you attack with a weapon you are not proficient with, you may add half your proficiency modifier to the attack roll. 
+
 You also gain 1 proficiency level in either the Intimidation or Performance.
  
 ### Advanced Dirty Tactics

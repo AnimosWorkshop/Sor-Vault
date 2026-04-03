@@ -25,6 +25,15 @@ The Claw's members show at the council covered; and since they are not chosen by
 For each region, including the capital of Zdarbel, there is a regional council. Though it is decided by the people of the region, the Claw may veto and persecute the candidates if they see fit, though the event is rare. The regional council votes on the regional representatives in the Breniume council every five years. The members of the regional councils, however, are chosen from the regional elites: religious figures, scholars and important traders who have proven their merit, and more importantly their loyalty, to the region and the country at large. Although the regional council is chosen by the region's population, the status of nobility is decided by the Breniume council; and while having been born to a noble family can give one an edge, they must retain that approval as well when the time comes.
 --- - -
 ## Regions
+
+### Oparsit
+
+Oparsit is unmistakably a region in which of faith is a dominant force. The capital boasts about its affiliations through banners which are spread throughout the city and large, region-wide organizations such as the Outcrop regional police, are sponsored by respective temples, such as Datson's temple in Oparsit in the aforementioned case.
+
+### Dolvin
+
+>[!missing]
+
 ### Gezrier
 
 An island located in the sea east from the country toward Central Island. Despite its size, the island holds a great meaning in the dynamics of the whole of Temuþan, as in it lies the great portal to Preida. As such, Gezrier enjoys traffic of both Breniumeu citizens, Fey visitors, divine messengers and so on.

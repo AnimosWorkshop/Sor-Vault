@@ -2,8 +2,9 @@
   "accentColor": "",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
-  "cssTheme": "Ukiyo",
-  "textFontFamily": "Calibri,Big Caslon,Georgia",
+  "cssTheme": "Comfort color dark",
+  "textFontFamily": "Calibri,Big Caslon,Georgia,Luminari",
   "monospaceFontFamily": "Sabon Next LT,American Typewriter",
-  "interfaceFontFamily": "Sabon Next LT,Calibri,Georgia"
+  "interfaceFontFamily": "Sabon Next LT,Calibri,Georgia",
+  "theme": "obsidian"
 }
