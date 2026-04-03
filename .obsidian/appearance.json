@@ -6,5 +6,8 @@
   "textFontFamily": "Calibri,Big Caslon,Georgia,Luminari",
   "monospaceFontFamily": "Sabon Next LT,American Typewriter",
   "interfaceFontFamily": "Sabon Next LT,Calibri,Georgia",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true,
+  "translucency": false,
+  "nativeMenus": true
 }
