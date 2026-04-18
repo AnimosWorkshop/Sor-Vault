@@ -16,6 +16,16 @@ Although one may learn any number of martial techniques from their class (or gen
 - - -
 ## Performing Techniques
  
-Techniques involve using a particular skill in order to outperform regular moves. This skill is depicted in the specific technique, alongside a DC. When a technique is performed, one should attempt a skill check - which results in the technique working on a success, or not on a failure. Even if the technique fails, the ordinary move - whether be it an attack (only a weapon attack), an action, etc., are executed as normal. 
+Techniques involve using a particular skill in order to outperform regular moves. This skill, listed under all technique entries, is required to learn and perform the techniques at a certain proficiency level.
+
+Most techniques modify an existing [[Action Economy|action]], requiring additional finesse to be performed. Therefore, techniques have a DC penalty associated with them. This penalty affects techniques in the following ways:
+* If the technique modifies an attack, the penalty increases the opponent's AC.
+* If the technique modifies an action which imposes a saving throw to an opponent, the penalty lowers the imposed DC.
+* If the technique modifies a skill check, the penalty increases the DC for the check.
+
+Then, depending on the action, different outcomes may happen:
+* The action succeeds despite the penalty - the performance of the technique is considered _successful_.
+* The action fails due to the penalty, but would have succeeded without the penalty - the technique is considered _failed_, and the unmodified action is performed (successfully) instead.
+* The action fails regardless of the penalty - both the technique and the unmodified action fail. 
 
 A creature may not use multiple techniques at the same time if both involve making an attack as a part of them, and may use each technique only once per round.

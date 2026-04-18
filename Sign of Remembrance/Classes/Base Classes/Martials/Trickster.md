@@ -44,7 +44,7 @@ In order to advance as a trickster, you must meet the following prerequisites:
 ### Shifting Tempo
  
 Tricksters are able to shift their tempo as combat goes on, in order to match their reflexes to other creatures and strike at the right time. Whenever you hit a creature with an attack, you may increase or decrease your combat initiative by up to half your Dexterity modifier. When attacking a surprised creature or a creature with the same initiative as you, you have +1 to your attack roll and add [[Weapon Rules#Lethal|lethal]] 1 to your attack. 
-At 4th level, you get +2 to your attack and add [[Weapon Rules#Lethal|lethal]] 2 instead, and you may increase or decrease your initiative by up to half your Dexterity modifier +1 instead.
+At 4th level, you get +2 to your attack roll and add [[Weapon Rules#Lethal|lethal]] 2 instead, and you may increase or decrease your initiative by up to half your Dexterity modifier +1 instead.
 
 In addition, you may use the Dodge reaction as a response to being attacked by an enemy you can see. If you succeed, your AC is increased by your Dexterity modifier divided by 3 against the attack. ^26e047
  
@@ -106,7 +106,7 @@ You may only use this feature once per round. You may use this feature twice per
 ### Quick Attack
  
 Starting at 5th level, the [[Action Economy#^43d1b5|attack]] action becomes a quick action for you, and you add your ability modifier for the damage roll as when attacking as an action. Using a quick action this way does not allow you to use the [[Fighter#Extra Attack|extra attack]] fighter feature for it.
-In addition, your damage rolls with light, finesse and ammunition weapons increase by 1.
+In addition, your damage rolls with light, finesse and ammunition weapons increase by 1 (with does not stack with itself).
  
 ### Alacrity
  

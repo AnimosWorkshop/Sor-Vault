@@ -1,7 +1,8 @@
 #Basic #Trickster #Flanking #Armed
  
 - Performance Time: 1 attack
-- Success DC: Stealth (Dexterity), DC 10
+* Required Skill: Stealth (adept)
+* DC Penalty: +2
 - Required Weapon: any weapon which deals piercing damage
  
 As you attack a mispositioned enemy, you may use your allies or your cover as a distraction to deliver a powerful piercing blow. The attack deals 1d8 additional piercing damage.  

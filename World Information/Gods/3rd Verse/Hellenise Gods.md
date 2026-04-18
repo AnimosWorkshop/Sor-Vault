@@ -18,6 +18,9 @@ A tall, quiet woman who often bears a deadpan expression, considering the world 
 
 >[[Zirval#Veiled Zirval|Veiled]] [[Zirval]]
 
+Azel represents an outlook on fate according to which each living being possess the ability to influence the progression of the world. From the very gods, to country leaders, through councilors and local tradesmen, down to everyday working people, children and even animals, each makes conscious choices which tug on the strands of fate progressing the world onward. Each has their own role to fulfill.
+
+Naturally, not all of those roles are equal; but one's role cannot be judged by its point in the present time, but according to the potential one sets for themselves. In this, Azel's followers are proactive, ever-moving and flowing and reaffirm their own slice of reality. The best way to predict the future, after all, is to create it.
 ### Renatke
 
 >[[Zirval#Beckoned Zirval|Beckoned]] [[Zirval]]; Protection [[Druid]] 10th

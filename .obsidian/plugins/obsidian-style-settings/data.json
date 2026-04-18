@@ -2,5 +2,7 @@
   "entry-point@@color-scheme-selector": "color-scheme-ukiyo",
   "entry-point@@separate-color-scheme": false,
   "entry-point@@dark-mode-color-scheme-selector": "dm-color-scheme-ukiyo",
-  "entry-point@@floating-sides": false
+  "entry-point@@floating-sides": false,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
+  "Appearance-dark@@mod-root-split-background-select-dark": "mod-root-split-background-primary-dark"
 }

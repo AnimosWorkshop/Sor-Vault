@@ -8,7 +8,8 @@ tags:
 #Basic #Sentinel #Movement #Time 
 
 - Performance Time: 2 reactions to being attacked from a 5' range
-- Success DC: Deception (Charisma), DC 10
+* Required Skill: Deception (proficient)
+* DC Penalty: +2
 - Movement Required: 5' from the next turn
  
 You extend your [[Sentinel#^843c5c|deflect]] reaction to deceive your foe by exaggerating your movement. On a success:

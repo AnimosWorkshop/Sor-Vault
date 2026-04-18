@@ -1,7 +1,8 @@
 #Basic #General #Time #Armed
  
 - Performance Time: Action and quick action
-- Success DC: Sorcery (Dexterity), DC 10
+* Required Skill: Sorcery (proficient)
+* DC Penalty: +1
 - Required Weapon: Any light weapon
  
 Extending the casting of a spell from an action, you are able to use your momentum in order to perform an attack with a light weapon after the spell is cast. The weapon's damage die increases by 1 for the attack, and you add your attribute score modifier to it as normal.

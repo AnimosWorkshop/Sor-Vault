@@ -6,7 +6,8 @@ tags:
   - Movement
 ---
 - Performance Time: 1 attack
-- Success DC: Alchemist (Intelligence), DC 12
+* Required Skill: Perception (novice)
+* DC Penalty: +1
 - Required Weapon: Any medium or heavy weapon
 - Required Movement: 10'
  

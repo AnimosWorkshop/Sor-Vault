@@ -1,7 +1,8 @@
 #Basic #General #Movement
  
 - Performance Time: Quick action
-- Success DC: Sleight of Hand (Dexterity), DC 8
+* Required Skill: Sleight of Hand (novice)
+* DC Penalty: -
 - Movement Cost: 15'
  
-You attempt to use your movement in order to save some time when drawing or switching equipment. On a success, you perform the Major Interaction action.
+You attempt to use your movement in order to save some time when drawing or switching equipment. You perform the Major Interaction action.

@@ -1,7 +1,8 @@
 #Advanced #General #Armed #Time 
 
 - Performance Time: Attack action
-- Success DC: Perception (Wisdom), DC 18
+* Required Skill: Perception (expert)
+* DC Penalty: +2
 - Required Weapon: A sweeper weapon dealing bludgeoning damage
 
 Targeting an enemy who was dealt piercing damage from a projectile since the end of your last turn, such as from: bolts, shards of an [[Alchemist#Bombs|alchemical bomb]] or a thrown dagger, you use your weapon to deliver a calculated strike and drive the projectile further.

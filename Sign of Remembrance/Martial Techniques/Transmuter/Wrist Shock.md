@@ -1,7 +1,8 @@
 #Basic #Transmuter #Armed
  
 - Performance Time: 1 attack
-- Success DC: Nature (Intelligence), DC 12
+* Required Skill: Nature (proficient)
+* DC Penalty: +1
 - Required Weapon: Any weapon which deals bludgeoning damage
  
 You use one of your [[Transmuter#Alchemechanical Infusion|alchemechanical infusions]] to cause shocks in your opponent's wrist. If the technique succeeds:
