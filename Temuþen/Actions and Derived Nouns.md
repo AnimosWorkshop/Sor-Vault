@@ -29,7 +29,7 @@
 	* cirier - singing
 	* ciriera - song
 	* cirieþ - music
-* cokū - to demand
+* cokū - to require
 * conū - to taste
 * crū - to ease
 * cralū - to rule over
